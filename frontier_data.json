@@ -815,7 +815,7 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 2,
+      "m0": 3,
       "rk": 160,
       "up": 18
      },
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 278,
-      "m0": 148,
+      "m": 287,
+      "m0": 150,
       "rk": 5,
-      "up": 1076
+      "up": 1097
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 56,
-      "m0": 40,
+      "m": 58,
+      "m0": 39,
       "rk": 20,
-      "up": 184
+      "up": 187
      },
      "thesis": {
       "bull": [
@@ -1804,6 +1804,12 @@
      ],
      "news": [
       {
+       "h": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/look-past-ai-hype-cold-182206040.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "Why Palantir Stock Just Set a 52-Week Low",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-just-set-173212785.html",
@@ -1813,12 +1819,6 @@
        "h": "Small Business Driving AI\u2019s Next Boom: Pax8\u2019s Ryan Walsh and Jen Bodell, Live from Pax8 Beyond 2026",
        "pub": "Exec Edge",
        "link": "https://tech.yahoo.com/ai/articles/small-business-driving-ai-next-165731193.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Palantir Stock Nears New Low",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/palantir-stock-nears-new-low-7ba7feab?siteid=yhoof2&yptr=yahoo",
        "date": "2026-06-25"
       }
      ]
@@ -2029,7 +2029,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 426,
+      "rk": 427,
       "up": 15
      },
      "thesis": {
@@ -2461,10 +2461,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 2,
       "m0": 3,
-      "rk": 172,
-      "up": 19
+      "rk": 223,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -2803,10 +2803,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 4,
       "m0": 2,
-      "rk": 137,
-      "up": 24
+      "rk": 158,
+      "up": 20
      },
      "thesis": {
       "bull": [
@@ -3114,7 +3114,7 @@
      "social": {
       "m": 5,
       "m0": 1,
-      "rk": 139,
+      "rk": 137,
       "up": 43
      },
      "thesis": {
@@ -3971,10 +3971,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 17,
-      "rk": 50,
-      "up": 61
+      "m": 18,
+      "m0": 18,
+      "rk": 51,
+      "up": 57
      },
      "thesis": {
       "bull": [
@@ -4316,8 +4316,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 528,
-      "up": 2
+      "rk": 529,
+      "up": 3
      },
      "awards": [
       {
@@ -5778,8 +5778,8 @@
      "geo": "US",
      "social": {
       "m": 45,
-      "m0": 48,
-      "rk": 23,
+      "m0": 46,
+      "rk": 24,
       "up": 67
      },
      "awards": [
@@ -5866,9 +5866,9 @@
      "geo": "US",
      "social": {
       "m": 8,
-      "m0": 5,
-      "rk": 95,
-      "up": 170
+      "m0": 6,
+      "rk": 93,
+      "up": 169
      },
      "awards": [
       {
@@ -5955,7 +5955,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 499,
+      "rk": 500,
       "up": 2
      },
      "news": [
@@ -7015,8 +7015,8 @@
      "social": {
       "m": 43,
       "m0": 4,
-      "rk": 26,
-      "up": 120
+      "rk": 25,
+      "up": 121
      },
      "awards": [
       {
@@ -7058,9 +7058,9 @@
        "date": "2026-06-25"
       },
       {
-       "h": "Qualcomm Stock Rises As Chipmaker Jumps Into AI Data Center Market",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/technology/qualcomm-stock-ai-data-center-play/?src=A00220&yptr=yahoo",
+       "h": "The Supply-Chain Bet That Underpins The NVIDIA Stock Story",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/supply-chain-bet-underpins-nvidia-175642817.html",
        "date": "2026-06-25"
       }
      ]
@@ -8014,10 +8014,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 103,
-      "m0": 88,
+      "m": 107,
+      "m0": 90,
       "rk": 12,
-      "up": 349
+      "up": 362
      },
      "thesis": {
       "bull": [
@@ -8257,15 +8257,15 @@
        "date": "2026-06-24"
       },
       {
-       "h": "Agencies Reveal SpaceX Bond Ratings. Space Force Taps Vendors For Defense Program.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-stock-bond-rating-starbase-brewing-starlink-rocket-lab-lockheed-martin-l3harris/?src=A00220&yptr=yahoo",
+       "h": "Forget SPCX: As Continuous Volatility Shakes Tech, This $34 Exchange-Traded Fund Is a No-Brainer Buy Without The Post-IPO Risk",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spcx-continuous-volatility-shakes-181757631.html",
        "date": "2026-06-25"
       },
       {
-       "h": "SpaceX's Unseen Bets: Beyond Starlink and Launch",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-unseen-bets-beyond-starlink-143530327.html",
+       "h": "Agencies Reveal SpaceX Bond Ratings. Space Force Taps Vendors For Defense Program.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/spacex-stock-bond-rating-starbase-brewing-starlink-rocket-lab-lockheed-martin-l3harris/?src=A00220&yptr=yahoo",
        "date": "2026-06-25"
       }
      ]
@@ -8317,7 +8317,7 @@
      "social": {
       "m": 1,
       "m0": 3,
-      "rk": 553,
+      "rk": 554,
       "up": 2
      },
      "streetNotes": [
@@ -8911,8 +8911,8 @@
      "social": {
       "m": 12,
       "m0": 6,
-      "rk": 68,
-      "up": 27
+      "rk": 69,
+      "up": 28
      },
      "streetNotes": [
       {
@@ -9253,10 +9253,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 180,
-      "m0": 66,
-      "rk": 7,
-      "up": 5129
+      "m": 181,
+      "m0": 67,
+      "rk": 8,
+      "up": 5027
      },
      "thesis": {
       "bull": [
@@ -9720,7 +9720,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 491,
+      "rk": 492,
       "up": 1
      },
      "awards": [
@@ -10133,10 +10133,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 22,
-      "rk": 40,
-      "up": 93
+      "m": 25,
+      "m0": 23,
+      "rk": 43,
+      "up": 73
      },
      "awards": [
       {
@@ -10289,7 +10289,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 201,
+      "rk": 204,
       "up": 5
      },
      "streetNotes": [
@@ -10333,6 +10333,12 @@
      ],
      "news": [
       {
+       "h": "Why Lockheed Martin Stock Just Popped",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-stock-just-175753073.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "White House order shifts focus back to defense stocks",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/white-house-order-shifts-focus-164700311.html",
@@ -10342,12 +10348,6 @@
        "h": "Agencies Reveal SpaceX Bond Ratings. Space Force Taps Vendors For Defense Program.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/spacex-stock-bond-rating-starbase-brewing-starlink-rocket-lab-lockheed-martin-l3harris/?src=A00220&yptr=yahoo",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Anduril Eyes Nissan Factory In Japan To Expand Drone, Weapons Production",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/anduril-palmer-luckey-japan-nissan-defense-stocks-military/?src=A00220&yptr=yahoo",
        "date": "2026-06-25"
       }
      ]
@@ -10588,8 +10588,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 528,
-      "up": 2
+      "rk": 529,
+      "up": 3
      },
      "awards": [
       {
@@ -10945,10 +10945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 56,
-      "m0": 40,
+      "m": 58,
+      "m0": 39,
       "rk": 20,
-      "up": 184
+      "up": 187
      },
      "awards": [
       {
@@ -10978,6 +10978,12 @@
      ],
      "news": [
       {
+       "h": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/look-past-ai-hype-cold-182206040.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "Why Palantir Stock Just Set a 52-Week Low",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-just-set-173212785.html",
@@ -10987,12 +10993,6 @@
        "h": "Small Business Driving AI\u2019s Next Boom: Pax8\u2019s Ryan Walsh and Jen Bodell, Live from Pax8 Beyond 2026",
        "pub": "Exec Edge",
        "link": "https://tech.yahoo.com/ai/articles/small-business-driving-ai-next-165731193.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Palantir Stock Nears New Low",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/palantir-stock-nears-new-low-7ba7feab?siteid=yhoof2&yptr=yahoo",
        "date": "2026-06-25"
       }
      ]
@@ -11036,7 +11036,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 643,
+      "rk": 645,
       "up": 1
      },
      "news": [
@@ -11099,6 +11099,12 @@
      "social": null,
      "news": [
       {
+       "h": "Forget SPCX: As Continuous Volatility Shakes Tech, This $34 Exchange-Traded Fund Is a No-Brainer Buy Without The Post-IPO Risk",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spcx-continuous-volatility-shakes-181757631.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "3 Space ETFs for a Timely Investment",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-space-etfs-timely-investment-155000188.html",
@@ -11109,12 +11115,6 @@
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/etfs-and-funds/etfs/space-stock-etfs-money-making-blastoff/?src=A00220&yptr=yahoo",
        "date": "2026-06-18"
-      },
-      {
-       "h": "The Biggest IPO in History Just Put Space Stocks on the Map. Here Are the Ones Built to Win.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-ipo-history-just-put-203634203.html",
-       "date": "2026-06-17"
       }
      ]
     },
@@ -12078,7 +12078,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 578,
+      "rk": 579,
       "up": 2
      },
      "news": [
@@ -12271,7 +12271,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 503,
+      "rk": 504,
       "up": 2
      },
      "news": [
@@ -12392,7 +12392,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 502,
+      "rk": 503,
       "up": 3
      },
      "awards": [
@@ -12473,10 +12473,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 26,
+      "m": 24,
       "m0": 24,
-      "rk": 42,
-      "up": 77
+      "rk": 44,
+      "up": 72
      },
      "news": [
       {
@@ -12821,6 +12821,12 @@
      "social": null,
      "news": [
       {
+       "h": "Top Midday Decliners",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181441223.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "ASP Isotopes To Merge Noble Africa With A Unit Of ENDRA \u2013 A Look At The Key Contours Of The Deal",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asp-isotopes-merge-noble-africa-161112236.html",
@@ -12831,12 +12837,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-asp-isotopes-aspi-9-121115915.html",
        "date": "2026-06-24"
-      },
-      {
-       "h": "Manhattan Uranium Gains Approval to Advance Drilling at Nevada Uranium Project",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/sectors/energy/articles/manhattan-uranium-gains-approval-advance-194524444.html",
-       "date": "2026-06-09"
       }
      ]
     },
@@ -13712,7 +13712,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 458,
+      "rk": 459,
       "up": 4
      },
      "streetNotes": [
@@ -13784,10 +13784,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 249,
-      "up": 0
+      "m": 3,
+      "m0": 4,
+      "rk": 199,
+      "up": 1
      },
      "awards": [
       {
@@ -13957,7 +13957,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 565,
+      "rk": 566,
       "up": 5
      },
      "awards": [
@@ -14336,7 +14336,7 @@
      "social": {
       "m": 1,
       "m0": 3,
-      "rk": 453,
+      "rk": 454,
       "up": 1
      },
      "awards": [
@@ -14653,10 +14653,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 3,
-      "rk": 70,
-      "up": 69
+      "m": 13,
+      "m0": 2,
+      "rk": 63,
+      "up": 77
      },
      "awards": [
       {
@@ -14743,7 +14743,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 349,
+      "rk": 350,
       "up": 1
      },
      "awards": [
@@ -14829,10 +14829,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 5,
-      "rk": 215,
-      "up": 30
+      "rk": 174,
+      "up": 39
      },
      "news": [
       {
@@ -17501,8 +17501,50 @@
    ]
   }
  ],
- "prices_asof": "2026-06-25 18:10 UTC",
+ "prices_asof": "2026-06-25 18:29 UTC",
  "news": [
+  {
+   "tk": "NVDA",
+   "h": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/look-past-ai-hype-cold-182206040.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Look Past the AI Hype: The Cold, Hard Financial Metric Telling You Exactly Which Enterprise Software Giant to Buy Right Now",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/look-past-ai-hype-cold-182206040.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "ARKX",
+   "h": "Forget SPCX: As Continuous Volatility Shakes Tech, This $34 Exchange-Traded Fund Is a No-Brainer Buy Without The Post-IPO Risk",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spcx-continuous-volatility-shakes-181757631.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Forget SPCX: As Continuous Volatility Shakes Tech, This $34 Exchange-Traded Fund Is a No-Brainer Buy Without The Post-IPO Risk",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spcx-continuous-volatility-shakes-181757631.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "ASPI",
+   "h": "Top Midday Decliners",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181441223.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "LMT",
+   "h": "Why Lockheed Martin Stock Just Popped",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-stock-just-175753073.html",
+   "date": "2026-06-25"
+  },
   {
    "tk": "TSLA",
    "h": "601W\u2019s bad week gets worse with $43M foreclosure on Tesla-leased Chicago building",
@@ -17512,16 +17554,16 @@
   },
   {
    "tk": "QCOM",
-   "h": "Qualcomm Stock Rises As Chipmaker Jumps Into AI Data Center Market",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/qualcomm-stock-ai-data-center-play/?src=A00220&yptr=yahoo",
+   "h": "The Supply-Chain Bet That Underpins The NVIDIA Stock Story",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/supply-chain-bet-underpins-nvidia-175642817.html",
    "date": "2026-06-25"
   },
   {
-   "tk": "NVDA",
-   "h": "Why the Alphabet Stock Dip Looks Like a Golden Buying Opportunity",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-dip-looks-175000648.html",
+   "tk": "QCOM",
+   "h": "Qualcomm Stock Rises As Chipmaker Jumps Into AI Data Center Market",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/technology/qualcomm-stock-ai-data-center-play/?src=A00220&yptr=yahoo",
    "date": "2026-06-25"
   },
   {
@@ -17536,13 +17578,6 @@
    "h": "Is L3Harris (LHX) Quietly Repositioning Its Defense Portfolio Around Missile Propulsion And NATO Networks?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-quietly-repositioning-defense-170833021.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "QCOM",
-   "h": "European shares hit record close with healthcare stocks leading broader rally",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/european-shares-gain-upbeat-micron-072325645.html",
    "date": "2026-06-25"
   },
   {
@@ -17641,13 +17676,6 @@
    "h": "The Dividend Growth Path That Turns A $50,000 Income Stream Into More Than $100,000",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-path-turns-50-155354274.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Hits New 52-Week Low As Swoon Drags On. Is Meme Stock Luster Gone?",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/palantir-stock-pltr-hits-52-week-low-software-pressured/?src=A00220&yptr=yahoo",
    "date": "2026-06-25"
   },
   {
@@ -17753,34 +17781,6 @@
    "h": "Anduril Eyes Nissan Factory In Japan To Expand Drone, Weapons Production",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/anduril-palmer-luckey-japan-nissan-defense-stocks-military/?src=A00220&yptr=yahoo",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "RTX",
-   "h": "Anduril Eyes Nissan Factory In Japan To Expand Drone, Weapons Production",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/anduril-palmer-luckey-japan-nissan-defense-stocks-military/?src=A00220&yptr=yahoo",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "RDW",
-   "h": "SpaceX's Unseen Bets: Beyond Starlink and Launch",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-unseen-bets-beyond-starlink-143530327.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "RKLB",
-   "h": "SpaceX's Unseen Bets: Beyond Starlink and Launch",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-unseen-bets-beyond-starlink-143530327.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "MDA",
-   "h": "This Space Stock Has Won Two Contracts This Week \u2013 A Look At The Key Details",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/space-stock-won-two-contracts-143038513.html",
    "date": "2026-06-25"
   }
  ]
