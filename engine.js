@@ -570,7 +570,7 @@ function drill(t,c){
       <div class="dn">${esc(c.n)} · <span class="mut">${esc(c.seg||'')}</span>${c.conf==='est'?' <span class="estbadge" title="figures are estimates">est</span>':''}</div>${c.valnote?`<div class="vnote">Valuation basis: ${esc(c.valnote)}</div>`:''}</div>
     <button class="cmpbtn ${WATCH.has(t)?'starred':''}" onclick="toggleWatch('${t}')">${WATCH.has(t)?'★ Focused':'☆ Focus'}</button> <button class="cmpbtn" onclick="toggleCmp('${t}')">${inCmp(t)?'✓ In compare':'＋ Add to compare'}</button> <button class="cmpbtn alt" onclick="exportSingle('${t}')">⤓ Export PDF</button>
     ${hold}
-    ${c.pub?`<div class="repsec" style="margin-top:10px">Latest news <span class="src">MT Newswires</span></div><div id="drillnews" class="mut" style="font-size:11px">loading…</div>`:''}
+    ${c.pub?`<div class="repsec" style="margin-top:10px">Latest news <span class="src">${liveOn?'MT Newswires':'Yahoo Finance'}</span></div><div id="drillnews" class="mut" style="font-size:11px">${liveOn?'loading…':((c.news&&c.news.length)?c.news.slice(0,5).map(a=>`<div class="dnews"><span class="ndate">${esc(a.pub||'')}${a.pub&&a.date?' · ':''}${esc(a.date||'')}</span><div class="dnh"><a href="${a.link}" target="_blank" rel="noopener">${esc(a.h||'')}</a></div></div>`).join(''):'No recent headlines.')}</div>`:''}
     <div class="dgrid">${stats}</div>
     <div class="drow">${street}${ep}</div>
     <div class="dcols">
@@ -695,7 +695,7 @@ function renderDashboard(){
   const catCard=dcard('Upcoming catalysts','<ul class="dlist">'+cats.map(([vk,date,tk,ev])=>`<li ${tk?`onclick="openDrill('${tk}')"`:''}><span class="cdate">${esc(date)}</span> ${tk?`<b class="tk">${tk}</b> `:''}<span class="mut">${esc(ev)}</span></li>`).join('')+'</ul>','<button class="pbtn" onclick="setTab(\'catalysts\')">All →</button>');
   // top news
   let newsCard;
-  if(!liveOn){newsCard=dcard('Top stories','<div class="mut" style="padding:6px 0">Live news needs the Cowork connection.</div>');}
+  if(!liveOn){const bn=(DATA.news||[]).slice(0,7);newsCard=dcard('Top stories', bn.length?('<ul class="dlist">'+bn.map(a=>`<li onclick="window.open('${a.link}','_blank','noopener')"><b class="tk">${esc(a.tk||'')}</b> <span class="mut">${esc((a.h||'').slice(0,74))}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">No headlines yet — the daily updater will fill these.</div>','<button class="pbtn" onclick="setTab(\'news\')">News →</button>');}
   else if(!newsItems.length){newsCard=dcard('Top stories', newsLoading?'<div class="mut" style="padding:6px 0">Loading the wire…</div>':'<div class="mut" style="padding:6px 0">News feed unavailable right now.</div>');}
   else{const top=newsItems.slice().sort((a,b)=>impScore(b)-impScore(a)).slice(0,6);
     newsCard=dcard('Top stories today','<ul class="dlist">'+top.map(a=>{const[cl,cc]=newsCatOf(a.metadata);const th=thesisHit(a);return `<li onclick="openDrill('${a.key}')"><span class="ncat ${cc}">${cl}</span> ${th?'<span class="nth">★</span> ':''}<b class="tk">${a.key}</b> <span class="mut">${esc((a.headline||'').slice(0,70))}</span></li>`;}).join('')+'</ul>','<button class="pbtn" onclick="setTab(\'news\')">News →</button>');}
@@ -728,7 +728,10 @@ function renderDashboard(){
   const pv=DATA.provenance||{};
   const methodCard=dcard('Methodology & sources','<table class="comps methtab"><thead><tr><th>Data</th><th>Source</th><th>As of</th><th>Conf</th></tr></thead><tbody>'+Object.entries(pv).map(([k,v])=>`<tr><td class="ml" style="text-transform:capitalize;font-family:inherit">${k}</td><td class="mut" style="font-family:inherit">${esc(v.src)}</td><td class="mut">${esc(v.asof||'')}</td><td><span class="conf cf-${v.conf}">${v.conf}</span></td></tr>`).join('')+'</tbody></table>','<button class="pbtn" onclick="exportNotes()">Export notes</button>');
   const onb=lsGet('onboarded',0)?'':`<div class="onb"><b>\u25c6 Start here:</b> this Dashboard is your daily brief. Open any company for its thesis, Street view, scenarios & your notes. <b>Maps \u2192 Value chain</b>: click a name to trace its specific links. <b>News</b>: live wire, filter to your holdings. <button onclick="lsSet('onboarded',1);render()">Got it</button></div>`;
-  return onb+kpis+`<div class="dashgrid">${focusCard}${changedCard}${holdCard}${alerts}${reviewCard}${newsCard}${buzzCard}${concCard}${progCard}${methodCard}</div>`;
+  const aw=[];for(const vk2 in DATA.verticals){const cc2=DATA.verticals[vk2].companies;for(const t2 in cc2){(cc2[t2].awards||[]).forEach(a=>aw.push({t:t2,amt:a.amt,ag:a.ag,date:a.date,desc:a.desc}));}}
+  aw.sort((a,b)=>(b.amt||0)-(a.amt||0));
+  const awardCard=aw.length?dcard('Recent federal awards','<table class="comps dashtab"><thead><tr><th>Co</th><th>Agency</th><th>Amount</th><th>Date</th></tr></thead><tbody>'+aw.slice(0,8).map(a=>`<tr onclick="openDrill('${a.t}')"><td class="tk">${a.t}</td><td class="mut" style="font-family:inherit">${esc((a.ag||'').slice(0,24))}</td><td class="mono">${fmtAmt(a.amt||0)}</td><td class="mut">${esc(a.date||'')}</td></tr>`).join('')+'</tbody></table>','<span class="src">USASpending</span>'):'';
+  return onb+kpis+`<div class="dashgrid">${focusCard}${awardCard}${changedCard}${holdCard}${alerts}${reviewCard}${newsCard}${buzzCard}${concCard}${progCard}${methodCard}</div>`;
 }
 /* ---------- HOLDINGS scorecard ---------- */
 const SGSHORT={'sg-bull':'Confirms','sg-mix':'Mixed','sg-bear':'Against'};
@@ -799,7 +802,8 @@ function impScore(a){const m=(a.metadata||'').toLowerCase(),h=(a.headline||'').t
   return sc;}
 function setNewsSort(k){newsSort=k;render();}
 function renderNews(){
-  if(!liveOn)return '<div class="note">Live news needs the Cowork connection (open inside Cowork, not the standalone file). The MT Newswires feed sweeps every listed company.</div>';
+  if(!liveOn){let bn=(DATA.news||[]).slice();if(newsFocus)bn=bn.filter(a=>WATCH.has(a.tk));if(q)bn=bn.filter(a=>(((a.h||'')+' '+(a.tk||'')).toLowerCase().includes(q)));
+    return `<div class="newsmeta">${newsFocus?'★ focus only · ':''}${bn.length} headlines · source: Yahoo Finance · refreshed daily · open inside Cowork for the full MT Newswires wire</div><div class="newslist">`+(bn.length?bn.map(a=>`<div class="nart"><div class="nmeta"><span class="tk">${esc(a.tk||'')}</span> <span class="ndate">${esc(a.pub||'')}${a.pub&&a.date?' · ':''}${esc(a.date||'')}</span></div><div class="nhead"><a href="${a.link}" target="_blank" rel="noopener">${esc(a.h||'')}</a></div></div>`).join(''):'<div class="note">No headlines yet — the daily updater will populate these.</div>')+`</div>`;}
   const cats=[['all','All'],['thesis','\u2605 My thesis'],['nc-con','Contract / Venture'],['nc-ma','M&A'],['nc-cap','Capital raise'],['nc-an','Analyst'],['nc-ea','Earnings'],['nc-op','Operations']];
   const bar=`<div class="newsbar"><div class="newscats">${cats.map(([k,l])=>`<button class="ncf${k===newsCat?' on':''}" onclick="setNewsCat('${k}')">${l}</button>`).join('')}</div>
     <label class="nck"><input type="checkbox" ${newsPrimary?'checked':''} onchange="newsPrimary=this.checked;render()"> Primary only</label>
