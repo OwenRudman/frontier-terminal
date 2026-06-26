@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 1,
-      "rk": 236,
-      "up": 4
+      "rk": 188,
+      "up": 5
      },
      "news": [
       {
@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Albemarle (ALB) One of the 10 Dividend Stocks with Low Payout Ratios and Strong Upside Potential?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-one-10-dividend-052125780.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Albemarle (ALB) Dips More Than Broader Market: What You Should Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-dips-more-broader-215004813.html",
@@ -696,12 +702,6 @@
        "h": "What Will the New Fed Chair Do?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-205200182.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Lithium Prices Tumble As Traders Brace For CATL Supply Surge",
-       "pub": "Oilprice.com",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/lithium-prices-tumble-traders-brace-190000041.html",
        "date": "2026-06-25"
       }
      ],
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 3,
-      "rk": 247,
-      "up": 12
+      "m0": 4,
+      "rk": 250,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 266,
-      "m0": 222,
+      "m": 261,
+      "m0": 249,
       "rk": 5,
-      "up": 909
+      "up": 961
      },
      "thesis": {
       "bull": [
@@ -1314,9 +1314,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 2,
-      "rk": 250,
-      "up": 24
+      "m0": 1,
+      "rk": 254,
+      "up": 35
      },
      "streetNotes": [
       {
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 86,
-      "m0": 34,
-      "rk": 17,
-      "up": 251
+      "m": 98,
+      "m0": 29,
+      "rk": 15,
+      "up": 356
      },
      "thesis": {
       "bull": [
@@ -2034,7 +2034,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
+      "rk": 433,
       "up": 9
      },
      "thesis": {
@@ -2319,8 +2319,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 329,
-      "up": 4
+      "rk": 338,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -2468,7 +2468,7 @@
      "social": {
       "m": 3,
       "m0": 2,
-      "rk": 172,
+      "rk": 166,
       "up": 10
      },
      "thesis": {
@@ -2809,9 +2809,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 3,
-      "rk": 154,
-      "up": 18
+      "m0": 4,
+      "rk": 148,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -3676,12 +3676,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 233,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "EHang (EH) Stock Gets Fair Value Trim After Analysts Cut Targets On Commercialization Delays",
@@ -3976,10 +3971,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 23,
-      "rk": 55,
-      "up": 36
+      "m": 14,
+      "m0": 25,
+      "rk": 60,
+      "up": 28
      },
      "thesis": {
       "bull": [
@@ -4320,11 +4315,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 548,
+      "m0": 1,
+      "rk": 534,
       "up": 2
      },
      "news": [
+      {
+       "h": "RTX (RTX) Stock Near Fair Value After Strong Five-Year Share Price Gains",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-near-fair-060823962.html",
+       "date": "2026-06-26"
+      },
       {
        "h": "The Number That Could Test GE Stock",
        "pub": "Trefis",
@@ -4335,12 +4336,6 @@
        "h": "White House order shifts focus back to defense stocks",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/white-house-order-shifts-focus-164700311.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Anduril Eyes Nissan Factory In Japan To Expand Drone, Weapons Production",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/anduril-palmer-luckey-japan-nissan-defense-stocks-military/?src=A00220&yptr=yahoo",
        "date": "2026-06-25"
       }
      ],
@@ -5057,7 +5052,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 6948088550.83,
+       "amt": 6948112591.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5351,7 +5346,7 @@
        "date": "1992-10-15"
       },
       {
-       "amt": 3631834944.07,
+       "amt": 3631467985.93,
        "ag": "Department of Defense",
        "desc": "THE FUTURE VERTICAL LIFT (FVL) FLRAA CAPABILITY SET THREE IS A PRE-MAJOR DEFENSE ACQUISITION PROGRAM (ACAT 1C) COMMISSIONED TO DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
        "date": "2022-12-05"
@@ -5471,7 +5466,7 @@
      "social": null,
      "awards": [
       {
-       "amt": 697186682.25,
+       "amt": 697724218.37,
        "ag": "Department of Defense",
        "desc": "PHASE 3 AND 4 DEVELOPMENT WITH 7 PROTOTYPE DELIVERABLES OF THE OPTIONALLY MANNED FIGHTING VEHICLE.",
        "date": "2023-06-26"
@@ -5782,10 +5777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 29,
+      "m": 51,
+      "m0": 28,
       "rk": 23,
-      "up": 82
+      "up": 45
      },
      "news": [
       {
@@ -5793,18 +5788,6 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
        "date": "2026-06-24"
-      },
-      {
-       "h": "TSLA, SPCX Slip Overnight: Elon Musk Warns AI Production Shortfall Is \u2018Insane\u2019 As Apple Price Shock Hits Tech",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-spcx-slip-overnight-elon-020403731.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "I'd Buy More of This Growth Stock Before the Market Figures Out What It's Missing",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/id-buy-more-growth-stock-232500515.html",
-       "date": "2026-06-25"
       }
      ],
      "awards": [
@@ -5821,7 +5804,7 @@
        "date": "2022-09-19"
       },
       {
-       "amt": 4044576.92,
+       "amt": 4932048.24,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ESTABLISH FY26 INCREMENTALLY FUNDED TASK ORDER FOR KENNEDY   FACILITIES ENGINEERING SERVICES IV (KFESS IV)",
        "date": "2025-10-01"
@@ -5870,10 +5853,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 9,
-      "rk": 111,
-      "up": 8
+      "m": 5,
+      "m0": 11,
+      "rk": 123,
+      "up": 9
      },
      "news": [
       {
@@ -5960,7 +5943,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 513,
+      "rk": 504,
       "up": 2
      },
      "news": [
@@ -7018,10 +7001,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 29,
-      "rk": 47,
-      "up": 74
+      "m": 14,
+      "m0": 33,
+      "rk": 58,
+      "up": 70
      },
      "news": [
       {
@@ -7037,9 +7020,9 @@
        "date": "2026-06-25"
       },
       {
-       "h": "What Qualcomm Stock Was Saying About Its Multibillion-Dollar Data Center Plan",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-saying-multibillion-dollar-025521200.html",
+       "h": "BB Stock Eyes Weekly Gain: BlackBerry CEO Says Alloy Kore Could Unlock Higher Software Revenue",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-eyes-weekly-gain-073806475.html",
        "date": "2026-06-26"
       }
      ],
@@ -8113,10 +8096,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 112,
-      "m0": 133,
+      "m": 111,
+      "m0": 146,
       "rk": 14,
-      "up": 769
+      "up": 957
      },
      "thesis": {
       "bull": [
@@ -8324,6 +8307,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab (RKLB) Wins 3 NASA Launches As Defense Mission Speed Sets Record",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-wins-3-050516509.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Rocket Lab (RKLB) Gets a Major Upgrade; Could a New Space Race Be Taking Shape?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-gets-major-013556555.html",
@@ -8333,12 +8322,6 @@
        "h": "1 Unstoppable Space Trend to Invest $1,000 in Right Now (Hint: It's Not SpaceX)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-unstoppable-space-trend-invest-013300508.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "RKLB Stock Jumps Overnight: Rocket Lab Eyes \u2018Ten Owl Of Ten\u2019 Liftoff After NASA Hands It 3 Electron Launches",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-overnight-rocket-011138928.html",
        "date": "2026-06-26"
       }
      ],
@@ -8416,7 +8399,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 576,
+      "rk": 561,
       "up": 2
      },
      "streetNotes": [
@@ -8600,8 +8583,8 @@
      "social": {
       "m": 3,
       "m0": 4,
-      "rk": 195,
-      "up": 12
+      "rk": 189,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -9013,10 +8996,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 12,
-      "rk": 106,
-      "up": 16
+      "m": 5,
+      "m0": 14,
+      "rk": 131,
+      "up": 13
      },
      "streetNotes": [
       {
@@ -9357,10 +9340,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 178,
-      "m0": 100,
-      "rk": 8,
-      "up": 5640
+      "m": 127,
+      "m0": 156,
+      "rk": 12,
+      "up": 934
      },
      "thesis": {
       "bull": [
@@ -9683,22 +9666,22 @@
      "social": null,
      "news": [
       {
+       "h": "Is Iridium (IRDM) Quietly Repositioning Its IoT Ecosystem With New NTN and Hybrid Modules?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-quietly-repositioning-iot-060804884.html",
+       "date": "2026-06-26"
+      },
+      {
+       "h": "Iridium (IRDM) Launches A New IoT Module As Mlink Chipset Reaches Orbit Tests",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-launches-iot-module-050602679.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "2 High-Flying Stocks Worth Investigating and 1 Facing Challenges",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-high-flying-stocks-worth-100150172.html",
        "date": "2026-06-25"
-      },
-      {
-       "h": "How IRDM's Commercial Launch of Hybrid IoT Modules Boosts Its Edge",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/irdms-commercial-launch-hybrid-iot-133800782.html",
-       "date": "2026-06-24"
-      },
-      {
-       "h": "How Will HIBLEO-4 Strengthen Globalstar's LEO Network?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/hibleo-4-strengthen-globalstars-leo-125000881.html",
-       "date": "2026-06-22"
       }
      ]
     },
@@ -9821,13 +9804,14 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 504,
-      "up": 1
-     },
+     "social": null,
      "news": [
+      {
+       "h": "Musk's SpaceX targets US consumers with Starlink mobile service push, FT reports",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/technology/articles/musks-spacex-targets-us-consumers-041429998.html",
+       "date": "2026-06-26"
+      },
       {
        "h": "Is EchoStar Stock Outperforming the S&P 500?",
        "pub": "Barchart",
@@ -9839,12 +9823,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/echostar-corporation-sats-good-stock-123154523.html",
        "date": "2026-06-22"
-      },
-      {
-       "h": "SpaceX is sucking the oxygen out of the new space trade",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/spacex-is-sucking-the-oxygen-out-of-the-new-space-trade-170815543.html",
-       "date": "2026-06-17"
       }
      ],
      "awards": [
@@ -10237,10 +10215,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 32,
-      "rk": 41,
-      "up": 73
+      "m": 17,
+      "m0": 37,
+      "rk": 52,
+      "up": 51
      },
      "news": [
       {
@@ -10391,10 +10369,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 1,
-      "rk": 207,
-      "up": 8
+      "rk": 155,
+      "up": 10
      },
      "streetNotes": [
       {
@@ -10503,8 +10481,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 329,
-      "up": 4
+      "rk": 338,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10604,10 +10582,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 261,
-      "up": 1
+      "rk": 269,
+      "up": 2
      },
      "news": [
+      {
+       "h": "What Boeing (BA)'s US$2 Billion MUOS Defense Deal Means For Shareholders",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-us-2-billion-060838290.html",
+       "date": "2026-06-26"
+      },
       {
        "h": "EU Ratifies US Trade Pact, Extends Suspension of $4B in Duties on US Goods in Boeing-Airbus Feud",
        "pub": "Sourcing Journal",
@@ -10618,12 +10602,6 @@
        "h": "The Number That Could Test GE Stock",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/number-could-test-ge-stock-190305019.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "White House order shifts focus back to defense stocks",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/white-house-order-shifts-focus-164700311.html",
        "date": "2026-06-25"
       }
      ],
@@ -10691,11 +10669,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 548,
+      "m0": 1,
+      "rk": 534,
       "up": 2
      },
      "news": [
+      {
+       "h": "RTX (RTX) Stock Near Fair Value After Strong Five-Year Share Price Gains",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-near-fair-060823962.html",
+       "date": "2026-06-26"
+      },
       {
        "h": "The Number That Could Test GE Stock",
        "pub": "Trefis",
@@ -10706,12 +10690,6 @@
        "h": "White House order shifts focus back to defense stocks",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/white-house-order-shifts-focus-164700311.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Anduril Eyes Nissan Factory In Japan To Expand Drone, Weapons Production",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/anduril-palmer-luckey-japan-nissan-defense-stocks-military/?src=A00220&yptr=yahoo",
        "date": "2026-06-25"
       }
      ],
@@ -10872,7 +10850,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 318,
+      "rk": 328,
       "up": 1
      },
      "streetNotes": [
@@ -11054,10 +11032,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 86,
-      "m0": 34,
-      "rk": 17,
-      "up": 251
+      "m": 98,
+      "m0": 29,
+      "rk": 15,
+      "up": 356
      },
      "news": [
       {
@@ -11145,7 +11123,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 661,
+      "rk": 639,
       "up": 1
      },
      "news": [
@@ -12185,10 +12163,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 1,
-      "rk": 223,
-      "up": 3
+      "rk": 172,
+      "up": 4
      },
      "news": [
       {
@@ -12380,7 +12358,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 518,
+      "rk": 508,
       "up": 2
      },
      "news": [
@@ -12499,10 +12477,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 517,
-      "up": 4
+      "rk": 169,
+      "up": 35
      },
      "news": [
       {
@@ -12582,10 +12560,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 30,
-      "rk": 43,
-      "up": 87
+      "m": 19,
+      "m0": 33,
+      "rk": 46,
+      "up": 81
      },
      "news": [
       {
@@ -13170,10 +13148,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 8,
       "m0": 1,
-      "rk": 117,
-      "up": 14
+      "rk": 98,
+      "up": 47
      },
      "thesis": {
       "bull": [
@@ -13411,10 +13389,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 6,
       "m0": 3,
-      "rk": 131,
-      "up": 10
+      "rk": 115,
+      "up": 16
      },
      "news": [
       {
@@ -13476,6 +13454,12 @@
      "social": null,
      "news": [
       {
+       "h": "NANO Nuclear Energy (NNE) Names Interim Reactor Lead As NRC Review Starts",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-nne-names-050557792.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Nano Nuclear Energy vs. NuScale Power: Which Nuclear Energy Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-vs-nuscale-153449419.html",
@@ -13485,12 +13469,6 @@
        "h": "NNE Stock Gains Premarket Amid Leadership Reshuffle, Global Nuclear Push",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nne-stock-gains-premarket-amid-085504100.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Zacks Investment Ideas feature highlights: Nano Nuclear Energy, X-Energy and Amazon",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/zacks-investment-ideas-feature-highlights-075900863.html",
        "date": "2026-06-25"
       }
      ],
@@ -13826,8 +13804,8 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 470,
-      "up": 4
+      "rk": 461,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -13899,9 +13877,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 2,
-      "rk": 200,
-      "up": 4
+      "m0": 4,
+      "rk": 197,
+      "up": 5
      },
      "news": [
       {
@@ -14068,12 +14046,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 588,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Aerospace Stocks Lagging  CurtissWright (CW) This Year?",
@@ -14364,7 +14337,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 244,
+      "up": 4
+     },
      "news": [
       {
        "h": "Constellation Energy vs. GE Vernova: Which Utilities Stock Is a Better Buy in 2026?",
@@ -14450,7 +14428,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 465,
+      "rk": 457,
       "up": 1
      },
      "news": [
@@ -14767,10 +14745,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 4,
-      "rk": 63,
-      "up": 75
+      "m": 10,
+      "m0": 6,
+      "rk": 77,
+      "up": 71
      },
      "news": [
       {
@@ -14857,7 +14835,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 362,
+      "rk": 366,
       "up": 1
      },
      "news": [
@@ -14945,8 +14923,8 @@
      "social": {
       "m": 4,
       "m0": 1,
-      "rk": 144,
-      "up": 62
+      "rk": 137,
+      "up": 64
      },
      "news": [
       {
@@ -15007,7 +14985,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 291,
+      "rk": 300,
       "up": 6
      },
      "news": [
@@ -15179,8 +15157,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 732,
-      "up": 1
+      "rk": 706,
+      "up": 6
      },
      "news": [
       {
@@ -17650,9 +17628,79 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Forget Amazon Prime Days: Here's the Real Reason to Buy the Stock",
+   "h": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-amazon-prime-days-heres-035000691.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/apple-paying-google-1-billion-083500443.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "BB Stock Eyes Weekly Gain: BlackBerry CEO Says Alloy Kore Could Unlock Higher Software Revenue",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-eyes-weekly-gain-073806475.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm\u2019s AI Momentum",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-eyes-worst-month-071402299.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "BA",
+   "h": "What Boeing (BA)'s US$2 Billion MUOS Defense Deal Means For Shareholders",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-us-2-billion-060838290.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "RTX",
+   "h": "RTX (RTX) Stock Near Fair Value After Strong Five-Year Share Price Gains",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-near-fair-060823962.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Is Iridium (IRDM) Quietly Repositioning Its IoT Ecosystem With New NTN and Hybrid Modules?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-quietly-repositioning-iot-060804884.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "ALB",
+   "h": "Is Albemarle (ALB) One of the 10 Dividend Stocks with Low Payout Ratios and Strong Upside Potential?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-one-10-dividend-052125780.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Iridium (IRDM) Launches A New IoT Module As Mlink Chipset Reaches Orbit Tests",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-launches-iot-module-050602679.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "NNE",
+   "h": "NANO Nuclear Energy (NNE) Names Interim Reactor Lead As NRC Review Starts",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-nne-names-050557792.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Wins 3 NASA Launches As Defense Mission Speed Sets Record",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-wins-3-050516509.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "SATS",
+   "h": "Musk's SpaceX targets US consumers with Starlink mobile service push, FT reports",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/articles/musks-spacex-targets-us-consumers-041429998.html",
    "date": "2026-06-26"
   },
   {
@@ -17674,27 +17722,6 @@
    "h": "Why Did MSFT, PLTR, MSTR Stocks Plunge To 52-Week Lows Today?",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-msft-pltr-mstr-030519404.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "QCOM",
-   "h": "What Qualcomm Stock Was Saying About Its Multibillion-Dollar Data Center Plan",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-saying-multibillion-dollar-025521200.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA, SPCX Slip Overnight: Elon Musk Warns AI Production Shortfall Is \u2018Insane\u2019 As Apple Price Shock Hits Tech",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-spcx-slip-overnight-elon-020403731.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm's massive AI expansion already has 2 Mag 7 giants on board",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomms-massive-ai-expansion-already-020300760.html",
    "date": "2026-06-26"
   },
   {
@@ -17775,20 +17802,6 @@
    "date": "2026-06-26"
   },
   {
-   "tk": "TSLA",
-   "h": "I'd Buy More of This Growth Stock Before the Market Figures Out What It's Missing",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/id-buy-more-growth-stock-232500515.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "RKLB",
-   "h": "RKLB Stock Rises 3% After Hours \u2014 NASA Awards Rocket Lab Two New Missions",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-3-hours-224007998.html",
-   "date": "2026-06-25"
-  },
-  {
    "tk": "AVAV",
    "h": "AeroVironment (AVAV) Falls More Steeply Than Broader Market: What Investors Need to Know",
    "pub": "Zacks",
@@ -17821,13 +17834,6 @@
    "h": "Baidu Inc. (BIDU) Declines More Than Market: Some Information for Investors",
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-declines-more-214502011.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Down 14%, Is Tesla a Good Buy Now?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/down-14-tesla-good-buy-213100701.html",
    "date": "2026-06-25"
   },
   {
@@ -17899,35 +17905,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/micron-blowout-sparked-chip-rally-195034715.html",
    "date": "2026-06-25"
-  },
-  {
-   "tk": "LMT",
-   "h": "Micron\u2019s Blowout Sparked a Chip Rally, but the Smart Money Is Already Rotating Into Defense and Space",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-blowout-sparked-chip-rally-195034715.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "MP",
-   "h": "Micron\u2019s Blowout Sparked a Chip Rally, but the Smart Money Is Already Rotating Into Defense and Space",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-blowout-sparked-chip-rally-195034715.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "ASTS",
-   "h": "Why This Satellite Data Stock Keeps Losing Altitude",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-satellite-data-stock-keeps-194429591.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "NEE",
-   "h": "The Portfolio That Quietly Pays For Your Midlife Crisis Car",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-quietly-pays-midlife-crisis-192320101.html",
-   "date": "2026-06-25"
   }
  ],
- "prices_asof": "2026-06-26 04:07 UTC"
+ "prices_asof": "2026-06-26 08:49 UTC"
 }
