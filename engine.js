@@ -1,5 +1,5 @@
 /* ===== Frontier Terminal — data-driven engine (reads DATA) ===== */
-let cur='unmanned', curTab='dashboard', holdOnly=false, pubOnly=false, focusOnly=false, newsFocus=false, q='', sortKey='score', sortDir=-1;
+let cur='unmanned', curTab='dashboard', holdOnly=false, pubOnly=false, focusOnly=false, newsFocus=false, dashCat='all', q='', sortKey='score', sortDir=-1;
 let cmp=[];
 let mapMode='chain';
 let edgeTypes={}, focusSet=[], focusDepth=1;
@@ -81,6 +81,8 @@ function onSearch(v){q=v.toLowerCase();render();}
 function toggleHold(){holdOnly=!holdOnly;document.getElementById('bHold').classList.toggle('on',holdOnly);render();}
 function togglePub(){pubOnly=!pubOnly;document.getElementById('bPub').classList.toggle('on',pubOnly);render();}
 function toggleFocus(){focusOnly=!focusOnly;const b=document.getElementById('bFocus');if(b)b.classList.toggle('on',focusOnly);render();}
+function setDashCat(v){dashCat=v;render();}
+function inVert(t){return dashCat==='all'||(!!DATA.verticals[dashCat]&&!!DATA.verticals[dashCat].companies[t]);}
 
 function visible(){
   return Object.entries(CO()).filter(([t,c])=>{
@@ -687,7 +689,7 @@ function renderDashboard(){
     alerts=dcard('Needs attention — Street not confirming', a.length?('<ul class="dlist">'+a.map(([t,c,sig])=>`<li onclick="openDrill('${t}')"><b class="tk">${t}</b> <span class="sgpill ${sig.cls}">${SGSHORT[sig.cls]}</span> <span class="mut">${esc(sig.why)}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">All covered holdings: Street confirms.</div>');
   }
   // buzz leaders
-  const bz=buzzLeaders(8);
+  const bz=buzzLeaders(8).filter(o=>inVert(o.t));
   const buzzCard=dcard('Reddit buzz — universe leaders','<ul class="dlist">'+bz.map(o=>`<li onclick="openDrill('${o.t}')"><b class="tk">${o.t}</b> <span class="mono">${o.s.m}</span> ${o.s.m>(o.s.m0||0)?'<span class="up">▲</span>':(o.s.m<(o.s.m0||0)?'<span class="down">▼</span>':'')} <span class="mut">${esc(o.c.n)}</span></li>`).join('')+'</ul>');
   // catalysts (holdings first)
   const heldset=new Set(holds.map(x=>x[1]));
@@ -695,14 +697,15 @@ function renderDashboard(){
   const catCard=dcard('Upcoming catalysts','<ul class="dlist">'+cats.map(([vk,date,tk,ev])=>`<li ${tk?`onclick="openDrill('${tk}')"`:''}><span class="cdate">${esc(date)}</span> ${tk?`<b class="tk">${tk}</b> `:''}<span class="mut">${esc(ev)}</span></li>`).join('')+'</ul>','<button class="pbtn" onclick="setTab(\'catalysts\')">All →</button>');
   // top news
   let newsCard;
-  if(!liveOn){const bn=(DATA.news||[]).slice(0,7);newsCard=dcard('Top stories', bn.length?('<ul class="dlist">'+bn.map(a=>`<li onclick="window.open('${a.link}','_blank','noopener')"><b class="tk">${esc(a.tk||'')}</b> <span class="mut">${esc((a.h||'').slice(0,74))}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">No headlines yet — the daily updater will fill these.</div>','<button class="pbtn" onclick="setTab(\'news\')">News →</button>');}
+  if(!liveOn){const bn=(DATA.news||[]).filter(a=>inVert(a.tk)).slice(0,7);newsCard=dcard('Top stories', bn.length?('<ul class="dlist">'+bn.map(a=>`<li onclick="window.open('${a.link}','_blank','noopener')"><b class="tk">${esc(a.tk||'')}</b> <span class="mut">${esc((a.h||'').slice(0,74))}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">No headlines yet — the daily updater will fill these.</div>','<button class="pbtn" onclick="setTab(\'news\')">News →</button>');}
   else if(!newsItems.length){newsCard=dcard('Top stories', newsLoading?'<div class="mut" style="padding:6px 0">Loading the wire…</div>':'<div class="mut" style="padding:6px 0">News feed unavailable right now.</div>');}
-  else{const top=newsItems.slice().sort((a,b)=>impScore(b)-impScore(a)).slice(0,6);
+  else{const top=newsItems.slice().filter(a=>inVert(a.key)).sort((a,b)=>impScore(b)-impScore(a)).slice(0,6);
     newsCard=dcard('Top stories today','<ul class="dlist">'+top.map(a=>{const[cl,cc]=newsCatOf(a.metadata);const th=thesisHit(a);return `<li onclick="openDrill('${a.key}')"><span class="ncat ${cc}">${cl}</span> ${th?'<span class="nth">★</span> ':''}<b class="tk">${a.key}</b> <span class="mut">${esc((a.headline||'').slice(0,70))}</span></li>`;}).join('')+'</ul>','<button class="pbtn" onclick="setTab(\'news\')">News →</button>');}
   // what-changed (buzz deltas)
   const ch=[];const cseen={};for(const vk in DATA.verticals){const cc=DATA.verticals[vk].companies;for(const t in cc){const so=cc[t].social;if(so&&so.m!=null&&so.m0!=null&&so.m-so.m0>0&&!cseen[t]){cseen[t]=1;ch.push([t,so.m-so.m0,so.m,cc[t]]);}}}
   ch.sort((a,b)=>b[1]-a[1]);
-  const changedCard=dcard('What changed — buzz spikes (24h)', ch.length?('<ul class="dlist">'+ch.slice(0,6).map(([t,dl,m,c])=>`<li onclick="openDrill('${t}')"><b class="tk">${t}</b> <span class="up">\u25b2${dl}</span> <span class="mono">${m}</span> <span class="mut">${esc(c.n)}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">No buzz spikes.</div>');
+  const chF=ch.filter(x=>inVert(x[0]));
+  const changedCard=dcard('What changed — buzz spikes (24h)', chF.length?('<ul class="dlist">'+chF.slice(0,6).map(([t,dl,m,c])=>`<li onclick="openDrill('${t}')"><b class="tk">${t}</b> <span class="up">\u25b2${dl}</span> <span class="mono">${m}</span> <span class="mut">${esc(c.n)}</span></li>`).join('')+'</ul>'):'<div class="mut" style="padding:6px 0">No buzz spikes.</div>');
   // concentration & exposure
   let concCard='';
   if(holds.length){const tot2=holds.reduce((a,[,,c])=>a+((c.hold&&c.hold[1])||0),0)||1;
@@ -728,10 +731,17 @@ function renderDashboard(){
   const pv=DATA.provenance||{};
   const methodCard=dcard('Methodology & sources','<table class="comps methtab"><thead><tr><th>Data</th><th>Source</th><th>As of</th><th>Conf</th></tr></thead><tbody>'+Object.entries(pv).map(([k,v])=>`<tr><td class="ml" style="text-transform:capitalize;font-family:inherit">${k}</td><td class="mut" style="font-family:inherit">${esc(v.src)}</td><td class="mut">${esc(v.asof||'')}</td><td><span class="conf cf-${v.conf}">${v.conf}</span></td></tr>`).join('')+'</tbody></table>','<button class="pbtn" onclick="exportNotes()">Export notes</button>');
   const onb=lsGet('onboarded',0)?'':`<div class="onb"><b>\u25c6 Start here:</b> this Dashboard is your daily brief. Open any company for its thesis, Street view, scenarios & your notes. <b>Maps \u2192 Value chain</b>: click a name to trace its specific links. <b>News</b>: live wire, filter to your holdings. <button onclick="lsSet('onboarded',1);render()">Got it</button></div>`;
-  const aw=[];for(const vk2 in DATA.verticals){const cc2=DATA.verticals[vk2].companies;for(const t2 in cc2){(cc2[t2].awards||[]).forEach(a=>aw.push({t:t2,amt:a.amt,ag:a.ag,date:a.date,desc:a.desc}));}}
+  const aw=[];const _aws={};for(const vk2 in DATA.verticals){const cc2=DATA.verticals[vk2].companies;for(const t2 in cc2){if(!inVert(t2))continue;(cc2[t2].awards||[]).forEach(a=>{const k=t2+'|'+a.date+'|'+a.amt;if(_aws[k])return;_aws[k]=1;aw.push({t:t2,amt:a.amt,ag:a.ag,date:a.date,desc:a.desc});});}}
   aw.sort((a,b)=>(String(b.date||'').localeCompare(String(a.date||'')))||((b.amt||0)-(a.amt||0)));
   const awardCard=aw.length?dcard('Recent federal awards','<div style="max-height:320px;overflow:auto"><table class="comps dashtab"><thead><tr><th style="position:sticky;top:0;background:#fff;z-index:1">Co</th><th style="position:sticky;top:0;background:#fff;z-index:1">Agency</th><th style="position:sticky;top:0;background:#fff;z-index:1">Amount</th><th style="position:sticky;top:0;background:#fff;z-index:1">Date</th></tr></thead><tbody>'+aw.slice(0,60).map(a=>`<tr onclick="openDrill('${a.t}')"><td class="tk">${a.t}</td><td class="mut" style="font-family:inherit">${esc((a.ag||'').slice(0,24))}</td><td class="mono">${fmtAmt(a.amt||0)}</td><td class="mut">${esc(a.date||'')}</td></tr>`).join('')+'</tbody></table></div>','<span class="src">USASpending · '+aw.length+'</span>'):'';
-  return onb+kpis+`<div class="dashgrid">${focusCard}${awardCard}${changedCard}${holdCard}${alerts}${reviewCard}${newsCard}${buzzCard}${concCard}${progCard}${methodCard}</div>`;
+  // public idea cards (fill dashboard)
+  const _allc=[];const _seen={};for(const vk3 in DATA.verticals){const cc3=DATA.verticals[vk3].companies;for(const t3 in cc3){if(cc3[t3].pub&&inVert(t3)&&!_seen[t3]){_seen[t3]=1;_allc.push([t3,cc3[t3]]);}}}
+  const _ideas=_allc.filter(x=>lean(x[1])!=null).sort((a,b)=>lean(b[1])-lean(a[1])).slice(0,8);
+  const ideaCard=_ideas.length?dcard('Top scores \u2014 lean','<ul class="dlist">'+_ideas.map(([t,c])=>`<li onclick="openDrill('${t}')"><b class="tk">${t}</b> <span class="mono">${lean(c)}</span> <span class="mut">${esc(c.n)}</span></li>`).join('')+'</ul>','<span class="src">composite lean</span>'):'';
+  const _rich=_allc.filter(x=>evs(x[1])!=null&&evs(x[1])>0).sort((a,b)=>evs(b[1])-evs(a[1])).slice(0,8);
+  const valCard=_rich.length?dcard('Richest on EV/Sales','<ul class="dlist">'+_rich.map(([t,c])=>`<li onclick="openDrill('${t}')"><b class="tk">${t}</b> <span class="mono">${fmtX(evs(c))}</span> <span class="mut">${esc(c.n)}</span></li>`).join('')+'</ul>','<span class="src">most speculative</span>'):'';
+  const catChips='<div class="catbar">'+[['all','All'],['unmanned','🚁 Unmanned'],['space','🛰 Space'],['nuclear','⚛ Nuclear']].map(([k,l])=>'<button class="catchip'+(dashCat===k?' on':'')+'" onclick="setDashCat(\''+k+'\')">'+l+'</button>').join('')+'</div>';
+  return onb+kpis+catChips+`<div class="dashgrid">${focusCard}${awardCard}${changedCard}${holdCard}${alerts}${reviewCard}${newsCard}${buzzCard}${catCard}${ideaCard}${valCard}${concCard}${progCard}${methodCard}</div>`;
 }
 /* ---------- HOLDINGS scorecard ---------- */
 const SGSHORT={'sg-bull':'Confirms','sg-mix':'Mixed','sg-bear':'Against'};
@@ -802,8 +812,9 @@ function impScore(a){const m=(a.metadata||'').toLowerCase(),h=(a.headline||'').t
   return sc;}
 function setNewsSort(k){newsSort=k;render();}
 function renderNews(){
-  if(!liveOn){let bn=(DATA.news||[]).slice();if(newsFocus)bn=bn.filter(a=>WATCH.has(a.tk));if(q)bn=bn.filter(a=>(((a.h||'')+' '+(a.tk||'')).toLowerCase().includes(q)));
-    return `<div class="newsmeta">${newsFocus?'★ focus only · ':''}${bn.length} headlines · source: Yahoo Finance · refreshed daily · open inside Cowork for the full MT Newswires wire</div><div class="newslist">`+(bn.length?bn.map(a=>`<div class="nart"><div class="nmeta"><span class="tk">${esc(a.tk||'')}</span> <span class="ndate">${esc(a.pub||'')}${a.pub&&a.date?' · ':''}${esc(a.date||'')}</span></div><div class="nhead"><a href="${a.link}" target="_blank" rel="noopener">${esc(a.h||'')}</a></div></div>`).join(''):'<div class="note">No headlines yet — the daily updater will populate these.</div>')+`</div>`;}
+  if(!liveOn){let bn=(DATA.news||[]).slice().filter(a=>inVert(a.tk));if(newsFocus)bn=bn.filter(a=>WATCH.has(a.tk));if(q)bn=bn.filter(a=>(((a.h||'')+' '+(a.tk||'')).toLowerCase().includes(q)));
+    const vchips='<div class="catbar">'+[['all','All'],['unmanned','🚁 Unmanned'],['space','🛰 Space'],['nuclear','⚛ Nuclear']].map(([k,l])=>'<button class="catchip'+(dashCat===k?' on':'')+'" onclick="setDashCat(\''+k+'\')">'+l+'</button>').join('')+'</div>';
+    return vchips+`<div class="newsmeta">${newsFocus?'★ focus only · ':''}${bn.length} headlines · source: Yahoo Finance · refreshed daily · open inside Cowork for the full MT Newswires wire</div><div class="newslist">`+(bn.length?bn.map(a=>`<div class="nart"><div class="nmeta"><span class="tk">${esc(a.tk||'')}</span> <span class="ndate">${esc(a.pub||'')}${a.pub&&a.date?' · ':''}${esc(a.date||'')}</span></div><div class="nhead"><a href="${a.link}" target="_blank" rel="noopener">${esc(a.h||'')}</a></div></div>`).join(''):'<div class="note">No headlines yet — the daily updater will populate these.</div>')+`</div>`;}
   const cats=[['all','All'],['thesis','\u2605 My thesis'],['nc-con','Contract / Venture'],['nc-ma','M&A'],['nc-cap','Capital raise'],['nc-an','Analyst'],['nc-ea','Earnings'],['nc-op','Operations']];
   const bar=`<div class="newsbar"><div class="newscats">${cats.map(([k,l])=>`<button class="ncf${k===newsCat?' on':''}" onclick="setNewsCat('${k}')">${l}</button>`).join('')}</div>
     <label class="nck"><input type="checkbox" ${newsPrimary?'checked':''} onchange="newsPrimary=this.checked;render()"> Primary only</label>

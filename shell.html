@@ -328,7 +328,11 @@ table.comps,table.holdtab,table.cmptab,table.reptbl{border:1px solid var(--line)
 .kpil{text-transform:uppercase;letter-spacing:.07em;font-size:9px;color:var(--mut)}
 .kpiv{font-family:var(--mono);font-size:22px;font-weight:500;color:var(--ink);margin-top:2px}
 .kpi .kpis{font-size:10px;color:var(--mut);letter-spacing:0;text-transform:none}
-.dashgrid{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:start}
+.dashgrid{column-count:2;column-gap:12px}
+.dashgrid .dcard{break-inside:avoid;-webkit-column-break-inside:avoid;page-break-inside:avoid;margin-bottom:12px;display:inline-block;width:100%}
+.catbar{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
+.catchip{background:#fff;border:1px solid var(--line2);color:var(--sub);border-radius:var(--r);padding:5px 11px;font-size:11px;font-weight:600;cursor:pointer}
+.catchip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
 .dcard{border:1px solid var(--line);border-radius:var(--r);padding:10px 12px;background:#fff}
 .dch{display:flex;justify-content:space-between;align-items:center;text-transform:uppercase;letter-spacing:.07em;font-size:10px;color:var(--mut);font-weight:500;border-bottom:1px solid var(--line);padding-bottom:6px;margin-bottom:7px}
 .dch .pbtn{font-size:9px;padding:2px 7px}
@@ -341,7 +345,7 @@ table.comps,table.holdtab,table.cmptab,table.reptbl{border:1px solid var(--line)
 .dashtab{border:none!important}
 .dashtab th{font-size:8.5px}
 .mono{font-family:var(--mono)}
-@media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}.dashgrid{grid-template-columns:1fr}}
+@media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}.dashgrid{column-count:1}}
 
 .onb{background:#f0f5ff;border:1px solid #bcd0f5;border-radius:var(--r);padding:9px 12px;margin-bottom:12px;font-size:11.5px;color:#1e3a5f}
 .onb button{margin-left:8px;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:var(--r);padding:2px 9px;cursor:pointer;font-size:10px;text-transform:uppercase;letter-spacing:.05em}
