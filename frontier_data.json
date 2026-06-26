@@ -612,7 +612,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 236,
+      "rk": 234,
       "up": 4
      },
      "awards": [
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 159,
-      "up": 18
+      "m": 3,
+      "m0": 4,
+      "rk": 189,
+      "up": 17
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 292,
-      "m0": 153,
+      "m": 269,
+      "m0": 212,
       "rk": 5,
-      "up": 1117
+      "up": 926
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 59,
-      "m0": 39,
-      "rk": 20,
-      "up": 182
+      "m": 81,
+      "m0": 34,
+      "rk": 17,
+      "up": 250
      },
      "thesis": {
       "bull": [
@@ -2027,10 +2027,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 222,
-      "up": 18
+      "rk": 435,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2314,8 +2314,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 320,
-      "up": 2
+      "rk": 327,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -2461,10 +2461,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 224,
-      "up": 17
+      "m": 3,
+      "m0": 2,
+      "rk": 172,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -2733,6 +2733,12 @@
      ],
      "news": [
       {
+       "h": "AeroVironment (AVAV) Falls More Steeply Than Broader Market: What Investors Need to Know",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-falls-more-steeply-221502346.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "RDW vs. AVAV: Which Aerospace & Defense Stock Boasts More Potential?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-vs-avav-aerospace-defense-134300386.html",
@@ -2742,12 +2748,6 @@
        "h": "AeroVironment (AVAV) Faces Lawsuits And Restates Earnings Over $89 Million Error",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-faces-lawsuits-restates-141250749.html",
-       "date": "2026-06-24"
-      },
-      {
-       "h": "Exploring Analyst Estimates for AeroVironment (AVAV) Q4 Earnings, Beyond Revenue and EPS",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exploring-analyst-estimates-aerovironment-avav-131506315.html",
        "date": "2026-06-24"
       }
      ]
@@ -2803,10 +2803,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 157,
-      "up": 21
+      "m": 3,
+      "m0": 3,
+      "rk": 187,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -3111,12 +3111,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 136,
-      "up": 43
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3676,7 +3671,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 231,
+      "up": 13
+     },
      "awards": [
       {
        "amt": 23600.0,
@@ -3971,10 +3971,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 18,
-      "rk": 50,
-      "up": 58
+      "m": 15,
+      "m0": 23,
+      "rk": 54,
+      "up": 37
      },
      "thesis": {
       "bull": [
@@ -4315,9 +4315,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 528,
-      "up": 3
+      "m0": 2,
+      "rk": 546,
+      "up": 2
      },
      "awards": [
       {
@@ -5777,10 +5777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 45,
-      "m0": 43,
-      "rk": 24,
-      "up": 67
+      "m": 52,
+      "m0": 28,
+      "rk": 22,
+      "up": 87
      },
      "awards": [
       {
@@ -5816,15 +5816,15 @@
        "date": "2026-06-24"
       },
       {
-       "h": "Down 14%, Is Tesla a Good Buy Now?",
+       "h": "I'd Buy More of This Growth Stock Before the Market Figures Out What It's Missing",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/down-14-tesla-good-buy-213100701.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/id-buy-more-growth-stock-232500515.html",
        "date": "2026-06-25"
       },
       {
-       "h": "Andrej Karpathy Says AI Is No Longer A Chatbot\u2014It\u2019s Becoming Your Teammate",
-       "pub": "Benzinga",
-       "link": "https://tech.yahoo.com/ai/claude/articles/andrej-karpathy-says-ai-no-203107531.html",
+       "h": "Down 14%, Is Tesla a Good Buy Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/down-14-tesla-good-buy-213100701.html",
        "date": "2026-06-25"
       }
      ]
@@ -5866,9 +5866,9 @@
      "geo": "US",
      "social": {
       "m": 7,
-      "m0": 6,
+      "m0": 8,
       "rk": 102,
-      "up": 169
+      "up": 5
      },
      "awards": [
       {
@@ -5955,7 +5955,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 499,
+      "rk": 511,
       "up": 2
      },
      "news": [
@@ -7013,10 +7013,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 43,
-      "m0": 4,
-      "rk": 25,
-      "up": 123
+      "m": 19,
+      "m0": 24,
+      "rk": 45,
+      "up": 76
      },
      "awards": [
       {
@@ -7058,9 +7058,9 @@
        "date": "2026-06-25"
       },
       {
-       "h": "Why Qualcomm Stock Popped Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-stock-popped-today-222014496.html",
+       "h": "Why Qualcomm (QCOM) Stock Is Up Today",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-today-232150025.html",
        "date": "2026-06-25"
       }
      ]
@@ -8014,10 +8014,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 105,
-      "m0": 89,
+      "m": 116,
+      "m0": 133,
       "rk": 13,
-      "up": 362
+      "up": 753
      },
      "thesis": {
       "bull": [
@@ -8317,7 +8317,7 @@
      "social": {
       "m": 1,
       "m0": 3,
-      "rk": 553,
+      "rk": 572,
       "up": 2
      },
      "streetNotes": [
@@ -8498,7 +8498,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 5,
+      "rk": 237,
+      "up": 13
+     },
      "thesis": {
       "bull": [
        {
@@ -8909,10 +8914,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 78,
-      "up": 22
+      "m": 6,
+      "m0": 12,
+      "rk": 114,
+      "up": 13
      },
      "streetNotes": [
       {
@@ -9253,10 +9258,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 181,
-      "m0": 66,
+      "m": 172,
+      "m0": 101,
       "rk": 8,
-      "up": 4984
+      "up": 5521
      },
      "thesis": {
       "bull": [
@@ -9720,7 +9725,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 491,
+      "rk": 502,
       "up": 1
      },
      "awards": [
@@ -10133,10 +10138,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 23,
+      "m": 21,
+      "m0": 32,
       "rk": 42,
-      "up": 74
+      "up": 69
      },
      "awards": [
       {
@@ -10287,10 +10292,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 205,
-      "up": 5
+      "m": 3,
+      "m0": 0,
+      "rk": 159,
+      "up": 8
      },
      "streetNotes": [
       {
@@ -10399,8 +10404,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 320,
-      "up": 2
+      "rk": 327,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10500,7 +10505,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 256,
+      "rk": 257,
       "up": 1
      },
      "awards": [
@@ -10587,9 +10592,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 528,
-      "up": 3
+      "m0": 2,
+      "rk": 546,
+      "up": 2
      },
      "awards": [
       {
@@ -10765,7 +10770,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 316,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10945,10 +10955,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 59,
-      "m0": 39,
-      "rk": 20,
-      "up": 182
+      "m": 81,
+      "m0": 34,
+      "rk": 17,
+      "up": 250
      },
      "awards": [
       {
@@ -11036,7 +11046,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 645,
+      "rk": 661,
       "up": 1
      },
      "news": [
@@ -12076,10 +12086,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 578,
-      "up": 2
+      "rk": 218,
+      "up": 3
      },
      "news": [
       {
@@ -12271,7 +12281,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 503,
+      "rk": 516,
       "up": 2
      },
      "news": [
@@ -12392,8 +12402,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 502,
-      "up": 3
+      "rk": 515,
+      "up": 1
      },
      "awards": [
       {
@@ -12473,10 +12483,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 24,
-      "rk": 44,
-      "up": 69
+      "m": 22,
+      "m0": 30,
+      "rk": 41,
+      "up": 81
      },
      "news": [
       {
@@ -13060,7 +13070,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 1,
+      "rk": 191,
+      "up": 12
+     },
      "thesis": {
       "bull": [
        {
@@ -13297,10 +13312,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 6,
-      "rk": 128,
-      "up": 11
+      "m": 5,
+      "m0": 3,
+      "rk": 130,
+      "up": 10
      },
      "news": [
       {
@@ -13712,7 +13727,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 458,
+      "rk": 467,
       "up": 4
      },
      "streetNotes": [
@@ -13784,10 +13799,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 200,
-      "up": 1
+      "m": 5,
+      "m0": 2,
+      "rk": 133,
+      "up": 3
      },
      "awards": [
       {
@@ -13817,6 +13832,12 @@
      ],
      "news": [
       {
+       "h": "After Doubling in a Year, GE Vernova Stock Isn\u2019t Done Climbing",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/energy/articles/doubling-ge-vernova-stock-isn-174614298.html",
+       "date": "2026-06-25"
+      },
+      {
        "h": "Forget XLU. The Grid Fund Actually Powering the AI Boom Is Up 23% in 2026",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-xlu-grid-fund-actually-153652208.html",
@@ -13826,12 +13847,6 @@
        "h": "GEV vs. PEG: Which Grid Modernization Leader Is the Smarter Buy Now?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/gev-vs-peg-grid-modernization-142600075.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Energy Transition Today - Romania's Wind Energy Milestone Secures Major Investment",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/energy-transition-today-romanias-wind-113741218.html",
        "date": "2026-06-25"
       }
      ]
@@ -13957,7 +13972,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 565,
+      "rk": 584,
       "up": 5
      },
      "awards": [
@@ -14335,8 +14350,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 453,
+      "m0": 1,
+      "rk": 462,
       "up": 1
      },
      "awards": [
@@ -14653,10 +14668,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 2,
+      "m": 12,
+      "m0": 4,
       "rk": 62,
-      "up": 78
+      "up": 74
      },
      "awards": [
       {
@@ -14743,7 +14758,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 350,
+      "rk": 359,
       "up": 1
      },
      "awards": [
@@ -14829,10 +14844,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 174,
-      "up": 39
+      "m": 4,
+      "m0": 2,
+      "rk": 142,
+      "up": 57
      },
      "news": [
       {
@@ -14893,7 +14908,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 285,
+      "rk": 289,
       "up": 6
      },
      "awards": [
@@ -15062,7 +15077,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 733,
+      "up": 1
+     },
      "news": [
       {
        "h": "URA vs. URNM: Which Uranium ETF Best Plays the Nuclear Boom?",
@@ -17225,7 +17245,7 @@
    "partner"
   ]
  ],
- "social_asof": "2026-06-25",
+ "social_asof": "2026-06-26",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17501,13 +17521,27 @@
    ]
   }
  ],
- "prices_asof": "2026-06-25 23:22 UTC",
+ "prices_asof": "2026-06-26 00:03 UTC",
  "news": [
   {
    "tk": "NVDA",
-   "h": "SpaceX Just Created an $82 Billion Opportunity -- and No One Is Talking About It",
+   "h": "Buying Your Own Sports Team (with Stocks)",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-just-created-82-billion-231600798.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buying-own-sports-team-stocks-235849729.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "I'd Buy More of This Growth Stock Before the Market Figures Out What It's Missing",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/id-buy-more-growth-stock-232500515.html",
+   "date": "2026-06-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Why Qualcomm (QCOM) Stock Is Up Today",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-today-232150025.html",
    "date": "2026-06-25"
   },
   {
@@ -17525,10 +17559,10 @@
    "date": "2026-06-25"
   },
   {
-   "tk": "QCOM",
-   "h": "Qualcomm Says AI Data Centers Will Become Its Next Big Growth Engine",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-says-ai-data-centers-221327405.html",
+   "tk": "AVAV",
+   "h": "AeroVironment (AVAV) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-falls-more-steeply-221502346.html",
    "date": "2026-06-25"
   },
   {
@@ -17599,13 +17633,6 @@
    "h": "Andrej Karpathy Says AI Is No Longer A Chatbot\u2014It\u2019s Becoming Your Teammate",
    "pub": "Benzinga",
    "link": "https://tech.yahoo.com/ai/claude/articles/andrej-karpathy-says-ai-no-203107531.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Is What Trillionaire Elon Musk Said Enough of a Reason to Buy Tesla Stock?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trillionaire-elon-musk-said-enough-202500418.html",
    "date": "2026-06-25"
   },
   {
@@ -17774,13 +17801,6 @@
    "h": "Top Midday Decliners",
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181441223.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "UBER",
-   "h": "UBER Expands Its Food Delivery Business: Is it a Growth Catalyst?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-expands-food-delivery-business-180200456.html",
    "date": "2026-06-25"
   }
  ]
