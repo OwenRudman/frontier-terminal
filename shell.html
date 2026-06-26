@@ -361,6 +361,13 @@ table.comps,table.holdtab,table.cmptab,table.reptbl{border:1px solid var(--line)
 .notesbox select,.notesbox input,.notesbox textarea{font-family:inherit;font-size:11px;border:1px solid var(--line2);border-radius:var(--r);padding:4px 6px;color:var(--ink);background:#fff}
 .notesbox textarea{min-height:44px;resize:vertical;width:100%}
 .methtab{border:none!important}.methtab td{font-size:10.5px}
+/* ---- contrast pass ---- */
+:root{--line:#cdd5e1;--line2:#bcc6d4;--mut:#646e7c;--sub:#48535f}
+body{background:#e7eaf0}
+.top{background:#fff;box-shadow:0 1px 4px rgba(15,23,42,.06)}
+.kpi,.dcard,table.comps,table.cmptab,.nart,.cat,.cmpsel,.cmpradar,.scatwrap,.geowrap,.netwrap,.matwrap,.mapwrap,.mapbox,.note,.maphint,.gco{box-shadow:0 1px 3px rgba(15,23,42,.08);border-color:#cdd5e1}
+.dch{border-bottom-color:#dbe1ea}
+.drill{box-shadow:-10px 0 36px rgba(15,23,42,.22)}
 </style></head>
 <body>
 <div class="top">
@@ -374,10 +381,4 @@ table.comps,table.holdtab,table.cmptab,table.reptbl{border:1px solid var(--line)
   <div class="meta" id="meta"></div>
 </div>
 <div id="main"></div>
-<div class="reportoverlay" id="repoverlay"><div class="repbar"><span class="rephint">Use Print / Save as PDF. If the dialog doesn't open, press Ctrl/Cmd+P, or open the file in your browser.</span><button onclick="printReport()">🖨 Print / Save as PDF</button><button class="rcl" onclick="closeReport()">Close</button></div><div id="report"></div></div>
-<div class="drill" id="drill"><button class="dclose" onclick="closeDrill()">×</button><div id="drillbody"></div></div>
-<script>
-const DATA=/*DATA*/;
-/*ENGINE*/
-</script>
-</body></html>
+<div class="reportoverlay" id="repoverlay"><div class="repbar"><span cl
