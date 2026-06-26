@@ -258,15 +258,18 @@ function renderGeo(){
 }
 let netMode='all';
 function setNetMode(m){netMode=m;render();}
-function netNode(t){netFocus=t;render();}
-function setNetFocus(t){netFocus=t;render();}
+let netHist=[];
+function pushNet(t){if(netFocus&&netFocus!==t)netHist.push(netFocus);netFocus=t;render();}
+function netNode(t){pushNet(t);}
+function setNetFocus(t){pushNet(t);}
+function netBack(){if(netHist.length){netFocus=netHist.pop();render();}}
 function renderNetwork(){
   const comps=CO();
   const rels=(DATA.relationships||[]);
   const deg={}; rels.forEach(x=>{deg[x[0]]=(deg[x[0]]||0)+1;deg[x[1]]=(deg[x[1]]||0)+1;});
   const cand=Object.keys(comps).filter(t=>deg[t]).sort((a,b)=>(deg[b]||0)-(deg[a]||0)||a.localeCompare(b));
   if(!cand.length)return '<div class="note">No mapped relationships for this sector yet.</div>';
-  let focus=(netFocus&&deg[netFocus])?netFocus:cand[0];
+  let focus=(netFocus&&deg[netFocus])?netFocus:cand[0]; netFocus=focus;
   const seen={}; const nbrs=[];
   rels.forEach(x=>{let other=null,ty=x[2];
     if(x[0]===focus)other=x[1]; else if(x[1]===focus)other=x[0];
@@ -285,7 +288,9 @@ function renderNetwork(){
   const fc=comps[focus];const ccol=fc?(EXPC[fc.exp]||'#1d4ed8'):'#1d4ed8';
   const center=`<g><circle cx="${cx}" cy="${cy}" r="24" fill="${ccol}22" stroke="${ccol}" stroke-width="2.4"/><text x="${cx}" y="${cy-1}" font-size="13" font-weight="800" text-anchor="middle" fill="#0f172a">${esc(focus)}</text><text x="${cx}" y="${cy+13}" font-size="8.5" text-anchor="middle" fill="#64748b">${esc(((fc&&fc.n)||'').slice(0,24))}</text></g>`;
   const openbtn=fc?`<button class="pbtn" onclick="openDrill('${focus}')">\u2922 Open ${focus} drilldown</button>`:'';
-  const cap=`<div class="note"><b>${esc(focus)}</b>${fc?` — ${esc(fc.n)}`:''}: <b>${N}</b> direct connection${N!==1?'s':''}. Click any node to re-center on it; line colour = relationship type. ${openbtn}<div style="margin-top:6px;font-size:10.5px">${leg}</div></div>`;
+  const back=netHist.length?`<button class="pbtn" onclick="netBack()">\u2190 Back</button> `:'';
+  const trail=netHist.length?`<div style="font-size:10.5px;color:#64748b;margin-top:5px">Trail: ${[...netHist.slice(-5),focus].join(' \u2192 ')} <button class="pbtn" style="padding:1px 7px" onclick="netHist=[];render()">clear</button></div>`:'';
+  const cap=`<div class="note">${back}<b>${esc(focus)}</b>${fc?` — ${esc(fc.n)}`:''}: <b>${N}</b> direct connection${N!==1?'s':''}. Click any node to re-center; line colour = relationship type. ${openbtn}${trail}<div style="margin-top:6px;font-size:10.5px">${leg}</div></div>`;
   return pick+cap+`<div class="maptools"><span class="mut">Scroll to zoom · drag to pan</span><button class="pbtn" onclick="resetPZ()">Reset view</button></div>`+svgWrap(W,H,es+ns+center);
 }
 function renderTreemap(){
