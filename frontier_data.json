@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 227,
-      "m0": 286,
+      "m": 229,
+      "m0": 291,
       "rk": 5,
-      "up": 804
+      "up": 807
      },
      "thesis": {
       "bull": [
@@ -1586,9 +1586,9 @@
      "geo": "US",
      "social": {
       "m": 63,
-      "m0": 58,
+      "m0": 61,
       "rk": 16,
-      "up": 258
+      "up": 257
      },
      "thesis": {
       "bull": [
@@ -2031,8 +2031,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 407,
+      "m0": 2,
+      "rk": 408,
       "up": 2
      },
      "thesis": {
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 322,
+      "rk": 323,
       "up": 3
      },
      "streetNotes": [
@@ -2482,7 +2482,7 @@
      "social": {
       "m": 4,
       "m0": 2,
-      "rk": 139,
+      "rk": 141,
       "up": 7
      },
      "thesis": {
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 5,
       "m0": 4,
-      "rk": 128,
+      "rk": 129,
       "up": 13
      },
      "thesis": {
@@ -3149,7 +3149,7 @@
      "social": {
       "m": 4,
       "m0": 5,
-      "rk": 151,
+      "rk": 153,
       "up": 18
      },
      "thesis": {
@@ -3738,7 +3738,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 774,
+      "rk": 775,
       "up": 12
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4045,7 +4045,7 @@
      "social": {
       "m": 8,
       "m0": 18,
-      "rk": 89,
+      "rk": 88,
       "up": 17
      },
      "thesis": {
@@ -4395,7 +4395,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 200,
+      "rk": 199,
       "up": 5
      },
      "news": [
@@ -5865,8 +5865,8 @@
      "geo": "US",
      "social": {
       "m": 40,
-      "m0": 45,
-      "rk": 26,
+      "m0": 46,
+      "rk": 27,
       "up": 92
      },
      "news": [
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 8,
-      "rk": 77,
-      "up": 23
+      "m": 10,
+      "m0": 7,
+      "rk": 71,
+      "up": 26
      },
      "news": [
       {
@@ -6042,7 +6042,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 481,
+      "rk": 482,
       "up": 1
      },
      "news": [
@@ -7101,8 +7101,8 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 43,
-      "rk": 157,
+      "m0": 42,
+      "rk": 158,
       "up": 9
      },
      "news": [
@@ -7119,9 +7119,9 @@
        "date": "2026-06-25"
       },
       {
-       "h": "How Much Upside Can NVDA Stock's Growth Deliver?",
+       "h": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
        "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-nvda-stocks-growth-180659847.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/growth-baked-advanced-micro-devices-184132837.html",
        "date": "2026-06-26"
       }
      ],
@@ -8204,9 +8204,9 @@
      "geo": "US",
      "social": {
       "m": 91,
-      "m0": 107,
+      "m0": 106,
       "rk": 11,
-      "up": 977
+      "up": 979
      },
      "thesis": {
       "bull": [
@@ -8506,7 +8506,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 202,
+      "rk": 201,
       "up": 1
      },
      "streetNotes": [
@@ -9104,8 +9104,8 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 12,
-      "rk": 127,
+      "m0": 9,
+      "rk": 128,
       "up": 7
      },
      "streetNotes": [
@@ -9447,10 +9447,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 111,
+      "m": 112,
       "m0": 181,
-      "rk": 9,
-      "up": 1351
+      "rk": 10,
+      "up": 1366
      },
      "thesis": {
       "bull": [
@@ -9633,6 +9633,12 @@
      },
      "news": [
       {
+       "h": "Why Did AST SpaceMobile Stock Pop Today?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ast-spacemobile-stock-185622239.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-rises-13-ast-185140550.html",
@@ -9642,12 +9648,6 @@
        "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "ASTS Stock Rises After-Hours: Vodafone-Backed Europe Rollout Hits Spain, 2027 Launch In View",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-rises-hours-vodafone-004928232.html",
        "date": "2026-06-26"
       }
      ]
@@ -9687,7 +9687,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 758,
+      "up": 1
+     },
      "news": [
       {
        "h": "How IRDM's Commercial Launch of Hybrid IoT Modules Boosts Its Edge",
@@ -10324,7 +10329,7 @@
      "social": {
       "m": 10,
       "m0": 25,
-      "rk": 73,
+      "rk": 74,
       "up": 28
      },
      "news": [
@@ -10418,16 +10423,16 @@
        "date": "2026-06-26"
       },
       {
+       "h": "Trump\u2019s Executive Order Boosts Infleqtion Shares. What This Means for INFQ Stock.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/trump-executive-order-boosts-infleqtion-130002236.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Infleqtion (INFQ) Is Up 19.3% After Launching Quantum Space Initiative With Key US Partners",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/infleqtion-infq-19-3-launching-043059453.html",
        "date": "2026-06-24"
-      },
-      {
-       "h": "SpaceX Conducts Starfall Cargo Test, Lands Next AST SpaceMobile Launch",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-starfall-spcx-stock-ast-spacemobile-asts-stock/?src=A00220&yptr=yahoo",
-       "date": "2026-06-23"
       }
      ]
     },
@@ -10478,7 +10483,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 252,
+      "rk": 253,
       "up": 7
      },
      "streetNotes": [
@@ -10588,7 +10593,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 322,
+      "rk": 323,
       "up": 3
      },
      "streetNotes": [
@@ -10697,7 +10702,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 249,
+      "rk": 250,
       "up": 2
      },
      "news": [
@@ -10785,7 +10790,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 200,
+      "rk": 199,
       "up": 5
      },
      "news": [
@@ -10973,7 +10978,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 313,
+      "rk": 314,
       "up": 1
      },
      "streetNotes": [
@@ -11156,9 +11161,9 @@
      "geo": "US",
      "social": {
       "m": 63,
-      "m0": 58,
+      "m0": 61,
       "rk": 16,
-      "up": 258
+      "up": 257
      },
      "news": [
       {
@@ -11246,7 +11251,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 606,
+      "rk": 607,
       "up": 1
      },
      "news": [
@@ -12288,7 +12293,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 548,
+      "rk": 549,
       "up": 2
      },
      "news": [
@@ -12481,7 +12486,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 484,
+      "rk": 485,
       "up": 2
      },
      "news": [
@@ -12602,7 +12607,7 @@
      "social": {
       "m": 5,
       "m0": 1,
-      "rk": 119,
+      "rk": 118,
       "up": 56
      },
      "news": [
@@ -13273,7 +13278,7 @@
      "social": {
       "m": 14,
       "m0": 1,
-      "rk": 53,
+      "rk": 54,
       "up": 82
      },
      "thesis": {
@@ -13514,7 +13519,7 @@
      "social": {
       "m": 6,
       "m0": 6,
-      "rk": 108,
+      "rk": 106,
       "up": 17
      },
      "news": [
@@ -13927,7 +13932,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 436,
+      "rk": 437,
       "up": 2
      },
      "streetNotes": [
@@ -14551,7 +14556,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 429,
+      "rk": 430,
       "up": 1
      },
      "news": [
@@ -14869,9 +14874,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 13,
-      "rk": 116,
-      "up": 16
+      "m0": 14,
+      "rk": 114,
+      "up": 17
      },
      "news": [
       {
@@ -14958,7 +14963,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 350,
+      "rk": 351,
       "up": 1
      },
      "news": [
@@ -15108,7 +15113,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 285,
+      "rk": 286,
       "up": 6
      },
      "news": [
@@ -15280,7 +15285,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 672,
+      "rk": 673,
       "up": 4
      },
      "news": [
@@ -17750,14 +17755,21 @@
  ],
  "news": [
   {
-   "tk": "ASTS",
-   "h": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX?",
+   "tk": "NVDA",
+   "h": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-rises-13-ast-185140550.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/voo-became-first-etf-hit-190023244.html",
    "date": "2026-06-26"
   },
   {
-   "tk": "NVDA",
+   "tk": "ASTS",
+   "h": "Why Did AST SpaceMobile Stock Pop Today?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ast-spacemobile-stock-185622239.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "ASTS",
    "h": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX?",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-rises-13-ast-185140550.html",
@@ -17775,6 +17787,13 @@
    "h": "Nancy Pelosi bets up to $6 million on Intel and Uber, public disclosures show",
    "pub": "Moneywise",
    "link": "https://finance.yahoo.com/markets/options/articles/nancy-pelosi-bets-6-million-185000334.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-baked-advanced-micro-devices-184132837.html",
    "date": "2026-06-26"
   },
   {
@@ -17824,13 +17843,6 @@
    "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "QCOM",
-   "h": "What Is The Price Of Micron Technology's New Profitability Floor?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/price-micron-technologys-profitability-floor-175642406.html",
    "date": "2026-06-26"
   },
   {
@@ -18021,14 +18033,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-4-defensive-stocks-inflation-152500494.html",
    "date": "2026-06-26"
-  },
-  {
-   "tk": "DUK",
-   "h": "Can PPL's Clean Energy Collaborations Unlock New Growth Opportunities?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/energy/articles/ppls-clean-energy-collaborations-unlock-151500040.html",
-   "date": "2026-06-26"
   }
  ],
- "prices_asof": "2026-06-26 18:59 UTC"
+ "prices_asof": "2026-06-26 19:12 UTC"
 }
