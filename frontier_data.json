@@ -811,7 +811,7 @@
      "social": {
       "m": 2,
       "m0": 4,
-      "rk": 232,
+      "rk": 220,
       "up": 7
      },
      "streetNotes": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 229,
-      "m0": 291,
+      "m": 230,
+      "m0": 287,
       "rk": 5,
-      "up": 807
+      "up": 800
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1138,15 @@
        "date": "2026-06-26"
       },
       {
-       "h": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
-       "date": "2026-06-25"
+       "h": "Is Hyperliquid Actually Worth the Hype?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-actually-worth-hype-205700767.html",
+       "date": "2026-06-26"
       },
       {
-       "h": "UnitedHealth is Near its 52-Week High. Wall Street Is Starting to Notice This Blue Chip Stock -- and So Should You.",
+       "h": "SpaceX Got $90 Billion in Orders for a $25 Billion Bond Sale Less Than 2 Weeks After Its IPO. Is That a Good Sign or a Warning?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-near-52-week-high-195000164.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-got-90-billion-orders-205000195.html",
        "date": "2026-06-26"
       }
      ]
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 63,
-      "m0": 61,
-      "rk": 16,
-      "up": 257
+      "m": 55,
+      "m0": 65,
+      "rk": 18,
+      "up": 236
      },
      "thesis": {
       "bull": [
@@ -2032,7 +2032,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 408,
+      "rk": 397,
       "up": 2
      },
      "thesis": {
@@ -2234,6 +2234,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "Kratos (KTOS): Buy, Sell, or Hold Post Q1 Earnings?",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-buy-sell-hold-203225640.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Forget Pouring Everything Into the SpaceX IPO. This Fund Spreads the Space Bet and Is Up 46% in a Year",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-pouring-everything-spacex-ipo-140013819.html",
@@ -2243,12 +2249,6 @@
        "h": "Lockheed Martin Inks $35 Billion Deal To Replenish Missile Stockpiles",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/lockheed-martin-pentagon-department-defense-northrop-grumman-thaad-missile/?src=A00220&yptr=yahoo",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "1 High-Flying Stock Worth Your Attention and 2 Facing Challenges",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-worth-124950473.html",
        "date": "2026-06-25"
       }
      ],
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 323,
+      "rk": 312,
       "up": 3
      },
      "streetNotes": [
@@ -2481,9 +2481,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 2,
-      "rk": 141,
-      "up": 7
+      "m0": 3,
+      "rk": 129,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 5,
       "m0": 4,
-      "rk": 129,
+      "rk": 117,
       "up": 13
      },
      "thesis": {
@@ -3147,9 +3147,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 5,
-      "rk": 153,
+      "m": 5,
+      "m0": 3,
+      "rk": 118,
       "up": 18
      },
      "thesis": {
@@ -3737,8 +3737,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 775,
+      "m0": 2,
+      "rk": 776,
       "up": 12
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 18,
-      "rk": 88,
-      "up": 17
+      "m": 10,
+      "m0": 17,
+      "rk": 66,
+      "up": 21
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 199,
-      "up": 5
+      "rk": 499,
+      "up": 3
      },
      "news": [
       {
@@ -5752,6 +5752,12 @@
      "social": null,
      "news": [
       {
+       "h": "BofA Securities Recommends Pony AI Inc (PONY) Stock. Here\u2019s the Reason",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/bofa-securities-recommends-pony-ai-202923114.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Stellantis (BIT:STLAM) Expands Into Robotaxis While Dodge Reaches Further With Under Armour",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-expands-robotaxis-001450645.html",
@@ -5762,12 +5768,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/trading-52-week-lows-pony-152427072.html",
        "date": "2026-06-24"
-      },
-      {
-       "h": "Cathie Wood Backs Pony AI (PONY) As Billionaire Interest Remains Weak",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-pony-ai-190359393.html",
-       "date": "2026-06-20"
       }
      ]
     },
@@ -5864,28 +5864,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 40,
-      "m0": 46,
-      "rk": 27,
-      "up": 92
+      "m": 37,
+      "m0": 48,
+      "rk": 26,
+      "up": 72
      },
      "news": [
       {
-       "h": "A $24,950 Electric Pickup Truck? Bezos-Backed Company Ready To Take On Tesla",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/24-950-electric-pickup-truck-180112203.html",
+       "h": "Dow sell-side Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
        "date": "2026-06-26"
       },
       {
-       "h": "Elon Musk and Tim Cook issue the same red alert over new crisis in America \u2014 and it\u2019s unlike anything they\u2019ve ever seen",
-       "pub": "Moneywise",
-       "link": "https://finance.yahoo.com/economy/articles/elon-musk-tim-cook-issue-164500375.html",
+       "h": "Tesla Expands Production In Germany, As VW Cuts 100,000 Jobs",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/tesla-berlin-gigafactory-vw-job-cuts-auto-industry-germany/?src=A00220&yptr=yahoo",
        "date": "2026-06-26"
       },
       {
-       "h": "Analyst Behind $250 SpaceX Target Says Physical AI Will Be \u201cOne of AI\u2019s Fastest-Growing Areas Over the Next 4-5 Years\u201d",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/analyst-behind-250-spacex-target-162908444.html",
+       "h": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-down-spacex-volatile-200500532.html",
        "date": "2026-06-26"
       }
      ],
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 7,
-      "rk": 71,
-      "up": 26
+      "m": 8,
+      "m0": 6,
+      "rk": 81,
+      "up": 20
      },
      "news": [
       {
@@ -5965,15 +5965,15 @@
        "date": "2026-06-26"
       },
       {
-       "h": "Can SERV's AI Data Flywheel Create a Lasting Competitive Edge?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/ai/articles/servs-ai-data-flywheel-create-150300363.html",
+       "h": "Uber Tightens US Driver Background Checks as Sexual Assault Cases Mount",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/technology/articles/uber-tightens-us-driver-background-183000241.html",
        "date": "2026-06-26"
       },
       {
-       "h": "Nancy Pelosi Discloses New Stock Trades: Here\u2019s The 2 Picks On Her List",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/options/articles/nancy-pelosi-discloses-stock-trades-133103278.html",
+       "h": "Can SERV's AI Data Flywheel Create a Lasting Competitive Edge?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/ai/articles/servs-ai-data-flywheel-create-150300363.html",
        "date": "2026-06-26"
       }
      ],
@@ -6042,7 +6042,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 482,
+      "rk": 471,
       "up": 1
      },
      "news": [
@@ -7100,10 +7100,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 42,
-      "rk": 158,
-      "up": 9
+      "m": 9,
+      "m0": 37,
+      "rk": 72,
+      "up": 20
      },
      "news": [
       {
@@ -7113,15 +7113,15 @@
        "date": "2026-06-26"
       },
       {
-       "h": "Sector Update: Tech Stocks Fall Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194357745.html",
-       "date": "2026-06-26"
+       "h": "How Qualcomm is evolving to grab a piece of the AI data center explosion",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/technology/article/how-qualcomm-is-evolving-to-grab-a-piece-of-the-ai-data-center-explosion-200314570.html",
+       "date": "2026-06-25"
       },
       {
-       "h": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/growth-baked-advanced-micro-devices-184132837.html",
+       "h": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
        "date": "2026-06-26"
       }
      ],
@@ -7372,6 +7372,12 @@
      "social": null,
      "news": [
       {
+       "h": "Serve Robotics (SERV) Expands AI-Powered Robot Delivery Into Laundry Services Through NoScrubs Deal",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-serv-expands-ai-202628052.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Can SERV's AI Data Flywheel Create a Lasting Competitive Edge?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/servs-ai-data-flywheel-create-150300363.html",
@@ -7382,12 +7388,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/humanoid-robotics-ceo-first-pure-220721680.html",
        "date": "2026-06-24"
-      },
-      {
-       "h": "SERV vs. UBER: Which Autonomous Delivery Stock is the Better Buy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/serv-vs-uber-autonomous-delivery-145500846.html",
-       "date": "2026-06-23"
       }
      ]
     },
@@ -8203,10 +8203,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 91,
-      "m0": 106,
-      "rk": 11,
-      "up": 979
+      "m": 72,
+      "m0": 114,
+      "rk": 14,
+      "up": 376
      },
      "thesis": {
       "bull": [
@@ -8414,21 +8414,21 @@
      ],
      "news": [
       {
+       "h": "RKLB Stock Ends 5% Higher \u2014 Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-ends-5-higher-204517566.html",
+       "date": "2026-06-26"
+      },
+      {
+       "h": "Rocket Lab Stock Looks To Buck Downtrend After NASA Mission Selection",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/rocket-lab-stock-nasa-electron-launches-mission-polsir-tsis-rklb-stock/?src=A00220&yptr=yahoo",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Rocket Lab Just Shattered This Space Force Record: Does That Make The Stock a Buy?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-shattered-space-193906215.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-rises-13-ast-185140550.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
        "date": "2026-06-26"
       }
      ],
@@ -8506,7 +8506,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 201,
+      "rk": 193,
       "up": 1
      },
      "streetNotes": [
@@ -8690,7 +8690,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 225,
+      "rk": 214,
       "up": 4
      },
      "thesis": {
@@ -9103,10 +9103,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 9,
-      "rk": 128,
-      "up": 7
+      "m": 6,
+      "m0": 6,
+      "rk": 103,
+      "up": 9
      },
      "streetNotes": [
       {
@@ -9447,10 +9447,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 112,
-      "m0": 181,
-      "rk": 10,
-      "up": 1366
+      "m": 120,
+      "m0": 168,
+      "rk": 8,
+      "up": 1222
      },
      "thesis": {
       "bull": [
@@ -9690,7 +9690,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 758,
+      "rk": 759,
       "up": 1
      },
      "news": [
@@ -10327,10 +10327,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 25,
-      "rk": 74,
-      "up": 28
+      "m": 9,
+      "m0": 23,
+      "rk": 78,
+      "up": 26
      },
      "news": [
       {
@@ -10482,9 +10482,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 253,
-      "up": 7
+      "m0": 3,
+      "rk": 242,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10593,7 +10593,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 323,
+      "rk": 312,
       "up": 3
      },
      "streetNotes": [
@@ -10702,7 +10702,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 250,
+      "rk": 237,
       "up": 2
      },
      "news": [
@@ -10788,10 +10788,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 199,
-      "up": 5
+      "rk": 499,
+      "up": 3
      },
      "news": [
       {
@@ -10977,8 +10977,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 314,
+      "m0": 1,
+      "rk": 303,
       "up": 1
      },
      "streetNotes": [
@@ -11160,10 +11160,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 63,
-      "m0": 61,
-      "rk": 16,
-      "up": 257
+      "m": 55,
+      "m0": 65,
+      "rk": 18,
+      "up": 236
      },
      "news": [
       {
@@ -11251,7 +11251,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 607,
+      "rk": 601,
       "up": 1
      },
      "news": [
@@ -12293,7 +12293,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 549,
+      "rk": 541,
       "up": 2
      },
      "news": [
@@ -12486,7 +12486,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
+      "rk": 474,
       "up": 2
      },
      "news": [
@@ -12607,7 +12607,7 @@
      "social": {
       "m": 5,
       "m0": 1,
-      "rk": 118,
+      "rk": 112,
       "up": 56
      },
      "news": [
@@ -12688,10 +12688,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 24,
-      "rk": 47,
-      "up": 69
+      "m": 14,
+      "m0": 22,
+      "rk": 54,
+      "up": 57
      },
      "news": [
       {
@@ -13276,10 +13276,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
+      "m": 13,
       "m0": 1,
-      "rk": 54,
-      "up": 82
+      "rk": 56,
+      "up": 77
      },
      "thesis": {
       "bull": [
@@ -13518,8 +13518,8 @@
      "geo": "US",
      "social": {
       "m": 6,
-      "m0": 6,
-      "rk": 106,
+      "m0": 5,
+      "rk": 104,
       "up": 17
      },
      "news": [
@@ -13932,7 +13932,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
+      "rk": 425,
       "up": 2
      },
      "streetNotes": [
@@ -14003,12 +14003,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 236,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
@@ -14468,20 +14463,20 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 230,
+      "rk": 218,
       "up": 3
      },
      "news": [
       {
-       "h": "Sector Update: Energy Stocks Decline Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-194915501.html",
-       "date": "2026-06-26"
-      },
-      {
        "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+       "date": "2026-06-26"
+      },
+      {
+       "h": "Sector Update: Energy Stocks Decline Late Afternoon",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-194915501.html",
        "date": "2026-06-26"
       },
       {
@@ -14556,7 +14551,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 430,
+      "rk": 418,
       "up": 1
      },
      "news": [
@@ -14873,10 +14868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 14,
-      "rk": 114,
-      "up": 17
+      "m": 4,
+      "m0": 12,
+      "rk": 125,
+      "up": 15
      },
      "news": [
       {
@@ -14963,7 +14958,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 351,
+      "rk": 340,
       "up": 1
      },
      "news": [
@@ -15051,8 +15046,8 @@
      "social": {
       "m": 2,
       "m0": 3,
-      "rk": 189,
-      "up": 14
+      "rk": 183,
+      "up": 12
      },
      "news": [
       {
@@ -15113,7 +15108,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 286,
+      "rk": 276,
       "up": 6
      },
      "news": [
@@ -15285,7 +15280,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 673,
+      "rk": 668,
       "up": 4
      },
      "news": [
@@ -15348,6 +15343,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Now the Time to Buy a Uranium ETF?",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/commodities/articles/now-time-buy-uranium-etf-140002056.html",
+       "date": "2026-06-19"
+      },
+      {
        "h": "URA vs. URNM: Which Uranium ETF Best Plays the Nuclear Boom?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/commodities/articles/ura-vs-urnm-uranium-etf-092607284.html",
@@ -15358,12 +15359,6 @@
        "pub": "etf.com",
        "link": "https://finance.yahoo.com/markets/options/articles/most-compared-etfs-now-reveal-230000066.html",
        "date": "2026-05-28"
-      },
-      {
-       "h": "NUKZ Caught the Nuclear Restart Wave But Holds Less Than $1 Billion in Assets, And That Liquidity Cliff Matters",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nukz-caught-nuclear-restart-wave-124518899.html",
-       "date": "2026-05-26"
       }
      ]
     },
@@ -17756,9 +17751,121 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "UnitedHealth is Near its 52-Week High. Wall Street Is Starting to Notice This Blue Chip Stock -- and So Should You.",
+   "h": "Is Hyperliquid Actually Worth the Hype?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-near-52-week-high-195000164.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-actually-worth-hype-205700767.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Market At Tipping Point, Here's What To Do. Eli Lilly Soars, Tesla On Tap.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Got $90 Billion in Orders for a $25 Billion Bond Sale Less Than 2 Weeks After Its IPO. Is That a Good Sign or a Warning?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-got-90-billion-orders-205000195.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Stocks making big moves this week: Qualcomm, Accenture, 10x Genomics, Seagate, and Lattice Semiconductor",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-204825313.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia isn\u2019t enough \u2014 here\u2019s how to build a diversified AI portfolio",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-isn-t-enough-build-204700128.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "RKLB Stock Ends 5% Higher \u2014 Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-ends-5-higher-204517566.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Stock Looks To Buck Downtrend After NASA Mission Selection",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/rocket-lab-stock-nasa-electron-launches-mission-polsir-tsis-rklb-stock/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "KTOS",
+   "h": "Kratos (KTOS): Buy, Sell, or Hold Post Q1 Earnings?",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-buy-sell-hold-203225640.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "PONY",
+   "h": "BofA Securities Recommends Pony AI Inc (PONY) Stock. Here\u2019s the Reason",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/bofa-securities-recommends-pony-ai-202923114.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "SERV",
+   "h": "Serve Robotics (SERV) Expands AI-Powered Robot Delivery Into Laundry Services Through NoScrubs Deal",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-serv-expands-ai-202628052.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "CEG",
+   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "GEV",
+   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "NNE",
+   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "SMR",
+   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Expands Production In Germany, As VW Cuts 100,000 Jobs",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/tesla-berlin-gigafactory-vw-job-cuts-auto-industry-germany/?src=A00220&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-down-spacex-volatile-200500532.html",
    "date": "2026-06-26"
   },
   {
@@ -17773,13 +17880,6 @@
    "h": "Sector Update: Tech Stocks Fall Late Afternoon",
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194357745.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Prediction: Walmart Will Rejoin the $1 Trillion Club by 2027. Here's Why It's a Great Buy Now.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-walmart-rejoin-1-trillion-194012005.html",
    "date": "2026-06-26"
   },
   {
@@ -17853,17 +17953,17 @@
    "date": "2026-06-26"
   },
   {
-   "tk": "QCOM",
-   "h": "Is The Growth Baked Into Advanced Micro Devices Stock Believable?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-baked-advanced-micro-devices-184132837.html",
-   "date": "2026-06-26"
-  },
-  {
    "tk": "PLTR",
    "h": "Palantir Stock Could Snap 7-Day Losing Streak. Cathie Wood\u2019s ARK Bought the Dip.",
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/palantir-stock-losing-streak-cathie-wood-a3ef41c7?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber Tightens US Driver Background Checks as Sexual Assault Cases Mount",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/technology/articles/uber-tightens-us-driver-background-183000241.html",
    "date": "2026-06-26"
   },
   {
@@ -17878,48 +17978,6 @@
    "h": "Moderna, Nvidia, Sandisk, Palantir, ON Semi, and More Stocks That Explain Today\u2019s Market",
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/stock-movers-3d8bd464?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "QCOM",
-   "h": "How Much Upside Can NVDA Stock's Growth Deliver?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-nvda-stocks-growth-180659847.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "CEG",
-   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "GEV",
-   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "NNE",
-   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "SMR",
-   "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
    "date": "2026-06-26"
   },
   {
@@ -17970,70 +18028,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-52-week-highs-172513526.html",
    "date": "2026-06-26"
-  },
-  {
-   "tk": "ASTS",
-   "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "LUNR",
-   "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "PL",
-   "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "RDW",
-   "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "RKLB",
-   "h": "A 10-Year SpaceX Investor Says the $2 Trillion Price Tag Is Still Too Cheap",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-spacex-investor-says-2-172310417.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "BA",
-   "h": "GE Aerospace Stock Looks Strong. One Number Says Be Careful.",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-looks-strong-170923024.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "LMT",
-   "h": "GE Aerospace Stock Looks Strong. One Number Says Be Careful.",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-looks-strong-170923024.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "NOC",
-   "h": "GE Aerospace Stock Looks Strong. One Number Says Be Careful.",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-looks-strong-170923024.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "RTX",
-   "h": "GE Aerospace Stock Looks Strong. One Number Says Be Careful.",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-looks-strong-170923024.html",
-   "date": "2026-06-26"
   }
  ],
- "prices_asof": "2026-06-26 19:57 UTC"
+ "prices_asof": "2026-06-26 21:08 UTC"
 }
