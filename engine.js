@@ -259,7 +259,21 @@ function renderGeo(){
 let netMode='all';
 function setNetMode(m){netMode=m;render();}
 let netHist=[];
-function pushNet(t){if(netFocus&&netFocus!==t)netHist.push(netFocus);netFocus=t;render();}
+function pushNet(t){if(netFocus!==t)netHist.push(netFocus);netFocus=t;render();}
+function netOverview(){
+  const comps=CO();const rels=(DATA.relationships||[]);
+  const stat={};rels.forEach(r=>{[r[0],r[1]].forEach(id=>{(stat[id]=stat[id]||{deg:0,by:{}}).deg++;stat[id].by[r[2]]=(stat[id].by[r[2]]||0)+1;});});
+  const rows=Object.entries(stat).sort((a,b)=>b[1].deg-a[1].deg).slice(0,22);
+  if(!rows.length)return '<div class="note">No mapped relationships.</div>';
+  const maxd=rows[0][1].deg;
+  const types=[...new Set(rels.map(r=>r[2]))];
+  const leg=types.map(ty=>`<span class="netleg" style="color:${ET[ty]||'#64748b'}">\u2014 ${TYNAME[ty]||ty}</span>`).join(' ');
+  const bars=rows.map(([id,s])=>{const W=Math.max(6,Math.round(s.deg/maxd*100));
+    const segs=Object.entries(s.by).sort((a,b)=>b[1]-a[1]).map(([ty,n])=>`<span style="height:15px;width:${(n/s.deg*100).toFixed(1)}%;background:${ET[ty]||'#94a3b8'};display:block"></span>`).join('');
+    const isco=!!comps[id];
+    return `<div onclick="setNetFocus('${id}')" style="display:flex;align-items:center;gap:9px;padding:4px 7px;cursor:pointer;border-radius:4px" onmouseover="this.style.background='#eef2f7'" onmouseout="this.style.background='transparent'" title="${esc((comps[id]||{}).n||id)} — ${s.deg} connections — click to explore"><span style="min-width:84px;font-weight:700;font-size:12px;color:${isco?'#0f172a':'#64748b'}">${esc(id)}${isco?'':' <span style=\'color:#94a3b8;font-weight:400\'>ext</span>'}</span><span style="flex:1;height:15px;border-radius:3px;overflow:hidden;background:#eef1f5;max-width:560px"><span style="display:flex;width:${W}%;height:15px">${segs}</span></span><span style="font-size:11px;color:#64748b;min-width:26px;text-align:right;font-weight:600">${s.deg}</span></div>`;}).join('');
+  return `<div class="note"><b>Network overview</b> — most-connected names across the graph (companies + hubs like the Pentagon/Alphabet). Bar length = number of relationships; segment colour = type. <b>Click any row to explore that name\u2019s connections.</b><div style="margin-top:6px;font-size:10.5px">${leg}</div></div><div style="background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:8px 6px;max-height:72vh;overflow:auto">${bars}</div>`;
+}
 function netNode(t){pushNet(t);}
 function setNetFocus(t){pushNet(t);}
 function netBack(){if(netHist.length){netFocus=netHist.pop();render();}}
@@ -269,7 +283,8 @@ function renderNetwork(){
   const deg={}; rels.forEach(x=>{deg[x[0]]=(deg[x[0]]||0)+1;deg[x[1]]=(deg[x[1]]||0)+1;});
   const cand=Object.keys(comps).filter(t=>deg[t]).sort((a,b)=>(deg[b]||0)-(deg[a]||0)||a.localeCompare(b));
   if(!cand.length)return '<div class="note">No mapped relationships for this sector yet.</div>';
-  let focus=(netFocus&&deg[netFocus])?netFocus:cand[0]; netFocus=focus;
+  if(!netFocus||!deg[netFocus])return netOverview();
+  let focus=netFocus;
   const seen={}; const nbrs=[];
   rels.forEach(x=>{let other=null,ty=x[2];
     if(x[0]===focus)other=x[1]; else if(x[1]===focus)other=x[0];
@@ -288,9 +303,10 @@ function renderNetwork(){
   const fc=comps[focus];const ccol=fc?(EXPC[fc.exp]||'#1d4ed8'):'#1d4ed8';
   const center=`<g><circle cx="${cx}" cy="${cy}" r="24" fill="${ccol}22" stroke="${ccol}" stroke-width="2.4"/><text x="${cx}" y="${cy-1}" font-size="13" font-weight="800" text-anchor="middle" fill="#0f172a">${esc(focus)}</text><text x="${cx}" y="${cy+13}" font-size="8.5" text-anchor="middle" fill="#64748b">${esc(((fc&&fc.n)||'').slice(0,24))}</text></g>`;
   const openbtn=fc?`<button class="pbtn" onclick="openDrill('${focus}')">\u2922 Open ${focus} drilldown</button>`:'';
+  const home=`<button class="pbtn" onclick="setNetFocus(null)">\u2302 Overview</button> `;
   const back=netHist.length?`<button class="pbtn" onclick="netBack()">\u2190 Back</button> `:'';
   const trail=netHist.length?`<div style="font-size:10.5px;color:#64748b;margin-top:5px">Trail: ${[...netHist.slice(-5),focus].join(' \u2192 ')} <button class="pbtn" style="padding:1px 7px" onclick="netHist=[];render()">clear</button></div>`:'';
-  const cap=`<div class="note">${back}<b>${esc(focus)}</b>${fc?` — ${esc(fc.n)}`:''}: <b>${N}</b> direct connection${N!==1?'s':''}. Click any node to re-center; line colour = relationship type. ${openbtn}${trail}<div style="margin-top:6px;font-size:10.5px">${leg}</div></div>`;
+  const cap=`<div class="note">${home}${back}<b>${esc(focus)}</b>${fc?` — ${esc(fc.n)}`:''}: <b>${N}</b> direct connection${N!==1?'s':''}. Click any node to re-center; line colour = relationship type. ${openbtn}${trail}<div style="margin-top:6px;font-size:10.5px">${leg}</div></div>`;
   return pick+cap+`<div class="maptools"><span class="mut">Scroll to zoom · drag to pan</span><button class="pbtn" onclick="resetPZ()">Reset view</button></div>`+svgWrap(W,H,es+ns+center);
 }
 function renderTreemap(){
