@@ -1,5 +1,5 @@
 /* ===== Frontier Terminal — data-driven engine (reads DATA) ===== */
-let cur='unmanned', curTab='dashboard', holdOnly=false, pubOnly=false, focusOnly=false, newsFocus=false, dashCat='all', q='', sortKey='score', sortDir=-1;
+let cur='unmanned', curTab='dashboard', holdOnly=false, pubOnly=false, focusOnly=false, newsFocus=false, dashCat='all', netFocus=null, q='', sortKey='score', sortDir=-1;
 let cmp=[];
 let mapMode='chain';
 let edgeTypes={}, focusSet=[], focusDepth=1;
@@ -108,8 +108,8 @@ function render(){
 }
 
 /* ---------- MAP ---------- */
-const ET={raw:'#a3704e',hw:'#1d4ed8',sensor:'#0891b2',auto:'#7c3aed',sw:'#7c3aed',counter:'#dc2626',flow:'#94a3b8',power:'#16a34a',data:'#0891b2'};
-const TYNAME={raw:'Raw-material flow',hw:'Hardware / compute',sensor:'Sensors',auto:'Autonomy',sw:'Software',counter:'Counter-UAS',flow:'Tier flow',power:'Power',data:'Datalinks'};
+const ET={customer:'#2563eb',rival:'#dc2626',supplies:'#d97706',partner:'#16a34a',invests:'#7c3aed',owns:'#0f766e',holding:'#0891b2',deploys:'#0ea5e9',jv:'#db2777','spun-from':'#64748b'};
+const TYNAME={customer:'Customer',rival:'Rival',supplies:'Supplies',partner:'Partner',invests:'Invests',owns:'Owns',holding:'Holding',deploys:'Deploys',jv:'JV','spun-from':'Spun from'};
 function chainEdges(){ const e=(V().edges&&V().edges.length)?V().edges:[]; if(e.length)return e; const cl=V().clusters,out=[]; cl.forEach(a=>cl.filter(b=>b.tier===a.tier+1).forEach(b=>out.push({a:a.id,b:b.id,t:'flow'}))); return out; }
 function chainRel(){const co=CO(); return (DATA.relationships||[]).filter(e=>co[e[0]]&&co[e[1]]).map(e=>({a:e[0],b:e[1],t:e[2]}));}
 function clusterOf(t){const cl=V().clusters; for(const c of cl){if((c.nodes||[]).includes(t))return c.id;} return null; }
@@ -158,7 +158,7 @@ function renderChain(){
   }).join('');
   const typesPresent=[...new Set(edges.map(e=>e.t))];
   const toggles=typesPresent.map(t=>`<button class="ctog${edgeTypes[t]?' on':''}" style="--ec:${ET[t]||'#94a3b8'}" onclick="toggleEdgeType('${t}')"><span class="cdot"></span>${TYNAME[t]||t}</button>`).join('');
-  const focusbar=focusSet.length?`<span class="focusbar">◎ ${focusSet.map(f=>`<b>${f}</b><button class="fx" onclick="focusChainNode('${f}')" title="remove">✕</button>`).join(' ')} · <button onclick="expandChain()">${focusDepth>=99?'Collapse':'Expand chains →'}</button> ${focusSet.length===1?`<button onclick="openDrill('${focusSet[0]}')">Open ↗</button>`:''} <button onclick="clearFocus()">Clear all</button></span>`:`<span class="cthint">Click companies to overlay their specific links (click several to compare) · double-click to open · toggle types →</span>`;
+  const focusbar=focusSet.length?`<span class="focusbar">◎ ${focusSet.map(f=>`<b>${f}</b><button class="fx" onclick="focusChainNode('${f}')" title="remove">✕</button>`).join(' ')} · <button onclick="expandChain()">${focusDepth>=99?'Collapse':'Expand chains →'}</button> ${focusSet.length===1?`<button onclick="openDrill('${focusSet[0]}')">\u2922 Open drilldown</button>`:''} <button onclick="clearFocus()">Clear all</button></span>`:`<span class="cthint">Click companies to overlay their specific links (click several to compare) · double-click to open · toggle types →</span>`;
   return `<div class="maphint">Value chain flows left → right. Border colour = exposure:
     <span style="color:${EXPC.direct}">●Direct</span> <span style="color:${EXPC.indirect}">●Indirect</span>
     <span style="color:${EXPC.private}">●Private</span> <span style="color:${EXPC.intl}">●Intl</span>. ◆ = your holding.</div>
@@ -258,40 +258,35 @@ function renderGeo(){
 }
 let netMode='all';
 function setNetMode(m){netMode=m;render();}
+function netNode(t){netFocus=t;render();}
+function setNetFocus(t){netFocus=t;render();}
 function renderNetwork(){
   const comps=CO();
-  const allEdges=(DATA.relationships||[]).filter(e=>comps[e[0]]||comps[e[1]]);
-  if(!allEdges.length)return '<div class="note">No mapped relationships for this sector yet.</div>';
-  const deg={}; allEdges.forEach(e=>{deg[e[0]]=(deg[e[0]]||0)+1;deg[e[1]]=(deg[e[1]]||0)+1;});
-  const supc={}; allEdges.filter(e=>e[2]==='supplies').forEach(e=>{supc[e[0]]=(supc[e[0]]||0)+1;});
-  const TYP=['owns','invests','supplies','customer','rival','partner'];
-  let edges=allEdges;
-  if(TYP.includes(netMode)) edges=allEdges.filter(e=>e[2]===netMode);
-  else if(netMode==='hubs'){ edges=allEdges.filter(e=>deg[e[0]]>=2&&deg[e[1]]>=2); }
-  else if(netMode==='holdings'){ const held=new Set(Object.keys(comps).filter(k=>comps[k].hold)); edges=allEdges.filter(e=>held.has(e[0])||held.has(e[1])); }
-  // filter bar
-  const modes=[['all','All'],['hubs','Hubs (backbone)'],...(hasHolds()?[['holdings','◆ Holdings web']]:[]),['owns','Owns'],['invests','Invests'],['supplies','Supplies'],['customer','Customers'],['rival','Rivals'],['partner','Partners']];
-  const fbar=`<div class="netf">${modes.map(([k,l])=>`<button class="nfb${k==netMode?' on':''}" onclick="setNetMode('${k}')">${l}</button>`).join('')}</div>`;
-  // caption: most connected + biggest supplier
-  const topConn=Object.entries(deg).sort((a,b)=>b[1]-a[1]).slice(0,5).map(([k,n])=>`<b>${esc(k)}</b> (${n})`).join(', ');
-  const topSup=Object.entries(supc).sort((a,b)=>b[1]-a[1]).slice(0,3).map(([k,n])=>`<b>${esc(k)}</b> (${n})`).join(', ');
-  if(!edges.length)return fbar+`<div class="note">No <b>${netMode}</b> links in ${VLABEL[cur]}.</div>`;
-  const nodes={}; const add=id=>{if(!nodes[id])nodes[id]={id,ext:!comps[id],c:comps[id]};};
-  edges.forEach(e=>{add(e[0]);add(e[1]);});
-  const ids=Object.keys(nodes), n=ids.length;
-  function tierOf(id){const c=comps[id]; return c?(c.tier||9):9;}
-  ids.sort((a,b)=>tierOf(a)-tierOf(b) || (deg[b]||0)-(deg[a]||0) || a.localeCompare(b));
-  const S=Math.max(560,Math.min(1180,360+n*14)), W=S, H=S, cx=W/2, cy=H/2, R=S/2-92;
-  ids.forEach((id,i)=>{const ang=-Math.PI/2 + i/n*2*Math.PI; nodes[id].x=cx+Math.cos(ang)*R; nodes[id].y=cy+Math.sin(ang)*R; nodes[id].ang=ang;});
-  const TY={owns:'#7c3aed',invests:'#1d4ed8',supplies:'#0891b2',customer:'#16a34a',rival:'#dc2626',partner:'#d97706',jv:'#d97706',deploys:'#16a34a',holding:'#64748b','spun-from':'#64748b'};
-  const el=edges.map(e=>{const A=nodes[e[0]],B=nodes[e[1]]; if(!A||!B)return ''; const mx=(A.x+B.x)/2,my=(A.y+B.y)/2, cpx=mx+(cx-mx)*0.55, cpy=my+(cy-my)*0.55;
-    return `<path d="M${A.x.toFixed(0)} ${A.y.toFixed(0)} Q${cpx.toFixed(0)} ${cpy.toFixed(0)} ${B.x.toFixed(0)} ${B.y.toFixed(0)}" fill="none" stroke="${TY[e[2]]||'#cbd5e1'}" stroke-width="1.3" opacity=".5"/>`;}).join('');
-  const nd=ids.map(id=>{const N=nodes[id],c=N.c,dg=deg[id]||1, r=Math.max(4,Math.min(12,4+dg*0.7));
-    const right=Math.cos(N.ang)>=0, lx=N.x+Math.cos(N.ang)*(r+5), ly=N.y+Math.sin(N.ang)*(r+5)+3, anc=right?'start':'end', col=N.ext?'#94a3b8':(EXPC[c.exp]||'#999');
-    return `<g class="bub" onclick="${N.ext?'':`openDrill('${id}')`}"><circle cx="${N.x.toFixed(0)}" cy="${N.y.toFixed(0)}" r="${r.toFixed(0)}" fill="${col}33" stroke="${col}" stroke-width="1.6"/><text class="lbl" x="${lx.toFixed(0)}" y="${ly.toFixed(0)}" font-size="9.5" text-anchor="${anc}" fill="${N.ext?'#64748b':'#0f172a'}">${esc(id)}</text></g>`;}).join('');
-  const leg=Object.entries(TY).filter(([k])=>TYP.includes(k)).map(([k,c])=>`<span style="color:${c};font-weight:700">— ${k}</span>`).join('  ');
-  const cap=`<div class="note">Relationship wheel — companies on the ring (grouped by value-chain tier), links drawn as chords. Bubble size = number of connections. <b>Most connected:</b> ${topConn}. <b>Biggest supplier:</b> ${topSup||'—'}. Click a company to drill in.<div style="margin-top:5px;font-size:10.5px">${leg}</div></div>`;
-  return fbar+cap+`<div class="maptools"><span class="mut">Scroll to zoom · drag to pan</span><button class="pbtn" onclick="resetPZ()">Reset view</button></div>`+svgWrap(W,H,el+nd);
+  const rels=(DATA.relationships||[]);
+  const deg={}; rels.forEach(x=>{deg[x[0]]=(deg[x[0]]||0)+1;deg[x[1]]=(deg[x[1]]||0)+1;});
+  const cand=Object.keys(comps).filter(t=>deg[t]).sort((a,b)=>(deg[b]||0)-(deg[a]||0)||a.localeCompare(b));
+  if(!cand.length)return '<div class="note">No mapped relationships for this sector yet.</div>';
+  let focus=(netFocus&&deg[netFocus])?netFocus:cand[0];
+  const seen={}; const nbrs=[];
+  rels.forEach(x=>{let other=null,ty=x[2];
+    if(x[0]===focus)other=x[1]; else if(x[1]===focus)other=x[0];
+    if(other&&!seen[other+'|'+ty]){seen[other+'|'+ty]=1;nbrs.push({id:other,t:ty});}});
+  const pick=`<div class="netpick"><label>Center on <select onchange="setNetFocus(this.value)">${cand.map(t=>`<option value="${t}" ${t===focus?'selected':''}>${t} — ${esc((comps[t]||{}).n||t)} (${deg[t]} links)</option>`).join('')}</select></label></div>`;
+  const types=[...new Set(nbrs.map(x=>x.t))];
+  const leg=types.map(ty=>`<span class="netleg" style="color:${ET[ty]||'#64748b'}">\u2014 ${TYNAME[ty]||ty}</span>`).join(' ');
+  const W=940,H=640,cx=W/2,cy=H/2,N=nbrs.length||1,R=Math.min(cx,cy)-130;
+  nbrs.sort((a,b)=>(a.t).localeCompare(b.t)||a.id.localeCompare(b.id));
+  let es='',ns='';
+  nbrs.forEach((nb,i)=>{const ang=-Math.PI/2+i/N*2*Math.PI;const x=cx+Math.cos(ang)*R,y=cy+Math.sin(ang)*R;
+    es+=`<line x1="${cx}" y1="${cy}" x2="${x.toFixed(0)}" y2="${y.toFixed(0)}" stroke="${ET[nb.t]||'#94a3b8'}" stroke-width="1.7" opacity=".6"/>`;
+    const isco=!!comps[nb.id];const col=isco?(EXPC[comps[nb.id].exp]||'#64748b'):'#94a3b8';
+    const right=Math.cos(ang)>=0,lx=x+Math.cos(ang)*11,ly=y+Math.sin(ang)*11+3,anc=right?'start':'end';
+    ns+=`<g class="bub" onclick="netNode('${nb.id}')"><circle cx="${x.toFixed(0)}" cy="${y.toFixed(0)}" r="7" fill="${col}33" stroke="${col}" stroke-width="1.7"/><text x="${lx.toFixed(0)}" y="${ly.toFixed(0)}" font-size="10" text-anchor="${anc}" fill="${isco?'#0f172a':'#64748b'}">${esc(nb.id)}</text></g>`;});
+  const fc=comps[focus];const ccol=fc?(EXPC[fc.exp]||'#1d4ed8'):'#1d4ed8';
+  const center=`<g><circle cx="${cx}" cy="${cy}" r="24" fill="${ccol}22" stroke="${ccol}" stroke-width="2.4"/><text x="${cx}" y="${cy-1}" font-size="13" font-weight="800" text-anchor="middle" fill="#0f172a">${esc(focus)}</text><text x="${cx}" y="${cy+13}" font-size="8.5" text-anchor="middle" fill="#64748b">${esc(((fc&&fc.n)||'').slice(0,24))}</text></g>`;
+  const openbtn=fc?`<button class="pbtn" onclick="openDrill('${focus}')">\u2922 Open ${focus} drilldown</button>`:'';
+  const cap=`<div class="note"><b>${esc(focus)}</b>${fc?` — ${esc(fc.n)}`:''}: <b>${N}</b> direct connection${N!==1?'s':''}. Click any node to re-center on it; line colour = relationship type. ${openbtn}<div style="margin-top:6px;font-size:10.5px">${leg}</div></div>`;
+  return pick+cap+`<div class="maptools"><span class="mut">Scroll to zoom · drag to pan</span><button class="pbtn" onclick="resetPZ()">Reset view</button></div>`+svgWrap(W,H,es+ns+center);
 }
 function renderTreemap(){
   const W=1000,H=560; const rows=visible().filter(([t,c])=>c.mc>0);
@@ -453,7 +448,7 @@ function applyPreset(k){
 }
 function renderCompare(){
   const sel=cmp.map((t,i)=>({t,c:findCo(t),color:CC[i]})).filter(x=>x.c);
-  const legend=sel.length?sel.map(x=>`<span class="lg" style="--c:${x.color}">${x.t}<button onclick="toggleCmp('${x.t}')">×</button></span>`).join(''):'<span class="mut">none selected</span>';
+  const legend=sel.length?sel.map(x=>`<span class="lg" style="--c:${x.color}">${x.t} <button class="lgopen" title="Open drilldown" onclick="openDrill('${x.t}')">\u2197</button><button onclick="toggleCmp('${x.t}')">×</button></span>`).join(''):'<span class="mut">none selected</span>';
   // picker: current vertical, filtered by search
   const pick=visible().map(([t,c])=>`<span class="pchip${inCmp(t)?' on':''}" onclick="toggleCmp('${t}')" title="${esc(c.n)}">${t}</span>`).join('');
   const radar=sel.length?radarMulti(sel):'<div class="mut" style="padding:40px;text-align:center">Pick up to 5 names below (or use ＋ Add to compare in any drilldown).</div>';
@@ -572,6 +567,7 @@ function drill(t,c){
       <div class="dn">${esc(c.n)} · <span class="mut">${esc(c.seg||'')}</span>${c.conf==='est'?' <span class="estbadge" title="figures are estimates">est</span>':''}</div>${c.valnote?`<div class="vnote">Valuation basis: ${esc(c.valnote)}</div>`:''}</div>
     <button class="cmpbtn ${WATCH.has(t)?'starred':''}" onclick="toggleWatch('${t}')">${WATCH.has(t)?'★ Focused':'☆ Focus'}</button> <button class="cmpbtn" onclick="toggleCmp('${t}')">${inCmp(t)?'✓ In compare':'＋ Add to compare'}</button> <button class="cmpbtn alt" onclick="exportSingle('${t}')">⤓ Export PDF</button>
     ${hold}
+    ${c.plain?`<div class="plain"><div class="sh">What it does</div><p>${esc(c.plain)}</p></div>`:''}
     ${c.pub?`<div class="repsec" style="margin-top:10px">Latest news <span class="src">${liveOn?'MT Newswires':'Yahoo Finance'}</span></div><div id="drillnews" class="mut" style="font-size:11px">${liveOn?'loading…':((c.news&&c.news.length)?c.news.slice(0,5).map(a=>`<div class="dnews"><span class="ndate">${esc(a.pub||'')}${a.pub&&a.date?' · ':''}${esc(a.date||'')}</span><div class="dnh"><a href="${a.link}" target="_blank" rel="noopener">${esc(a.h||'')}</a></div></div>`).join(''):'No recent headlines.')}</div>`:''}
     <div class="dgrid">${stats}</div>
     <div class="drow">${street}${ep}</div>
@@ -580,8 +576,10 @@ function drill(t,c){
       <div class="dcol"><div class="sh">Scorecard</div>${radar}
         <div class="sh">What to watch</div><ul>${watch||'<li class=mut>—</li>'}</ul>
         ${cats?`<div class="sh">Catalysts</div><ul>${cats}</ul>`:''}</div>
-    </div>${renderThesis(t,c)}${drillAwards(c)}${drillNotes(t)}`;
+    </div>${futureBlock(c)}${takeBlock(c)}${renderThesis(t,c)}${drillAwards(c)}${drillNotes(t)}`;
 }
+function futureBlock(c){if(!c.futuretext&&!(c.fchips&&c.fchips.length))return '';const chips=(c.fchips||[]).map(s=>{const i=s.indexOf(':');const lab=i>0?s.slice(0,i):'';const val=i>0?s.slice(i+1):s;return `<span class="fchip">${lab?`<b>${esc(lab)}:</b> `:''}${esc(val.trim())}</span>`;}).join('');return `<div class="future"><div class="sh fh">\u25c6 Future potential</div>${c.futuretext?`<p>${esc(c.futuretext)}</p>`:''}${chips?`<div class="frow">${chips}</div>`:''}</div>`;}
+function takeBlock(c){if(!c.take)return '';return `<div class="take"><div class="sh th">My take</div><p>${esc(c.take)}</p></div>`;}
 function radarSVG(sc){
   if(!sc)return '<div class=mut>—</div>';
   const labs=['Growth','Margin','Health','Value','Exposure'],cx=110,cy=95,R=70;
