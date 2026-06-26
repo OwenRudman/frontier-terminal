@@ -5788,6 +5788,18 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/alphabet-makes-the-dow-look-more-like-the-nasdaq-155236659.html",
        "date": "2026-06-24"
+      },
+      {
+       "h": "Here is Why Tesla (TSLA) is One of the Best Stocks For Beginners to Buy Now",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-best-080649654.html",
+       "date": "2026-06-26"
+      },
+      {
+       "h": "3 Profitable Stocks We Keep Off Our Radar",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-keep-off-064025806.html",
+       "date": "2026-06-26"
       }
      ],
      "awards": [
@@ -7014,16 +7026,16 @@
        "date": "2026-06-25"
       },
       {
-       "h": "Qualcomm raises data center outlook on AI demand",
+       "h": "Qualcomm CFO talks Modular acquisition's significance for AI data centers",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/qualcomm-raises-data-center-outlook-165000920.html",
+       "link": "https://finance.yahoo.com/video/qualcomm-cfo-talks-modular-acquisitions-160500980.html",
        "date": "2026-06-25"
       },
       {
-       "h": "BB Stock Eyes Weekly Gain: BlackBerry CEO Says Alloy Kore Could Unlock Higher Software Revenue",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-eyes-weekly-gain-073806475.html",
-       "date": "2026-06-26"
+       "h": "Qualcomm's 'next phase' is AI rack infrastructure: CFO",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/qualcomms-next-phase-ai-rack-145505993.html",
+       "date": "2026-06-25"
       }
      ],
      "awards": [
@@ -14664,6 +14676,12 @@
      "social": null,
      "news": [
       {
+       "h": "The Portfolio That Buys You A New Car Every Three Years",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-buys-car-every-three-091217102.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Cerebras Stock Offers a Clear Warning that Highly Anticipated IPOs from OpenAI and Anthropic Could Crash Back to Earth Fast",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-offers-clear-warning-200345721.html",
@@ -14673,12 +14691,6 @@
        "h": "Forget XLU. The Grid Fund Actually Powering the AI Boom Is Up 23% in 2026",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-xlu-grid-fund-actually-153652208.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Mizuho Says Duke Energy (DUK) Can Execute Despite Near-Term Regulatory Challenges",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/energy/articles/mizuho-says-duke-energy-duk-032854783.html",
        "date": "2026-06-25"
       }
      ],
@@ -14840,6 +14852,12 @@
      },
      "news": [
       {
+       "h": "The Portfolio That Buys You A New Car Every Three Years",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-buys-car-every-three-091217102.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "The Portfolio That Quietly Pays For Your Midlife Crisis Car",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-quietly-pays-midlife-crisis-192320101.html",
@@ -14849,12 +14867,6 @@
        "h": "Customer Growth and Strategic Investments Drive OGS' Performance",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/customer-growth-strategic-investments-drive-160800204.html",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "The Dividend Growth Path That Turns A $50,000 Income Stream Into More Than $100,000",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-growth-path-turns-50-155354274.html",
        "date": "2026-06-25"
       }
      ],
@@ -17628,23 +17640,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Apple Is Paying Google $1 Billion a Year for AI. Here's Who the Real Winner Is.",
+   "h": "Nvidia Stock Hasn't Been This Cheap in 7 Years. Is This the Ultimate Buying Opportunity?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/apple-paying-google-1-billion-083500443.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-hasnt-cheap-7-092400732.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "DUK",
+   "h": "The Portfolio That Buys You A New Car Every Three Years",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-buys-car-every-three-091217102.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "NEE",
+   "h": "The Portfolio That Buys You A New Car Every Three Years",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-buys-car-every-three-091217102.html",
    "date": "2026-06-26"
   },
   {
    "tk": "QCOM",
-   "h": "BB Stock Eyes Weekly Gain: BlackBerry CEO Says Alloy Kore Could Unlock Higher Software Revenue",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bb-stock-eyes-weekly-gain-073806475.html",
+   "h": "U.S. chip stocks retreat after Apple price hikes stoke fears over AI trade",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-retreat-apple-090027845.html",
    "date": "2026-06-26"
   },
   {
-   "tk": "QCOM",
-   "h": "QCOM Stock Eyes Worst Month In 7 Years: Analyst Says MSFT, GOOG May Be Behind Qualcomm\u2019s AI Momentum",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-eyes-worst-month-071402299.html",
+   "tk": "TSLA",
+   "h": "Here is Why Tesla (TSLA) is One of the Best Stocks For Beginners to Buy Now",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-one-best-080649654.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "3 Profitable Stocks We Keep Off Our Radar",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-profitable-stocks-keep-off-064025806.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Here's How Much You'd Have Today If You Had Invested $10,000 in Tesla the Day Before It Completed Its Last 3-for-1 Stock Split.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-today-had-062500817.html",
    "date": "2026-06-26"
   },
   {
@@ -17877,35 +17917,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/spacex-stock-bond-rating-starbase-brewing-starlink-rocket-lab-lockheed-martin-l3harris/?src=A00220&yptr=yahoo",
    "date": "2026-06-25"
-  },
-  {
-   "tk": "LHX",
-   "h": "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-stock-recent-200727208.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "DPRO",
-   "h": "EXCLUSIVE: Draganfly Secures Major IACLEA Win To Expand Campus Drone Programs Nationwide",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/articles/exclusive-draganfly-secures-major-iaclea-120104662.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "DUK",
-   "h": "Cerebras Stock Offers a Clear Warning that Highly Anticipated IPOs from OpenAI and Anthropic Could Crash Back to Earth Fast",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cerebras-stock-offers-clear-warning-200345721.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "BWXT",
-   "h": "Micron\u2019s Blowout Sparked a Chip Rally, but the Smart Money Is Already Rotating Into Defense and Space",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-blowout-sparked-chip-rally-195034715.html",
-   "date": "2026-06-25"
   }
  ],
- "prices_asof": "2026-06-26 08:49 UTC"
+ "prices_asof": "2026-06-26 09:36 UTC"
 }
