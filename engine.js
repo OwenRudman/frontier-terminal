@@ -538,9 +538,10 @@ function openDrill(t){
   const c=CO()[t]; if(!c)return;
   document.getElementById('drillbody').innerHTML=drill(t,c);
   document.getElementById('drill').classList.add('open');
+  let bk=document.getElementById('drillback'); if(!bk){bk=document.createElement('div');bk.id='drillback';bk.onclick=closeDrill;bk.style.cssText='position:fixed;inset:0;background:rgba(10,14,20,.22);z-index:49';document.body.appendChild(bk);} bk.style.display='block';
   if(c.pub){fetchLive([t]);drillNews(t);}
 }
-function closeDrill(){document.getElementById('drill').classList.remove('open');}
+function closeDrill(){document.getElementById('drill').classList.remove('open');const bk=document.getElementById('drillback');if(bk)bk.style.display='none';}
 function stat(l,v){return `<div class="st"><div class="stl">${l}</div><div class="stv">${v}</div></div>`;}
 function drill(t,c){
   const e=ev(c);
