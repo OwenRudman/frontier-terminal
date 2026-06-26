@@ -816,8 +816,8 @@
      "social": {
       "m": 3,
       "m0": 4,
-      "rk": 189,
-      "up": 17
+      "rk": 196,
+      "up": 18
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 266,
-      "m0": 214,
+      "m": 265,
+      "m0": 216,
       "rk": 5,
-      "up": 902
+      "up": 904
      },
      "thesis": {
       "bull": [
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 2,
+      "rk": 246,
+      "up": 16
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 81,
-      "m0": 33,
-      "rk": 17,
-      "up": 250
+      "m": 84,
+      "m0": 34,
+      "rk": 16,
+      "up": 247
      },
      "thesis": {
       "bull": [
@@ -1804,6 +1809,12 @@
      ],
      "news": [
       {
+       "h": "Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe \u2014 Trims Palantir Short",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Stock Market Today, June 25: Micron Surges, Apple Falls, and Inflation Data Weighs on Stocks",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-25-212434350.html",
@@ -1813,12 +1824,6 @@
        "h": "Palantir Stock Nears Fresh Low",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/palantir-stock-nears-new-low-7ba7feab?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Palantir Partnership Gets Positive sell-side View",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-partnership-gets-positive-needham-185058608.html",
        "date": "2026-06-25"
       }
      ]
@@ -2029,7 +2034,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 435,
+      "rk": 512,
       "up": 9
      },
      "thesis": {
@@ -2314,7 +2319,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 327,
+      "rk": 404,
       "up": 4
      },
      "streetNotes": [
@@ -2463,7 +2468,7 @@
      "social": {
       "m": 3,
       "m0": 2,
-      "rk": 172,
+      "rk": 177,
       "up": 10
      },
      "thesis": {
@@ -2803,10 +2808,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 4,
       "m0": 3,
-      "rk": 187,
-      "up": 17
+      "rk": 154,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -3973,7 +3978,7 @@
      "social": {
       "m": 15,
       "m0": 23,
-      "rk": 54,
+      "rk": 53,
       "up": 37
      },
      "thesis": {
@@ -4316,7 +4321,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 546,
+      "rk": 624,
       "up": 2
      },
      "awards": [
@@ -5665,6 +5670,12 @@
      "social": null,
      "news": [
       {
+       "h": "Stellantis (BIT:STLAM) Expands Into Robotaxis While Dodge Reaches Further With Under Armour",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-expands-robotaxis-001450645.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Trading At 52-Week Lows, Pony AI (PONY) Stock Could More Than Double From Here According To Analysts",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/trading-52-week-lows-pony-152427072.html",
@@ -5675,12 +5686,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-pony-ai-190359393.html",
        "date": "2026-06-20"
-      },
-      {
-       "h": "Wall Street Analysts See a 170.19% Upside in Pony AI Inc. - Sponsored ADR (PONY): Can the Stock Really Move This High?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-170-135502732.html",
-       "date": "2026-06-16"
       }
      ]
     },
@@ -5719,7 +5724,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 315,
+      "up": 0
+     },
      "news": [
       {
        "h": "Uber (UBER) Stock Trades Up, Here Is Why",
@@ -5777,10 +5787,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 52,
+      "m": 51,
       "m0": 28,
       "rk": 22,
-      "up": 87
+      "up": 83
      },
      "awards": [
       {
@@ -5865,10 +5875,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
+      "m": 8,
       "m0": 9,
-      "rk": 100,
-      "up": 5
+      "rk": 93,
+      "up": 7
      },
      "awards": [
       {
@@ -5955,7 +5965,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 511,
+      "rk": 589,
       "up": 2
      },
      "news": [
@@ -7013,10 +7023,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 27,
-      "rk": 45,
-      "up": 75
+      "m": 18,
+      "m0": 28,
+      "rk": 47,
+      "up": 72
      },
      "awards": [
       {
@@ -8014,10 +8024,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 116,
+      "m": 113,
       "m0": 130,
       "rk": 13,
-      "up": 754
+      "up": 759
      },
      "thesis": {
       "bull": [
@@ -8317,7 +8327,7 @@
      "social": {
       "m": 1,
       "m0": 3,
-      "rk": 572,
+      "rk": 650,
       "up": 2
      },
      "streetNotes": [
@@ -8499,10 +8509,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 5,
-      "rk": 237,
-      "up": 13
+      "rk": 192,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -8764,7 +8774,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 4,
+      "rk": 276,
+      "up": 1
+     },
      "news": [
       {
        "h": "This Space Stock Has Won Two Contracts This Week \u2013 A Look At The Key Details",
@@ -8914,10 +8929,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 7,
       "m0": 12,
-      "rk": 112,
-      "up": 13
+      "rk": 106,
+      "up": 14
      },
      "streetNotes": [
       {
@@ -9258,10 +9273,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 172,
-      "m0": 101,
+      "m": 174,
+      "m0": 100,
       "rk": 8,
-      "up": 5521
+      "up": 5545
      },
      "thesis": {
       "bull": [
@@ -9725,7 +9740,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 502,
+      "rk": 580,
       "up": 1
      },
      "awards": [
@@ -10138,10 +10153,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 32,
+      "m": 22,
+      "m0": 33,
       "rk": 42,
-      "up": 69
+      "up": 68
      },
      "awards": [
       {
@@ -10225,7 +10240,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 2,
+      "rk": 264,
+      "up": 2
+     },
      "news": [
       {
        "h": "Infleqtion (INFQ) Is Up 19.3% After Launching Quantum Space Initiative With Key US Partners",
@@ -10294,8 +10314,8 @@
      "social": {
       "m": 3,
       "m0": 0,
-      "rk": 159,
-      "up": 8
+      "rk": 165,
+      "up": 10
      },
      "streetNotes": [
       {
@@ -10404,7 +10424,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 327,
+      "rk": 404,
       "up": 4
      },
      "streetNotes": [
@@ -10505,7 +10525,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 257,
+      "rk": 334,
       "up": 1
      },
      "awards": [
@@ -10593,7 +10613,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 546,
+      "rk": 624,
       "up": 2
      },
      "awards": [
@@ -10773,7 +10793,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 316,
+      "rk": 393,
       "up": 1
      },
      "streetNotes": [
@@ -10955,10 +10975,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 81,
-      "m0": 33,
-      "rk": 17,
-      "up": 250
+      "m": 84,
+      "m0": 34,
+      "rk": 16,
+      "up": 247
      },
      "awards": [
       {
@@ -10988,6 +11008,12 @@
      ],
      "news": [
       {
+       "h": "Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe \u2014 Trims Palantir Short",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Stock Market Today, June 25: Micron Surges, Apple Falls, and Inflation Data Weighs on Stocks",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-25-212434350.html",
@@ -10997,12 +11023,6 @@
        "h": "Palantir Stock Nears Fresh Low",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/palantir-stock-nears-new-low-7ba7feab?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-06-25"
-      },
-      {
-       "h": "Palantir Partnership Gets Positive sell-side View",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-partnership-gets-positive-needham-185058608.html",
        "date": "2026-06-25"
       }
      ]
@@ -11046,7 +11066,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 661,
+      "rk": 737,
       "up": 1
      },
      "news": [
@@ -12088,7 +12108,7 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 218,
+      "rk": 219,
       "up": 3
      },
      "news": [
@@ -12281,7 +12301,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 516,
+      "rk": 594,
       "up": 2
      },
      "news": [
@@ -12402,8 +12422,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 515,
-      "up": 1
+      "rk": 593,
+      "up": 3
      },
      "awards": [
       {
@@ -12486,7 +12506,7 @@
       "m": 22,
       "m0": 30,
       "rk": 41,
-      "up": 81
+      "up": 85
      },
      "news": [
       {
@@ -13071,10 +13091,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 4,
       "m0": 1,
-      "rk": 192,
-      "up": 12
+      "rk": 159,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -13256,6 +13276,12 @@
      ],
      "news": [
       {
+       "h": "Oklo Is Using AI to Design Nuclear Reactors Faster. Here's Why OKLO Stock Deserves a Second Look.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/oklo-using-ai-design-nuclear-002500669.html",
+       "date": "2026-06-26"
+      },
+      {
        "h": "Top Stock Reports for JPMorgan, Novartis & Qualcomm",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-jpmorgan-novartis-203300577.html",
@@ -13265,12 +13291,6 @@
        "h": "Why Oklo Stock Keeps Going Down",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-keeps-going-155025712.html",
-       "date": "2026-06-24"
-      },
-      {
-       "h": "Agility Robotics goes public with Churchill Capital SPAC merger",
-       "pub": "Quartz",
-       "link": "https://finance.yahoo.com/technology/articles/agility-robotics-goes-public-churchill-140537469.html",
        "date": "2026-06-24"
       }
      ]
@@ -13314,7 +13334,7 @@
      "social": {
       "m": 5,
       "m0": 3,
-      "rk": 129,
+      "rk": 132,
       "up": 10
      },
      "news": [
@@ -13374,7 +13394,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 299,
+      "up": 1
+     },
      "awards": [
       {
        "amt": 1248598.0,
@@ -13727,7 +13752,7 @@
      "social": {
       "m": 1,
       "m0": 2,
-      "rk": 467,
+      "rk": 545,
       "up": 4
      },
      "streetNotes": [
@@ -13801,7 +13826,7 @@
      "social": {
       "m": 5,
       "m0": 2,
-      "rk": 132,
+      "rk": 117,
       "up": 3
      },
      "awards": [
@@ -13972,7 +13997,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 584,
+      "rk": 662,
       "up": 5
      },
      "awards": [
@@ -14351,7 +14376,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 462,
+      "rk": 540,
       "up": 1
      },
      "awards": [
@@ -14436,7 +14461,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 323,
+      "up": 1
+     },
      "awards": [
       {
        "amt": 455434.62,
@@ -14670,7 +14700,7 @@
      "social": {
       "m": 12,
       "m0": 4,
-      "rk": 59,
+      "rk": 61,
       "up": 74
      },
      "awards": [
@@ -14758,7 +14788,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 359,
+      "rk": 437,
       "up": 1
      },
      "awards": [
@@ -14846,7 +14876,7 @@
      "social": {
       "m": 4,
       "m0": 2,
-      "rk": 140,
+      "rk": 142,
       "up": 57
      },
      "news": [
@@ -14908,7 +14938,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 289,
+      "rk": 366,
       "up": 6
      },
      "awards": [
@@ -15077,12 +15107,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 733,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "URA vs. URNM: Which Uranium ETF Best Plays the Nuclear Boom?",
@@ -17521,13 +17546,34 @@
    ]
   }
  ],
- "prices_asof": "2026-06-26 00:16 UTC",
+ "prices_asof": "2026-06-26 00:32 UTC",
  "news": [
   {
    "tk": "NVDA",
-   "h": "Leopold Aschenbrenner\u2019s Situational Awareness Top Crypto and AI Stock Pick You Shouldn\u2019t Miss",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leopold-aschenbrenner-situational-awareness-top-001022170.html",
+   "h": "Oklo Is Using AI to Design Nuclear Reactors Faster. Here's Why OKLO Stock Deserves a Second Look.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/oklo-using-ai-design-nuclear-002500669.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Oklo Is Using AI to Design Nuclear Reactors Faster. Here's Why OKLO Stock Deserves a Second Look.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/oklo-using-ai-design-nuclear-002500669.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "PONY",
+   "h": "Stellantis (BIT:STLAM) Expands Into Robotaxis While Dodge Reaches Further With Under Armour",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-bit-stlam-expands-robotaxis-001450645.html",
+   "date": "2026-06-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Michael Burry Buys Long-Dated Microsoft Calls, Adds To JD And Adobe \u2014 Trims Palantir Short",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-buys-long-dated-000610362.html",
    "date": "2026-06-26"
   },
   {
@@ -17780,27 +17826,6 @@
    "h": "3 Reasons Contrarians Should Target MP Materials Stock",
    "pub": "Schaeffer's Investment Research",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-contrarians-target-mp-184739086.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Cathie Wood Snaps $9.5 Million on Palantir Stock During Market Selloff",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-snaps-9-5-184618988.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "ARKX",
-   "h": "Forget SPCX: As Continuous Volatility Shakes Tech, This $34 Exchange-Traded Fund Is a No-Brainer Buy Without The Post-IPO Risk",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spcx-continuous-volatility-shakes-181757631.html",
-   "date": "2026-06-25"
-  },
-  {
-   "tk": "ASPI",
-   "h": "Top Midday Decliners",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-181441223.html",
    "date": "2026-06-25"
   }
  ]
