@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 269,
-      "m0": 212,
+      "m": 266,
+      "m0": 214,
       "rk": 5,
-      "up": 926
+      "up": 902
      },
      "thesis": {
       "bull": [
@@ -1591,7 +1591,7 @@
      "geo": "US",
      "social": {
       "m": 81,
-      "m0": 34,
+      "m0": 33,
       "rk": 17,
       "up": 250
      },
@@ -5866,8 +5866,8 @@
      "geo": "US",
      "social": {
       "m": 7,
-      "m0": 8,
-      "rk": 102,
+      "m0": 9,
+      "rk": 100,
       "up": 5
      },
      "awards": [
@@ -7014,9 +7014,9 @@
      "geo": "US",
      "social": {
       "m": 19,
-      "m0": 24,
+      "m0": 27,
       "rk": 45,
-      "up": 76
+      "up": 75
      },
      "awards": [
       {
@@ -8015,9 +8015,9 @@
      "geo": "US",
      "social": {
       "m": 116,
-      "m0": 133,
+      "m0": 130,
       "rk": 13,
-      "up": 753
+      "up": 754
      },
      "thesis": {
       "bull": [
@@ -8916,7 +8916,7 @@
      "social": {
       "m": 6,
       "m0": 12,
-      "rk": 114,
+      "rk": 112,
       "up": 13
      },
      "streetNotes": [
@@ -10956,7 +10956,7 @@
      "geo": "US",
      "social": {
       "m": 81,
-      "m0": 34,
+      "m0": 33,
       "rk": 17,
       "up": 250
      },
@@ -13073,7 +13073,7 @@
      "social": {
       "m": 3,
       "m0": 1,
-      "rk": 191,
+      "rk": 192,
       "up": 12
      },
      "thesis": {
@@ -13314,7 +13314,7 @@
      "social": {
       "m": 5,
       "m0": 3,
-      "rk": 130,
+      "rk": 129,
       "up": 10
      },
      "news": [
@@ -13801,7 +13801,7 @@
      "social": {
       "m": 5,
       "m0": 2,
-      "rk": 133,
+      "rk": 132,
       "up": 3
      },
      "awards": [
@@ -14670,7 +14670,7 @@
      "social": {
       "m": 12,
       "m0": 4,
-      "rk": 62,
+      "rk": 59,
       "up": 74
      },
      "awards": [
@@ -14846,7 +14846,7 @@
      "social": {
       "m": 4,
       "m0": 2,
-      "rk": 142,
+      "rk": 140,
       "up": 57
      },
      "news": [
@@ -17521,14 +17521,14 @@
    ]
   }
  ],
- "prices_asof": "2026-06-26 00:03 UTC",
+ "prices_asof": "2026-06-26 00:16 UTC",
  "news": [
   {
    "tk": "NVDA",
-   "h": "Buying Your Own Sports Team (with Stocks)",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buying-own-sports-team-stocks-235849729.html",
-   "date": "2026-06-25"
+   "h": "Leopold Aschenbrenner\u2019s Situational Awareness Top Crypto and AI Stock Pick You Shouldn\u2019t Miss",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leopold-aschenbrenner-situational-awareness-top-001022170.html",
+   "date": "2026-06-26"
   },
   {
    "tk": "TSLA",
