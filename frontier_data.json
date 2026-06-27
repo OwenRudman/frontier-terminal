@@ -609,7 +609,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 3,
+      "rk": 785,
+      "up": 1
+     },
      "news": [
       {
        "h": "Could Buying These 3 Rare Earth Stocks Make You Rich?",
@@ -679,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 239,
+      "up": 2
+     },
      "news": [
       {
        "h": "Albemarle (ALB) Wins Analyst Upgrades As Lithium Expansion Story Gains Support",
@@ -808,12 +818,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 221,
-      "up": 7
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 230,
-      "m0": 275,
+      "m": 211,
+      "m0": 267,
       "rk": 5,
-      "up": 798
+      "up": 765
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1143,15 @@
        "date": "2026-06-26"
       },
       {
-       "h": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
+       "h": "The Biggest Risk to Nvidia's Stock Price That Almost Nobody Is Talking About",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-surefire-stocks-buy-dip-065000040.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-nvidias-stock-price-072000428.html",
        "date": "2026-06-27"
       },
       {
-       "h": "This 1 Investing Mistake Is Quietly Destroying Your Long-Term Returns. Here's What to Do Instead.",
+       "h": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-investing-mistake-quietly-destroying-062000590.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-surefire-stocks-buy-dip-065000040.html",
        "date": "2026-06-27"
       }
      ]
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 51,
-      "m0": 66,
-      "rk": 22,
-      "up": 214
+      "m": 23,
+      "m0": 97,
+      "rk": 30,
+      "up": 61
      },
      "thesis": {
       "bull": [
@@ -2032,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 399,
+      "rk": 381,
       "up": 2
      },
      "thesis": {
@@ -2325,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 313,
+      "rk": 303,
       "up": 3
      },
      "streetNotes": [
@@ -2480,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 158,
-      "up": 8
+      "m": 4,
+      "m0": 3,
+      "rk": 128,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2830,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 117,
-      "up": 13
+      "m": 2,
+      "m0": 4,
+      "rk": 212,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -3147,10 +3152,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 118,
-      "up": 19
+      "m": 3,
+      "m0": 1,
+      "rk": 169,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -3737,8 +3742,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 786,
+      "m0": 1,
+      "rk": 725,
       "up": 12
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4043,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 17,
-      "rk": 65,
-      "up": 21
+      "m": 9,
+      "m0": 14,
+      "rk": 68,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -4395,7 +4400,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 505,
+      "rk": 485,
       "up": 3
      },
      "news": [
@@ -5145,7 +5150,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6826701112.74,
+       "amt": 6828737104.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5864,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 49,
-      "rk": 26,
-      "up": 72
+      "m": 34,
+      "m0": 53,
+      "rk": 23,
+      "up": 83
      },
      "news": [
       {
@@ -5952,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 7,
-      "rk": 82,
-      "up": 20
+      "m": 10,
+      "m0": 6,
+      "rk": 57,
+      "up": 24
      },
      "news": [
       {
@@ -6042,7 +6047,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 476,
+      "rk": 456,
       "up": 1
      },
      "news": [
@@ -7101,9 +7106,9 @@
      "geo": "US",
      "social": {
       "m": 8,
-      "m0": 31,
-      "rk": 80,
-      "up": 20
+      "m0": 15,
+      "rk": 73,
+      "up": 18
      },
      "news": [
       {
@@ -7369,7 +7374,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 479,
+      "up": 1
+     },
      "news": [
       {
        "h": "Serve Robotics (SERV) Expands AI-Powered Robot Delivery Into Laundry Services Through NoScrubs Deal",
@@ -7752,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 40,
-      "rk": 20,
-      "up": 192
+      "m": 54,
+      "m0": 47,
+      "rk": 15,
+      "up": 254
      },
      "news": [
       {
@@ -8261,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 73,
-      "m0": 119,
-      "rk": 14,
-      "up": 375
+      "m": 52,
+      "m0": 109,
+      "rk": 16,
+      "up": 368
      },
      "thesis": {
       "bull": [
@@ -8564,8 +8574,8 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 193,
-      "up": 1
+      "rk": 197,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -8746,10 +8756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 213,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 796,
+      "up": -2
      },
      "thesis": {
       "bull": [
@@ -9161,9 +9171,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 6,
-      "rk": 99,
+      "m": 4,
+      "m0": 5,
+      "rk": 144,
       "up": 9
      },
      "streetNotes": [
@@ -9505,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 122,
-      "m0": 168,
-      "rk": 8,
-      "up": 1266
+      "m": 112,
+      "m0": 131,
+      "rk": 7,
+      "up": 1324
      },
      "thesis": {
       "bull": [
@@ -9748,8 +9758,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 769,
-      "up": 1
+      "rk": 711,
+      "up": 3
      },
      "news": [
       {
@@ -9833,7 +9843,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 447,
+      "up": 2
+     },
      "news": [
       {
        "h": "Forget Pouring Everything Into the SpaceX IPO. This Fund Spreads the Space Bet and Is Up 46% in a Year",
@@ -10385,10 +10400,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 24,
-      "rk": 74,
-      "up": 27
+      "m": 10,
+      "m0": 17,
+      "rk": 60,
+      "up": 32
      },
      "news": [
       {
@@ -10541,8 +10556,8 @@
      "social": {
       "m": 1,
       "m0": 3,
-      "rk": 243,
-      "up": 4
+      "rk": 234,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10651,7 +10666,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 313,
+      "rk": 303,
       "up": 3
      },
      "streetNotes": [
@@ -10760,8 +10775,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 238,
-      "up": 2
+      "rk": 230,
+      "up": 1
      },
      "news": [
       {
@@ -10848,7 +10863,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 505,
+      "rk": 485,
       "up": 3
      },
      "news": [
@@ -11036,7 +11051,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 304,
+      "rk": 295,
       "up": 1
      },
      "streetNotes": [
@@ -11218,10 +11233,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 51,
-      "m0": 66,
-      "rk": 22,
-      "up": 214
+      "m": 23,
+      "m0": 97,
+      "rk": 30,
+      "up": 61
      },
      "news": [
       {
@@ -11306,12 +11321,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 609,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Thematic ETFs a $300B Trap for Everyday Investors?",
@@ -12350,9 +12360,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 549,
-      "up": 2
+      "m0": 2,
+      "rk": 524,
+      "up": 1
      },
      "news": [
       {
@@ -12544,7 +12554,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 479,
+      "rk": 458,
       "up": 2
      },
      "news": [
@@ -12663,10 +12673,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 108,
-      "up": 56
+      "m": 1,
+      "m0": 3,
+      "rk": 457,
+      "up": 6
      },
      "news": [
       {
@@ -12746,10 +12756,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 24,
-      "rk": 51,
-      "up": 56
+      "m": 14,
+      "m0": 19,
+      "rk": 49,
+      "up": 61
      },
      "news": [
       {
@@ -13019,7 +13029,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 773,
+      "up": 1
+     },
      "news": [
       {
        "h": "1 Profitable Stock Worth Your Attention and 2 We Ignore",
@@ -13334,10 +13349,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 2,
-      "rk": 59,
-      "up": 74
+      "m": 7,
+      "m0": 7,
+      "rk": 92,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -13575,10 +13590,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 100,
-      "up": 17
+      "m": 4,
+      "m0": 6,
+      "rk": 145,
+      "up": 5
      },
      "news": [
       {
@@ -13990,7 +14005,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 428,
+      "rk": 411,
       "up": 2
      },
      "streetNotes": [
@@ -14351,7 +14366,7 @@
        "date": "2009-07-07"
       },
       {
-       "amt": 4465823660.16,
+       "amt": 4465824270.16,
        "ag": "Department of Energy",
        "desc": "PORTSMOUTH GASEOUS DIFFUSION PLANT DECONTAMINATION AND DECOMMISSIONING PROJECT",
        "date": "2010-08-16"
@@ -14518,12 +14533,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 218,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Constellation Energy (CEG) Files To Extend New York Reactor Licenses Through 2049",
@@ -14609,8 +14619,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 421,
-      "up": 1
+      "rk": 405,
+      "up": 2
      },
      "news": [
       {
@@ -14926,10 +14936,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 12,
-      "rk": 125,
-      "up": 14
+      "m": 5,
+      "m0": 10,
+      "rk": 111,
+      "up": 35
      },
      "news": [
       {
@@ -15016,7 +15026,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 341,
+      "rk": 329,
       "up": 1
      },
      "news": [
@@ -15102,10 +15112,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 185,
-      "up": 12
+      "m": 1,
+      "m0": 4,
+      "rk": 338,
+      "up": 11
      },
      "news": [
       {
@@ -15163,12 +15173,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 277,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Does Constellation Energy Stock Add A Different Kind of Risk?",
@@ -15337,9 +15342,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 676,
-      "up": 4
+      "m0": 1,
+      "rk": 633,
+      "up": 3
      },
      "news": [
       {
@@ -17528,7 +17533,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-06-26",
+ "social_asof": "2026-06-27",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17809,6 +17814,13 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "The Biggest Risk to Nvidia's Stock Price That Almost Nobody Is Talking About",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-nvidias-stock-price-072000428.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "NVDA",
    "h": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-surefire-stocks-buy-dip-065000040.html",
@@ -17833,13 +17845,6 @@
    "h": "China\u2019s May industrial profits slow as exports offset weak demand",
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/economy/articles/china-may-industrial-profits-slow-055608929.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "1 Brand New Big Green Flag for XRP (Ripple) in 2026 and Beyond",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/1-brand-big-green-flag-055000387.html",
    "date": "2026-06-27"
   },
   {
@@ -17945,13 +17950,6 @@
    "h": "What If The Real Power Behind Marvell Stock Isn't Just Growth?",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/real-power-behind-marvell-stock-222100199.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Energy Fuels (TSX:EFR) To Buy VAC In $1.9 Billion Rare Earth Magnet Deal",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-buy-220929036.html",
    "date": "2026-06-26"
   },
   {
@@ -18086,7 +18084,14 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
    "date": "2026-06-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "RKLB Stock Ends 5% Higher \u2014 Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-ends-5-higher-204517566.html",
+   "date": "2026-06-26"
   }
  ],
- "prices_asof": "2026-06-27 06:57 UTC"
+ "prices_asof": "2026-06-27 08:26 UTC"
 }
