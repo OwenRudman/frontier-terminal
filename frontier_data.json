@@ -682,6 +682,12 @@
      "social": null,
      "news": [
       {
+       "h": "Albemarle (ALB) Wins Analyst Upgrades As Lithium Expansion Story Gains Support",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-wins-analyst-upgrades-050603057.html",
+       "date": "2026-06-27"
+      },
+      {
        "h": "CMC Q3 Earnings Beat on Strong Core EBITDA & Segment Gains",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cmc-q3-earnings-beat-strong-132400317.html",
@@ -691,12 +697,6 @@
        "h": "SSR Mining Optimizes Portfolio With Copler Mine Stake Sale",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-optimizes-portfolio-copler-132100524.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "KWR Enhances China Operations With New Facility at Zhangjiagang",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/kwr-enhances-china-operations-facility-120200650.html",
        "date": "2026-06-26"
       }
      ],
@@ -1138,15 +1138,15 @@
        "date": "2026-06-26"
       },
       {
-       "h": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+       "h": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/135-154-tracking-spacexs-stock-033300680.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-surefire-stocks-buy-dip-065000040.html",
        "date": "2026-06-27"
       },
       {
-       "h": "Wedbush spots clear investor opportunities in tech stocks",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/articles/wedbush-spots-clear-investor-opportunities-030700638.html",
+       "h": "This 1 Investing Mistake Is Quietly Destroying Your Long-Term Returns. Here's What to Do Instead.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-investing-mistake-quietly-destroying-062000590.html",
        "date": "2026-06-27"
       }
      ]
@@ -6047,6 +6047,12 @@
      },
      "news": [
       {
+       "h": "China\u2019s May industrial profits slow as exports offset weak demand",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/articles/china-may-industrial-profits-slow-055608929.html",
+       "date": "2026-06-27"
+      },
+      {
        "h": "Baidu Inc. (BIDU) Declines More Than Market: Some Information for Investors",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-declines-more-214502011.html",
@@ -6057,12 +6063,6 @@
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-slides-16-month-low-032858399.html",
        "date": "2026-06-25"
-      },
-      {
-       "h": "Should You Buy Baidu Inc. (BIDU)\u2019s Shares?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-baidu-inc-bidu-shares-185924322.html",
-       "date": "2026-06-24"
       }
      ]
     },
@@ -8472,6 +8472,12 @@
      ],
      "news": [
       {
+       "h": "Does Rocket Lab (RKLB) Becoming NASA\u2019s Go\u2011To Small Launcher Reframe Its Risk\u2011Reward Profile?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-lab-rklb-becoming-060731115.html",
+       "date": "2026-06-27"
+      },
+      {
        "h": "Why Is Rocket Lab (RKLB) Stock Soaring Today",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-stock-223225596.html",
@@ -8481,12 +8487,6 @@
        "h": "RKLB Stock Alert: Rocket Lab Reaches New Milestone With 10th Consecutive Successful Launch",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-alert-rocket-lab-211554272.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "RKLB Stock Ends 5% Higher \u2014 Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-ends-5-higher-204517566.html",
        "date": "2026-06-26"
       }
      ],
@@ -17809,16 +17809,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+   "h": "3 Surefire Stocks to Buy on the Dip and Hold for a Decade",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/135-154-tracking-spacexs-stock-033300680.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-surefire-stocks-buy-dip-065000040.html",
    "date": "2026-06-27"
   },
   {
    "tk": "NVDA",
-   "h": "Wedbush spots clear investor opportunities in tech stocks",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/wedbush-spots-clear-investor-opportunities-030700638.html",
+   "h": "This 1 Investing Mistake Is Quietly Destroying Your Long-Term Returns. Here's What to Do Instead.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-investing-mistake-quietly-destroying-062000590.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Does Rocket Lab (RKLB) Becoming NASA\u2019s Go\u2011To Small Launcher Reframe Its Risk\u2011Reward Profile?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-lab-rklb-becoming-060731115.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "BIDU",
+   "h": "China\u2019s May industrial profits slow as exports offset weak demand",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/articles/china-may-industrial-profits-slow-055608929.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "1 Brand New Big Green Flag for XRP (Ripple) in 2026 and Beyond",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/1-brand-big-green-flag-055000387.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "ALB",
+   "h": "Albemarle (ALB) Wins Analyst Upgrades As Lithium Expansion Story Gains Support",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-wins-analyst-upgrades-050603057.html",
    "date": "2026-06-27"
   },
   {
@@ -17826,13 +17854,6 @@
    "h": "Wedbush spots clear investor opportunities in tech stocks",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/technology/articles/wedbush-spots-clear-investor-opportunities-030700638.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "SoFi Stock Is Down More Than 30% This Year. Its CEO Is Buying Anyway.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-down-more-30-030200646.html",
    "date": "2026-06-27"
   },
   {
@@ -18065,28 +18086,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
    "date": "2026-06-26"
-  },
-  {
-   "tk": "RKLB",
-   "h": "RKLB Stock Ends 5% Higher \u2014 Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-ends-5-higher-204517566.html",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "SATS",
-   "h": "Verizon, T-Mobile Big Winners in FCC Spectrum Auction",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/telecom/verizon-t-mobile-big-winners-in-fcc-spectrum-auction-d993a32c?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-06-26"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Stock Looks To Buck Downtrend After NASA Mission Selection",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rocket-lab-stock-nasa-electron-launches-mission-polsir-tsis-rklb-stock/?src=A00220&yptr=yahoo",
-   "date": "2026-06-26"
   }
  ],
- "prices_asof": "2026-06-27 03:53 UTC"
+ "prices_asof": "2026-06-27 06:57 UTC"
 }
