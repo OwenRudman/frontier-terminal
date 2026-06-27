@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make",
+       "h": "How Many Starlink Satellites Can SpaceX Launch This Year?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/heres-why-buying-brookfield-renewable-205000584.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/many-starlink-satellites-spacex-launch-225000937.html",
        "date": "2026-06-27"
       },
       {
-       "h": "Should Investors Buy Infleqtion to Ride the Quantum Computing Rally?",
+       "h": "Got $1,000 to Invest? This Stock Could Turn It Into $100,000 in 10 Years.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-infleqtion-ride-quantum-203300794.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-invest-stock-220500113.html",
        "date": "2026-06-27"
       },
       {
-       "h": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
+       "h": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-silicon-motion-202000611.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-looks-reshuffle-deck-enterprise-212000586.html",
        "date": "2026-06-27"
       }
      ]
@@ -5876,6 +5876,12 @@
      },
      "news": [
       {
+       "h": "A $290,000 Tesla Semi for $50,000?? California\u2019s Incentive Stack Is Real, but the Number Hides as Much as It Reveals.",
+       "pub": "FreightWaves",
+       "link": "https://finance.yahoo.com/small-business/articles/290-000-tesla-semi-50-214519534.html",
+       "date": "2026-06-27"
+      },
+      {
        "h": "Prediction: Buying Rivian Stock Today Could Set You Up for Life",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-buying-rivian-stock-today-192500153.html",
@@ -5885,12 +5891,6 @@
        "h": "Micron (MU) Surpasses Market Valuation of \u200bMeta and Briefly Tesla, Reuters Reports",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-surpasses-market-valuation-183653872.html",
-       "date": "2026-06-27"
-      },
-      {
-       "h": "Tesla (TSLA) to Raise Production at Berlin Plant by 20%, Reuters Reports",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-raise-production-berlin-183606852.html",
        "date": "2026-06-27"
       }
      ],
@@ -13655,6 +13655,12 @@
      "social": null,
      "news": [
       {
+       "h": "Got $1,000 to Invest? This Stock Could Turn It Into $100,000 in 10 Years.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-invest-stock-220500113.html",
+       "date": "2026-06-27"
+      },
+      {
        "h": "Nuclear Stocks And Small Modular Reactors Ace Big Wins. A DOE Deadline Looms.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/nuclear-stocks-small-modular-reactors-smr-doe-deadline/?src=A00220&yptr=yahoo",
@@ -13665,12 +13671,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-nne-names-050557792.html",
        "date": "2026-06-26"
-      },
-      {
-       "h": "Nano Nuclear Energy vs. NuScale Power: Which Nuclear Energy Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-vs-nuscale-153449419.html",
-       "date": "2026-06-25"
       }
      ],
      "awards": [
@@ -17814,23 +17814,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Here's Why Buying Brookfield Renewable Today Could Be the Best Financial Decision You Ever Make",
+   "h": "How Many Starlink Satellites Can SpaceX Launch This Year?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/heres-why-buying-brookfield-renewable-205000584.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/many-starlink-satellites-spacex-launch-225000937.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "NNE",
+   "h": "Got $1,000 to Invest? This Stock Could Turn It Into $100,000 in 10 Years.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-invest-stock-220500113.html",
    "date": "2026-06-27"
   },
   {
    "tk": "NVDA",
-   "h": "Should Investors Buy Infleqtion to Ride the Quantum Computing Rally?",
+   "h": "Got $1,000 to Invest? This Stock Could Turn It Into $100,000 in 10 Years.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-infleqtion-ride-quantum-203300794.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-invest-stock-220500113.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "TSLA",
+   "h": "A $290,000 Tesla Semi for $50,000?? California\u2019s Incentive Stack Is Real, but the Number Hides as Much as It Reveals.",
+   "pub": "FreightWaves",
+   "link": "https://finance.yahoo.com/small-business/articles/290-000-tesla-semi-50-214519534.html",
    "date": "2026-06-27"
   },
   {
    "tk": "NVDA",
-   "h": "3 Reasons to Buy Silicon Motion Technology Stock Like There's No Tomorrow",
+   "h": "SpaceX Looks to Reshuffle the Deck in the Enterprise Coding Market With Its $60 Billion Deal for Cursor",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-silicon-motion-202000611.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-looks-reshuffle-deck-enterprise-212000586.html",
+   "date": "2026-06-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Looking for Reliable Retirement Income? This Vanguard ETF Could Be Worth a Closer Look.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/news/looking-reliable-retirement-income-vanguard-205600664.html",
    "date": "2026-06-27"
   },
   {
@@ -17838,13 +17859,6 @@
    "h": "Is Baidu (BIDU) Using Swiss Robotaxis To Quietly Reframe Its Global AI Ambitions?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/baidu-bidu-using-swiss-robotaxis-200653353.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "1 Reason Why Passively Managed Index Funds Could Save You More Money Than Mutual Funds",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-reason-why-passively-managed-200500050.html",
    "date": "2026-06-27"
   },
   {
@@ -18002,13 +18016,6 @@
    "date": "2026-06-27"
   },
   {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market At Tipping Point. Eli Lilly Soars, Tesla, Jobs On Tap.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
-   "date": "2026-06-27"
-  },
-  {
    "tk": "OPTT",
    "h": "Ocean Power Technologies CEO Philipp Stratmann on growing ocean monitoring demand - ICYMI",
    "pub": "Proactive",
@@ -18084,14 +18091,7 @@
    "pub": "Bloomberg",
    "link": "https://finance.yahoo.com/energy/articles/ai-energy-crunch-investors-searching-130000398.html",
    "date": "2026-06-27"
-  },
-  {
-   "tk": "SATS",
-   "h": "The SpaceX $17 billion spectrum buy finally makes sense",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/spacex-17-billion-spectrum-buy-120300735.html",
-   "date": "2026-06-27"
   }
  ],
- "prices_asof": "2026-06-27 21:10 UTC"
+ "prices_asof": "2026-06-27 23:08 UTC"
 }
