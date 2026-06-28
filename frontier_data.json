@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
+       "h": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-yielding-over-192000883.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-pulled-back-hard-top-205000600.html",
        "date": "2026-06-28"
       },
       {
-       "h": "Could Buying This Magnificent Seven ETF Today Set You Up for Life?",
+       "h": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/could-buying-magnificent-seven-etf-190200881.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-artificial-intelligence-ai-204900204.html",
        "date": "2026-06-28"
       },
       {
-       "h": "Why Braiin Stock Plummeted This Week",
+       "h": "SpaceX's Starfall Could Open a Brand-New Revenue Stream Beyond Rockets and Starlink. Is That Enough to Change the Bull Case?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-braiin-stock-plummeted-week-185607446.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starfall-could-open-brand-202500870.html",
        "date": "2026-06-28"
       }
      ]
@@ -5856,15 +5856,15 @@
      },
      "news": [
       {
-       "h": "SpaceX, Tesla, and Alphabet All Fall in a Broad Tech Rout. Should You Rebalance Your Portfolio?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-alphabet-fall-broad-180500091.html",
+       "h": "Dow sell-side Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
        "date": "2026-06-28"
       },
       {
-       "h": "Dow sell-side Futures: Market At Tipping Point As U.S.-Iran Attacks Escalate. Tesla, Jobs On Tap.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
+       "h": "SpaceX, Tesla, and Alphabet All Fall in a Broad Tech Rout. Should You Rebalance Your Portfolio?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-alphabet-fall-broad-180500091.html",
        "date": "2026-06-28"
       },
       {
@@ -5950,16 +5950,16 @@
        "date": "2026-06-28"
       },
       {
+       "h": "Amid Improvement in Operating Metrics, Depressed UBER Stock Is Poised for a Comeback",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/amid-improvement-operating-metrics-depressed-140002938.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Uber Technologies (UBER) Adds New Retailers to Uber Eats Marketplace",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-adds-retailers-000819549.html",
        "date": "2026-06-28"
-      },
-      {
-       "h": "Shareholders Sue Uber (UBER) Board for Cutting Corners on Compliance, Leading to Sexual Harassment Suits",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/shareholders-sue-uber-uber-board-192122273.html",
-       "date": "2026-06-27"
       }
      ],
      "awards": [
@@ -17803,31 +17803,38 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "3 Dividend Stocks Yielding Over 8.5% to Buy With $1,000 Right Now -- and Hold for a Lifetime of Passive Income",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-yielding-over-192000883.html",
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "Could Buying This Magnificent Seven ETF Today Set You Up for Life?",
+   "h": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-buying-magnificent-seven-etf-190200881.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-pulled-back-hard-top-205000600.html",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "Why Braiin Stock Plummeted This Week",
+   "h": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-braiin-stock-plummeted-week-185607446.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-artificial-intelligence-ai-204900204.html",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "SoFi's Latest Innovation Could Transform Its Growth Trajectory",
+   "h": "SpaceX's Starfall Could Open a Brand-New Revenue Stream Beyond Rockets and Starlink. Is That Enough to Change the Bull Case?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/sofis-latest-innovation-could-transform-184700772.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starfall-could-open-brand-202500870.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "1 Stock That's More Than Doubled in 3 Years, and 3 Reasons It Will Keep Soaring",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-thats-more-doubled-195200336.html",
    "date": "2026-06-28"
   },
   {
@@ -17849,13 +17856,6 @@
    "h": "China Southern strikes landmark deal for Boeing cargo jets",
    "pub": "FreightWaves",
    "link": "https://finance.yahoo.com/markets/stocks/articles/china-southern-strikes-landmark-deal-175607047.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market At Tipping Point As U.S.-Iran Attacks Escalate. Tesla, Jobs On Tap.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
    "date": "2026-06-28"
   },
   {
@@ -17905,6 +17905,13 @@
    "h": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-thinks-us-150000483.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "UBER",
+   "h": "Amid Improvement in Operating Metrics, Depressed UBER Stock Is Poised for a Comeback",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amid-improvement-operating-metrics-depressed-140002938.html",
    "date": "2026-06-28"
   },
   {
@@ -18074,14 +18081,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-constellation-energy-ceg-among-045730700.html",
    "date": "2026-06-28"
-  },
-  {
-   "tk": "TLN",
-   "h": "Talen Energy (TLN) Downgraded at sell-side. Here is Why",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-downgraded-jefferies-045656876.html",
-   "date": "2026-06-28"
   }
  ],
- "prices_asof": "2026-06-28 19:36 UTC"
+ "prices_asof": "2026-06-28 21:07 UTC"
 }
