@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 785,
-      "up": 1
+      "m": 6,
+      "m0": 1,
+      "rk": 45,
+      "up": 20
      },
      "news": [
       {
@@ -686,11 +686,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 239,
+      "m0": 1,
+      "rk": 137,
       "up": 2
      },
      "news": [
+      {
+       "h": "Here\u2019s What The Newsletters Are Saying About Albemarle Corporation (ALB)",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/newsletters-saying-albemarle-corporation-alb-064839589.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "Albemarle (ALB) Wins Analyst Upgrades As Lithium Expansion Story Gains Support",
        "pub": "Simply Wall St.",
@@ -701,12 +707,6 @@
        "h": "CMC Q3 Earnings Beat on Strong Core EBITDA & Segment Gains",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cmc-q3-earnings-beat-strong-132400317.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "SSR Mining Optimizes Portfolio With Copler Mine Stake Sale",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-optimizes-portfolio-copler-132100524.html",
        "date": "2026-06-26"
       }
      ],
@@ -818,7 +818,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 789,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 211,
-      "m0": 267,
-      "rk": 5,
-      "up": 765
+      "m": 62,
+      "m0": 210,
+      "rk": 6,
+      "up": 518
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "1 Number MercadoLibre Investors Need to See",
+       "h": "Nike at a 12-Year Low or Lululemon at an 8-Year Low? Here's the Better Turnaround Stock for Deep Value Investors to Buy in July.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-number-mercadolibre-investors-see-035000546.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nike-12-low-lululemon-8-083200592.html",
        "date": "2026-06-28"
       },
       {
-       "h": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+       "h": "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Kevin Warsh, Over Interest Rates",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-completes-key-ai-chip-025000387.html",
+       "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-just-took-082600798.html",
        "date": "2026-06-28"
       },
       {
-       "h": "Amazon quietly raises price tag on the AI boom",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/amazon-quietly-raises-price-tag-013700526.html",
+       "h": "Penguin Solutions (PENG) Becomes NVIDIA AI Factory Specialized Partner",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-peng-becomes-nvidia-081832928.html",
        "date": "2026-06-28"
       }
      ]
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 97,
-      "rk": 30,
-      "up": 61
+      "m": 3,
+      "m0": 24,
+      "rk": 81,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -1778,22 +1783,22 @@
      },
      "news": [
       {
+       "h": "Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/zeta-global-zeta-enters-strategic-081829618.html",
+       "date": "2026-06-28"
+      },
+      {
+       "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200675.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Michael Burry pulls back on massive Palantir short bet",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-pulls-back-massive-020300513.html",
        "date": "2026-06-28"
-      },
-      {
-       "h": "Palantir (PLTR) Wins Key Army Role As Europe Contracts Slip",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-wins-key-army-180534345.html",
-       "date": "2026-06-27"
-      },
-      {
-       "h": "Palantir (PLTR) Selected as Data Architecture for US Army\u2019s NGC2 Program",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-selected-data-architecture-161608120.html",
-       "date": "2026-06-27"
       }
      ],
      "awards": [
@@ -2034,12 +2039,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 381,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2327,12 +2327,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 303,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2485,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 128,
-      "up": 9
+      "m": 1,
+      "m0": 4,
+      "rk": 305,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 212,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 758,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3151,12 +3146,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 169,
-      "up": 13
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3740,12 +3730,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 725,
-      "up": 12
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4047,12 +4032,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 9,
-      "m0": 14,
-      "rk": 68,
-      "up": 22
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4318,6 +4298,12 @@
      "take": "Best theme on the list, and the backlog jump genuinely strengthens the bull case I underrated before \u2014 trailing P/S really is the wrong lens here. But \"the growth is real\" and \"the stock is expensive\" can both be true: a lot of upside is already priced, and acquisitions dilute. A high-conviction thematic bet \u2014 size it like a speculation, watch the share count.",
      "news": [
       {
+       "h": "Ondas (ONDS), Lockheed Martin Collaborate to Integrate Sentrycs Technology into Sanctum Counter-UAS Platform",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ondas-onds-lockheed-martin-collaborate-060920773.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Ondas Stock (ONDS) Gains Attention After New Autonomous Defense Systems Launch",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/ondas-stock-onds-gains-attention-210627329.html",
@@ -4328,12 +4314,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/ondas-strengthens-counter-drone-portfolio-131000760.html",
        "date": "2026-06-26"
-      },
-      {
-       "h": "Lockheed Martin (LMT) Lands $35 Billion THAAD Deal And Expands Counter Drone Ties",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-lands-35-042916354.html",
-       "date": "2026-06-25"
       }
      ],
      "awards": [
@@ -4400,8 +4380,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
-      "up": 3
+      "rk": 385,
+      "up": 2
      },
      "news": [
       {
@@ -4491,6 +4471,12 @@
        "date": "2025-09-16"
       },
       {
+       "amt": 138000.0,
+       "ag": "Department of Defense",
+       "desc": "DRONE DETECTION DEVICES",
+       "date": "2026-03-27"
+      },
+      {
        "amt": 111524.14,
        "ag": "Department of State",
        "desc": "RPSO: INL/KOSOVO POLICE ANTI DRONES",
@@ -4501,12 +4487,6 @@
        "ag": "Department of Justice",
        "desc": "MISSION CRITICAL - APPREHENDING FUGITIVES FY25-JSD: DRONE IMMEDIATE RESPONSE KIT  CF: APC-FY25-000453",
        "date": "2025-09-16"
-      },
-      {
-       "amt": 86500.0,
-       "ag": "Department of Defense",
-       "desc": "IMMEDIATE RESPONSE KIT",
-       "date": "2025-09-18"
       }
      ]
     },
@@ -5869,10 +5849,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 34,
-      "m0": 53,
-      "rk": 23,
-      "up": 83
+      "m": 7,
+      "m0": 34,
+      "rk": 36,
+      "up": 13
      },
      "news": [
       {
@@ -5957,10 +5937,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 57,
-      "up": 24
+      "m": 1,
+      "m0": 10,
+      "rk": 366,
+      "up": 1
      },
      "news": [
       {
@@ -6046,8 +6026,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 456,
+      "m0": 1,
+      "rk": 359,
       "up": 1
      },
      "news": [
@@ -6276,7 +6256,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 754,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -7105,29 +7090,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 15,
-      "rk": 73,
-      "up": 18
+      "m": 1,
+      "m0": 8,
+      "rk": 208,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-06-28"
+      },
+      {
+       "h": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-ai-data-041507851.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "DZ Bank Backs Qualcomm (QCOM) with Buy Rating; Company Eyes $15 Billion in Sales by 2029",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dz-bank-backs-qualcomm-qcom-032927327.html",
        "date": "2026-06-28"
-      },
-      {
-       "h": "BofA Lifts PT on QUALCOMM (QCOM) \u2013 Here\u2019s Why",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-lifts-pt-qualcomm-qcom-183855527.html",
-       "date": "2026-06-27"
-      },
-      {
-       "h": "Is QUALCOMM (QCOM) One of the Safe Stocks for Beginners to Buy in 2026?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-one-safe-stocks-183557576.html",
-       "date": "2026-06-27"
       }
      ],
      "awards": [
@@ -7376,8 +7361,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 479,
+      "m0": 1,
+      "rk": 381,
       "up": 1
      },
      "news": [
@@ -7436,7 +7421,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 796,
+      "up": 1
+     },
      "news": [
       {
        "h": "Humanoid Robotics CEO: The First Pure-Play Robot Company Is About to Go Public",
@@ -7762,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 47,
-      "rk": 15,
-      "up": 254
+      "m": 8,
+      "m0": 55,
+      "rk": 33,
+      "up": 17
      },
      "news": [
       {
@@ -8271,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 52,
-      "m0": 109,
-      "rk": 16,
-      "up": 368
+      "m": 5,
+      "m0": 52,
+      "rk": 55,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -8572,10 +8562,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 197,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 407,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -8757,8 +8747,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 796,
+      "m0": 1,
+      "rk": 698,
       "up": -2
      },
      "thesis": {
@@ -9171,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 5,
-      "rk": 144,
-      "up": 9
+      "m": 1,
+      "m0": 4,
+      "rk": 752,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9270,7 +9260,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 709,
+      "up": 3
+     },
      "news": [
       {
        "h": "Planet Labs Capitalizes on AI and Defense Opportunities for Growth",
@@ -9353,7 +9348,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 766,
+      "up": 1
+     },
      "news": [
       {
        "h": "Why Satellogic (SATL) Is Building Its Growth Case Around Merlin and Daily Earth Intelligence",
@@ -9515,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 112,
-      "m0": 131,
-      "rk": 7,
-      "up": 1324
+      "m": 7,
+      "m0": 112,
+      "rk": 39,
+      "up": 28
      },
      "thesis": {
       "bull": [
@@ -9757,8 +9757,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 711,
+      "m0": 1,
+      "rk": 618,
       "up": 3
      },
      "news": [
@@ -9845,8 +9845,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 447,
+      "m0": 1,
+      "rk": 350,
       "up": 2
      },
      "news": [
@@ -10399,12 +10399,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 10,
-      "m0": 17,
-      "rk": 60,
-      "up": 32
-     },
+     "social": null,
      "news": [
       {
        "h": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up",
@@ -10555,9 +10550,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 234,
-      "up": 1
+      "m0": 1,
+      "rk": 130,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -10574,6 +10569,12 @@
      ],
      "news": [
       {
+       "h": "Ondas (ONDS), Lockheed Martin Collaborate to Integrate Sentrycs Technology into Sanctum Counter-UAS Platform",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ondas-onds-lockheed-martin-collaborate-060920773.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "sell-side Turns More Cautious on Lockheed Martin (LMT) Ahead of Q2 Earnings",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-turns-more-cautious-lockheed-035641266.html",
@@ -10583,12 +10584,6 @@
        "h": "IPO Stock Of The Week: Aerospace And Defense Leader Loar Breaks Out Amid Volatile Market",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/stock-lists/ipo-analysis/loar-stock-breaks-out-volatile-market/?src=A00220&yptr=yahoo",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "GE Stock At 52-Week Highs: Is the Best Still Ahead?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-52-week-highs-172513526.html",
        "date": "2026-06-26"
       }
      ],
@@ -10663,12 +10658,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 303,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10775,7 +10765,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 230,
+      "rk": 120,
       "up": 1
      },
      "news": [
@@ -10863,8 +10853,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
-      "up": 3
+      "rk": 385,
+      "up": 2
      },
      "news": [
       {
@@ -11051,8 +11041,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 295,
-      "up": 1
+      "rk": 197,
+      "up": -1
      },
      "streetNotes": [
       {
@@ -11233,29 +11223,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 97,
-      "rk": 30,
-      "up": 61
+      "m": 3,
+      "m0": 24,
+      "rk": 81,
+      "up": 41
      },
      "news": [
+      {
+       "h": "Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/zeta-global-zeta-enters-strategic-081829618.html",
+       "date": "2026-06-28"
+      },
+      {
+       "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200675.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "Michael Burry pulls back on massive Palantir short bet",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-pulls-back-massive-020300513.html",
        "date": "2026-06-28"
-      },
-      {
-       "h": "Palantir (PLTR) Wins Key Army Role As Europe Contracts Slip",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-wins-key-army-180534345.html",
-       "date": "2026-06-27"
-      },
-      {
-       "h": "Palantir (PLTR) Selected as Data Architecture for US Army\u2019s NGC2 Program",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-selected-data-architecture-161608120.html",
-       "date": "2026-06-27"
       }
      ],
      "awards": [
@@ -11321,7 +11311,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 491,
+      "up": 4
+     },
      "news": [
       {
        "h": "Are Thematic ETFs a $300B Trap for Everyday Investors?",
@@ -12360,8 +12355,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 524,
+      "m0": 1,
+      "rk": 423,
       "up": 1
      },
      "news": [
@@ -12553,9 +12548,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 458,
-      "up": 2
+      "m0": 0,
+      "rk": 361,
+      "up": 1
      },
      "news": [
       {
@@ -12673,10 +12668,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 457,
-      "up": 6
+      "m": 4,
+      "m0": 1,
+      "rk": 63,
+      "up": 13
      },
      "news": [
       {
@@ -12757,9 +12752,9 @@
      "geo": "US",
      "social": {
       "m": 14,
-      "m0": 19,
-      "rk": 49,
-      "up": 61
+      "m0": 14,
+      "rk": 18,
+      "up": 639
      },
      "news": [
       {
@@ -13032,7 +13027,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 773,
+      "rk": 678,
       "up": 1
      },
      "news": [
@@ -13348,12 +13343,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 7,
-      "m0": 7,
-      "rk": 92,
-      "up": 17
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -13590,10 +13580,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 6,
-      "rk": 145,
-      "up": 5
+      "m": 1,
+      "m0": 4,
+      "rk": 779,
+      "up": 1
      },
      "news": [
       {
@@ -14005,7 +13995,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 411,
+      "rk": 315,
       "up": 2
      },
      "streetNotes": [
@@ -14533,8 +14523,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 750,
+      "up": 15
+     },
      "news": [
+      {
+       "h": "Here is Why Constellation Energy (CEG) is Among the Best Utility Stocks to Buy Now According to Hedge Funds",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-constellation-energy-ceg-among-045730700.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
        "pub": "Oilprice.com",
@@ -14546,12 +14547,6 @@
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/energy/articles/ai-energy-crunch-investors-searching-130000398.html",
        "date": "2026-06-27"
-      },
-      {
-       "h": "Constellation Energy (CEG) Files To Extend New York Reactor Licenses Through 2049",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/constellation-energy-ceg-files-extend-220845606.html",
-       "date": "2026-06-26"
       }
      ],
      "awards": [
@@ -14619,10 +14614,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 405,
+      "rk": 309,
       "up": 2
      },
      "news": [
+      {
+       "h": "Morgan Stanley Cuts Price Target on Vistra (VST). Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-045643870.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
        "pub": "Oilprice.com",
@@ -14634,12 +14635,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-constellation-energy-stock-add-215300353.html",
        "date": "2026-06-26"
-      },
-      {
-       "h": "Vistra Corp. (VST) Is a Trending Stock: Facts to Know Before Betting on It",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-trending-stock-130006443.html",
-       "date": "2026-06-24"
       }
      ],
      "awards": [
@@ -14707,6 +14702,12 @@
      "social": null,
      "news": [
       {
+       "h": "Talen Energy (TLN) Downgraded at sell-side. Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-downgraded-jefferies-045656876.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Microsoft Solves AI\u2019s Biggest Bottleneck With Chevron Deal",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-solves-ai-biggest-bottleneck-162000798.html",
@@ -14717,12 +14718,6 @@
        "pub": "The Fly",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-upgrade-spacex-initiation-among-133301562.html",
        "date": "2026-06-23"
-      },
-      {
-       "h": "Stocks Sharply Higher as US-Iran Peace Deal Eases Inflation Risks",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-sharply-higher-us-iran-203423331.html",
-       "date": "2026-06-18"
       }
      ],
      "awards": [
@@ -14772,6 +14767,12 @@
      "social": null,
      "news": [
       {
+       "h": "Dominion Energy (D) Price Target Lowered at Barclays. Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-price-target-050406531.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Dividend Stock Showdown: NextEra Energy vs. Dominion Energy -- Which Should You Own?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-showdown-nextera-energy-183500215.html",
@@ -14781,12 +14782,6 @@
        "h": "Dominion Energy (D) Advances While Market Declines: Some Information for Investors",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-advances-while-221504299.html",
-       "date": "2026-06-24"
-      },
-      {
-       "h": "Can sell-side Stock Traders Deliver a Third Record Quarter?",
-       "pub": "The Daily Upside",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-stock-traders-deliver-third-040100917.html",
        "date": "2026-06-24"
       }
      ],
@@ -14855,6 +14850,12 @@
      "social": null,
      "news": [
       {
+       "h": "Morgan Stanley Lifts Price Target on Duke Energy (DUK). Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-050210069.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "Ignore Every Utility Bill And Still Keep The Lights On. Here\u2019s How",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-every-utility-bill-still-173543504.html",
@@ -14864,12 +14865,6 @@
        "h": "The Nuclear Renaissance Is Missing One Key Ingredient",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nuclear-energy-utilities-duke-entergy-c2c91589?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "Does Constellation Energy Stock Add A Different Kind of Risk?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-constellation-energy-stock-add-215300353.html",
        "date": "2026-06-26"
       }
      ],
@@ -14936,12 +14931,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 10,
-      "rk": 111,
-      "up": 35
+      "m": 4,
+      "m0": 5,
+      "rk": 61,
+      "up": 12
      },
      "news": [
+      {
+       "h": "The Southern Company (SO) \u2013 Among the 12 Best Utility Stocks to Buy Now According to Hedge Funds",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-among-12-best-050237115.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "Why the Market Dipped But Southern Co. (SO) Gained Today",
        "pub": "Zacks",
@@ -14953,12 +14954,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-constellation-energy-stock-add-215300353.html",
        "date": "2026-06-26"
-      },
-      {
-       "h": "Forget XLU. The Grid Fund Actually Powering the AI Boom Is Up 23% in 2026",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-xlu-grid-fund-actually-153652208.html",
-       "date": "2026-06-25"
       }
      ],
      "awards": [
@@ -15023,30 +15018,25 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 329,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
-       "h": "Dividend Stock Showdown: NextEra Energy vs. Dominion Energy -- Which Should You Own?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-showdown-nextera-energy-183500215.html",
-       "date": "2026-06-27"
+       "h": "NextEra Energy (NEE) Is Buying Dominion As AI Data Center Demand Builds",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-buying-dominion-050550753.html",
+       "date": "2026-06-28"
       },
       {
-       "h": "Ignore Every Utility Bill And Still Keep The Lights On. Here\u2019s How",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-every-utility-bill-still-173543504.html",
-       "date": "2026-06-27"
+       "h": "Dominion Energy (D) Price Target Lowered at Barclays. Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-price-target-050406531.html",
+       "date": "2026-06-28"
       },
       {
-       "h": "Solar Beats Coal for the First Time: 3 Dividend Stocks to Buy Now",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/solar-beats-coal-first-time-163500483.html",
-       "date": "2026-06-27"
+       "h": "NextEra Energy (NEE) Downgraded at Erste Group. Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-downgraded-erste-050046566.html",
+       "date": "2026-06-28"
       }
      ],
      "awards": [
@@ -15113,11 +15103,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 338,
-      "up": 11
+      "m0": 1,
+      "rk": 235,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Morgan Stanley Lifts Price Target on Public Service Enterprise Group (PEG)",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-050319691.html",
+       "date": "2026-06-28"
+      },
       {
        "h": "GEV vs. PEG: Which Grid Modernization Leader Is the Smarter Buy Now?",
        "pub": "Zacks",
@@ -15128,12 +15124,6 @@
        "h": "PEG Benefits From Stable Utility Operations and Strategic Investments",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/peg-benefits-stable-utility-operations-181200427.html",
-       "date": "2026-06-16"
-      },
-      {
-       "h": "Is CMS Energy Stock Underperforming the Dow?",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-stock-underperforming-dow-103902772.html",
        "date": "2026-06-16"
       }
      ]
@@ -15259,6 +15249,12 @@
      "social": null,
      "news": [
       {
+       "h": "Entergy (ETR) Price Target Boosted at Morgan Stanley. Here is Why",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/entergy-etr-price-target-boosted-050301018.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "sell-side Lowers Entergy (ETR) Price Target as Investor Day Highlights Sustainable Growth",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/btig-lowers-entergy-etr-price-040554566.html",
@@ -15269,12 +15265,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nuclear-energy-utilities-duke-entergy-c2c91589?siteid=yhoof2&yptr=yahoo",
        "date": "2026-06-26"
-      },
-      {
-       "h": "Analyst Trims Price Target on Entergy (ETR). Here is Why",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/energy/articles/analyst-trims-price-target-entergy-213304577.html",
-       "date": "2026-06-22"
       }
      ],
      "awards": [
@@ -15343,7 +15333,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 633,
+      "rk": 533,
       "up": 3
      },
      "news": [
@@ -17533,7 +17523,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-06-27",
+ "social_asof": "2026-06-28",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17813,6 +17803,160 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Nike at a 12-Year Low or Lululemon at an 8-Year Low? Here's the Better Turnaround Stock for Deep Value Investors to Buy in July.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-12-low-lululemon-8-083200592.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Kevin Warsh, Over Interest Rates",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-just-took-082600798.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Penguin Solutions (PENG) Becomes NVIDIA AI Factory Specialized Partner",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-peng-becomes-nvidia-081832928.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/zeta-global-zeta-enters-strategic-081829618.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-really-worth-more-micron-081200593.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200675.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/qualcomm-data-centers-chips-ai-f88b5117?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "ALB",
+   "h": "Here\u2019s What The Newsletters Are Saying About Albemarle Corporation (ALB)",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/newsletters-saying-albemarle-corporation-alb-064839589.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "LMT",
+   "h": "Ondas (ONDS), Lockheed Martin Collaborate to Integrate Sentrycs Technology into Sanctum Counter-UAS Platform",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ondas-onds-lockheed-martin-collaborate-060920773.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "ONDS",
+   "h": "Ondas (ONDS), Lockheed Martin Collaborate to Integrate Sentrycs Technology into Sanctum Counter-UAS Platform",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ondas-onds-lockheed-martin-collaborate-060920773.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra Energy (NEE) Is Buying Dominion As AI Data Center Demand Builds",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-buying-dominion-050550753.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "D",
+   "h": "Dominion Energy (D) Price Target Lowered at Barclays. Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-price-target-050406531.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NEE",
+   "h": "Dominion Energy (D) Price Target Lowered at Barclays. Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-price-target-050406531.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "PEG",
+   "h": "Morgan Stanley Lifts Price Target on Public Service Enterprise Group (PEG)",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-050319691.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "ETR",
+   "h": "Entergy (ETR) Price Target Boosted at Morgan Stanley. Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/entergy-etr-price-target-boosted-050301018.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "SO",
+   "h": "The Southern Company (SO) \u2013 Among the 12 Best Utility Stocks to Buy Now According to Hedge Funds",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-among-12-best-050237115.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "DUK",
+   "h": "Morgan Stanley Lifts Price Target on Duke Energy (DUK). Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-050210069.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra Energy (NEE) Downgraded at Erste Group. Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-downgraded-erste-050046566.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "CEG",
+   "h": "Here is Why Constellation Energy (CEG) is Among the Best Utility Stocks to Buy Now According to Hedge Funds",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-constellation-energy-ceg-among-045730700.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "TLN",
+   "h": "Talen Energy (TLN) Downgraded at sell-side. Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-downgraded-jefferies-045656876.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "VST",
+   "h": "Morgan Stanley Cuts Price Target on Vistra (VST). Here is Why",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-045643870.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-ai-data-041507851.html",
+   "date": "2026-06-28"
+  },
+  {
    "tk": "ETR",
    "h": "sell-side Lowers Entergy (ETR) Price Target as Investor Day Highlights Sustainable Growth",
    "pub": "Insider Monkey",
@@ -17831,13 +17975,6 @@
    "h": "sell-side Turns More Cautious on Lockheed Martin (LMT) Ahead of Q2 Earnings",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/jefferies-turns-more-cautious-lockheed-035641266.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "1 Number MercadoLibre Investors Need to See",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-number-mercadolibre-investors-see-035000546.html",
    "date": "2026-06-28"
   },
   {
@@ -17862,13 +17999,6 @@
    "date": "2026-06-28"
   },
   {
-   "tk": "NVDA",
-   "h": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-completes-key-ai-chip-025000387.html",
-   "date": "2026-06-28"
-  },
-  {
    "tk": "TSLA",
    "h": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
    "pub": "Motley Fool",
@@ -17880,20 +18010,6 @@
    "h": "Michael Burry pulls back on massive Palantir short bet",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-pulls-back-massive-020300513.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Amazon quietly raises price tag on the AI boom",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-quietly-raises-price-tag-013700526.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Intel's AI Bet Is Finally Paying Off -- Is It Time to Reconsider This Stock?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intels-ai-bet-finally-paying-012000142.html",
    "date": "2026-06-28"
   },
   {
@@ -17965,133 +18081,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/big-paint-vs-rare-earth-193114099.html",
    "date": "2026-06-27"
-  },
-  {
-   "tk": "UBER",
-   "h": "Shareholders Sue Uber (UBER) Board for Cutting Corners on Compliance, Leading to Sexual Harassment Suits",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/shareholders-sue-uber-uber-board-192122273.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "UBER",
-   "h": "Nancy Pelosi places big bets on two surging tech stocks",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/options/articles/nancy-pelosi-places-big-bets-191300925.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Baidu (BIDU) Lands Swiss Level 4 Approval With PostBus Autonomous Trial Partnership",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/baidu-bidu-lands-swiss-level-190611409.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "QCOM",
-   "h": "BofA Lifts PT on QUALCOMM (QCOM) \u2013 Here\u2019s Why",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-lifts-pt-qualcomm-qcom-183855527.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "UBER",
-   "h": "Lime, Backed by Uber (UBER), Seeking Valuation of Up to $1.66 Billion in U.S. IPO",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lime-backed-uber-uber-seeking-183643584.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Is QUALCOMM (QCOM) One of the Safe Stocks for Beginners to Buy in 2026?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-one-safe-stocks-183557576.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "D",
-   "h": "Dividend Stock Showdown: NextEra Energy vs. Dominion Energy -- Which Should You Own?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-showdown-nextera-energy-183500215.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NEE",
-   "h": "Dividend Stock Showdown: NextEra Energy vs. Dominion Energy -- Which Should You Own?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-showdown-nextera-energy-183500215.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile (ASTS) Is Down 11.4% After New BlueBird Launches Expand Direct-To-Device Network Potential",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-down-11-180710399.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir (PLTR) Wins Key Army Role As Europe Contracts Slip",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-wins-key-army-180534345.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "AMPX",
-   "h": "How Amprius Technologies, Inc. (AMPX) Is Using Drone Delivery to Prove Its Silicon-Anode Battery Edge",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-inc-ampx-using-174911445.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "DUK",
-   "h": "Ignore Every Utility Bill And Still Keep The Lights On. Here\u2019s How",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-every-utility-bill-still-173543504.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NEE",
-   "h": "Ignore Every Utility Bill And Still Keep The Lights On. Here\u2019s How",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ignore-every-utility-bill-still-173543504.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "SATS",
-   "h": "EchoStar (ECHO) Stock After Recent Pullback Is The Rally Running Out Of Steam",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/echostar-echo-stock-recent-pullback-170652094.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "UUUU",
-   "h": "This U.S. Uranium Miner Just Became a Critical Minerals Play. But Is the Stock a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/u-uranium-miner-just-became-170500851.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "LUNR",
-   "h": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/know-3-3-million-intuitive-164459368.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "NEE",
-   "h": "Solar Beats Coal for the First Time: 3 Dividend Stocks to Buy Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/solar-beats-coal-first-time-163500483.html",
-   "date": "2026-06-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir (PLTR) Selected as Data Architecture for US Army\u2019s NGC2 Program",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pltr-selected-data-architecture-161608120.html",
-   "date": "2026-06-27"
   }
  ],
- "prices_asof": "2026-06-28 04:15 UTC"
+ "prices_asof": "2026-06-28 08:40 UTC"
 }
