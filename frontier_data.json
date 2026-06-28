@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Nike at a 12-Year Low or Lululemon at an 8-Year Low? Here's the Better Turnaround Stock for Deep Value Investors to Buy in July.",
+       "h": "5 Signs You May Be Ready to Retire Sooner Than You Think",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nike-12-low-lululemon-8-083200592.html",
+       "link": "https://finance.yahoo.com/markets/articles/5-signs-may-ready-retire-090400675.html",
        "date": "2026-06-28"
       },
       {
-       "h": "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Kevin Warsh, Over Interest Rates",
+       "h": "A CFO Departure. A Clinical Miss. A $43 Billion Question Mark. Should You Throw in the Towel on Pfizer Stock?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-just-took-082600798.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/cfo-departure-clinical-miss-43-085000578.html",
        "date": "2026-06-28"
       },
       {
-       "h": "Penguin Solutions (PENG) Becomes NVIDIA AI Factory Specialized Partner",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-peng-becomes-nvidia-081832928.html",
+       "h": "2 Nvidia-Owned Stocks Investors Should Buy Now",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-nvidia-owned-stocks-investors-084500536.html",
        "date": "2026-06-28"
       }
      ]
@@ -17804,23 +17804,30 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "5 Signs You May Be Ready to Retire Sooner Than You Think",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/articles/5-signs-may-ready-retire-090400675.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "A CFO Departure. A Clinical Miss. A $43 Billion Question Mark. Should You Throw in the Towel on Pfizer Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/cfo-departure-clinical-miss-43-085000578.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "2 Nvidia-Owned Stocks Investors Should Buy Now",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-nvidia-owned-stocks-investors-084500536.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "NVDA",
    "h": "Nike at a 12-Year Low or Lululemon at an 8-Year Low? Here's the Better Turnaround Stock for Deep Value Investors to Buy in July.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nike-12-low-lululemon-8-083200592.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "President Donald Trump Just Took a Jab at His Handpicked Fed Chair, Kevin Warsh, Over Interest Rates",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-just-took-082600798.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Penguin Solutions (PENG) Becomes NVIDIA AI Factory Specialized Partner",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-peng-becomes-nvidia-081832928.html",
    "date": "2026-06-28"
   },
   {
@@ -17828,13 +17835,6 @@
    "h": "Zeta Global (ZETA) Enters into a Strategic Partnership with Palantir Technologies",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/technology/ai/articles/zeta-global-zeta-enters-strategic-081829618.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Is SpaceX Really Worth More Than Micron and AMD Combined? Here's the Unvarnished Truth.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-really-worth-more-micron-081200593.html",
    "date": "2026-06-28"
   },
   {
@@ -18083,5 +18083,5 @@
    "date": "2026-06-27"
   }
  ],
- "prices_asof": "2026-06-28 08:40 UTC"
+ "prices_asof": "2026-06-28 09:17 UTC"
 }
