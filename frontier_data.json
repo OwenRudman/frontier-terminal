@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
+       "h": "This Unstoppable Vanguard ETF Could Set You Up for Life With $300 a Month. Here's How.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-pulled-back-hard-top-205000600.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-could-set-225000904.html",
        "date": "2026-06-28"
       },
       {
-       "h": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now",
+       "h": "Is Micron Stock the New Nvidia?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-artificial-intelligence-ai-204900204.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-nvidia-223000302.html",
        "date": "2026-06-28"
       },
       {
-       "h": "SpaceX's Starfall Could Open a Brand-New Revenue Stream Beyond Rockets and Starlink. Is That Enough to Change the Bull Case?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starfall-could-open-brand-202500870.html",
+       "h": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html",
        "date": "2026-06-28"
       }
      ]
@@ -5856,7 +5856,7 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
+       "h": "Dow sell-side Futures Rise On U.S.-Iran News; Market At Tipping Point",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
        "date": "2026-06-28"
@@ -5868,9 +5868,9 @@
        "date": "2026-06-28"
       },
       {
-       "h": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-first-trillionaire-prediction-150022118.html",
+       "h": "Middle East Tensions, Tesla Deliveries and Other Can't Miss Items this Week",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/articles/middle-east-tensions-tesla-deliveries-170002137.html",
        "date": "2026-06-28"
       }
      ],
@@ -9701,6 +9701,12 @@
      },
      "news": [
       {
+       "h": "Buy AST SpaceMobile Before Aug. 1 Due to This Opportunity",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-ast-spacemobile-aug-1-215000155.html",
+       "date": "2026-06-28"
+      },
+      {
        "h": "AST SpaceMobile (ASTS) Is Down 11.4% After New BlueBird Launches Expand Direct-To-Device Network Potential",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-down-11-180710399.html",
@@ -9710,12 +9716,6 @@
        "h": "Why Did AST SpaceMobile Stock Pop Today?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-ast-spacemobile-stock-185622239.html",
-       "date": "2026-06-26"
-      },
-      {
-       "h": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-rises-13-ast-185140550.html",
        "date": "2026-06-26"
       }
      ]
@@ -17803,38 +17803,45 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "This Unstoppable Vanguard ETF Could Set You Up for Life With $300 a Month. Here's How.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-vanguard-etf-could-set-225000904.html",
+   "date": "2026-06-28"
+  },
+  {
    "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market At Tipping Point With Iran News, AI Fears In Focus. Tesla, Jobs On Tap.",
+   "h": "Dow sell-side Futures Rise On U.S.-Iran News; Market At Tipping Point",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stock-market-tipping-point-eli-lilly-tesla/?src=A00220&yptr=yahoo",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "Alphabet Pulled Back Hard. Here Are My Top 3 Megacaps to Buy on the Dip.",
+   "h": "Is Micron Stock the New Nvidia?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-pulled-back-hard-top-205000600.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-nvidia-223000302.html",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "This Nvidia-Backed Artificial Intelligence (AI) Infrastructure Stock Has Multibagger Potential. It Is Trading at an Incredibly Attractive Valuation Right Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-artificial-intelligence-ai-204900204.html",
+   "h": "CoreWeave (CRWV) Secures $99 Billion Backlog With Nvidia, Meta, Microsoft And OpenAI",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-secures-99-billion-220613159.html",
    "date": "2026-06-28"
   },
   {
    "tk": "NVDA",
-   "h": "SpaceX's Starfall Could Open a Brand-New Revenue Stream Beyond Rockets and Starlink. Is That Enough to Change the Bull Case?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-starfall-could-open-brand-202500870.html",
+   "h": "Nokia (HLSE:NOKIA) Partners With Nvidia To Build AI RAN 6G Networks",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nokia-hlse-nokia-partners-nvidia-220600162.html",
    "date": "2026-06-28"
   },
   {
-   "tk": "NVDA",
-   "h": "1 Stock That's More Than Doubled in 3 Years, and 3 Reasons It Will Keep Soaring",
+   "tk": "ASTS",
+   "h": "Buy AST SpaceMobile Before Aug. 1 Due to This Opportunity",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-thats-more-doubled-195200336.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-ast-spacemobile-aug-1-215000155.html",
    "date": "2026-06-28"
   },
   {
@@ -17856,6 +17863,13 @@
    "h": "China Southern strikes landmark deal for Boeing cargo jets",
    "pub": "FreightWaves",
    "link": "https://finance.yahoo.com/markets/stocks/articles/china-southern-strikes-landmark-deal-175607047.html",
+   "date": "2026-06-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Middle East Tensions, Tesla Deliveries and Other Can't Miss Items this Week",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/articles/middle-east-tensions-tesla-deliveries-170002137.html",
    "date": "2026-06-28"
   },
   {
@@ -17898,13 +17912,6 @@
    "h": "Elon Musk Was First Trillionaire, Prediction Markets Pick This Magnificent Seven CEO To Be Second To Join Elite Club",
    "pub": "Benzinga",
    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-first-trillionaire-prediction-150022118.html",
-   "date": "2026-06-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-   "pub": "TechCrunch",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-thinks-us-150000483.html",
    "date": "2026-06-28"
   },
   {
@@ -18074,14 +18081,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-price-target-050210069.html",
    "date": "2026-06-28"
-  },
-  {
-   "tk": "CEG",
-   "h": "Here is Why Constellation Energy (CEG) is Among the Best Utility Stocks to Buy Now According to Hedge Funds",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-constellation-energy-ceg-among-045730700.html",
-   "date": "2026-06-28"
   }
  ],
- "prices_asof": "2026-06-28 21:07 UTC"
+ "prices_asof": "2026-06-28 23:08 UTC"
 }
