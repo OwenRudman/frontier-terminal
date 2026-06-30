@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 131,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 646,
+      "up": 1
      },
      "news": [
       {
@@ -684,12 +684,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 161,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Lithium Is on the Rise Again. Does That Make Albemarle a Buy?",
@@ -818,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 184,
+      "up": 5
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 59,
-      "rk": 6,
-      "up": 470
+      "m": 122,
+      "m0": 52,
+      "rk": 9,
+      "up": 409
      },
      "thesis": {
       "bull": [
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 725,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 4,
-      "rk": 41,
-      "up": 12
+      "m": 21,
+      "m0": 12,
+      "rk": 33,
+      "up": 55
      },
      "thesis": {
       "bull": [
@@ -1784,15 +1789,15 @@
        "date": "2026-06-29"
       },
       {
-       "h": "5-star analyst gives beaten-down Palantir a surprise verdict",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-gives-beaten-024700112.html",
+       "h": "Is The Deal Between Nvidia and Palantir a Game Changer?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/deal-between-nvidia-palantir-game-063500991.html",
        "date": "2026-06-30"
       },
       {
-       "h": "Why Palantir Technologies (PLTR) Stock Is Trading Up Today",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-pltr-stock-001815542.html",
+       "h": "5-star analyst gives beaten-down Palantir a surprise verdict",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-gives-beaten-024700112.html",
        "date": "2026-06-30"
       }
      ],
@@ -1816,10 +1821,10 @@
        "date": "2022-09-26"
       },
       {
-       "amt": 130042463.0,
+       "amt": 145033091.2,
        "ag": "Department of Defense",
-       "desc": "ESTABLISH BASIC LETTER CONTRACT FOR COMMERCIAL DATA AS A SERVE PLATFORM.",
-       "date": "2023-06-16"
+       "desc": "ARMY VANTAGE DATA ANALYTICS PLATFORM.",
+       "date": "2025-12-11"
       }
      ]
     },
@@ -2034,7 +2039,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 325,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2322,7 +2332,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 255,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2366,7 +2381,7 @@
      ],
      "awards": [
       {
-       "amt": 11720403923.19,
+       "amt": 13396478923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -2475,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 27,
       "m0": 1,
-      "rk": 287,
-      "up": 1
+      "rk": 26,
+      "up": 59
      },
      "thesis": {
       "bull": [
@@ -2729,22 +2744,22 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
-       "h": "AeroVironment (AVAV) Hits 52-Week Low; Analysts Still See Substantial Long-Term Value",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-hits-52-week-020411201.html",
+       "h": "Is AeroVironment Inc a Buy After Its Latest Earnings Report?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-buy-latest-earnings-073928760.html",
        "date": "2026-06-30"
       },
       {
-       "h": "AVAV Stock Jumps 20% After-Hours \u2014 Q4 Earnings Soar Past Estimates, Revenue More Than Doubles",
+       "h": "AVAV Stock Eyes Weekly Gain: AeroVironment CEO Sees \u2018Unprecedented\u2019 Defense Demand Over Next Two Years",
        "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-jumps-20-hours-230329628.html",
-       "date": "2026-06-29"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-eyes-weekly-gain-052610198.html",
+       "date": "2026-06-30"
       },
       {
-       "h": "Compared to Estimates, AeroVironment (AVAV) Q4 Earnings: A Look at Key Metrics",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-aerovironment-avav-q4-220003773.html",
-       "date": "2026-06-29"
+       "h": "AeroVironment Inc (AVAV) Q4 2026 Earnings Call Highlights: Record Revenue and Strategic Growth ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-avav-q4-2026-050024202.html",
+       "date": "2026-06-30"
       }
      ],
      "awards": [
@@ -2825,10 +2840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 103,
-      "up": 17
+      "m": 4,
+      "m0": 3,
+      "rk": 117,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -3141,7 +3156,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 0,
+      "rk": 102,
+      "up": 9
+     },
      "thesis": {
       "bull": [
        {
@@ -3570,12 +3590,7 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 680,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -4033,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 135,
-      "up": 17
+      "m": 13,
+      "m0": 2,
+      "rk": 47,
+      "up": 34
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4398,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 79,
-      "up": 4
+      "m": 1,
+      "m0": 4,
+      "rk": 399,
+      "up": 1
      },
      "news": [
       {
@@ -4623,8 +4638,8 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 688,
+      "m0": 1,
+      "rk": 731,
       "up": 10
      },
      "news": [
@@ -4721,10 +4736,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 587,
-      "up": 1
+      "m": 12,
+      "m0": 1,
+      "rk": 50,
+      "up": 18
      },
      "news": [
       {
@@ -5133,7 +5148,7 @@
      ],
      "awards": [
       {
-       "amt": 11897655130.85,
+       "amt": 12569612524.86,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5864,10 +5879,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 7,
-      "rk": 31,
-      "up": 29
+      "m": 127,
+      "m0": 13,
+      "rk": 7,
+      "up": 729
      },
      "news": [
       {
@@ -5877,15 +5892,15 @@
        "date": "2026-06-29"
       },
       {
-       "h": "Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/articles/innoviz-technologies-backs-mobileye-mbly-020408825.html",
+       "h": "Tesla Stock Surges 8% After FSD v14 Lite Update Launches",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-surges-8-fsd-073553040.html",
        "date": "2026-06-30"
       },
       {
-       "h": "Housing Stocks Reveal How the Market Grades on a Curve",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/housing-stocks-pop-kb-home-8b210ea2?siteid=yhoof2&yptr=yahoo",
+       "h": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests Without \u2018Steering Wheel Or Pedals\u2019",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-trims-losses-overnight-061741056.html",
        "date": "2026-06-30"
       }
      ],
@@ -5954,8 +5969,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 338,
-      "up": 1
+      "rk": 381,
+      "up": 4
      },
      "news": [
       {
@@ -6041,9 +6056,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 331,
-      "up": 0
+      "m0": 1,
+      "rk": 372,
+      "up": 1
      },
      "news": [
       {
@@ -6271,7 +6286,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 693,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -6816,8 +6836,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 635,
+      "m0": 1,
+      "rk": 684,
       "up": 1
      },
      "news": [
@@ -6990,7 +7010,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 580,
+      "up": 1
+     },
      "news": [
       {
        "h": "Ouster Looks to Future of Smart Transportation with REV8 Color LiDAR",
@@ -7105,10 +7130,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 207,
-      "up": 17
+      "rk": 91,
+      "up": 13
      },
      "news": [
       {
@@ -7374,12 +7399,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 348,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is Serve Robotics (SERV) The Most Promising Robotics Stock?",
@@ -7436,12 +7456,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 673,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Symbotic Inc. (SYM) Laps the Stock Market: Here's Why",
@@ -7767,10 +7782,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 35,
-      "m0": 8,
-      "rk": 11,
-      "up": 181
+      "m": 115,
+      "m0": 31,
+      "rk": 10,
+      "up": 528
      },
      "news": [
       {
@@ -8276,10 +8291,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 6,
-      "rk": 27,
-      "up": 70
+      "m": 130,
+      "m0": 14,
+      "rk": 6,
+      "up": 965
      },
      "thesis": {
       "bull": [
@@ -8493,15 +8508,15 @@
        "date": "2026-06-29"
       },
       {
-       "h": "Iridium (IRDM) Gets 25% Boost from $8-Billion Rocket Lab Merger",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-gets-25-boost-031608662.html",
+       "h": "Rocket Lab (RKLB) Is Buying Iridium For $8 Billion And Changing Its Business",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-buying-iridium-060815472.html",
        "date": "2026-06-30"
       },
       {
-       "h": "Rocket Lab (RKLB) Inks New Billion-Dollar Deal, Soars 15.9%",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-inks-billion-023522743.html",
+       "h": "Dow sell-side Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
        "date": "2026-06-30"
       }
      ],
@@ -8576,7 +8591,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 414,
+      "up": 6
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8672,7 +8692,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 700,
+      "up": -2
+     },
      "news": [
       {
        "h": "Momentus Stock Is Up 145% In 2026. How to Play MNTS After the SpaceX IPO.",
@@ -8757,8 +8782,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 605,
+      "m0": 1,
+      "rk": 654,
       "up": 10
      },
      "thesis": {
@@ -9021,7 +9046,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 777,
+      "up": 4
+     },
      "news": [
       {
        "h": "Is MDA Space Ltd. (MDA) A Good Stock To Buy Now?",
@@ -9080,8 +9110,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 623,
+      "m0": 1,
+      "rk": 673,
       "up": 10
      },
      "news": [
@@ -9176,10 +9206,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 7,
       "m0": 1,
-      "rk": 644,
-      "up": 1
+      "rk": 77,
+      "up": 12
      },
      "streetNotes": [
       {
@@ -9520,10 +9550,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 7,
-      "rk": 25,
-      "up": 97
+      "m": 172,
+      "m0": 12,
+      "rk": 5,
+      "up": 1108
      },
      "thesis": {
       "bull": [
@@ -9706,6 +9736,12 @@
      },
      "news": [
       {
+       "h": "US Stock Market Today: S&P 500 Futures Climb As Rate Jitters Meet Trade Worries",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081551494.html",
+       "date": "2026-06-30"
+      },
+      {
        "h": "ASTS Stock Logs Best Day In Nearly 2 Years: Japan\u2019s $926M Push For Rakuten-AST Satellite Network Sparks Rally",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-logs-best-day-031545126.html",
@@ -9715,12 +9751,6 @@
        "h": "AST SpaceMobile (ASTS) Soars 21% on Rakuten Satellite Deal",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-soars-21-031121578.html",
-       "date": "2026-06-30"
-      },
-      {
-       "h": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-keeps-flying-overnight-023133190.html",
        "date": "2026-06-30"
       }
      ]
@@ -9763,7 +9793,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 538,
+      "rk": 588,
       "up": 2
      },
      "news": [
@@ -9849,10 +9879,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 322,
-      "up": 1
+      "rk": 94,
+      "up": 24
      },
      "news": [
       {
@@ -9862,15 +9892,15 @@
        "date": "2026-06-29"
       },
       {
-       "h": "Iridium (IRDM) Gets 25% Boost from $8-Billion Rocket Lab Merger",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-gets-25-boost-031608662.html",
+       "h": "Rocket Lab (RKLB) Is Buying Iridium For $8 Billion And Changing Its Business",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-buying-iridium-060815472.html",
        "date": "2026-06-30"
       },
       {
-       "h": "Rocket Lab (RKLB) Inks New Billion-Dollar Deal, Soars 15.9%",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-inks-billion-023522743.html",
+       "h": "Dow sell-side Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
        "date": "2026-06-30"
       }
      ]
@@ -9910,7 +9940,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 151,
+      "up": 4
+     },
      "news": [
       {
        "h": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal",
@@ -10405,10 +10440,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 697,
-      "up": 2
+      "m": 5,
+      "m0": 0,
+      "rk": 101,
+      "up": 8
      },
      "news": [
       {
@@ -10561,8 +10596,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 155,
-      "up": 3
+      "rk": 207,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10668,7 +10703,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 255,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10712,7 +10752,7 @@
      ],
      "awards": [
       {
-       "amt": 11720403923.19,
+       "amt": 13396478923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -10773,12 +10813,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 147,
-      "up": 1
+      "m": 2,
+      "m0": 0,
+      "rk": 141,
+      "up": 4
      },
      "news": [
+      {
+       "h": "Honeywell Aerospace makes strong debut after spinoff",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-makes-strong-debut-043519012.html",
+       "date": "2026-06-30"
+      },
       {
        "h": "Chamber of Commerce Fights Proposed Stock Buyback Ban on Defense Contractors",
        "pub": "MT Newswires",
@@ -10789,12 +10835,6 @@
        "h": "Boeing (BA) Stock Drops Despite Market Gains: Important Facts to Note",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-drops-despite-214505273.html",
-       "date": "2026-06-29"
-      },
-      {
-       "h": "Here is why GE Aerospace (GE) Is Among the Best Stocks in Chris Hohn\u2019s Portfolio",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-aerospace-ge-among-125731091.html",
        "date": "2026-06-29"
       }
      ],
@@ -10861,10 +10901,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 79,
-      "up": 4
+      "m": 1,
+      "m0": 4,
+      "rk": 399,
+      "up": 1
      },
      "news": [
       {
@@ -11048,12 +11088,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 198,
-      "up": -2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11233,10 +11268,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 4,
-      "rk": 41,
-      "up": 12
+      "m": 21,
+      "m0": 12,
+      "rk": 33,
+      "up": 55
      },
      "news": [
       {
@@ -11246,15 +11281,15 @@
        "date": "2026-06-29"
       },
       {
-       "h": "5-star analyst gives beaten-down Palantir a surprise verdict",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-gives-beaten-024700112.html",
+       "h": "Is The Deal Between Nvidia and Palantir a Game Changer?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/deal-between-nvidia-palantir-game-063500991.html",
        "date": "2026-06-30"
       },
       {
-       "h": "Why Palantir Technologies (PLTR) Stock Is Trading Up Today",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-technologies-pltr-stock-001815542.html",
+       "h": "5-star analyst gives beaten-down Palantir a surprise verdict",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-gives-beaten-024700112.html",
        "date": "2026-06-30"
       }
      ],
@@ -11278,10 +11313,10 @@
        "date": "2022-09-26"
       },
       {
-       "amt": 130042463.0,
+       "amt": 145033091.2,
        "ag": "Department of Defense",
-       "desc": "ESTABLISH BASIC LETTER CONTRACT FOR COMMERCIAL DATA AS A SERVE PLATFORM.",
-       "date": "2023-06-16"
+       "desc": "ARMY VANTAGE DATA ANALYTICS PLATFORM.",
+       "date": "2025-12-11"
       }
      ]
     },
@@ -11324,8 +11359,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 435,
-      "up": 1
+      "rk": 487,
+      "up": -1
      },
      "news": [
       {
@@ -12366,8 +12401,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 383,
-      "up": 6
+      "rk": 431,
+      "up": 2
      },
      "news": [
       {
@@ -12428,9 +12463,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 585,
-      "up": 1
+      "m0": 1,
+      "rk": 634,
+      "up": 4
      },
      "news": [
       {
@@ -12489,7 +12524,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 632,
+      "up": 4
+     },
      "news": [
       {
        "h": "NexGen Energy CEO Leigh Curyer Explains How AI is Influencing Energy Demand",
@@ -12564,8 +12604,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 333,
-      "up": 1
+      "rk": 375,
+      "up": 4
      },
      "news": [
       {
@@ -12626,8 +12666,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 677,
+      "m0": 1,
+      "rk": 722,
       "up": 2
      },
      "news": [
@@ -12688,10 +12728,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 118,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 374,
+      "up": 4
      },
      "news": [
       {
@@ -12771,10 +12811,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 13,
-      "rk": 36,
-      "up": 36
+      "m": 10,
+      "m0": 10,
+      "rk": 60,
+      "up": 26
      },
      "news": [
       {
@@ -13047,7 +13087,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 589,
+      "rk": 636,
       "up": 1
      },
      "news": [
@@ -13121,7 +13161,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 720,
+      "up": 5
+     },
      "news": [
       {
        "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
@@ -13365,8 +13410,8 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 136,
+      "m0": 2,
+      "rk": 190,
       "up": 5
      },
      "thesis": {
@@ -13605,10 +13650,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 133,
-      "up": 5
+      "rk": 709,
+      "up": 1
      },
      "news": [
       {
@@ -14017,7 +14062,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 155,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14089,8 +14139,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 713,
-      "up": 4
+      "rk": 756,
+      "up": 1
      },
      "news": [
       {
@@ -14438,10 +14488,10 @@
        "date": "2026-06-26"
       },
       {
-       "h": "Trump says Lincoln Memorial Reflecting Pool may be drained for repairs",
-       "pub": "Investing.com",
-       "link": "https://www.yahoo.com/news/us/articles/trump-says-lincoln-memorial-reflecting-034016312.html",
-       "date": "2026-06-21"
+       "h": "U.K. Nuclear: Scaling Up at Home & Abroad",
+       "pub": "ETF Trends",
+       "link": "https://finance.yahoo.com/energy/articles/u-k-nuclear-scaling-home-111535068.html",
+       "date": "2026-06-22"
       }
      ]
     },
@@ -14549,10 +14599,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 102,
-      "up": 348
+      "m": 2,
+      "m0": 4,
+      "rk": 181,
+      "up": 5
      },
      "news": [
       {
@@ -14636,7 +14686,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 338,
+      "up": 2
+     },
      "news": [
       {
        "h": "Vistra (VST) Buys Cogentrix For $4 Billion And Locks In Meta And AWS Deals",
@@ -14951,10 +15006,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 210,
-      "up": 1
+      "m": 9,
+      "m0": 1,
+      "rk": 62,
+      "up": 34
      },
      "news": [
       {
@@ -15122,10 +15177,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 45,
-      "up": 25
+      "m": 1,
+      "m0": 6,
+      "rk": 284,
+      "up": 0
      },
      "news": [
       {
@@ -15468,8 +15523,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 422,
+      "m0": 1,
+      "rk": 471,
       "up": 2
      },
      "news": [
@@ -17543,7 +17598,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-06-29",
+ "social_asof": "2026-06-30",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17823,6 +17878,97 @@
  ],
  "news": [
   {
+   "tk": "ASTS",
+   "h": "US Stock Market Today: S&P 500 Futures Climb As Rate Jitters Meet Trade Worries",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081551494.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "AVAV",
+   "h": "Is AeroVironment Inc a Buy After Its Latest Earnings Report?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-buy-latest-earnings-073928760.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Surges 8% After FSD v14 Lite Update Launches",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-surges-8-fsd-073553040.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Is The Deal Between Nvidia and Palantir a Game Changer?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/deal-between-nvidia-palantir-game-063500991.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests Without \u2018Steering Wheel Or Pedals\u2019",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-trims-losses-overnight-061741056.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Rocket Lab (RKLB) Is Buying Iridium For $8 Billion And Changing Its Business",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-buying-iridium-060815472.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Is Buying Iridium For $8 Billion And Changing Its Business",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-buying-iridium-060815472.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "AVAV",
+   "h": "AVAV Stock Eyes Weekly Gain: AeroVironment CEO Sees \u2018Unprecedented\u2019 Defense Demand Over Next Two Years",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-eyes-weekly-gain-052610198.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLA Q2 Deliveries May Miss Estimates, But Cantor Says AI, Robotics, Chips Could Drive 'Transformational' 2026",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-q2-deliveries-may-miss-050046840.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "AVAV",
+   "h": "AeroVironment Inc (AVAV) Q4 2026 Earnings Call Highlights: Record Revenue and Strategic Growth ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-inc-avav-q4-2026-050024202.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "BA",
+   "h": "Honeywell Aerospace makes strong debut after spinoff",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-makes-strong-debut-043519012.html",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Dow sell-side Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
+   "date": "2026-06-30"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Dow sell-side Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
+   "date": "2026-06-30"
+  },
+  {
    "tk": "OUST",
    "h": "Ouster (OUST) Hits 4-Year High \u2014 Here\u2019s Why Investors Are Excited",
    "pub": "Insider Monkey",
@@ -17886,35 +18032,7 @@
    "date": "2026-06-30"
   },
   {
-   "tk": "IRDM",
-   "h": "Rocket Lab (RKLB) Inks New Billion-Dollar Deal, Soars 15.9%",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-inks-billion-023522743.html",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab (RKLB) Inks New Billion-Dollar Deal, Soars 15.9%",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-inks-billion-023522743.html",
-   "date": "2026-06-30"
-  },
-  {
    "tk": "ASTS",
-   "h": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-keeps-flying-overnight-023133190.html",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "IRDM",
-   "h": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-keeps-flying-overnight-023133190.html",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "RKLB",
    "h": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-keeps-flying-overnight-023133190.html",
@@ -17963,13 +18081,6 @@
    "date": "2026-06-30"
   },
   {
-   "tk": "TSLA",
-   "h": "Innoviz Technologies Backs Mobileye (MBLY) Robotaxi Push With LiDAR Supply Deal",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/innoviz-technologies-backs-mobileye-mbly-020408825.html",
-   "date": "2026-06-30"
-  },
-  {
    "tk": "QCOM",
    "h": "What Future Earnings Are QQQM's Companies Forecasting?",
    "pub": "Trefis",
@@ -17981,20 +18092,6 @@
    "h": "SLS Stock Hits Over 5-Year High: Retail Traders Bet Big On Breaking $25 As AML Readout Looms",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-hits-over-5-010824472.html",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Housing Stocks Reveal How the Market Grades on a Curve",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/housing-stocks-pop-kb-home-8b210ea2?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Stock Market Rallies On U.S.-Iran News; Alphabet, Rocket Lab, SpaceX, Tesla Are Big Winners",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-spacex-spcx-tesla-tsla/?src=A00220&yptr=yahoo",
    "date": "2026-06-30"
   },
   {
@@ -18010,13 +18107,6 @@
    "pub": "Oilprice.com",
    "link": "https://finance.yahoo.com/energy/articles/not-even-musk-answer-ai-000000936.html",
    "date": "2026-06-30"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Why Zeta Global (ZETA) Stock Is Up Today",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-zeta-global-zeta-stock-235415707.html",
-   "date": "2026-06-29"
   },
   {
    "tk": "BA",
@@ -18047,13 +18137,6 @@
    "date": "2026-06-29"
   },
   {
-   "tk": "AVAV",
-   "h": "AVAV Stock Jumps 20% After-Hours \u2014 Q4 Earnings Soar Past Estimates, Revenue More Than Doubles",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-jumps-20-hours-230329628.html",
-   "date": "2026-06-29"
-  },
-  {
    "tk": "VSAT",
    "h": "VSAT Stock Clocks Best Day In Over 10 Months \u2014 Analyst Calls It \u2018Last Major Global Satellite Spectrum Play\u2019 After Rocket Lab-Iridium Deal",
    "pub": "Stocktwits",
@@ -18068,40 +18151,12 @@
    "date": "2026-06-29"
   },
   {
-   "tk": "ASTS",
-   "h": "Stock Market Today, June 29: AST SpaceMobile Rises on BlueBird Satellite Momentum",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-june-29-223456894.html",
-   "date": "2026-06-29"
-  },
-  {
    "tk": "VSAT",
    "h": "Why Are Viasat (VSAT) Shares Soaring Today",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-viasat-vsat-shares-soaring-221815444.html",
    "date": "2026-06-29"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber (UBER) Ends Waymo Phoenix Pilot And Lines Up New Robotaxi Partner",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-ends-waymo-phoenix-220922836.html",
-   "date": "2026-06-29"
-  },
-  {
-   "tk": "MP",
-   "h": "Is MP Materials (MP) Quietly Redefining Its Moat With Higher-Value Magnetics And GM Alignment?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-quietly-redefining-220914551.html",
-   "date": "2026-06-29"
-  },
-  {
-   "tk": "SYM",
-   "h": "Symbotic Inc. (SYM) Laps the Stock Market: Here's Why",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-laps-stock-220005033.html",
-   "date": "2026-06-29"
   }
  ],
- "prices_asof": "2026-06-30 04:02 UTC"
+ "prices_asof": "2026-06-30 08:56 UTC"
 }
