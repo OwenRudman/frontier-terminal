@@ -1143,15 +1143,15 @@
        "date": "2026-06-30"
       },
       {
-       "h": "Is Nvidia Still a Millionaire-Maker?",
+       "h": "Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-still-millionaire-maker-090500736.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-better-long-095000325.html",
        "date": "2026-07-01"
       },
       {
-       "h": "Companies trying to challenge Nvidia's AI chip dominance",
-       "pub": "Quartz",
-       "link": "https://finance.yahoo.com/technology/ai/articles/companies-trying-challenge-nvidias-ai-090000695.html",
+       "h": "Should You Invest a Lump Sum or Dollar-Cost Average Into ETFs?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-lump-sum-dollar-cost-094300025.html",
        "date": "2026-07-01"
       }
      ]
@@ -5891,6 +5891,12 @@
      },
      "news": [
       {
+       "h": "Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-092531827.html",
+       "date": "2026-07-01"
+      },
+      {
        "h": "It Took Tesla 10 Years to Perform Its First Stock Split. Here's Why a SpaceX Stock Split Could Come Much Sooner.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/took-tesla-10-years-perform-084800546.html",
@@ -5900,12 +5906,6 @@
        "h": "2 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 1 We Ignore",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-080900457.html",
-       "date": "2026-07-01"
-      },
-      {
-       "h": "Ford And Ferrari Left Tesla, Rivian, Every Other Auto Rival In The Dust In H1 \u2014 Here's How They Did It",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ford-ferrari-left-tesla-rivian-041622030.html",
        "date": "2026-07-01"
       }
      ],
@@ -10135,6 +10135,12 @@
      "social": null,
      "news": [
       {
+       "h": "Gilat Satellite Networks (GILT) Is Up 8.8% After Winning Custom European Defense SATCOM Order - What's Changed",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-networks-gilt-8-091556239.html",
+       "date": "2026-07-01"
+      },
+      {
        "h": "Iridium (IRDM) Soars 25.4%: Is Further Upside Left in the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-soars-25-4-114400723.html",
@@ -10145,12 +10151,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/articles/comtech-telecom-cmtl-sell-segment-111609132.html",
        "date": "2026-06-30"
-      },
-      {
-       "h": "How is Gilat Benefiting From Rising Defense SATCOM Demand?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/gilat-benefiting-rising-defense-satcom-123000889.html",
-       "date": "2026-06-22"
       }
      ],
      "awards": [
@@ -10467,6 +10467,12 @@
      },
      "news": [
       {
+       "h": "Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-092531827.html",
+       "date": "2026-07-01"
+      },
+      {
        "h": "Is Intuitive Machines (LUNR) Stock Too Expensive After New NASA Wins?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-too-020950711.html",
@@ -10476,12 +10482,6 @@
        "h": "S&P 500, Nasdaq End Higher As Chipmakers Rally, While Dow Posts Best First Half In Five Years \u2014 LUNR, AMZN, PLTR, XYZ, AVAV In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-higher-225735047.html",
-       "date": "2026-06-30"
-      },
-      {
-       "h": "NASA Doles Out More Money for Lunar Missions",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-30-2026/card/nasa-doles-out-more-money-for-lunar-missions-CXVZSMjIn2Fi6sI63fve?siteid=yhoof2&yptr=yahoo",
        "date": "2026-06-30"
       }
      ],
@@ -17889,23 +17889,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is Nvidia Still a Millionaire-Maker?",
+   "h": "Bitcoin vs. Ethereum: Which Is the Better Long-Term Buy?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-still-millionaire-maker-090500736.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-vs-ethereum-better-long-095000325.html",
    "date": "2026-07-01"
   },
   {
    "tk": "NVDA",
-   "h": "Companies trying to challenge Nvidia's AI chip dominance",
-   "pub": "Quartz",
-   "link": "https://finance.yahoo.com/technology/ai/articles/companies-trying-challenge-nvidias-ai-090000695.html",
+   "h": "Should You Invest a Lump Sum or Dollar-Cost Average Into ETFs?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-lump-sum-dollar-cost-094300025.html",
    "date": "2026-07-01"
   },
   {
    "tk": "NVDA",
-   "h": "Which Financial Stocks Actually Benefit When Interest Rates Stay High?",
+   "h": "Buy SpaceX Stock Before It Soars, Says Wall Street. A $10,000 Investment Could Be Worth This Much in a Year.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/financial-stocks-actually-benefit-interest-085000822.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-spacex-stock-soars-says-093200996.html",
+   "date": "2026-07-01"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-092531827.html",
+   "date": "2026-07-01"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Nasdaq, S&P 500, Dow Futures Slip After Historic First-Half Rally As Investors Await Labor Data, Fed Signals: Why NKE, TSLA, NIO, MU, LUNR, CVKD Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-092531827.html",
+   "date": "2026-07-01"
+  },
+  {
+   "tk": "GILT",
+   "h": "Gilat Satellite Networks (GILT) Is Up 8.8% After Winning Custom European Defense SATCOM Order - What's Changed",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-networks-gilt-8-091556239.html",
    "date": "2026-07-01"
   },
   {
@@ -18028,13 +18049,6 @@
    "date": "2026-07-01"
   },
   {
-   "tk": "TSLA",
-   "h": "Lemonade (LMND) Is Up 12.4% After Expanding Coverage And Securing Improved Reinsurance Terms - What's Changed",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lemonade-lmnd-12-4-expanding-031240651.html",
-   "date": "2026-07-01"
-  },
-  {
    "tk": "GEV",
    "h": "Dow sell-side Futures Fall, Bloom Energy Soars Late; SpaceX's First Buy Point",
    "pub": "Investor's Business Daily",
@@ -18152,21 +18166,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-trades-221901089.html",
    "date": "2026-06-30"
-  },
-  {
-   "tk": "D",
-   "h": "Dominion Energy (D) Stock Sinks As Market Gains: What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-stock-sinks-220006763.html",
-   "date": "2026-06-30"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX (RTX) Outperforms Broader Market: What You Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-outperforms-broader-market-220006116.html",
-   "date": "2026-06-30"
   }
  ],
- "prices_asof": "2026-07-01 09:29 UTC"
+ "prices_asof": "2026-07-01 09:57 UTC"
 }
