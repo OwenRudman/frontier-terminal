@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 670,
-      "up": 13
+      "rk": 728,
+      "up": 5
      },
      "news": [
       {
@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Albemarle (ALB) Quietly Recasting Its Energy Storage Story Through Cost Cuts And Asset Sales?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/albemarle-alb-quietly-recasting-energy-081423029.html",
+       "date": "2026-07-02"
+      },
+      {
        "h": "Albemarle (ALB) Stock May Be 45% Undervalued Following Citi Upgrade",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-may-45-001730953.html",
@@ -696,12 +702,6 @@
        "h": "APD Exits LCEC Project, Finalizes NEOM Green Hydrogen Deal With Yara",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/apd-exits-lcec-project-finalizes-155200474.html",
-       "date": "2026-07-01"
-      },
-      {
-       "h": "Wall Street Analysts Think Albemarle (ALB) Is a Good Investment: Is It?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-albemarle-133004127.html",
        "date": "2026-07-01"
       }
      ],
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 2,
-      "rk": 176,
-      "up": -5
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 112,
-      "m0": 122,
-      "rk": 9,
-      "up": 331
+      "m": 181,
+      "m0": 111,
+      "rk": 7,
+      "up": 3770
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1138,15 @@
        "date": "2026-07-01"
       },
       {
-       "h": "1 Wall Street Analyst Just Called Palantir \"Undervalued.\" Is He Right?",
+       "h": "Buckle Up! We Just Entered the Next Phase of Trumpflation.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-analyst-just-072200966.html",
+       "link": "https://finance.yahoo.com/economy/policy/articles/buckle-just-entered-next-phase-082600382.html",
        "date": "2026-07-02"
       },
       {
-       "h": "Better High-Yield Dividend Stock: Verizon or AT&T?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-071100480.html",
+       "h": "Amazon Reportedly Plans In-House Processors For Consumer Devices In Major Shift, Analyst Says",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/technology/ai/articles/amazon-reportedly-plans-house-processors-082548453.html",
        "date": "2026-07-02"
       }
      ]
@@ -1236,9 +1231,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 396,
-      "up": 4
+      "m0": 1,
+      "rk": 457,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -1317,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 757,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1600,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 21,
+      "m": 63,
+      "m0": 50,
       "rk": 16,
-      "up": 725
+      "up": 194
      },
      "thesis": {
       "bull": [
@@ -2045,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 125,
-      "up": 9
+      "m": 1,
+      "m0": 3,
+      "rk": 378,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2337,12 +2327,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 250,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2495,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 27,
-      "rk": 32,
-      "up": 45
+      "m": 6,
+      "m0": 23,
+      "rk": 100,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -2845,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 4,
-      "rk": 90,
-      "up": 11
+      "m": 4,
+      "m0": 6,
+      "rk": 143,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -3162,10 +3147,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 5,
-      "rk": 56,
-      "up": 4
+      "m": 4,
+      "m0": 10,
+      "rk": 147,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -3750,7 +3735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 682,
+      "up": 3
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4053,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 13,
-      "rk": 33,
-      "up": 45
+      "m": 6,
+      "m0": 23,
+      "rk": 105,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -4405,7 +4395,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 411,
+      "rk": 467,
       "up": 1
      },
      "news": [
@@ -4490,6 +4480,12 @@
      "social": null,
      "awards": [
       {
+       "amt": 2334400.0,
+       "ag": "Department of Defense",
+       "desc": "PROCUREMENT OF 24 IMMEDIATE RESPONSE KITS.",
+       "date": "2026-04-01"
+      },
+      {
        "amt": 159915.0,
        "ag": "Department of Justice",
        "desc": "MISSION CRITICAL - APPREHENDING FUGITIVES FY25-JSD: DRONEGUN TACTICAL  CF: APC-FY25-000458",
@@ -4506,12 +4502,6 @@
        "ag": "Department of State",
        "desc": "RPSO: INL/KOSOVO POLICE ANTI DRONES",
        "date": "2021-08-17"
-      },
-      {
-       "amt": 106100.0,
-       "ag": "Department of Justice",
-       "desc": "MISSION CRITICAL - APPREHENDING FUGITIVES FY25-JSD: DRONE IMMEDIATE RESPONSE KIT  CF: APC-FY25-000453",
-       "date": "2025-09-16"
       }
      ]
     },
@@ -4641,12 +4631,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 765,
-      "up": 10
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Going On With ParaZero Stock Wednesday?",
@@ -4741,10 +4726,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 12,
-      "rk": 138,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 719,
+      "up": 2
      },
      "news": [
       {
@@ -5153,7 +5138,7 @@
      ],
      "awards": [
       {
-       "amt": 12569612524.86,
+       "amt": 12719161357.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5884,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 58,
-      "m0": 127,
-      "rk": 13,
-      "up": 142
+      "m": 70,
+      "m0": 58,
+      "rk": 15,
+      "up": 119
      },
      "news": [
       {
@@ -5974,8 +5959,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 390,
-      "up": -1
+      "rk": 452,
+      "up": 1
      },
      "news": [
       {
@@ -6059,12 +6044,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 382,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is Baidu (BIDU) One of the AI Stocks on Wall Street\u2019s Radar?",
@@ -6292,10 +6272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 723,
-      "up": 2
+      "rk": 219,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -6839,12 +6819,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 711,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is Ouster Still a Buy at 52-Week High or is it Time to Exit?",
@@ -6903,8 +6878,8 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 644,
+      "m0": 1,
+      "rk": 702,
       "up": 1
      },
      "news": [
@@ -7023,8 +6998,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 596,
-      "up": 1
+      "rk": 661,
+      "up": 4
      },
      "news": [
       {
@@ -7140,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 5,
-      "rk": 43,
-      "up": 43
+      "m": 9,
+      "m0": 14,
+      "rk": 73,
+      "up": 23
      },
      "news": [
       {
@@ -7229,9 +7204,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 337,
-      "up": 5
+      "m0": 1,
+      "rk": 395,
+      "up": 1
      },
      "news": [
       {
@@ -7290,10 +7265,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 173,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 796,
+      "up": 1
      },
      "news": [
       {
@@ -7476,12 +7451,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 5,
-      "m0": 0,
-      "rk": 100,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "Symbotic Inc. (SYM) Laps the Stock Market: Here's Why",
@@ -7807,10 +7777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 115,
-      "rk": 18,
-      "up": 126
+      "m": 21,
+      "m0": 52,
+      "rk": 36,
+      "up": 119
      },
      "news": [
       {
@@ -8316,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 130,
-      "rk": 17,
-      "up": 169
+      "m": 39,
+      "m0": 54,
+      "rk": 26,
+      "up": 212
      },
      "thesis": {
       "bull": [
@@ -8617,10 +8587,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 428,
-      "up": 6
+      "rk": 202,
+      "up": 9
      },
      "streetNotes": [
       {
@@ -8717,12 +8687,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 732,
-      "up": -2
-     },
+     "social": null,
      "news": [
       {
        "h": "Momentus Stock Is Up 145% In 2026. How to Play MNTS After the SpaceX IPO.",
@@ -8808,8 +8773,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 681,
-      "up": 5
+      "rk": 740,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -9128,12 +9093,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 699,
-      "up": 10
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Small-Cap Stocks Getting a Russell 2000 Rebalance Boost",
@@ -9226,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 110,
-      "up": 9
+      "m": 1,
+      "m0": 4,
+      "rk": 786,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9327,8 +9287,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 689,
+      "m0": 1,
+      "rk": 749,
       "up": 4
      },
      "news": [
@@ -9575,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 83,
-      "m0": 172,
-      "rk": 12,
-      "up": 322
+      "m": 57,
+      "m0": 85,
+      "rk": 17,
+      "up": 166
      },
      "thesis": {
       "bull": [
@@ -9900,8 +9860,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 374,
+      "m0": 1,
+      "rk": 440,
       "up": 1
      },
      "news": [
@@ -9962,9 +9922,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 298,
-      "up": 1
+      "m0": 1,
+      "rk": 342,
+      "up": 2
      },
      "news": [
       {
@@ -10460,10 +10420,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 5,
-      "rk": 34,
-      "up": 52
+      "m": 9,
+      "m0": 21,
+      "rk": 78,
+      "up": 19
      },
      "news": [
       {
@@ -10615,8 +10575,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 194,
+      "m0": 1,
+      "rk": 243,
       "up": 1
      },
      "streetNotes": [
@@ -10634,6 +10594,12 @@
      ],
      "news": [
       {
+       "h": "Why Lockheed Martin (LMT) Is Up 6.1% After Massive Missile-Defense Contracts And Index Shift",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-lmt-6-081513622.html",
+       "date": "2026-07-02"
+      },
+      {
        "h": "Lockheed Martin (LMT) Ascends While Market Falls: Some Facts to Note",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-ascends-while-215002702.html",
@@ -10643,12 +10609,6 @@
        "h": "Why Lockheed Stock\u2019s Brutal Quarter Is Sending a Buy Signal",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/lockheed-stock-price-upgrade-buy-64c14cde?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-01"
-      },
-      {
-       "h": "Is Textron Expanding Its Presence in the Helicopter Market?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/textron-expanding-presence-helicopter-market-160300909.html",
        "date": "2026-07-01"
       }
      ],
@@ -10723,12 +10683,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 250,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10834,9 +10789,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 188,
-      "up": 1
+      "m0": 1,
+      "rk": 235,
+      "up": 3
      },
      "news": [
       {
@@ -10923,7 +10878,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 411,
+      "rk": 467,
       "up": 1
      },
      "news": [
@@ -11288,10 +11243,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 21,
+      "m": 63,
+      "m0": 50,
       "rk": 16,
-      "up": 725
+      "up": 194
      },
      "news": [
       {
@@ -11376,12 +11331,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 499,
-      "up": -2
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Set for Rapid Entry into Nasdaq-100: ETFs in Focus",
@@ -12479,8 +12429,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 659,
-      "up": 4
+      "rk": 716,
+      "up": 2
      },
      "news": [
       {
@@ -12539,12 +12489,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 655,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy CEO Leigh Curyer Explains How AI is Influencing Energy Demand",
@@ -12616,12 +12561,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 385,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Foremost Clean Energy targets Athabasca growth after Hatchet Lake Uranium success",
@@ -12679,12 +12619,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 754,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Ur-Energy (URG) Completes 100th Uranium Shipment from Lost Creek",
@@ -12745,8 +12680,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 384,
-      "up": 4
+      "rk": 449,
+      "up": 3
      },
      "news": [
       {
@@ -12826,10 +12761,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 10,
-      "rk": 50,
-      "up": 22
+      "m": 19,
+      "m0": 12,
+      "rk": 37,
+      "up": 894
      },
      "news": [
       {
@@ -13099,8 +13034,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 720,
+      "up": 3
+     },
      "news": [
+      {
+       "h": "Why Is LEU Stock Rising Premarket Today?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-leu-stock-rising-premarket-081505562.html",
+       "date": "2026-07-02"
+      },
       {
        "h": "Energy Fuels Slides 18% in Past 3 Months: Exit Now or Stay Put?",
        "pub": "Zacks",
@@ -13112,17 +13058,11 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-stock-plunged-32-170500852.html",
        "date": "2026-06-30"
-      },
-      {
-       "h": "Cameco's Adjusted EBITDA Up 44% in Q126: More Upside Ahead?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/camecos-adjusted-ebitda-44-q126-171500763.html",
-       "date": "2026-06-29"
       }
      ],
      "awards": [
       {
-       "amt": 317041412.48,
+       "amt": 332041412.48,
        "ag": "Department of Energy",
        "desc": "HIGH ASSAY LOW ENRICHED URANIUM (HALEU) CASCADE DEMO COMPLETION AND EXTENDED PRODUCTION",
        "date": "2022-11-30"
@@ -13171,12 +13111,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 752,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
@@ -13419,10 +13354,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 11,
       "m0": 2,
-      "rk": 179,
-      "up": 7
+      "rk": 66,
+      "up": 76
      },
      "thesis": {
       "bull": [
@@ -13659,12 +13594,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 740,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can BWX Technologies Benefit From the Commercial Nuclear Revival?",
@@ -13723,10 +13653,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 786,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 226,
+      "up": 3
      },
      "news": [
       {
@@ -14079,9 +14009,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 345,
-      "up": 2
+      "m0": 1,
+      "rk": 405,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -14152,10 +14082,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 180,
-      "up": 59
+      "m": 4,
+      "m0": 2,
+      "rk": 149,
+      "up": 7
      },
      "news": [
       {
@@ -14262,7 +14192,7 @@
      ],
      "awards": [
       {
-       "amt": 38504056.74,
+       "amt": 42223448.74,
        "ag": "Department of Defense",
        "desc": "JOINT PERSONAL DOSIMETER INDIVIDUAL BATTLEFIELD DOSIMETERS, CONFORMANCE TESTING, SPARE PARTS, AND TECHNICAL DOCUMENTATION.",
        "date": "2019-08-01"
@@ -14322,7 +14252,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 496,
+      "up": 1
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14405,7 +14340,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 486,
+      "up": 1
+     },
      "news": [
       {
        "h": "EMCOR vs. Fluor: Which Infrastructure Stock Should You Buy Now?",
@@ -14614,10 +14554,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 7,
       "m0": 2,
-      "rk": 172,
-      "up": 6
+      "rk": 99,
+      "up": 12
      },
      "news": [
       {
@@ -14704,7 +14644,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 340,
+      "rk": 400,
       "up": 1
      },
      "news": [
@@ -15021,10 +14961,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 9,
-      "rk": 104,
-      "up": 59
+      "m": 8,
+      "m0": 4,
+      "rk": 79,
+      "up": 18
      },
      "news": [
       {
@@ -15192,10 +15132,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 282,
-      "up": 0
+      "rk": 156,
+      "up": 7
      },
      "news": [
       {
@@ -17608,7 +17548,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-01",
+ "social_asof": "2026-07-02",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17889,9 +17829,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "1 Wall Street Analyst Just Called Palantir \"Undervalued.\" Is He Right?",
+   "h": "Buckle Up! We Just Entered the Next Phase of Trumpflation.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-analyst-just-072200966.html",
+   "link": "https://finance.yahoo.com/economy/policy/articles/buckle-just-entered-next-phase-082600382.html",
+   "date": "2026-07-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Amazon Reportedly Plans In-House Processors For Consumer Devices In Major Shift, Analyst Says",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-reportedly-plans-house-processors-082548453.html",
+   "date": "2026-07-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Growth Stock Showdown: Is Costco or Amazon the Better Buy Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-stock-showdown-costco-amazon-082200629.html",
+   "date": "2026-07-02"
+  },
+  {
+   "tk": "LMT",
+   "h": "Why Lockheed Martin (LMT) Is Up 6.1% After Massive Missile-Defense Contracts And Index Shift",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-lmt-6-081513622.html",
+   "date": "2026-07-02"
+  },
+  {
+   "tk": "LEU",
+   "h": "Why Is LEU Stock Rising Premarket Today?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-leu-stock-rising-premarket-081505562.html",
+   "date": "2026-07-02"
+  },
+  {
+   "tk": "ALB",
+   "h": "Is Albemarle (ALB) Quietly Recasting Its Energy Storage Story Through Cost Cuts And Asset Sales?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/albemarle-alb-quietly-recasting-energy-081423029.html",
    "date": "2026-07-02"
   },
   {
@@ -17899,20 +17874,6 @@
    "h": "1 Wall Street Analyst Just Called Palantir \"Undervalued.\" Is He Right?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-analyst-just-072200966.html",
-   "date": "2026-07-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Better High-Yield Dividend Stock: Verizon or AT&T?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-yield-dividend-stock-071100480.html",
-   "date": "2026-07-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "The Pricing Crisis Clouding the AI Trade",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/ai-tokens-anthropic-openai-claude-chatgpt-b6d27e5e?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-02"
   },
   {
@@ -18145,28 +18106,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/technology/ai/articles/aurora-aur-safety-case-earns-212240830.html",
    "date": "2026-07-01"
-  },
-  {
-   "tk": "UBER",
-   "h": "Robotaxi potential is 'really big': Nissan CEO on Uber partnership & autonomous demand",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/robotaxi-potential-is-really-big-nissan-ceo-on-uber-partnership--autonomous-demand-211922632.html",
-   "date": "2026-07-01"
-  },
-  {
-   "tk": "INDI",
-   "h": "indie Semiconductor (INDI) Declines, However The Street Remains Bullish",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/indie-semiconductor-indi-declines-however-210451972.html",
-   "date": "2026-07-01"
-  },
-  {
-   "tk": "CEG",
-   "h": "Constellation Energy Corporation (CEG) Declines, Here\u2019s What Wall Street Thinks About it",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/constellation-energy-corporation-ceg-declines-210340445.html",
-   "date": "2026-07-01"
   }
  ],
- "prices_asof": "2026-07-02 07:39 UTC"
+ "prices_asof": "2026-07-02 08:41 UTC"
 }
