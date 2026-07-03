@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "Forget MP Materials. This Established \"Picks and Shovels\" Mining Giant Is the Safer Way to Play the Metals Supercycle.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/commodities/articles/forget-mp-materials-established-picks-062500461.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "MP Materials Corp. (MP) Initiated at Buy as Analyst Highlights Rare Earth Supply Chain Leadership",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-corp-mp-initiated-200651366.html",
@@ -626,12 +632,6 @@
        "h": "Is MP Materials Corp. (MP) Among the Most Promising EV Stocks to Buy According to Analysts?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-corp-mp-among-063814498.html",
-       "date": "2026-07-02"
-      },
-      {
-       "h": "St George Mining reports thickest Arax\u00e1 intercept - ICYMI",
-       "pub": "Proactive",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/st-george-mining-reports-thickest-044200071.html",
        "date": "2026-07-02"
       }
      ],
@@ -1138,15 +1138,15 @@
        "date": "2026-07-02"
       },
       {
-       "h": "Why Dell (DELL) Shares Are Plunging Today",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-dell-dell-shares-plunging-030824605.html",
+       "h": "The Stock Market Is Flashing a Clear Warning to Investors: Here's What History Says Could Happen in 2026 and Beyond",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-clear-warning-065800165.html",
        "date": "2026-07-03"
       },
       {
-       "h": "CrowdStrike Just Split Its Stock 4-for-1. Does a $193 Price Tag Make It a Buy?",
+       "h": "Prediction: This Unstoppable Vanguard ETF Will Beat the S&P 500 in the Second Half of 2026",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-split-stock-4-024600447.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-unstoppable-vanguard-etf-beat-062000216.html",
        "date": "2026-07-03"
       }
      ]
@@ -5882,15 +5882,15 @@
        "date": "2026-07-01"
       },
       {
-       "h": "Dow sell-side Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+       "h": "Tesla beat the Street and was still punished. Here's why",
+       "pub": "Proactive",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-beat-street-still-punished-065500191.html",
        "date": "2026-07-03"
       },
       {
-       "h": "Trillionaire Elon Musk Says Neuralink Could Deliver 'Jesus-Level' Miracles: Here's What He Means",
-       "pub": "Benzinga",
-       "link": "https://tech.yahoo.com/ai/meta-ai/articles/trillionaire-elon-musk-says-neuralink-023108720.html",
+       "h": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/burry-called-bubble-days-ago-035038199.html",
        "date": "2026-07-03"
       }
      ],
@@ -10795,6 +10795,12 @@
      },
      "news": [
       {
+       "h": "Is BAE Systems (LSE:BA.) Still A Bargain After Its 324% Run?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-still-070934228.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "Why Boeing (BA) Stock Is Trading Up Today",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-boeing-ba-stock-trading-220424637.html",
@@ -10804,12 +10810,6 @@
        "h": "Get Paid 8.1% A Year To Hold RTX Stock You Already Own",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/paid-8-1-hold-rtx-205228476.html",
-       "date": "2026-07-02"
-      },
-      {
-       "h": "Progress, further delay risk for Boeing Air Force One: report",
-       "pub": "AFP",
-       "link": "https://finance.yahoo.com/technology/articles/progress-further-delay-risk-boeing-185140706.html",
        "date": "2026-07-02"
       }
      ],
@@ -17828,6 +17828,55 @@
  ],
  "news": [
   {
+   "tk": "BA",
+   "h": "Is BAE Systems (LSE:BA.) Still A Bargain After Its 324% Run?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-still-070934228.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Stock Market Is Flashing a Clear Warning to Investors: Here's What History Says Could Happen in 2026 and Beyond",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-clear-warning-065800165.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla beat the Street and was still punished. Here's why",
+   "pub": "Proactive",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-beat-street-still-punished-065500191.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "MP",
+   "h": "Forget MP Materials. This Established \"Picks and Shovels\" Mining Giant Is the Safer Way to Play the Metals Supercycle.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/forget-mp-materials-established-picks-062500461.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: This Unstoppable Vanguard ETF Will Beat the S&P 500 in the Second Half of 2026",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-unstoppable-vanguard-etf-beat-062000216.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Alphabet Joined the Dow and Became a Top Holding in Berkshire Hathaway's Portfolio. But This Stock Could Be an Even Better Buy.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-joined-dow-became-top-052500001.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Burry Called a Bubble Days Ago and Now AI & EV Stocks Are Already Cracking",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/burry-called-bubble-days-ago-035038199.html",
+   "date": "2026-07-03"
+  },
+  {
    "tk": "ASTS",
    "h": "AST SpaceMobile (ASTS) Secures $926 Million And Rakuten Venture For Japan Network",
    "pub": "Simply Wall St.",
@@ -17835,45 +17884,10 @@
    "date": "2026-07-03"
   },
   {
-   "tk": "NVDA",
-   "h": "Why Dell (DELL) Shares Are Plunging Today",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-dell-dell-shares-plunging-030824605.html",
-   "date": "2026-07-03"
-  },
-  {
    "tk": "TSLA",
    "h": "Dow sell-side Futures Rise After Tesla, Sandisk, AI Stocks Dive; Apple, Robinhood Flash Buy Signals",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "CrowdStrike Just Split Its Stock 4-for-1. Does a $193 Price Tag Make It a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-split-stock-4-024600447.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "What Makes a Bank Stock Worth Owning for Decades",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/makes-bank-stock-worth-owning-023500220.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Trillionaire Elon Musk Says Neuralink Could Deliver 'Jesus-Level' Miracles: Here's What He Means",
-   "pub": "Benzinga",
-   "link": "https://tech.yahoo.com/ai/meta-ai/articles/trillionaire-elon-musk-says-neuralink-023108720.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why Did Tesla\u2019s Stock Drop 7% Despite a Record Delivery Quarter?",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-tesla-stock-drop-022934982.html",
    "date": "2026-07-03"
   },
   {
@@ -18092,21 +18106,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-corp-mp-initiated-200651366.html",
    "date": "2026-07-02"
-  },
-  {
-   "tk": "BA",
-   "h": "Progress, further delay risk for Boeing Air Force One: report",
-   "pub": "AFP",
-   "link": "https://finance.yahoo.com/technology/articles/progress-further-delay-risk-boeing-185140706.html",
-   "date": "2026-07-02"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir upgraded to Buy, Rivian lifts delivery outlook, Robinhood's new product",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/palantir-upgraded-to-buy-rivian-lifts-delivery-outlook-robinhoods-new-product-193145290.html",
-   "date": "2026-07-02"
   }
  ],
- "prices_asof": "2026-07-03 03:41 UTC"
+ "prices_asof": "2026-07-03 07:26 UTC"
 }
