@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 127,
-      "up": 36
+      "m": 1,
+      "m0": 5,
+      "rk": 727,
+      "up": 32
      },
      "news": [
       {
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 134,
-      "m0": 181,
-      "rk": 8,
-      "up": 787
+      "m": 34,
+      "m0": 134,
+      "rk": 9,
+      "up": 109
      },
      "thesis": {
       "bull": [
@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Can Shiba Inu Really Turn You Into a Millionaire?",
+       "h": "Is Strategy's Latest Plan 1 More Reason to Sell Bitcoin?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/shiba-inu-really-turn-millionaire-055000321.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/strategys-latest-plan-1-more-082000078.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Warren Buffett Just Sent Investors an 11-Word Warning About the Stock Market. History Says He's Right.",
+       "h": "Stock Market Volatility: History Says This 1 Investing Move Is More Important Than Ever Before",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-sent-investors-052000139.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-volatility-history-says-075000606.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Wall Street Analysts Are Predicting Something Never Seen Before, and It Should Come as a Huge Warning for Investors",
+       "h": "SpaceX Stock Rebounds Above $170. Here Is How Much Upside Analysts See Left.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-something-042000444.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-rebounds-above-170-072500305.html",
        "date": "2026-07-04"
       }
      ]
@@ -1229,12 +1229,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 506,
-      "up": 5
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 49,
-      "m0": 63,
-      "rk": 17,
-      "up": 185
+      "m": 10,
+      "m0": 49,
+      "rk": 27,
+      "up": 56
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2032,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 410,
+      "rk": 316,
       "up": 3
      },
      "thesis": {
@@ -2327,7 +2322,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 217,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2351,6 +2351,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Trump marks Fourth of July with Mount Rushmore speech ahead of midterms",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-marks-fourth-july-mount-063221288.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/russian-forces-claim-capture-kostiantynivka-233312740.html",
@@ -2361,12 +2367,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
        "date": "2026-07-03"
-      },
-      {
-       "h": "Northrop Grumman (NOC) Stock Trades Up, Here Is Why",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-trades-215624334.html",
-       "date": "2026-07-02"
       }
      ],
      "awards": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 6,
-      "rk": 76,
-      "up": 31
+      "m": 1,
+      "m0": 9,
+      "rk": 338,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -2830,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 238,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 796,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3733,8 +3733,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 749,
-      "up": -1
+      "rk": 669,
+      "up": 0
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
@@ -4037,12 +4037,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 15,
-      "m0": 6,
-      "rk": 51,
-      "up": 113
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4388,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 214,
-      "up": 14
+      "m": 1,
+      "m0": 2,
+      "rk": 421,
+      "up": 2
      },
      "news": [
       {
@@ -4722,9 +4717,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 231,
-      "up": 5
+      "m0": 2,
+      "rk": 118,
+      "up": -12
      },
      "news": [
       {
@@ -5145,7 +5140,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6888769554.74,
+       "amt": 6889413741.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5864,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 160,
-      "m0": 70,
-      "rk": 7,
-      "up": 752
+      "m": 7,
+      "m0": 159,
+      "rk": 47,
+      "up": 438
      },
      "news": [
       {
@@ -5952,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 147,
-      "up": 9
+      "m": 1,
+      "m0": 4,
+      "rk": 406,
+      "up": 2
      },
      "news": [
       {
@@ -6267,10 +6262,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 237,
-      "up": 9
+      "rk": 793,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6988,8 +6983,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 727,
-      "up": 2
+      "rk": 644,
+      "up": 1
      },
      "news": [
       {
@@ -7105,10 +7100,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 9,
-      "rk": 140,
-      "up": 11
+      "m": 1,
+      "m0": 4,
+      "rk": 220,
+      "up": 1
      },
      "news": [
       {
@@ -7195,7 +7190,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 428,
+      "rk": 336,
       "up": 1
      },
      "news": [
@@ -7762,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 21,
-      "rk": 28,
-      "up": 83
+      "m": 2,
+      "m0": 29,
+      "rk": 112,
+      "up": 5
      },
      "news": [
       {
@@ -8271,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 39,
-      "rk": 42,
-      "up": 203
+      "m": 12,
+      "m0": 17,
+      "rk": 22,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -8573,9 +8568,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 542,
-      "up": 3
+      "m0": 1,
+      "rk": 442,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -8755,7 +8750,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 736,
+      "up": 0
+     },
      "thesis": {
       "bull": [
        {
@@ -9166,10 +9166,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 155,
-      "up": 18
+      "m": 1,
+      "m0": 4,
+      "rk": 791,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9427,8 +9427,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 787,
+      "m0": 1,
+      "rk": 709,
       "up": 3
      },
      "news": [
@@ -9515,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 57,
-      "rk": 59,
-      "up": 41
+      "m": 24,
+      "m0": 15,
+      "rk": 11,
+      "up": 105
      },
      "thesis": {
       "bull": [
@@ -9756,10 +9756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 733,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 113,
+      "up": 2
      },
      "news": [
       {
@@ -9843,7 +9843,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 386,
+      "up": 3
+     },
      "news": [
       {
        "h": "Why Analysts Think Rocket Lab Stock Can Gain Another 50% from Here",
@@ -9900,12 +9905,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 377,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "EU sets unambiguous parameters for satcos operating in 2 GHz",
@@ -9989,7 +9989,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 390,
+      "up": 98
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10399,7 +10404,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 125,
+      "up": 11
+     },
      "news": [
       {
        "h": "Voyager Stock Surges on NASA Moon Mission Contracts. 2 Others Fall.",
@@ -10548,12 +10558,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 265,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10569,21 +10574,21 @@
      ],
      "news": [
       {
+       "h": "Lockheed Martin (LMT) Eyes $3.5 Billion Ultra Maritime Deal In Undersea Defense",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-eyes-3-080858805.html",
+       "date": "2026-07-04"
+      },
+      {
+       "h": "Trump marks Fourth of July with Mount Rushmore speech ahead of midterms",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-marks-fourth-july-mount-063221288.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Lockheed Closes In on $3.5 Billion Ultra Maritime Deal",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-closes-3-5-billion-165842132.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "AeroVironment\u2019s Big Bet Gets a Pentagon Payday",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "What to Expect From Lockheed Martin\u2019s Next Quarterly Earnings Report",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/expect-lockheed-martin-next-quarterly-121436807.html",
        "date": "2026-07-03"
       }
      ],
@@ -10658,7 +10663,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 217,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10682,6 +10692,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Trump marks Fourth of July with Mount Rushmore speech ahead of midterms",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-marks-fourth-july-mount-063221288.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/russian-forces-claim-capture-kostiantynivka-233312740.html",
@@ -10692,40 +10708,9 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
        "date": "2026-07-03"
-      },
-      {
-       "h": "Northrop Grumman (NOC) Stock Trades Up, Here Is Why",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-trades-215624334.html",
-       "date": "2026-07-02"
       }
      ],
-     "awards": [
-      {
-       "amt": 13396478923.19,
-       "ag": "Department of Defense",
-       "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
-       "date": "2020-09-08"
-      },
-      {
-       "amt": 10009419769.13,
-       "ag": "Department of Defense",
-       "desc": "200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01502!20041213!20050701!001563738!004179453!016435559!N!NORTHROP GRUMMAN SPACE & MISSI!888 S 2000 E              !CLEARFIELD          !UT!84015!13850!011!49!CLEARFIELD          !DAVIS                 !UTAH      !-000001960000!N!N!000000000000!L014!TECH REP SVCS/GUIDED MISSILES                     !A2 !MISSILE AND SPACE SYSTEMS           !302 !MINUTEMAN III GRP             !541330!E! !3! ! !C! ! !20200930!B! ! !A! !A!N!L!2!002!B!  !Z!Y!Z! !  !N!C!N! ! ! !A!A!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
-       "date": "1998-07-01"
-      },
-      {
-       "amt": 8478019987.67,
-       "ag": "Department of Defense",
-       "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
-       "date": "2018-02-15"
-      },
-      {
-       "amt": 5375141527.12,
-       "ag": "Department of Defense",
-       "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-2)",
-       "date": "2013-05-13"
-      }
-     ]
+     "awards": []
     },
     "BA": {
      "n": "Boeing",
@@ -10763,10 +10748,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 157,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 141,
+      "up": 1
      },
      "news": [
       {
@@ -10851,10 +10836,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 214,
-      "up": 14
+      "m": 1,
+      "m0": 2,
+      "rk": 421,
+      "up": 2
      },
      "news": [
       {
@@ -11218,10 +11203,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 49,
-      "m0": 63,
-      "rk": 17,
-      "up": 185
+      "m": 10,
+      "m0": 49,
+      "rk": 27,
+      "up": 56
      },
      "news": [
       {
@@ -11243,32 +11228,7 @@
        "date": "2026-07-03"
       }
      ],
-     "awards": [
-      {
-       "amt": 442883216.67,
-       "ag": "Department of Defense",
-       "desc": "CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039",
-       "date": "2025-10-15"
-      },
-      {
-       "amt": 292680689.24,
-       "ag": "Department of Defense",
-       "desc": "TASK ORDER #1 FOR MAVEN SMART SYSTEM - USER INTERFACE/USER EXPERIENCE (UI/UX) PROTOTYPE",
-       "date": "2024-06-18"
-      },
-      {
-       "amt": 150703824.61,
-       "ag": "Department of Homeland Security",
-       "desc": "INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENHANCEMENTS",
-       "date": "2022-09-26"
-      },
-      {
-       "amt": 145033091.2,
-       "ag": "Department of Defense",
-       "desc": "ARMY VANTAGE DATA ANALYTICS PLATFORM.",
-       "date": "2025-12-11"
-      }
-     ]
+     "awards": []
     },
     "UFO": {
      "n": "Procure Space ETF",
@@ -11306,7 +11266,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 528,
+      "up": 3
+     },
      "news": [
       {
        "h": "SpaceX Set for Rapid Entry into Nasdaq-100: ETFs in Focus",
@@ -12345,8 +12310,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 568,
+      "m0": 1,
+      "rk": 469,
       "up": 1
      },
      "news": [
@@ -12406,12 +12371,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 788,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Brokers Suggest Investing in Uranium Energy (UEC): Read This Before Placing a Bet",
@@ -12543,8 +12503,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 497,
+      "m0": 1,
+      "rk": 403,
       "up": 1
      },
      "news": [
@@ -12665,8 +12625,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 496,
-      "up": 1
+      "rk": 402,
+      "up": 2
      },
      "news": [
       {
@@ -12746,10 +12706,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 81,
-      "m0": 17,
-      "rk": 13,
-      "up": 3807
+      "m": 13,
+      "m0": 81,
+      "rk": 20,
+      "up": 44
      },
      "news": [
       {
@@ -13022,8 +12982,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 792,
-      "up": 4
+      "rk": 716,
+      "up": 1
      },
      "news": [
       {
@@ -13345,10 +13305,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 11,
-      "rk": 133,
-      "up": 9
+      "m": 2,
+      "m0": 5,
+      "rk": 126,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13996,8 +13956,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 443,
-      "up": 24
+      "rk": 351,
+      "up": 34
      },
      "streetNotes": [
       {
@@ -14067,12 +14027,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 3,
-      "rk": 188,
-      "up": 28
-     },
+     "social": null,
      "news": [
       {
        "h": "Jim Cramer on GE Vernova: \u201cI Believe In Scott Strazik\u201d",
@@ -14241,7 +14196,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 555,
+      "rk": 454,
       "up": 1
      },
      "awards": [
@@ -14326,12 +14281,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 543,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Fluor (FLR) Completes CTA Rail Project And Adds Voyageur Supply Chain Study",
@@ -14539,7 +14489,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 789,
+      "up": 4
+     },
      "news": [
       {
        "h": "Constellation Energy Corporation (CEG) Stock Moves 1.16%: What You Should Know",
@@ -14625,8 +14580,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 435,
-      "up": 1
+      "rk": 343,
+      "up": 0
      },
      "news": [
       {
@@ -14942,10 +14897,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
+      "m": 1,
       "m0": 8,
-      "rk": 82,
-      "up": 37
+      "rk": 226,
+      "up": 3
      },
      "news": [
       {
@@ -15113,10 +15068,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 91,
-      "up": 76
+      "m": 3,
+      "m0": 7,
+      "rk": 86,
+      "up": 9
      },
      "news": [
       {
@@ -15459,9 +15414,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 605,
-      "up": 5
+      "m0": 1,
+      "rk": 512,
+      "up": 1
      },
      "news": [
       {
@@ -17534,7 +17489,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-03",
+ "social_asof": "2026-07-04",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17815,16 +17770,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Can Shiba Inu Really Turn You Into a Millionaire?",
+   "h": "Is Strategy's Latest Plan 1 More Reason to Sell Bitcoin?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/shiba-inu-really-turn-millionaire-055000321.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/strategys-latest-plan-1-more-082000078.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "LMT",
+   "h": "Lockheed Martin (LMT) Eyes $3.5 Billion Ultra Maritime Deal In Undersea Defense",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-eyes-3-080858805.html",
    "date": "2026-07-04"
   },
   {
    "tk": "NVDA",
-   "h": "Warren Buffett Just Sent Investors an 11-Word Warning About the Stock Market. History Says He's Right.",
+   "h": "Stock Market Volatility: History Says This 1 Investing Move Is More Important Than Ever Before",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-just-sent-investors-052000139.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-volatility-history-says-075000606.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Stock Rebounds Above $170. Here Is How Much Upside Analysts See Left.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-rebounds-above-170-072500305.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Berkshire Hathaway Is Sitting on a Record $397 Billion in Cash. Is the Stock a Buy in the Greg Abel Era?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-sitting-record-397-071200607.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "LMT",
+   "h": "Trump marks Fourth of July with Mount Rushmore speech ahead of midterms",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/trump-marks-fourth-july-mount-063221288.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NOC",
+   "h": "Trump marks Fourth of July with Mount Rushmore speech ahead of midterms",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/trump-marks-fourth-july-mount-063221288.html",
    "date": "2026-07-04"
   },
   {
@@ -17839,20 +17829,6 @@
    "h": "China proposes broader e-commerce law covering platforms and digital businesses",
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/economy/policy/articles/china-proposes-broader-e-commerce-043356529.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Wall Street Analysts Are Predicting Something Never Seen Before, and It Should Come as a Huge Warning for Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-something-042000444.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Micron Earned $24.67 Per Share Last Quarter. Its Dividend Is Still 15 Cents. Something Has to Give.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-earned-24-67-per-035200121.html",
    "date": "2026-07-04"
   },
   {
@@ -18071,28 +18047,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/robotics-supply-chain-stock-dominated-150701938.html",
    "date": "2026-07-03"
-  },
-  {
-   "tk": "OUST",
-   "h": "Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/robotics-supply-chain-stock-dominated-150701938.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Says \u2018Unplanned IT Outage\u2019 Hit Computer Systems as Factory Work From Washington to Florida was Disrupted",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/articles/boeing-says-unplanned-outage-hit-150058744.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "GEV",
-   "h": "Dear GE Vernova Stock Fans, Mark Your Calendars for July 22",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dear-ge-vernova-stock-fans-150002370.html",
-   "date": "2026-07-03"
   }
  ],
- "prices_asof": "2026-07-04 06:50 UTC"
+ "prices_asof": "2026-07-04 08:23 UTC"
 }
