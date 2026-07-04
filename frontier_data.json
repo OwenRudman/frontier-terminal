@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+       "h": "Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-shake-225500473.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?",
+       "h": "Micron Stock Has Soared Nearly 700% in a Year. Is a Stock Split Imminent?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-first-earnings-202500618.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-soared-nearly-700-224300289.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete",
+       "h": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-next-major-trillion-dollar-202000709.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
        "date": "2026-07-04"
       }
      ]
@@ -2734,6 +2734,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "AeroVironment Posted Solid Earnings and the Stock Reacted Sharply Higher. If You Can Tolerate Risk, Buy Here.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-posted-solid-earnings-stock-160002078.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "AeroVironment\u2019s Big Bet Gets a Pentagon Payday",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
@@ -2744,12 +2750,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-stock-climbed-today-003644650.html",
        "date": "2026-07-03"
-      },
-      {
-       "h": "Why Is AeroVironment (AVAV) Stock Rocketing Higher Today",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-avav-stock-rocketing-233224912.html",
-       "date": "2026-07-02"
       }
      ],
      "awards": [
@@ -7195,6 +7195,12 @@
      },
      "news": [
       {
+       "h": "What This Nearly $1 Million Ambarella Insider Sale Means With Shares Up 18% in a Year",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nearly-1-million-ambarella-insider-223915125.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Strong SoC Platforms Demand Assert Ambarella, Inc. (AMBA) as a Top Robotics Stock to Buy According to Short Sellers",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/strong-soc-platforms-demand-assert-135303563.html",
@@ -7204,12 +7210,6 @@
        "h": "Ambarella (AMBA) Stock Looks Fairly Valued Despite Expensive Sales Pricing",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ambarella-amba-stock-looks-fairly-181431822.html",
-       "date": "2026-07-02"
-      },
-      {
-       "h": "Why Ambarella (AMBA) Is Up 40.2% After Record Auto AI Sales And Profit Turnaround \u2013 And What's Next",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-ambarella-amba-40-2-151430973.html",
        "date": "2026-07-02"
       }
      ]
@@ -7680,6 +7680,12 @@
      "hold": null,
      "news": [
       {
+       "h": "A $50 Million Reason to Buy AVEX Stock Here",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/50-million-reason-buy-avex-150002566.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "AEVEX Lands A New Deal, And A New Narrative",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-lands-deal-narrative-204156115.html",
@@ -7689,12 +7695,6 @@
        "h": "Wall Street Set to Open Marginally Lower in Tuesday Trading; Investors Continue to Monitor Middle East Conflict, Await Key Labor Data",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/articles/wall-street-set-open-marginally-131330662.html",
-       "date": "2026-06-30"
-      },
-      {
-       "h": "Why Is AVEX Stock Surging Today?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-avex-stock-surging-today-125421721.html",
        "date": "2026-06-30"
       }
      ],
@@ -17770,30 +17770,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+   "h": "Strategy Just Announced a Major Shake-Up to Its Bitcoin Plan. Here's What It Means for MSTR Stock.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-just-announced-major-shake-225500473.html",
    "date": "2026-07-04"
   },
   {
    "tk": "NVDA",
-   "h": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?",
+   "h": "Micron Stock Has Soared Nearly 700% in a Year. Is a Stock Split Imminent?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-first-earnings-202500618.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-soared-nearly-700-224300289.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "AMBA",
+   "h": "What This Nearly $1 Million Ambarella Insider Sale Means With Shares Up 18% in a Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nearly-1-million-ambarella-insider-223915125.html",
    "date": "2026-07-04"
   },
   {
    "tk": "NVDA",
-   "h": "Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete",
+   "h": "ChatGPT-Maker OpenAI Is Headed for a $1 Trillion IPO. The Biggest Winner Could Be Microsoft Stock.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-next-major-trillion-dollar-202000709.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chatgpt-maker-openai-headed-1-221000694.html",
    "date": "2026-07-04"
   },
   {
    "tk": "NVDA",
-   "h": "Why July Could Be a Big Month for AMD Stock Investors",
+   "h": "Could Canopy Growth Stock Deliver a 4X Gain? 1 Analyst Thinks So.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-july-could-big-month-201900322.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/could-canopy-growth-stock-deliver-220200985.html",
    "date": "2026-07-04"
   },
   {
@@ -17902,6 +17909,13 @@
    "date": "2026-07-04"
   },
   {
+   "tk": "AVAV",
+   "h": "AeroVironment Posted Solid Earnings and the Stock Reacted Sharply Higher. If You Can Tolerate Risk, Buy Here.",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-posted-solid-earnings-stock-160002078.html",
+   "date": "2026-07-04"
+  },
+  {
    "tk": "NEE",
    "h": "What Happens When Medicare Premiums Are No Longer Your Problem?",
    "pub": "24/7 Wall St.",
@@ -17927,6 +17941,13 @@
    "h": "Palantir doubles down on national security with Nvidia AI alliance",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-doubles-down-national-security-150700513.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "AVEX",
+   "h": "A $50 Million Reason to Buy AVEX Stock Here",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/50-million-reason-buy-avex-150002566.html",
    "date": "2026-07-04"
   },
   {
@@ -18026,28 +18047,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-resilient-defense-stocks-buy-130055491.html",
    "date": "2026-07-04"
-  },
-  {
-   "tk": "NOC",
-   "h": "3 Resilient Defense Stocks to Buy in July",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-resilient-defense-stocks-buy-130055491.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "RTX",
-   "h": "3 Resilient Defense Stocks to Buy in July",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-resilient-defense-stocks-buy-130055491.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why the Current Selloff in Big Tech Stocks Is a Springboard for a New Rally",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-current-selloff-big-tech-130002898.html",
-   "date": "2026-07-04"
   }
  ],
- "prices_asof": "2026-07-04 21:03 UTC"
+ "prices_asof": "2026-07-04 23:01 UTC"
 }
