@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
+       "h": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/meet-high-yield-dividend-stock-190500710.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Prediction: Micron Technology Stock Will Hit at Least $2,000 in 1 Year",
+       "h": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-technology-stock-hit-190100041.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-first-earnings-202500618.html",
        "date": "2026-07-04"
       },
       {
-       "h": "Prediction: SpaceX Stock Will Hit This Price by the End of 2026",
+       "h": "Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-hit-price-185000522.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-next-major-trillion-dollar-202000709.html",
        "date": "2026-07-04"
       }
      ]
@@ -8477,6 +8477,12 @@
      ],
      "news": [
       {
+       "h": "Why Rocket Lab Stock Skyrocketed Last Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-skyrocketed-192910622.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Here's Why The Latest Rocket Lab Acquisition Could Shake Up The Entire Space Economy",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/economy/articles/heres-why-latest-rocket-lab-175152236.html",
@@ -8486,12 +8492,6 @@
        "h": "Is Rocket Lab (RKLB) is One of the Best NASDAQ Stocks to Invest In For Long Term?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html",
-       "date": "2026-07-04"
-      },
-      {
-       "h": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-announces-massive-8-084000943.html",
        "date": "2026-07-04"
       }
      ],
@@ -9851,6 +9851,12 @@
      },
      "news": [
       {
+       "h": "Why Rocket Lab Stock Skyrocketed Last Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-skyrocketed-192910622.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Here's Why The Latest Rocket Lab Acquisition Could Shake Up The Entire Space Economy",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/economy/articles/heres-why-latest-rocket-lab-175152236.html",
@@ -9860,12 +9866,6 @@
        "h": "Is Rocket Lab (RKLB) is One of the Best NASDAQ Stocks to Invest In For Long Term?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html",
-       "date": "2026-07-04"
-      },
-      {
-       "h": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-announces-massive-8-084000943.html",
        "date": "2026-07-04"
       }
      ]
@@ -10755,6 +10755,12 @@
      },
      "news": [
       {
+       "h": "Vertical Aerospace Just Secured a Critical Supplier Agreement for Its Valo Fleet: Time to Buy?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vertical-aerospace-just-secured-critical-192500334.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "Gavin Newsom Calls Trump's $400 Million Qatari Jet 'Air Fraud One' as Bernie Sanders, Elizabeth Warren Slam President",
        "pub": "Benzinga",
        "link": "https://www.yahoo.com/news/politics/articles/gavin-newsom-calls-trumps-400-173105547.html",
@@ -10764,12 +10770,6 @@
        "h": "Is The Boeing Company (BA) A Good Stock To Buy Now?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-good-stock-233211886.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "Boeing Says \u2018Unplanned IT Outage\u2019 Hit Computer Systems as Factory Work From Washington to Florida was Disrupted",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/boeing-says-unplanned-outage-hit-150058744.html",
        "date": "2026-07-03"
       }
      ],
@@ -17769,38 +17769,59 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Nvidia Stock Is Nearly Flat for 2026. Time to Cash Out, or Load Up on Shares?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nearly-flat-2026-205000376.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is SpaceX Stock a Buy Before Its First Earnings Report as a Public Company?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-buy-first-earnings-202500618.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Here's the Next Major Trillion-Dollar Blockbuster IPO Now That SpaceX's Is Complete",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-next-major-trillion-dollar-202000709.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why July Could Be a Big Month for AMD Stock Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-july-could-big-month-201900322.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Why Rocket Lab Stock Skyrocketed Last Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-skyrocketed-192910622.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Why Rocket Lab Stock Skyrocketed Last Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-stock-skyrocketed-192910622.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "BA",
+   "h": "Vertical Aerospace Just Secured a Critical Supplier Agreement for Its Valo Fleet: Time to Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vertical-aerospace-just-secured-critical-192500334.html",
+   "date": "2026-07-04"
+  },
+  {
    "tk": "NEE",
    "h": "The Portfolio That Lets You Go Part-Time Five Years Early",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-lets-part-time-five-191152423.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Meet the High-Yield Dividend Stock That's Quietly Crushing the S&P 500 and Nasdaq. Here's Why There's Plenty of Room to Run.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-high-yield-dividend-stock-190500710.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Prediction: Micron Technology Stock Will Hit at Least $2,000 in 1 Year",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-technology-stock-hit-190100041.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Prediction: SpaceX Stock Will Hit This Price by the End of 2026",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-stock-hit-price-185000522.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Higher-for-Longer Rates Are a Gift for Life Insurers. MetLife and Prudential Are Cashing In.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/higher-longer-rates-gift-life-183500490.html",
    "date": "2026-07-04"
   },
   {
@@ -18026,28 +18047,7 @@
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-current-selloff-big-tech-130002898.html",
    "date": "2026-07-04"
-  },
-  {
-   "tk": "IRDM",
-   "h": "Is Rocket Lab (RKLB) is One of the Best NASDAQ Stocks to Invest In For Long Term?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Is Rocket Lab (RKLB) is One of the Best NASDAQ Stocks to Invest In For Long Term?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-one-best-125611792.html",
-   "date": "2026-07-04"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html",
-   "date": "2026-07-04"
   }
  ],
- "prices_asof": "2026-07-04 19:21 UTC"
+ "prices_asof": "2026-07-04 21:03 UTC"
 }
