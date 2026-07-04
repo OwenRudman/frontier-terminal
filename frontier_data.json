@@ -1132,22 +1132,22 @@
      },
      "news": [
       {
-       "h": "If You'd Invested $10,000 in Ford Stock 10 Years Ago, Here's How Much You'd Have Today",
+       "h": "The Rise of Active ETFs: Can Fund Managers Outperform Passive Investing?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-ford-225100971.html",
-       "date": "2026-07-03"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rise-active-etfs-fund-managers-032000630.html",
+       "date": "2026-07-04"
       },
       {
-       "h": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10 Years and Currently Pays a 2.75% Yield",
+       "h": "SpaceX Is Finally Public. Here's How Much a $1,000 Investment Would Get You.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-defense-giant-223500473.html",
-       "date": "2026-07-03"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-finally-public-heres-much-024600183.html",
+       "date": "2026-07-04"
       },
       {
-       "h": "Brookfield (TSX:BN) Stock Looks Stretched On Fresh AI Data Center Expansion",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-tsx-bn-stock-looks-221712426.html",
-       "date": "2026-07-03"
+       "h": "Stifel Backs Equinix (EQIX) as AI Infrastructure Demand Drives Data Center Growth",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/stifel-backs-equinix-eqix-ai-023350592.html",
+       "date": "2026-07-04"
       }
      ]
     },
@@ -2351,6 +2351,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russian-forces-claim-capture-kostiantynivka-233312740.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "AeroVironment\u2019s Big Bet Gets a Pentagon Payday",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
@@ -2360,12 +2366,6 @@
        "h": "Northrop Grumman (NOC) Stock Trades Up, Here Is Why",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-trades-215624334.html",
-       "date": "2026-07-02"
-      },
-      {
-       "h": "Get Paid 8.1% A Year To Hold RTX Stock You Already Own",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/paid-8-1-hold-rtx-205228476.html",
        "date": "2026-07-02"
       }
      ],
@@ -4395,6 +4395,12 @@
      },
      "news": [
       {
+       "h": "Is RTX Corporation (RTX) A Good Stock To Buy Now?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-good-stock-233446315.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "RTX (RTX): Buy, Sell, or Hold Post Q1 Earnings?",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-buy-sell-hold-174606242.html",
@@ -4404,12 +4410,6 @@
        "h": "Is ISSC Building a One-Stop Cockpit Modernization Platform?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/issc-building-one-stop-cockpit-174000700.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "Can GE Aerospace Sustain Growth as Commercial Aerospace Demand Surges?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-sustain-growth-commercial-155300331.html",
        "date": "2026-07-03"
       }
      ],
@@ -5871,21 +5871,21 @@
      },
      "news": [
       {
-       "h": "Is Baidu, Inc. (BIDU) A Good Stock To Buy Now?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-good-stock-230106988.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "SpaceX's Next Big Business Isn't Rockets. It's Computer Chips.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/spacexs-next-big-business-isnt-220200363.html",
-       "date": "2026-07-03"
-      },
-      {
        "h": "Dow sell-side Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+       "date": "2026-07-04"
+      },
+      {
+       "h": "Tesla Beat Delivery Estimates by 74,000 Vehicles -- and the Stock Had Its Worst Day in Nearly a Year. Here's Why.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-beat-delivery-estimates-74-010200768.html",
+       "date": "2026-07-04"
+      },
+      {
+       "h": "Is Baidu, Inc. (BIDU) A Good Stock To Buy Now?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-good-stock-230106988.html",
        "date": "2026-07-03"
       }
      ],
@@ -10682,6 +10682,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russian-forces-claim-capture-kostiantynivka-233312740.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "AeroVironment\u2019s Big Bet Gets a Pentagon Payday",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-big-bet-gets-pentagon-121454574.html",
@@ -10691,12 +10697,6 @@
        "h": "Northrop Grumman (NOC) Stock Trades Up, Here Is Why",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-trades-215624334.html",
-       "date": "2026-07-02"
-      },
-      {
-       "h": "Get Paid 8.1% A Year To Hold RTX Stock You Already Own",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/paid-8-1-hold-rtx-205228476.html",
        "date": "2026-07-02"
       }
      ],
@@ -10770,6 +10770,12 @@
      },
      "news": [
       {
+       "h": "Is The Boeing Company (BA) A Good Stock To Buy Now?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-good-stock-233211886.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "Boeing Says \u2018Unplanned IT Outage\u2019 Hit Computer Systems as Factory Work From Washington to Florida was Disrupted",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/boeing-says-unplanned-outage-hit-150058744.html",
@@ -10779,12 +10785,6 @@
        "h": "Airbus to Deliver 18 A330-900 Aircraft to Scandinavian Airlines",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/airbus-deliver-18-a330-900-123700602.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "Is BAE Systems (LSE:BA.) Still A Bargain After Its 324% Run?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-still-070934228.html",
        "date": "2026-07-03"
       }
      ],
@@ -10858,6 +10858,12 @@
      },
      "news": [
       {
+       "h": "Is RTX Corporation (RTX) A Good Stock To Buy Now?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-good-stock-233446315.html",
+       "date": "2026-07-03"
+      },
+      {
        "h": "RTX (RTX): Buy, Sell, or Hold Post Q1 Earnings?",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-buy-sell-hold-174606242.html",
@@ -10867,12 +10873,6 @@
        "h": "Is ISSC Building a One-Stop Cockpit Modernization Platform?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/issc-building-one-stop-cockpit-174000700.html",
-       "date": "2026-07-03"
-      },
-      {
-       "h": "Can GE Aerospace Sustain Growth as Commercial Aerospace Demand Surges?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-sustain-growth-commercial-155300331.html",
        "date": "2026-07-03"
       }
      ],
@@ -14334,6 +14334,12 @@
      },
      "news": [
       {
+       "h": "Fluor (FLR) Completes CTA Rail Project And Adds Voyageur Supply Chain Study",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-completes-cta-rail-031802016.html",
+       "date": "2026-07-04"
+      },
+      {
        "h": "BofA\u2019s Top Strategist Says Ditch the Index and Buy These \u2018Boring\u2019 Stocks Instead",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-top-strategist-says-ditch-181954629.html",
@@ -14344,12 +14350,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/orion-convert-200m-awards-stronger-122200630.html",
        "date": "2026-07-02"
-      },
-      {
-       "h": "EMCOR vs. Fluor: Which Infrastructure Stock Should You Buy Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-vs-fluor-infrastructure-stock-151900149.html",
-       "date": "2026-06-29"
       }
      ],
      "awards": [
@@ -17814,6 +17814,76 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "The Rise of Active ETFs: Can Fund Managers Outperform Passive Investing?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rise-active-etfs-fund-managers-032000630.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "FLR",
+   "h": "Fluor (FLR) Completes CTA Rail Project And Adds Voyageur Supply Chain Study",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-completes-cta-rail-031802016.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Is Finally Public. Here's How Much a $1,000 Investment Would Get You.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-finally-public-heres-much-024600183.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stifel Backs Equinix (EQIX) as AI Infrastructure Demand Drives Data Center Growth",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/stifel-backs-equinix-eqix-ai-023350592.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why FNGU\u2019s 0.95% Fee Is Only Half the Hidden Cost",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/options/articles/why-fngu-0-95-fee-014026907.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Beat Delivery Estimates by 74,000 Vehicles -- and the Stock Had Its Worst Day in Nearly a Year. Here's Why.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-beat-delivery-estimates-74-010200768.html",
+   "date": "2026-07-04"
+  },
+  {
+   "tk": "RTX",
+   "h": "Is RTX Corporation (RTX) A Good Stock To Buy Now?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-corporation-rtx-good-stock-233446315.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "NOC",
+   "h": "Russian forces claim capture of Kostiantynivka in eastern Ukraine",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russian-forces-claim-capture-kostiantynivka-233312740.html",
+   "date": "2026-07-03"
+  },
+  {
+   "tk": "BA",
+   "h": "Is The Boeing Company (BA) A Good Stock To Buy Now?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-ba-good-stock-233211886.html",
+   "date": "2026-07-03"
+  },
+  {
    "tk": "BIDU",
    "h": "Is Baidu, Inc. (BIDU) A Good Stock To Buy Now?",
    "pub": "Insider Monkey",
@@ -17825,34 +17895,6 @@
    "h": "Is Baidu, Inc. (BIDU) A Good Stock To Buy Now?",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-good-stock-230106988.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "If You'd Invested $10,000 in Ford Stock 10 Years Ago, Here's How Much You'd Have Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-ford-225100971.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10 Years and Currently Pays a 2.75% Yield",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-defense-giant-223500473.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Brookfield (TSX:BN) Stock Looks Stretched On Fresh AI Data Center Expansion",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-tsx-bn-stock-looks-221712426.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "SpaceX's Next Big Business Isn't Rockets. It's Computer Chips.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/spacexs-next-big-business-isnt-220200363.html",
    "date": "2026-07-03"
   },
   {
@@ -17877,24 +17919,10 @@
    "date": "2026-07-03"
   },
   {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Techs' Rise Signal AI Trend Isn't Over; Apple, Robinhood Flash Buy Signals",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-tumbles-apple-robinhood-buy-signals-tesla-sandisk-dive/?src=A00220&yptr=yahoo",
-   "date": "2026-07-03"
-  },
-  {
    "tk": "SMR",
    "h": "The Case for and Against Buying NuScale Right Now",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/case-against-buying-nuscale-now-202100039.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's X Money \u2014 New Details On Bank Killer Super App",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/currencies/articles/elon-musks-x-money-details-193121263.html",
    "date": "2026-07-03"
   },
   {
@@ -18059,40 +18087,12 @@
    "date": "2026-07-03"
   },
   {
-   "tk": "RTX",
-   "h": "Is RTX (RTX) a Buy as Wall Street Analysts Look Optimistic?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-buy-wall-street-133003631.html",
-   "date": "2026-07-03"
-  },
-  {
    "tk": "IRDM",
    "h": "Why Analysts Think Rocket Lab Stock Can Gain Another 50% from Here",
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-think-rocket-lab-133002849.html",
    "date": "2026-07-03"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Why Analysts Think Rocket Lab Stock Can Gain Another 50% from Here",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-think-rocket-lab-133002849.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm Lags Industry in the Past Year: An Opportunity to Buy?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lags-industry-past-opportunity-131300198.html",
-   "date": "2026-07-03"
-  },
-  {
-   "tk": "RDW",
-   "h": "Blue Origin Deserves More Attention From SpaceX Investors",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/blue-origin-deserves-more-attention-124740923.html",
-   "date": "2026-07-03"
   }
  ],
- "prices_asof": "2026-07-03 23:09 UTC"
+ "prices_asof": "2026-07-04 03:35 UTC"
 }
