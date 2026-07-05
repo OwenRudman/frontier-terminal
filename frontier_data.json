@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Wall Street Thinks Trumpflation Has Peaked, but There's an Unpleasant Surprise Looming for President Trump and Investors",
+       "h": "The Crypto Fear and Greed Index Is Flashing Red. This Is the Only Cryptocurrency I'm Buying Right Now.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-trumpflation-peaked-082600750.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-index-flashing-100100169.html",
        "date": "2026-07-05"
       },
       {
-       "h": "The \"Magnificent Seven\" Ranked From Best to Worst Quarterly Performance -- and Which Ones Are the Best Buys Right Now",
+       "h": "Why Robinhood Stock Dropped 11% in the first half of 2026",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-ranked-best-worst-082200046.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-stock-dropped-11-095248062.html",
        "date": "2026-07-05"
       },
       {
-       "h": "Warning: The Stock Market Is Doing Something Last Seen Before the Dot-Com Crash -- and Investors Should Pay Attention",
+       "h": "3 Dividend Stocks That Could Be Easy Wealth Builders",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warning-stock-market-doing-something-080500543.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-could-easy-094100318.html",
        "date": "2026-07-05"
       }
      ]
@@ -7112,6 +7112,12 @@
      },
      "news": [
       {
+       "h": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stock-just-signed-085000284.html",
+       "date": "2026-07-05"
+      },
+      {
        "h": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
@@ -7121,12 +7127,6 @@
        "h": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html",
-       "date": "2026-07-04"
-      },
-      {
-       "h": "Qualcomm (QCOM), Meta (META) Announce Multi-Generation Data Center CPU Supply Agreement",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-meta-meta-announce-125431859.html",
        "date": "2026-07-04"
       }
      ],
@@ -17855,30 +17855,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Wall Street Thinks Trumpflation Has Peaked, but There's an Unpleasant Surprise Looming for President Trump and Investors",
+   "h": "The Crypto Fear and Greed Index Is Flashing Red. This Is the Only Cryptocurrency I'm Buying Right Now.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-trumpflation-peaked-082600750.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-index-flashing-100100169.html",
    "date": "2026-07-05"
   },
   {
    "tk": "NVDA",
-   "h": "The \"Magnificent Seven\" Ranked From Best to Worst Quarterly Performance -- and Which Ones Are the Best Buys Right Now",
+   "h": "Why Robinhood Stock Dropped 11% in the first half of 2026",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-ranked-best-worst-082200046.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-stock-dropped-11-095248062.html",
    "date": "2026-07-05"
   },
   {
    "tk": "NVDA",
-   "h": "Warning: The Stock Market Is Doing Something Last Seen Before the Dot-Com Crash -- and Investors Should Pay Attention",
+   "h": "3 Dividend Stocks That Could Be Easy Wealth Builders",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warning-stock-market-doing-something-080500543.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-could-easy-094100318.html",
    "date": "2026-07-05"
   },
   {
    "tk": "NVDA",
-   "h": "Want a $1 Million Investment Portfolio? This ETF Could Get You There.",
+   "h": "Sam Altman Called Any OpenAI IPO Valuation Below $1 Trillion a \"Nonstarter.\" Should Investors Prefer OpenAI or SpaceX?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/want-1-million-investment-portfolio-080100593.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/sam-altman-called-openai-ipo-093300522.html",
+   "date": "2026-07-05"
+  },
+  {
+   "tk": "QCOM",
+   "h": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stock-just-signed-085000284.html",
    "date": "2026-07-05"
   },
   {
@@ -18125,14 +18132,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/economy/articles/heres-why-latest-rocket-lab-175152236.html",
    "date": "2026-07-04"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Here's Why The Latest Rocket Lab Acquisition Could Shake Up The Entire Space Economy",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/articles/heres-why-latest-rocket-lab-175152236.html",
-   "date": "2026-07-04"
   }
  ],
- "prices_asof": "2026-07-05 08:40 UTC"
+ "prices_asof": "2026-07-05 10:20 UTC"
 }
