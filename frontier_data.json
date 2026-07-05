@@ -1143,15 +1143,15 @@
        "date": "2026-07-05"
       },
       {
-       "h": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-53-finally-time-205000614.html",
+       "h": "Anthropic\u2019s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
        "date": "2026-07-05"
       },
       {
-       "h": "Top Analyst strongly resets AMD stock price target",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-amd-203300360.html",
+       "h": "NVIDIA Corporation (NVDA) Secures Bit Origin\u2019s AI Chips Supply as Prices Skyrocket in China\u2019s Black Market",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-secures-bit-225012320.html",
        "date": "2026-07-05"
       }
      ]
@@ -7112,6 +7112,12 @@
      },
      "news": [
       {
+       "h": "Is QUALCOMM, Inc. (QCOM) A Top AI Stock to Buy According to Billionaire Philippe Laffont?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-inc-qcom-top-ai-225057079.html",
+       "date": "2026-07-05"
+      },
+      {
        "h": "This AI Chip Stock Just Signed Massive Deals With 3 Hyperscalers, and It Still Looks Like a Great Buy Right Now (Hint: Not Nvidia or Intel)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stock-just-signed-085000284.html",
@@ -7121,12 +7127,6 @@
        "h": "Why Arm Is a Strong Buy Despite the 35% Pullback From Peak Levels",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-arm-strong-buy-despite-163056546.html",
-       "date": "2026-07-04"
-      },
-      {
-       "h": "Qualcomm (QCOM), Hugging Face Expand Partnership to Accelerate Open AI Development",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hugging-face-expand-125450801.html",
        "date": "2026-07-04"
       }
      ],
@@ -14665,6 +14665,12 @@
      },
      "news": [
       {
+       "h": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/five-energy-stocks-riding-texass-210000847.html",
+       "date": "2026-07-05"
+      },
+      {
        "h": "The Energy Stock Most Investors Overlook-And Why You Should Consider Adding It to Your Portfolio Today.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/energy-stock-most-investors-overlook-180205207.html",
@@ -14675,12 +14681,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-think-vistra-corp-vst-084955115.html",
        "date": "2026-07-02"
-      },
-      {
-       "h": "Vistra Corp. (VST) Stock Slides as Market Rises: Facts to Know Before You Trade",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-slides-214504930.html",
-       "date": "2026-06-30"
       }
      ],
      "awards": [
@@ -17854,24 +17854,38 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Bitcoin Is Down 53%. Is It Finally Time to Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-53-finally-time-205000614.html",
+   "tk": "QCOM",
+   "h": "Is QUALCOMM, Inc. (QCOM) A Top AI Stock to Buy According to Billionaire Philippe Laffont?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-inc-qcom-top-ai-225057079.html",
    "date": "2026-07-05"
   },
   {
    "tk": "NVDA",
-   "h": "Top Analyst strongly resets AMD stock price target",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-strongly-resets-amd-203300360.html",
+   "h": "Anthropic\u2019s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-claude-available-microsoft-corporation-225021269.html",
    "date": "2026-07-05"
   },
   {
    "tk": "NVDA",
-   "h": "Is Micron Technology Stock Going to $1,500? The Bull Case Is Stronger Than You Think.",
+   "h": "NVIDIA Corporation (NVDA) Secures Bit Origin\u2019s AI Chips Supply as Prices Skyrocket in China\u2019s Black Market",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-secures-bit-225012320.html",
+   "date": "2026-07-05"
+  },
+  {
+   "tk": "NVDA",
+   "h": "AMD Stock and Intel Crushed Nvidia in the First Half. Here's My Prediction for the Second Half.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-going-1-202500014.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-intel-crushed-nvidia-223000800.html",
+   "date": "2026-07-05"
+  },
+  {
+   "tk": "VST",
+   "h": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/five-energy-stocks-riding-texass-210000847.html",
    "date": "2026-07-05"
   },
   {
@@ -18118,21 +18132,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-announces-strategic-022417106.html",
    "date": "2026-07-05"
-  },
-  {
-   "tk": "KTOS",
-   "h": "What Makes Kratos (KTOS) an Attractive Industrial Stock",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/makes-kratos-ktos-attractive-industrial-022405166.html",
-   "date": "2026-07-05"
-  },
-  {
-   "tk": "AVAV",
-   "h": "AeroVironment (AVAV) Garners Positive Sentiment Following Latest UGV Launch",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/aerovironment-avav-garners-positive-sentiment-022330964.html",
-   "date": "2026-07-05"
   }
  ],
- "prices_asof": "2026-07-05 21:07 UTC"
+ "prices_asof": "2026-07-05 23:05 UTC"
 }
