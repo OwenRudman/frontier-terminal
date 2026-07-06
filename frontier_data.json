@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 588,
-      "up": 7
+      "rk": 48,
+      "up": 352
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 665,
-      "up": 2
+      "m0": 0,
+      "rk": 623,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 34,
-      "rk": 6,
-      "up": 769
+      "m": 47,
+      "m0": 32,
+      "rk": 4,
+      "up": 242
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1143,15 @@
        "date": "2026-07-05"
       },
       {
-       "h": "Apple Could Have Purchased Any of 487 S&P 500 Companies -- but CEO Tim Cook Chose to Invest $853 Billion Into This Game-Changing Opportunity",
+       "h": "After Surging 4,885%, Is Sandisk Stock Still a Buy? Here's What History Says.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/apple-could-purchased-487-p-082600243.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/surging-4-885-sandisk-stock-094500853.html",
        "date": "2026-07-06"
       },
       {
-       "h": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-just-delivered-2-082200777.html",
+       "h": "Barclays Raises its Price Target on Equinix (EQIX)",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
        "date": "2026-07-06"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 10,
-      "rk": 34,
-      "up": 12
+      "m": 2,
+      "m0": 9,
+      "rk": 115,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sells-palantir-stock-083200873.html",
+       "date": "2026-07-06"
+      },
+      {
        "h": "Why Palantir Stock Popped This Week",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-popped-week-031022728.html",
@@ -1787,12 +1793,6 @@
        "h": "Palantir Is Down 38% From Its High -- and It Just Got a Wall Street Upgrade. Time to Buy?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-down-38-high-just-012000753.html",
-       "date": "2026-07-06"
-      },
-      {
-       "h": "Here is Why Palantir Technologies (PLTR) is One of BlackRock\u2019s 30 Most Important AI Stock Picks",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html",
        "date": "2026-07-06"
       }
      ],
@@ -2034,7 +2034,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 262,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2325,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 176,
+      "rk": 197,
       "up": 3
      },
      "streetNotes": [
@@ -2480,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 283,
-      "up": 12
+      "m": 2,
+      "m0": 0,
+      "rk": 106,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -2829,7 +2834,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 600,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -3144,8 +3154,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 708,
-      "up": 2
+      "rk": 663,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -4033,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 695,
-      "up": 4
+      "rk": 87,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -4711,10 +4721,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 104,
-      "up": 4
+      "rk": 538,
+      "up": 1
      },
      "news": [
       {
@@ -5854,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 7,
-      "rk": 27,
-      "up": 724
+      "m": 8,
+      "m0": 12,
+      "rk": 34,
+      "up": 7
      },
      "news": [
       {
@@ -5867,15 +5877,15 @@
        "date": "2026-07-05"
       },
       {
-       "h": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+       "h": "Tesla's Solid Q2 Delivery Report Sent Elon Musk's Stock Down 6%. What Happened?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-just-delivered-2-082200777.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-solid-q2-delivery-report-090000564.html",
        "date": "2026-07-06"
       },
       {
-       "h": "Tesla\u2019s blowout quarter comes with a warning sign",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-blowout-quarter-comes-warning-023300223.html",
+       "h": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-just-delivered-2-082200777.html",
        "date": "2026-07-06"
       }
      ],
@@ -5944,14 +5954,14 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 339,
+      "rk": 323,
       "up": 1
      },
      "news": [
       {
        "h": "Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs",
        "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/technology/ai/articles/self-driving-startup-turing-gets-010035122.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/self-driving-startup-turing-gets-amd-backing-adopts-amd-gpus-010035122.html",
        "date": "2026-07-06"
       },
       {
@@ -6259,7 +6269,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 640,
+      "rk": 597,
       "up": 1
      },
      "thesis": {
@@ -6749,8 +6759,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 683,
+      "m0": 1,
+      "rk": 641,
       "up": 0
      },
      "news": [
@@ -6811,8 +6821,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 622,
+      "m0": 1,
+      "rk": 578,
       "up": 2
      },
      "news": [
@@ -6988,7 +6998,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 526,
+      "rk": 491,
       "up": 1
      },
      "news": [
@@ -7107,8 +7117,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 180,
-      "up": 4
+      "rk": 201,
+      "up": 3
      },
      "news": [
       {
@@ -7195,7 +7205,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 282,
+      "rk": 276,
       "up": 1
      },
      "news": [
@@ -7257,8 +7267,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 648,
-      "up": -5
+      "rk": 604,
+      "up": 1
      },
      "news": [
       {
@@ -7679,10 +7689,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 62,
-      "up": 13
+      "m": 2,
+      "m0": 3,
+      "rk": 130,
+      "up": 5
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7772,10 +7782,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 2,
-      "rk": 24,
-      "up": 21
+      "m": 9,
+      "m0": 12,
+      "rk": 31,
+      "up": 47
      },
      "news": [
       {
@@ -8281,10 +8291,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 12,
-      "rk": 8,
-      "up": 270
+      "m": 13,
+      "m0": 29,
+      "rk": 21,
+      "up": 39
      },
      "thesis": {
       "bull": [
@@ -8581,7 +8591,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 350,
+      "up": 6
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8760,12 +8775,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 595,
-      "up": 0
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9029,7 +9039,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 744,
+      "rk": 698,
       "up": 1
      },
      "news": [
@@ -9090,8 +9100,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 613,
+      "m0": 1,
+      "rk": 565,
       "up": 1
      },
      "news": [
@@ -9188,7 +9198,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 638,
+      "rk": 595,
       "up": 1
      },
      "streetNotes": [
@@ -9371,7 +9381,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 650,
+      "rk": 606,
       "up": 0
      },
      "news": [
@@ -9535,10 +9545,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 73,
-      "m0": 24,
-      "rk": 2,
-      "up": 469
+      "m": 20,
+      "m0": 73,
+      "rk": 12,
+      "up": 55
      },
      "thesis": {
       "bull": [
@@ -9777,8 +9787,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 532,
+      "m0": 1,
+      "rk": 498,
       "up": 1
      },
      "news": [
@@ -9863,12 +9873,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 324,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
@@ -9927,8 +9932,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 239,
+      "m0": 1,
+      "rk": 240,
       "up": 1
      },
      "news": [
@@ -10014,12 +10019,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 328,
-      "up": 98
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10431,9 +10431,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 701,
-      "up": 1
+      "m0": 1,
+      "rk": 658,
+      "up": 0
      },
      "news": [
       {
@@ -10520,7 +10520,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 733,
+      "rk": 688,
       "up": 1
      },
      "news": [
@@ -10588,7 +10588,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 149,
+      "up": 17
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10696,7 +10701,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 176,
+      "rk": 197,
       "up": 3
      },
      "streetNotes": [
@@ -10805,8 +10810,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 122,
-      "up": 2
+      "rk": 141,
+      "up": 1
      },
      "news": [
       {
@@ -11253,12 +11258,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 10,
-      "rk": 34,
-      "up": 12
+      "m": 2,
+      "m0": 9,
+      "rk": 115,
+      "up": 5
      },
      "news": [
+      {
+       "h": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sells-palantir-stock-083200873.html",
+       "date": "2026-07-06"
+      },
       {
        "h": "Why Palantir Stock Popped This Week",
        "pub": "Motley Fool",
@@ -11269,12 +11280,6 @@
        "h": "Palantir Is Down 38% From Its High -- and It Just Got a Wall Street Upgrade. Time to Buy?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-down-38-high-just-012000753.html",
-       "date": "2026-07-06"
-      },
-      {
-       "h": "Here is Why Palantir Technologies (PLTR) is One of BlackRock\u2019s 30 Most Important AI Stock Picks",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-technologies-pltr-one-001815015.html",
        "date": "2026-07-06"
       }
      ],
@@ -11344,7 +11349,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 432,
+      "rk": 414,
       "up": 3
      },
      "news": [
@@ -12385,9 +12390,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 386,
-      "up": 1
+      "m0": 0,
+      "rk": 366,
+      "up": 3
      },
      "news": [
       {
@@ -12578,8 +12583,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 333,
+      "m0": 1,
+      "rk": 318,
       "up": 1
      },
      "news": [
@@ -12700,8 +12705,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 332,
-      "up": 4
+      "rk": 317,
+      "up": 3
      },
      "news": [
       {
@@ -12781,10 +12786,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 14,
-      "rk": 31,
-      "up": 21
+      "m": 18,
+      "m0": 9,
+      "rk": 13,
+      "up": 89
      },
      "news": [
       {
@@ -13054,12 +13059,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 579,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Energy Stocks for Long-Term Investors and 1 We Find Risky",
@@ -13140,7 +13140,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 675,
+      "rk": 634,
       "up": 1
      },
      "news": [
@@ -13386,9 +13386,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 712,
-      "up": 2
+      "m0": 1,
+      "rk": 665,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13626,10 +13626,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 108,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 620,
+      "up": 1
      },
      "news": [
       {
@@ -14110,7 +14110,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 723,
+      "rk": 676,
       "up": 1
      },
      "news": [
@@ -14278,7 +14278,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 358,
+      "up": 1
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14572,10 +14577,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 636,
+      "rk": 593,
       "up": 1
      },
      "news": [
+      {
+       "h": "Citi Keeps Neutral Rating on Constellation Energy (CEG)",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/citi-keeps-neutral-rating-constellation-094101111.html",
+       "date": "2026-07-06"
+      },
       {
        "h": "Constellation Energy (CEG) Applies for License Renewals for 2 Plants",
        "pub": "Insider Monkey",
@@ -14587,12 +14598,6 @@
        "pub": "Oilprice.com",
        "link": "https://finance.yahoo.com/energy/articles/big-tech-3-trillion-struggle-230000415.html",
        "date": "2026-07-05"
-      },
-      {
-       "h": "Stock Market Week Ahead: Oil Hints At A Paradigm Shift",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/stock-market-week-ahead-oil-hints-at-a-paradigm-shift/?src=A00220&yptr=yahoo",
-       "date": "2026-07-04"
       }
      ],
      "awards": [
@@ -14659,9 +14664,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 285,
-      "up": 0
+      "m0": 0,
+      "rk": 280,
+      "up": 6
      },
      "news": [
       {
@@ -14977,10 +14982,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 185,
-      "up": 2
+      "rk": 55,
+      "up": 9
      },
      "news": [
       {
@@ -15066,8 +15071,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 203,
+      "m0": 0,
+      "rk": 217,
       "up": 1
      },
      "news": [
@@ -15154,9 +15159,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 219,
-      "up": 1
+      "m0": 1,
+      "rk": 227,
+      "up": 12
      },
      "news": [
       {
@@ -15383,8 +15388,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 473,
+      "m0": 1,
+      "rk": 446,
       "up": 1
      },
      "news": [
@@ -15502,7 +15507,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 402,
+      "up": 2
+     },
      "news": [
       {
        "h": "Nuclear Power Is the Only Real Answer to AI Data Center Demand and These 3 ETFs Cover the Trade at Three Risk Levels",
@@ -17574,7 +17584,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-05",
+ "social_asof": "2026-07-06",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17855,16 +17865,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Apple Could Have Purchased Any of 487 S&P 500 Companies -- but CEO Tim Cook Chose to Invest $853 Billion Into This Game-Changing Opportunity",
+   "h": "After Surging 4,885%, Is Sandisk Stock Still a Buy? Here's What History Says.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-could-purchased-487-p-082600243.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/surging-4-885-sandisk-stock-094500853.html",
    "date": "2026-07-06"
   },
   {
    "tk": "NVDA",
-   "h": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
+   "h": "Barclays Raises its Price Target on Equinix (EQIX)",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-raises-price-target-equinix-094135225.html",
+   "date": "2026-07-06"
+  },
+  {
+   "tk": "CEG",
+   "h": "Citi Keeps Neutral Rating on Constellation Energy (CEG)",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/citi-keeps-neutral-rating-constellation-094101111.html",
+   "date": "2026-07-06"
+  },
+  {
+   "tk": "NVDA",
+   "h": "This AI Stock Just Joined the Dow sell-side. It's Up 300% Since 2023 and History Says This Will Happen Next.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-just-delivered-2-082200777.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-just-joined-dow-093200944.html",
+   "date": "2026-07-06"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla's Solid Q2 Delivery Report Sent Elon Musk's Stock Down 6%. What Happened?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-solid-q2-delivery-report-090000564.html",
+   "date": "2026-07-06"
+  },
+  {
+   "tk": "PLTR",
+   "h": "President Trump Sells Palantir Stock and Buys an AI Stock Up 2,100% Since 2023",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sells-palantir-stock-083200873.html",
    "date": "2026-07-06"
   },
   {
@@ -17872,13 +17910,6 @@
    "h": "The \"Magnificent Seven\" Just Delivered a $2.2 Trillion Warning to Wall Street. Should You Listen?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-just-delivered-2-082200777.html",
-   "date": "2026-07-06"
-  },
-  {
-   "tk": "NVDA",
-   "h": "If You Own an Index Fund, You Likely Already Own SpaceX. Here Is How Much.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/own-index-fund-likely-already-081500784.html",
    "date": "2026-07-06"
   },
   {
@@ -17924,13 +17955,6 @@
    "date": "2026-07-06"
   },
   {
-   "tk": "TSLA",
-   "h": "TSLA Stock Rises Overnight: Analyst Sees Rebound This Week After EV Delivery Surge, But Calls Stock \u2018Fully-Priced\u2019",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-rises-overnight-analyst-022225064.html",
-   "date": "2026-07-06"
-  },
-  {
    "tk": "IRDM",
    "h": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: META, MU, BABA, TSLA, RKLB",
    "pub": "Stocktwits",
@@ -17962,7 +17986,7 @@
    "tk": "UBER",
    "h": "Self-Driving Startup Turing Gets AMD Backing, Adopts AMD GPUs",
    "pub": "Bloomberg",
-   "link": "https://finance.yahoo.com/technology/ai/articles/self-driving-startup-turing-gets-010035122.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/self-driving-startup-turing-gets-amd-backing-adopts-amd-gpus-010035122.html",
    "date": "2026-07-06"
   },
   {
@@ -18019,13 +18043,6 @@
    "h": "Five Energy Stocks Riding Texas's Data Center Power Boom",
    "pub": "Oilprice.com",
    "link": "https://finance.yahoo.com/energy/articles/five-energy-stocks-riding-texass-210000847.html",
-   "date": "2026-07-05"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Technologies Stock Could Soar 55% in 1 Year, According to Wall Street. Should You Buy It Hand Over Fist?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-stock-could-soar-180900245.html",
    "date": "2026-07-05"
   },
   {
@@ -18125,14 +18142,7 @@
    "pub": "Yahoo Finance",
    "link": "https://finance.yahoo.com/markets/article/ai-bubble-fears-the-endless-k-shaped-economy-and-insane-hyperscaler-capex-spending-123000856.html",
    "date": "2026-07-05"
-  },
-  {
-   "tk": "NOC",
-   "h": "Citi Keeps Buy Rating on Northrop Grumman (NOC)",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citi-keeps-buy-rating-northrop-113547885.html",
-   "date": "2026-07-05"
   }
  ],
- "prices_asof": "2026-07-06 08:39 UTC"
+ "prices_asof": "2026-07-06 09:55 UTC"
 }
