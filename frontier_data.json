@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 48,
-      "up": 352
+      "m": 1,
+      "m0": 6,
+      "rk": 696,
+      "up": 1
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 623,
-      "up": 1
+      "m0": 1,
+      "rk": 771,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 32,
-      "rk": 4,
-      "up": 242
+      "m": 126,
+      "m0": 47,
+      "rk": 5,
+      "up": 897
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-07-06"
       },
       {
-       "h": "Meet the Dividend King Stock That's Up 20% in 2026. Here's Why It Can Continue Outperforming the S&P 500 and Nasdaq-100 in the Second Half.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-king-stock-thats-072500123.html",
+       "h": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-07"
       }
      ]
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 788,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 115,
-      "up": 5
+      "m": 8,
+      "m0": 2,
+      "rk": 69,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -2036,8 +2041,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 262,
+      "m0": 1,
+      "rk": 363,
       "up": 1
      },
      "thesis": {
@@ -2327,12 +2332,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 197,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2485,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 106,
-      "up": 22
+      "m": 1,
+      "m0": 2,
+      "rk": 382,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2836,9 +2836,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 600,
-      "up": 1
+      "m0": 1,
+      "rk": 746,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3151,12 +3151,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 663,
-      "up": 0
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 87,
-      "up": 12
+      "m": 17,
+      "m0": 4,
+      "rk": 41,
+      "up": 49
      },
      "thesis": {
       "bull": [
@@ -4392,7 +4387,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 448,
+      "up": 1
+     },
      "news": [
       {
        "h": "The U.S. Army Just Took a Historic Step to Break China's Rare Earth Dominance",
@@ -4722,9 +4722,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 538,
-      "up": 1
+      "m0": 1,
+      "rk": 685,
+      "up": 3
      },
      "news": [
       {
@@ -5133,7 +5133,7 @@
      ],
      "awards": [
       {
-       "amt": 12719161357.85,
+       "amt": 12721654557.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5145,7 +5145,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6889413741.74,
+       "amt": 6890109591.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5864,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 12,
-      "rk": 34,
-      "up": 7
+      "m": 105,
+      "m0": 8,
+      "rk": 7,
+      "up": 311
      },
      "news": [
       {
@@ -5877,15 +5877,15 @@
        "date": "2026-07-05"
       },
       {
-       "h": "Tesla (TSLA) Launches Miami Robotaxi Service, Is The Upside Already Priced In?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-launches-miami-robotaxi-061357685.html",
+       "h": "Tesla under fire for hiking prices in South Korea after qualifying for BEV subsidies",
+       "pub": "Just Auto",
+       "link": "https://finance.yahoo.com/economy/policy/articles/tesla-under-fire-hiking-prices-091637222.html",
        "date": "2026-07-07"
       },
       {
-       "h": "Tesla's Robotaxi Just Launched in Miami -- Its First City Outside Texas and California. Can It Rescue the Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-robotaxi-just-launched-miami-061200561.html",
+       "h": "Tesla (TSLA) Launches Miami Robotaxi Service, Is The Upside Already Priced In?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-launches-miami-robotaxi-061357685.html",
        "date": "2026-07-07"
       }
      ],
@@ -5954,8 +5954,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 323,
-      "up": 1
+      "rk": 434,
+      "up": 4
      },
      "news": [
       {
@@ -6039,7 +6039,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 428,
+      "up": 7
+     },
      "news": [
       {
        "h": "China proposes broader e-commerce law covering platforms and digital businesses",
@@ -6269,8 +6274,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 597,
-      "up": 1
+      "rk": 743,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -6757,12 +6762,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 641,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Stocks That Could Benefit as the Robotaxi Race Heats Up",
@@ -6819,12 +6819,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 578,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares?",
@@ -6998,7 +6993,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 491,
+      "rk": 620,
       "up": 1
      },
      "news": [
@@ -7115,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 201,
-      "up": 3
+      "rk": 89,
+      "up": 25
      },
      "news": [
       {
@@ -7205,7 +7200,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 276,
+      "rk": 380,
       "up": 1
      },
      "news": [
@@ -7267,8 +7262,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 604,
-      "up": 1
+      "rk": 753,
+      "up": 3
      },
      "news": [
       {
@@ -7394,7 +7389,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 443,
+      "up": 1
+     },
      "news": [
       {
        "h": "Serve Robotics (SERV) Appoints Andreas Lieber To Board After Sarfraz Maredia Resigns",
@@ -7451,7 +7451,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 776,
+      "up": 8
+     },
      "news": [
       {
        "h": "YMM vs. SYM: Which Stock Is the Better Value Option?",
@@ -7688,12 +7693,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 130,
-      "up": 5
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7782,10 +7782,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 12,
-      "rk": 31,
-      "up": 47
+      "m": 17,
+      "m0": 9,
+      "rk": 40,
+      "up": 38
      },
      "news": [
       {
@@ -8291,10 +8291,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 29,
-      "rk": 21,
-      "up": 39
+      "m": 57,
+      "m0": 13,
+      "rk": 14,
+      "up": 229
      },
      "thesis": {
       "bull": [
@@ -8502,6 +8502,12 @@
      ],
      "news": [
       {
+       "h": "US Stock Market Today: S&P 500 Futures Rise As Softer Jobs Data Fuels Easing Hopes",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081749558.html",
+       "date": "2026-07-07"
+      },
+      {
        "h": "RKLB Stock Slips Overnight: CEO Peter Beck Eyes Trimming Stake By $465M After Iridium Deal",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-slips-overnight-ceo-042842410.html",
@@ -8512,12 +8518,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-buying-space-economy-stock-012500879.html",
        "date": "2026-07-07"
-      },
-      {
-       "h": "Stock Market Today: Dow Up, AI Stock Tests Entry; SpaceX Tumbles As Elon Musk Makes This Boast (Live Coverage)",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-mu-stock-sandisk-sndk-stock/?src=A00220&yptr=yahoo",
-       "date": "2026-07-06"
       }
      ],
      "awards": [
@@ -8593,9 +8593,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 350,
-      "up": 6
+      "m0": 1,
+      "rk": 466,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9036,12 +9036,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 698,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "MarketBeat Week in Review \u2013 06/29 - 07/03",
@@ -9098,12 +9093,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 565,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Small-Cap Stocks Getting a Russell 2000 Rebalance Boost",
@@ -9198,8 +9188,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 595,
-      "up": 1
+      "rk": 741,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -9378,12 +9368,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 606,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products",
@@ -9460,7 +9445,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 676,
+      "up": 1
+     },
      "news": [
       {
        "h": "Spire (SPIR) Upgraded to Buy: Here's What You Should Know",
@@ -9545,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 73,
-      "rk": 12,
-      "up": 55
+      "m": 37,
+      "m0": 20,
+      "rk": 21,
+      "up": 96
      },
      "thesis": {
       "bull": [
@@ -9788,8 +9778,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 498,
-      "up": 1
+      "rk": 628,
+      "up": 2
      },
      "news": [
       {
@@ -9873,7 +9863,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 421,
+      "up": -1
+     },
      "news": [
       {
        "h": "RKLB Stock Slips Overnight: CEO Peter Beck Eyes Trimming Stake By $465M After Iridium Deal",
@@ -9931,10 +9926,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 240,
-      "up": 1
+      "rk": 134,
+      "up": 2
      },
      "news": [
       {
@@ -10430,10 +10425,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 658,
-      "up": 0
+      "rk": 99,
+      "up": 13
      },
      "news": [
       {
@@ -10517,12 +10512,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 688,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NASA Just Made A Huge Bet That These 3 Companies Will Get America Back To The Moon Before China",
@@ -10590,9 +10580,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 149,
-      "up": 17
+      "m0": 1,
+      "rk": 230,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10698,12 +10688,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 197,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10808,10 +10793,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 141,
-      "up": 1
+      "rk": 125,
+      "up": 23
      },
      "news": [
       {
@@ -10895,7 +10880,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 448,
+      "up": 1
+     },
      "news": [
       {
        "h": "The U.S. Army Just Took a Historic Step to Break China's Rare Earth Dominance",
@@ -10978,7 +10968,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 317,
+      "up": 1
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11258,10 +11253,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 115,
-      "up": 5
+      "m": 8,
+      "m0": 2,
+      "rk": 69,
+      "up": 14
      },
      "news": [
       {
@@ -11348,9 +11343,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 414,
-      "up": 3
+      "m0": 0,
+      "rk": 533,
+      "up": 5
      },
      "news": [
       {
@@ -12390,8 +12385,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 366,
+      "m0": 1,
+      "rk": 482,
       "up": 3
      },
      "news": [
@@ -12581,12 +12576,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 318,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Foremost Clean Energy targets Athabasca growth after Hatchet Lake Uranium success",
@@ -12705,8 +12695,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 317,
-      "up": 3
+      "rk": 431,
+      "up": 4
      },
      "news": [
       {
@@ -12786,10 +12776,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 9,
-      "rk": 13,
-      "up": 89
+      "m": 19,
+      "m0": 17,
+      "rk": 35,
+      "up": 69
      },
      "news": [
       {
@@ -13140,8 +13130,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 634,
-      "up": 1
+      "rk": 779,
+      "up": 2
      },
      "news": [
       {
@@ -13385,10 +13375,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 665,
-      "up": 5
+      "rk": 101,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -13627,9 +13617,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 620,
-      "up": 1
+      "m0": 1,
+      "rk": 768,
+      "up": 2
      },
      "news": [
       {
@@ -13688,7 +13678,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 215,
+      "up": 3
+     },
      "news": [
       {
        "h": "SMRs Spark a Chain Reaction for Nano Nuclear",
@@ -14107,12 +14102,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 676,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "BE Stock Is Trading At A Massive Premium To Peers \u2014 Retail Bulls Still See A Nearly 4x Rally",
@@ -14280,9 +14270,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 358,
-      "up": 1
+      "m0": 1,
+      "rk": 476,
+      "up": 5
      },
      "awards": [
       {
@@ -14575,10 +14565,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 593,
-      "up": 1
+      "rk": 159,
+      "up": 5
      },
      "news": [
       {
@@ -14664,9 +14654,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 280,
-      "up": 6
+      "m0": 1,
+      "rk": 387,
+      "up": 1
      },
      "news": [
       {
@@ -14815,7 +14805,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 254,
+      "up": 2
+     },
      "news": [
       {
        "h": "NextEra Energy Lags Industry in the Past Month: Is It Still a Buy?",
@@ -14901,6 +14896,12 @@
      "social": null,
      "news": [
       {
+       "h": "A $750,000 Portfolio That Can Reliably Produce $4,000 a Month",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/750-000-portfolio-reliably-produce-090637979.html",
+       "date": "2026-07-07"
+      },
+      {
        "h": "Duke Energy (DUK) Stock Sinks As Market Gains: Here's Why",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-sinks-220004973.html",
@@ -14911,12 +14912,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/nextera-energy-lags-industry-past-132400529.html",
        "date": "2026-07-06"
-      },
-      {
-       "h": "Can Partnerships and PPAs Continue to Power NextEra's Earnings Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/partnerships-ppas-continue-power-nexteras-142100032.html",
-       "date": "2026-07-02"
       }
      ],
      "awards": [
@@ -14982,10 +14977,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 55,
-      "up": 9
+      "m": 6,
+      "m0": 5,
+      "rk": 81,
+      "up": 64
      },
      "news": [
       {
@@ -15071,8 +15066,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 217,
+      "m0": 1,
+      "rk": 306,
       "up": 1
      },
      "news": [
@@ -15160,8 +15155,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 227,
-      "up": 12
+      "rk": 323,
+      "up": 3
      },
      "news": [
       {
@@ -15219,7 +15214,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 257,
+      "up": 4
+     },
      "news": [
       {
        "h": "ComEd\u2019s Massive Storm Response Might Change The Case For Investing In Exelon (EXC)",
@@ -15386,12 +15386,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 446,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AI\u2019s Dirty Little Power Secret Is Turning This Uranium ETF Into a Mainstream Trade",
@@ -15509,8 +15504,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 402,
+      "m0": 1,
+      "rk": 520,
       "up": 2
      },
      "news": [
@@ -17584,7 +17579,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-06",
+ "social_asof": "2026-07-07",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17864,17 +17859,38 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Meet the Dividend King Stock That's Up 20% in 2026. Here's Why It Can Continue Outperforming the S&P 500 and Nasdaq-100 in the Second Half.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-king-stock-thats-072500123.html",
+   "tk": "TSLA",
+   "h": "Tesla under fire for hiking prices in South Korea after qualifying for BEV subsidies",
+   "pub": "Just Auto",
+   "link": "https://finance.yahoo.com/economy/policy/articles/tesla-under-fire-hiking-prices-091637222.html",
    "date": "2026-07-07"
   },
   {
    "tk": "NVDA",
-   "h": "SpaceX Is in the Nasdaq-100, Now Brace for Volatility",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/spacex-stock-nasdaq-100-volatility-a0ab3e4d?siteid=yhoof2&yptr=yahoo",
+   "h": "Nvidia-Backed Startup Nscale Locks in $900 Million for Data-Center Buildout",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/nvidia-backed-startup-nscale-locks-in-900-million-for-data-center-buildout-fd9820b3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SK Hynix Has a Massive Warning for Sandisk Stock Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-massive-warning-sandisk-090800617.html",
+   "date": "2026-07-07"
+  },
+  {
+   "tk": "DUK",
+   "h": "A $750,000 Portfolio That Can Reliably Produce $4,000 a Month",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/750-000-portfolio-reliably-produce-090637979.html",
+   "date": "2026-07-07"
+  },
+  {
+   "tk": "RKLB",
+   "h": "US Stock Market Today: S&P 500 Futures Rise As Softer Jobs Data Fuels Easing Hopes",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081749558.html",
    "date": "2026-07-07"
   },
   {
@@ -17966,13 +17982,6 @@
    "h": "RKLB Stock Slips Overnight: CEO Peter Beck Eyes Trimming Stake By $465M After Iridium Deal",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-slips-overnight-ceo-042842410.html",
-   "date": "2026-07-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Waymo outages disrupt traffic in this major city yet again",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/waymo-outages-disrupt-traffic-major-040300579.html",
    "date": "2026-07-07"
   },
   {
@@ -18128,21 +18137,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-6-211316739.html",
    "date": "2026-07-06"
-  },
-  {
-   "tk": "LMT",
-   "h": "Trading Day: Chips bounce back, oil eases",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trading-day-chips-bounce-back-210912860.html",
-   "date": "2026-07-06"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Rises On 737 MAX Assembly Line, Joining Aerospace Liftoff",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/boeing-stock-rises-737-max-assembly-line/?src=A00220&yptr=yahoo",
-   "date": "2026-07-06"
   }
  ],
- "prices_asof": "2026-07-07 07:44 UTC"
+ "prices_asof": "2026-07-07 09:23 UTC"
 }
