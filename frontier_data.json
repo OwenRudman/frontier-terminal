@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 696,
+      "m0": 1,
+      "rk": 786,
       "up": 1
      },
      "news": [
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 771,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 126,
-      "m0": 47,
-      "rk": 5,
-      "up": 897
+      "m": 210,
+      "m0": 116,
+      "rk": 4,
+      "up": 652
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1138,15 @@
        "date": "2026-07-07"
       },
       {
-       "h": "Got $1,000? 2 Red-Hot Tech Stocks Setting the Market on Fire in 2026",
+       "h": "SpaceX Bonds Are Trading Like Junk Bonds. What Does That Mean for Investors?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-red-062500878.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-bonds-trading-junk-bonds-080200736.html",
        "date": "2026-07-08"
       },
       {
-       "h": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 58% of Berkshire Hathaway's Portfolio Invested in Just 5 Dow Stocks. Here's My Top Pick for July.",
+       "h": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-hand-picked-successor-060500412.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/vertex-paying-102-premium-acquire-074853536.html",
        "date": "2026-07-08"
       }
      ]
@@ -1313,10 +1308,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 788,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 211,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 69,
-      "up": 14
+      "m": 28,
+      "m0": 8,
+      "rk": 23,
+      "up": 141
      },
      "thesis": {
       "bull": [
@@ -1783,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "2 Tech Stocks You Can Buy and Hold for the Next Decade",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/2-tech-stocks-buy-hold-073500092.html",
+       "date": "2026-07-08"
+      },
+      {
        "h": "Trump accounts\u2019 Palantir sale hides a bigger AI shift",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/technology/ai/articles/trump-accounts-palantir-sale-hides-024700291.html",
@@ -1792,12 +1793,6 @@
        "h": "Why Palantir Stock Ticked Higher on Tuesday",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-ticked-higher-230753689.html",
-       "date": "2026-07-07"
-      },
-      {
-       "h": "DA Davidson Upgrades Palantir (PLTR) To Buy",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-upgrades-palantir-pltr-224137213.html",
        "date": "2026-07-07"
       }
      ],
@@ -2042,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 363,
+      "rk": 389,
       "up": 1
      },
      "thesis": {
@@ -2270,7 +2265,7 @@
        "date": "2020-06-11"
       },
       {
-       "amt": 310033013.72,
+       "amt": 310025394.37,
        "ag": "Department of Defense",
        "desc": "COMMAND AND CONTROL - CONSOLIDATED (CCS-C) PRODUCTION AND SUSTAINMENT CONTRACT",
        "date": "2013-01-01"
@@ -2485,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 382,
-      "up": 3
+      "m": 5,
+      "m0": 1,
+      "rk": 107,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 746,
-      "up": 2
+      "rk": 209,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -4038,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 4,
-      "rk": 41,
-      "up": 49
+      "m": 7,
+      "m0": 17,
+      "rk": 83,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 448,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 150,
+      "up": 6
      },
      "news": [
       {
@@ -4723,7 +4718,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 685,
+      "rk": 777,
       "up": 3
      },
      "news": [
@@ -5145,7 +5140,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890109591.74,
+       "amt": 6890144507.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5433,7 +5428,7 @@
        "date": "1992-10-15"
       },
       {
-       "amt": 3967917594.64,
+       "amt": 3969930856.64,
        "ag": "Department of Defense",
        "desc": "THE FUTURE VERTICAL LIFT (FVL) FLRAA CAPABILITY SET THREE IS A PRE-MAJOR DEFENSE ACQUISITION PROGRAM (ACAT 1C) COMMISSIONED TO DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
        "date": "2022-12-05"
@@ -5864,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 105,
-      "m0": 8,
-      "rk": 7,
-      "up": 311
+      "m": 55,
+      "m0": 104,
+      "rk": 14,
+      "up": 110
      },
      "news": [
       {
@@ -5954,8 +5949,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 434,
-      "up": 4
+      "rk": 473,
+      "up": 2
      },
      "news": [
       {
@@ -6041,9 +6036,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 428,
-      "up": 7
+      "m0": 1,
+      "rk": 466,
+      "up": 10
      },
      "news": [
       {
@@ -6271,12 +6266,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 743,
-      "up": 6
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -6990,12 +6980,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 620,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster Looks to Future of Smart Transportation with REV8 Color LiDAR",
@@ -7110,10 +7095,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 89,
-      "up": 25
+      "m": 1,
+      "m0": 3,
+      "rk": 298,
+      "up": 1
      },
      "news": [
       {
@@ -7197,12 +7182,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 380,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ambarella Is a Top Pure-Play Physical AI Bet. Here\u2019s Why AMBA Stock Will Continue Surging Higher.",
@@ -7259,12 +7239,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 753,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Declines, However The Street Remains Bullish",
@@ -7391,8 +7366,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 443,
+      "m0": 1,
+      "rk": 482,
       "up": 1
      },
      "news": [
@@ -7451,12 +7426,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 776,
-      "up": 8
-     },
+     "social": null,
      "news": [
       {
        "h": "Symbotic (SYM) Stock Still Looks Cheap Following Its 315% Run",
@@ -7693,7 +7663,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 1,
+      "rk": 140,
+      "up": 8
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7782,12 +7757,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 9,
-      "rk": 40,
-      "up": 38
+      "m": 10,
+      "m0": 17,
+      "rk": 62,
+      "up": 21
      },
      "news": [
+      {
+       "h": "SLS Stock Logs 2-Day Losing Streak: Mixed Institutional Bets Emerge Ahead Of Key AML Trial Update",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-logs-2-day-061326800.html",
+       "date": "2026-07-08"
+      },
       {
        "h": "SLS Stock Rises Overnight: Why Retail Traders Prefer Sellas Over IBRX, ONDS, PYPL As Most Bullish Pick",
        "pub": "Stocktwits",
@@ -7798,12 +7779,6 @@
        "h": "This Little-Known Stock Has Surged 550% in the Past Year",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/little-known-stock-surged-550-164003887.html",
-       "date": "2026-07-06"
-      },
-      {
-       "h": "SLS Stock Notches 3-Week Winning Run: MassMutual Opens Tiny Stake Ahead Of Key AML Readout",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-notches-3-week-012700694.html",
        "date": "2026-07-06"
       }
      ]
@@ -8291,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 57,
-      "m0": 13,
-      "rk": 14,
-      "up": 229
+      "m": 65,
+      "m0": 57,
+      "rk": 11,
+      "up": 195
      },
      "thesis": {
       "bull": [
@@ -8594,7 +8569,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 466,
+      "rk": 510,
       "up": 5
      },
      "streetNotes": [
@@ -8775,7 +8750,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 799,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -9186,10 +9166,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 741,
-      "up": 7
+      "rk": 111,
+      "up": 16
      },
      "streetNotes": [
       {
@@ -9447,8 +9427,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 676,
+      "m0": 1,
+      "rk": 769,
       "up": 1
      },
      "news": [
@@ -9535,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 20,
-      "rk": 21,
-      "up": 96
+      "m": 27,
+      "m0": 38,
+      "rk": 26,
+      "up": 212
      },
      "thesis": {
       "bull": [
@@ -9778,7 +9758,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 628,
+      "rk": 709,
       "up": 2
      },
      "news": [
@@ -9865,8 +9845,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 421,
+      "m0": 1,
+      "rk": 455,
       "up": -1
      },
      "news": [
@@ -9926,10 +9906,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 134,
-      "up": 2
+      "m": 1,
+      "m0": 3,
+      "rk": 359,
+      "up": 1
      },
      "news": [
       {
@@ -9959,7 +9939,7 @@
        "date": "2018-08-30"
       },
       {
-       "amt": 136226345.17,
+       "amt": 136213219.08,
        "ag": "Department of Defense",
        "desc": "BFT2 WARRANTIES/ LICENSES",
        "date": "2018-06-29"
@@ -10426,9 +10406,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 1,
-      "rk": 99,
-      "up": 13
+      "m0": 4,
+      "rk": 116,
+      "up": 16
      },
      "news": [
       {
@@ -10581,8 +10561,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 230,
-      "up": 1
+      "rk": 236,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -10793,10 +10773,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 125,
-      "up": 23
+      "m": 1,
+      "m0": 3,
+      "rk": 228,
+      "up": 1
      },
      "news": [
       {
@@ -10881,10 +10861,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 448,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 150,
+      "up": 6
      },
      "news": [
       {
@@ -10970,8 +10950,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 317,
+      "m0": 1,
+      "rk": 336,
       "up": 1
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11253,12 +11233,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 69,
-      "up": 14
+      "m": 28,
+      "m0": 8,
+      "rk": 23,
+      "up": 141
      },
      "news": [
+      {
+       "h": "2 Tech Stocks You Can Buy and Hold for the Next Decade",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/2-tech-stocks-buy-hold-073500092.html",
+       "date": "2026-07-08"
+      },
       {
        "h": "Trump accounts\u2019 Palantir sale hides a bigger AI shift",
        "pub": "TheStreet",
@@ -11269,12 +11255,6 @@
        "h": "Why Palantir Stock Ticked Higher on Tuesday",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-stock-ticked-higher-230753689.html",
-       "date": "2026-07-07"
-      },
-      {
-       "h": "DA Davidson Upgrades Palantir (PLTR) To Buy",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-upgrades-palantir-pltr-224137213.html",
        "date": "2026-07-07"
       }
      ],
@@ -11343,9 +11323,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 533,
-      "up": 5
+      "m0": 1,
+      "rk": 587,
+      "up": 2
      },
      "news": [
       {
@@ -12386,7 +12366,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 482,
+      "rk": 530,
       "up": 3
      },
      "news": [
@@ -12695,8 +12675,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 431,
-      "up": 4
+      "rk": 469,
+      "up": 2
      },
      "news": [
       {
@@ -12776,10 +12756,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 17,
-      "rk": 35,
-      "up": 69
+      "m": 5,
+      "m0": 21,
+      "rk": 115,
+      "up": 12
      },
      "news": [
       {
@@ -13127,12 +13107,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 779,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
@@ -13375,10 +13350,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 101,
-      "up": 9
+      "m": 7,
+      "m0": 5,
+      "rk": 85,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -13615,12 +13590,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 768,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did SMR, TMC, SPWR Stocks Tumble To 52-Week Lows Today?",
@@ -13678,13 +13648,14 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 215,
-      "up": 3
-     },
+     "social": null,
      "news": [
+      {
+       "h": "How Buying Nano Nuclear Energy Today Could 10X Your Net Worth",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buying-nano-nuclear-energy-today-072500299.html",
+       "date": "2026-07-08"
+      },
       {
        "h": "SMRs Spark a Chain Reaction for Nano Nuclear",
        "pub": "MarketBeat",
@@ -13696,12 +13667,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-energy-stock-millionaire-162500581.html",
        "date": "2026-07-01"
-      },
-      {
-       "h": "Nano Nuclear Shares Jump on Report of Potential UAE Investment Talks (NNE)",
-       "pub": "InvestorsHub",
-       "link": "https://finance.yahoo.com/energy/articles/nano-nuclear-shares-jump-report-140919880.html",
-       "date": "2026-06-29"
       }
      ],
      "awards": [
@@ -14033,7 +13998,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 418,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14102,7 +14072,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 1,
+      "rk": 139,
+      "up": 20
+     },
      "news": [
       {
        "h": "Dow sell-side Futures: Oil Prices Keep Rising On Iran News After Samsung Fans AI Fears",
@@ -14271,7 +14246,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 476,
+      "rk": 520,
       "up": 5
      },
      "awards": [
@@ -14379,7 +14354,7 @@
      ],
      "awards": [
       {
-       "amt": 14781032587.06,
+       "amt": 14780532587.06,
        "ag": "Department of Energy",
        "desc": "MANAGEMENT AND OPERATION OF THE NAVAL NUCLEAR LABORATORY AND NAVAL NUCLEAR PROPULSION PROGRAM SUPPORT",
        "date": "2018-07-12"
@@ -14564,12 +14539,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 159,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Another AI power darling just hit a 52-week low",
@@ -14655,7 +14625,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 387,
+      "rk": 411,
       "up": 1
      },
      "news": [
@@ -14807,8 +14777,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 254,
+      "m0": 1,
+      "rk": 261,
       "up": 2
      },
      "news": [
@@ -14916,13 +14886,13 @@
      ],
      "awards": [
       {
-       "amt": 101010001.59,
+       "amt": 101962234.51,
        "ag": "Department of Defense",
        "desc": "CAMP LEJEUNE UESC TO 3",
        "date": "2019-07-31"
       },
       {
-       "amt": 66370386.4,
+       "amt": 66834961.4,
        "ag": "Department of Defense",
        "desc": "UTILITY ENERGY SERVICE CONTRACT (UESC) CAMP LEJEUNE, NC",
        "date": "2019-05-14"
@@ -14977,10 +14947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 8,
       "m0": 5,
-      "rk": 81,
-      "up": 64
+      "rk": 71,
+      "up": 39
      },
      "news": [
       {
@@ -15067,8 +15037,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 306,
-      "up": 1
+      "rk": 324,
+      "up": 2
      },
      "news": [
       {
@@ -15153,10 +15123,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 323,
-      "up": 3
+      "rk": 172,
+      "up": 9
      },
      "news": [
       {
@@ -15216,9 +15186,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 257,
-      "up": 4
+      "m0": 1,
+      "rk": 264,
+      "up": 5
      },
      "news": [
       {
@@ -15505,7 +15475,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 520,
+      "rk": 569,
       "up": 2
      },
      "news": [
@@ -17579,7 +17549,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-07",
+ "social_asof": "2026-07-08",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17860,9 +17830,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Got $1,000? 2 Red-Hot Tech Stocks Setting the Market on Fire in 2026",
+   "h": "SpaceX Bonds Are Trading Like Junk Bonds. What Does That Mean for Investors?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-red-062500878.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-bonds-trading-junk-bonds-080200736.html",
+   "date": "2026-07-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Vertex Is Paying a 102% Premium to Acquire Crinetics for $10 Billion. Here's Whether the Deal Is Worth It.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/vertex-paying-102-premium-acquire-074853536.html",
+   "date": "2026-07-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "2 Artificial Intelligence (AI) Memory Stocks to Buy Hand Over Fist in July",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/2-artificial-intelligence-ai-memory-074500992.html",
+   "date": "2026-07-08"
+  },
+  {
+   "tk": "PLTR",
+   "h": "2 Tech Stocks You Can Buy and Hold for the Next Decade",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/2-tech-stocks-buy-hold-073500092.html",
+   "date": "2026-07-08"
+  },
+  {
+   "tk": "NNE",
+   "h": "How Buying Nano Nuclear Energy Today Could 10X Your Net Worth",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buying-nano-nuclear-energy-today-072500299.html",
+   "date": "2026-07-08"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Logs 2-Day Losing Streak: Mixed Institutional Bets Emerge Ahead Of Key AML Trial Update",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-logs-2-day-061326800.html",
    "date": "2026-07-08"
   },
   {
@@ -17870,20 +17875,6 @@
    "h": "Is AEVEX (AVEX) Still Undervalued After New Defense Contract Wins?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-still-undervalued-defense-060932254.html",
-   "date": "2026-07-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 58% of Berkshire Hathaway's Portfolio Invested in Just 5 Dow Stocks. Here's My Top Pick for July.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-hand-picked-successor-060500412.html",
-   "date": "2026-07-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Figma Stock Lost 29% in June",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-figma-stock-lost-29-055000325.html",
    "date": "2026-07-08"
   },
   {
@@ -18076,13 +18067,6 @@
    "date": "2026-07-07"
   },
   {
-   "tk": "PLTR",
-   "h": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-best-software-224055094.html",
-   "date": "2026-07-07"
-  },
-  {
    "tk": "OKLO",
    "h": "Oklo Inc. (OKLO) A Top Mid-Cap Stock to Own For Decades Following Groves Isotope Test Reactor Approval",
    "pub": "Insider Monkey",
@@ -18123,21 +18107,7 @@
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/another-ai-power-darling-just-220300990.html",
    "date": "2026-07-07"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova (GEV) Declines More Than Market: Some Information for Investors",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-declines-more-220004776.html",
-   "date": "2026-07-07"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Cameco (CCJ) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-falls-more-steeply-215002905.html",
-   "date": "2026-07-07"
   }
  ],
- "prices_asof": "2026-07-08 06:32 UTC"
+ "prices_asof": "2026-07-08 08:07 UTC"
 }
