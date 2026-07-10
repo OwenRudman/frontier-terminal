@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 127,
-      "up": 21
+      "m": 14,
+      "m0": 3,
+      "rk": 45,
+      "up": 32
      },
      "news": [
       {
@@ -687,21 +687,21 @@
      "social": null,
      "news": [
       {
+       "h": "The Zacks Analyst Blog Highlights Kronos, CSW Industrials, Albemarle and Perimeter Solutions",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-kronos-072200787.html",
+       "date": "2026-07-10"
+      },
+      {
+       "h": "Albemarle and Cars.com have been highlighted as Zacks Bull and Bear of the Day",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-cars-com-highlighted-zacks-062900301.html",
+       "date": "2026-07-10"
+      },
+      {
        "h": "AG's Q2 Silver Production Jumps 3% Y/Y, 2026 Production View Hiked",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/commodities/articles/ags-q2-silver-production-jumps-142300391.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "FMC Files First Global Regulatory Submission With EPA for Rimisoxafen",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/healthcare/articles/fmc-files-first-global-regulatory-141800559.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "RS Shares Rise 23% in 6 Months: Here's What's Driving the Upside",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rs-shares-rise-23-6-121500323.html",
        "date": "2026-07-09"
       }
      ],
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 275,
-      "m0": 203,
-      "rk": 3,
-      "up": 834
+      "m": 233,
+      "m0": 275,
+      "rk": 5,
+      "up": 4243
      },
      "thesis": {
       "bull": [
@@ -1132,9 +1132,15 @@
      },
      "news": [
       {
-       "h": "SK Hynix's US listing, Delta earnings, housing bill: What to Watch",
+       "h": "Chip giant SK Hynix raises $26.5 billion in blockbuster US share offering",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/technology/article/chip-giant-sk-hynix-raises-265-billion-in-blockbuster-us-share-offering-193700352.html",
+       "date": "2026-07-08"
+      },
+      {
+       "h": "SK Hynix is the talk of the town. Is IPO day the right time to buy?",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
+       "link": "https://finance.yahoo.com/video/sk-hynix-talk-town-ipo-155738106.html",
        "date": "2026-07-09"
       },
       {
@@ -1142,12 +1148,6 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-nearly-1-trillion-wipeout-could-prompt-this-bullish-action-122707475.html",
        "date": "2026-07-09"
-      },
-      {
-       "h": "Best 3 Vanguard Bond ETF Picks for the Second Half of 2026",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/options/articles/best-3-vanguard-bond-etf-072000933.html",
-       "date": "2026-07-10"
       }
      ]
     },
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 27,
-      "rk": 39,
-      "up": 31
+      "m": 22,
+      "m0": 17,
+      "rk": 31,
+      "up": -78
      },
      "thesis": {
       "bull": [
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 Facing Challenges",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-impressive-090316087.html",
+       "date": "2026-07-10"
+      },
+      {
        "h": "Stocks to Watch: PepsiCo, Salesforce, AstraZeneca",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-09-2026/card/stocks-to-watch-levi-strauss-pepsico-astrazeneca-ZzQtATlnpm26Cd3dKfnN?siteid=yhoof2&yptr=yahoo",
@@ -1782,12 +1788,6 @@
        "h": "Palantir says UK police contract wrongly blocked over perceived 'values'",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/news/palantir-says-uk-police-contract-113826735.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "Rackspace Stock Offering Overshadows AI Deal",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-stock-offering-overshadows-ai-185704558.html",
        "date": "2026-07-09"
       }
      ],
@@ -2032,8 +2032,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
-      "up": 1
+      "rk": 361,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2372,13 +2372,13 @@
        "date": "2020-09-08"
       },
       {
-       "amt": 10009419769.13,
+       "amt": 10008567439.01,
        "ag": "Department of Defense",
        "desc": "200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01502!20041213!20050701!001563738!004179453!016435559!N!NORTHROP GRUMMAN SPACE & MISSI!888 S 2000 E              !CLEARFIELD          !UT!84015!13850!011!49!CLEARFIELD          !DAVIS                 !UTAH      !-000001960000!N!N!000000000000!L014!TECH REP SVCS/GUIDED MISSILES                     !A2 !MISSILE AND SPACE SYSTEMS           !302 !MINUTEMAN III GRP             !541330!E! !3! ! !C! ! !20200930!B! ! !A! !A!N!L!2!002!B!  !Z!Y!Z! !  !N!C!N! ! ! !A!A!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "1998-07-01"
       },
       {
-       "amt": 8478019987.67,
+       "amt": 8478209531.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2476,9 +2476,9 @@
      "geo": "US",
      "social": {
       "m": 8,
-      "m0": 5,
-      "rk": 72,
-      "up": 18
+      "m0": 8,
+      "rk": 81,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2824,7 +2824,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 800,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -3722,8 +3727,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 705,
+      "m0": 1,
+      "rk": 692,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4028,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 8,
-      "rk": 30,
-      "up": 42
+      "m": 5,
+      "m0": 22,
+      "rk": 120,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -4378,12 +4383,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 91,
-      "up": 69
+      "m": 3,
+      "m0": 6,
+      "rk": 154,
+      "up": 11
      },
      "news": [
+      {
+       "h": "Zacks Industry Outlook Highlights GE Aerospace, RTX and General Dynamics",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-ge-065600878.html",
+       "date": "2026-07-10"
+      },
       {
        "h": "Rackspace Stock Offering Overshadows AI Deal",
        "pub": "GuruFocus.com",
@@ -4394,12 +4405,6 @@
        "h": "Rackspace Slides 4% After $150 Million Revenue Cut",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-slides-4-150-million-180651668.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "RTX (RTX) Expands European Missile Production With NATO And Diehl Defence",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-expands-european-missile-150851729.html",
        "date": "2026-07-09"
       }
      ],
@@ -4711,10 +4716,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 154,
-      "up": 148
+      "m": 1,
+      "m0": 3,
+      "rk": 725,
+      "up": 5
      },
      "news": [
       {
@@ -5135,7 +5140,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890144507.74,
+       "amt": 6890340676.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5262,8 +5267,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 672,
+      "m0": 1,
+      "rk": 665,
       "up": 1
      },
      "news": [
@@ -5859,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 48,
-      "m0": 54,
-      "rk": 15,
-      "up": 77
+      "m": 60,
+      "m0": 48,
+      "rk": 12,
+      "up": 155
      },
      "news": [
       {
@@ -5947,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 143,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 450,
+      "up": 1
      },
      "news": [
       {
@@ -6035,10 +6040,10 @@
      "hold": null,
      "geo": "China",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 141,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 442,
+      "up": 3
      },
      "news": [
       {
@@ -6266,7 +6271,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 796,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -7095,12 +7105,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 280,
-      "up": 1
+      "m": 4,
+      "m0": 0,
+      "rk": 126,
+      "up": 7
      },
      "news": [
+      {
+       "h": "nLight (LASR) Moves 27.3% Higher: Will This Strength Last?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-lasr-moves-27-3-064700995.html",
+       "date": "2026-07-10"
+      },
       {
        "h": "How Investors Are Reacting To QUALCOMM (QCOM) Index Removal And New On-Device AI Deepfake Partnership",
        "pub": "Simply Wall St.",
@@ -7111,12 +7127,6 @@
        "h": "Six Months In, AZA Law Firm\u2019s Dallas Office Tracks Toward Its Year-One Plan",
        "pub": "Exec Edge",
        "link": "https://finance.yahoo.com/small-business/articles/six-months-aza-law-firm-190607304.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "CPU Competition Gearing Up to Cool AMD\u2019s Massive Run",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/amd-stock-price-analyst-sell-intel-cd026a13?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-09"
       }
      ],
@@ -7367,7 +7377,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 462,
+      "rk": 465,
       "up": 3
      },
      "news": [
@@ -7752,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 10,
-      "rk": 37,
-      "up": 33
+      "m": 10,
+      "m0": 18,
+      "rk": 63,
+      "up": 23
      },
      "news": [
       {
@@ -8261,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 65,
-      "rk": 16,
-      "up": 306
+      "m": 38,
+      "m0": 44,
+      "rk": 17,
+      "up": 149
      },
      "thesis": {
       "bull": [
@@ -8561,7 +8571,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 493,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8741,10 +8756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 184,
-      "up": 10
+      "m": 1,
+      "m0": 2,
+      "rk": 746,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -9065,8 +9080,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 783,
+      "m0": 1,
+      "rk": 767,
       "up": 1
      },
      "news": [
@@ -9160,7 +9175,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 201,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9257,8 +9277,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 772,
+      "m0": 1,
+      "rk": 755,
       "up": 0
      },
      "news": [
@@ -9505,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 27,
-      "rk": 29,
-      "up": 93
+      "m": 47,
+      "m0": 22,
+      "rk": 14,
+      "up": 473
      },
      "thesis": {
       "bull": [
@@ -9828,7 +9848,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 427,
+      "up": 2
+     },
      "news": [
       {
        "h": "Rocket Lab (RKLB) Stock Faces Fresh Questions After Beck Sale And $8 Billion Iridium Deal",
@@ -9888,7 +9913,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 336,
+      "rk": 332,
       "up": 1
      },
      "news": [
@@ -9976,9 +10001,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 434,
-      "up": 5
+      "m0": 1,
+      "rk": 429,
+      "up": 4
      },
      "news": [
       {
@@ -10391,9 +10416,9 @@
      "geo": "US",
      "social": {
       "m": 12,
-      "m0": 4,
-      "rk": 51,
-      "up": 41
+      "m0": 13,
+      "rk": 52,
+      "up": 13
      },
      "news": [
       {
@@ -10477,12 +10502,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 191,
-      "up": 32
-     },
+     "social": null,
      "news": [
       {
        "h": "NASA Just Made A Huge Bet That These 3 Companies Will Get America Back To The Moon Before China",
@@ -10549,10 +10569,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 161,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 224,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -10708,13 +10728,13 @@
        "date": "2020-09-08"
       },
       {
-       "amt": 10009419769.13,
+       "amt": 10008567439.01,
        "ag": "Department of Defense",
        "desc": "200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01502!20041213!20050701!001563738!004179453!016435559!N!NORTHROP GRUMMAN SPACE & MISSI!888 S 2000 E              !CLEARFIELD          !UT!84015!13850!011!49!CLEARFIELD          !DAVIS                 !UTAH      !-000001960000!N!N!000000000000!L014!TECH REP SVCS/GUIDED MISSILES                     !A2 !MISSILE AND SPACE SYSTEMS           !302 !MINUTEMAN III GRP             !541330!E! !3! ! !C! ! !20200930!B! ! !A! !A!N!L!2!002!B!  !Z!Y!Z! !  !N!C!N! ! ! !A!A!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "1998-07-01"
       },
       {
-       "amt": 8478019987.67,
+       "amt": 8478209531.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10763,10 +10783,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 202,
-      "up": 2
+      "rk": 165,
+      "up": 3
      },
      "news": [
       {
@@ -10851,12 +10871,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 91,
-      "up": 69
+      "m": 3,
+      "m0": 6,
+      "rk": 154,
+      "up": 11
      },
      "news": [
+      {
+       "h": "Zacks Industry Outlook Highlights GE Aerospace, RTX and General Dynamics",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-ge-065600878.html",
+       "date": "2026-07-10"
+      },
       {
        "h": "Rackspace Stock Offering Overshadows AI Deal",
        "pub": "GuruFocus.com",
@@ -10867,12 +10893,6 @@
        "h": "Rackspace Slides 4% After $150 Million Revenue Cut",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-slides-4-150-million-180651668.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "RTX (RTX) Expands European Missile Production With NATO And Diehl Defence",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-expands-european-missile-150851729.html",
        "date": "2026-07-09"
       }
      ],
@@ -11218,12 +11238,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 27,
-      "rk": 39,
-      "up": 31
+      "m": 22,
+      "m0": 17,
+      "rk": 31,
+      "up": -78
      },
      "news": [
+      {
+       "h": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 Facing Challenges",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-impressive-090316087.html",
+       "date": "2026-07-10"
+      },
       {
        "h": "Stocks to Watch: PepsiCo, Salesforce, AstraZeneca",
        "pub": "The Wall Street Journal",
@@ -11234,12 +11260,6 @@
        "h": "Palantir says UK police contract wrongly blocked over perceived 'values'",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/news/palantir-says-uk-police-contract-113826735.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "Rackspace Stock Offering Overshadows AI Deal",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-stock-offering-overshadows-ai-185704558.html",
        "date": "2026-07-09"
       }
      ],
@@ -11309,7 +11329,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 560,
+      "rk": 567,
       "up": -1
      },
      "news": [
@@ -12350,8 +12370,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 510,
+      "m0": 1,
+      "rk": 515,
       "up": 2
      },
      "news": [
@@ -12413,9 +12433,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 737,
-      "up": 1
+      "m0": 1,
+      "rk": 722,
+      "up": 2
      },
      "news": [
       {
@@ -12663,10 +12683,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 5,
       "m0": 2,
-      "rk": 171,
-      "up": 6
+      "rk": 114,
+      "up": 12
      },
      "news": [
       {
@@ -12746,10 +12766,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 5,
-      "rk": 34,
-      "up": 39
+      "m": 28,
+      "m0": 20,
+      "rk": 27,
+      "up": 83
      },
      "news": [
       {
@@ -13340,10 +13360,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 7,
-      "rk": 52,
-      "up": 155
+      "m": 8,
+      "m0": 12,
+      "rk": 85,
+      "up": 29
      },
      "thesis": {
       "bull": [
@@ -13581,10 +13601,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 68,
-      "up": 142
+      "m": 2,
+      "m0": 9,
+      "rk": 204,
+      "up": 6
      },
      "news": [
       {
@@ -13996,8 +14016,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 396,
-      "up": 1
+      "rk": 391,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -14067,12 +14087,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 4,
-      "rk": 135,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "AI could cause a huge electricity shortfall in the US, Bank of America says: A closer look",
@@ -14241,7 +14256,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 498,
+      "rk": 502,
       "up": 5
      },
      "awards": [
@@ -14534,7 +14549,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 793,
+      "up": 5
+     },
      "news": [
       {
        "h": "Energy Transition Update - Statkraft Expands With Major Wind Project In Brazil",
@@ -14933,9 +14953,9 @@
      "geo": "US",
      "social": {
       "m": 6,
-      "m0": 7,
-      "rk": 86,
-      "up": 33
+      "m0": 6,
+      "rk": 95,
+      "up": 11
      },
      "news": [
       {
@@ -15022,8 +15042,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 300,
-      "up": 2
+      "rk": 299,
+      "up": 1
      },
      "news": [
       {
@@ -15109,9 +15129,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 316,
-      "up": 1
+      "m0": 1,
+      "rk": 310,
+      "up": 0
      },
      "news": [
       {
@@ -15172,7 +15192,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 246,
+      "rk": 254,
       "up": 1
      },
      "news": [
@@ -15459,9 +15479,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 540,
-      "up": 7
+      "m0": 1,
+      "rk": 547,
+      "up": 2
      },
      "news": [
       {
@@ -17534,7 +17554,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-09",
+ "social_asof": "2026-07-10",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17815,9 +17835,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Best 3 Vanguard Bond ETF Picks for the Second Half of 2026",
+   "h": "Billionaire Israel Englander Sells Sandisk Stock and Buys Another AI Memory Stock (Hint: Not Micron)",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/options/articles/best-3-vanguard-bond-etf-072000933.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-israel-englander-sells-sandisk-090800047.html",
+   "date": "2026-07-10"
+  },
+  {
+   "tk": "PLTR",
+   "h": "1 Cash-Heavy Stock with Impressive Fundamentals and 2 Facing Challenges",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-impressive-090316087.html",
+   "date": "2026-07-10"
+  },
+  {
+   "tk": "ALB",
+   "h": "The Zacks Analyst Blog Highlights Kronos, CSW Industrials, Albemarle and Perimeter Solutions",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-kronos-072200787.html",
    "date": "2026-07-10"
   },
   {
@@ -17835,10 +17869,24 @@
    "date": "2026-07-10"
   },
   {
-   "tk": "NVDA",
-   "h": "Bank of America Securities Reiterates Buy Rating on Nvidia (NVDA)",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-reiterates-buy-065812878.html",
+   "tk": "RTX",
+   "h": "Zacks Industry Outlook Highlights GE Aerospace, RTX and General Dynamics",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-ge-065600878.html",
+   "date": "2026-07-10"
+  },
+  {
+   "tk": "QCOM",
+   "h": "nLight (LASR) Moves 27.3% Higher: Will This Strength Last?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-lasr-moves-27-3-064700995.html",
+   "date": "2026-07-10"
+  },
+  {
+   "tk": "ALB",
+   "h": "Albemarle and Cars.com have been highlighted as Zacks Bull and Bear of the Day",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-cars-com-highlighted-zacks-062900301.html",
    "date": "2026-07-10"
   },
   {
@@ -17910,13 +17958,6 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-vs-fluor-industrials-stock-000809273.html",
    "date": "2026-07-10"
-  },
-  {
-   "tk": "NVDA",
-   "h": "SK Hynix's US listing, Delta earnings, housing bill: What to Watch",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html",
-   "date": "2026-07-09"
   },
   {
    "tk": "BA",
@@ -18071,28 +18112,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-stock-offering-overshadows-ai-185704558.html",
    "date": "2026-07-09"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Here's How Much More Upside Is Left in Palantir Stock, According to Wall Street Analysts",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-more-upside-left-183700302.html",
-   "date": "2026-07-09"
-  },
-  {
-   "tk": "LMT",
-   "h": "sell-side Stock Pops On $70 Bil Heap Of Fresh Asset Management Deals",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/goldman-stock-pops-70-billion-ocio-asset-management-deals-verizon-lockheed/?src=A00220&yptr=yahoo",
-   "date": "2026-07-09"
-  },
-  {
-   "tk": "RTX",
-   "h": "Rackspace Slides 4% After $150 Million Revenue Cut",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rackspace-slides-4-150-million-180651668.html",
-   "date": "2026-07-09"
   }
  ],
- "prices_asof": "2026-07-10 07:40 UTC"
+ "prices_asof": "2026-07-10 09:17 UTC"
 }
