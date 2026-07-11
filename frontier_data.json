@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow, S&P 500, Nasdaq rise to cap choppy week as SK Hynix pops in US debut",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-10-dow-sp-nasdaq-113921604.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "5 Top AI Stocks Investors Own on Robinhood",
+       "h": "CrowdStrike Just Completed a Stock Split. Is the Stock a Buy Now?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-top-ai-stocks-investors-202000090.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-completed-stock-split-223000167.html",
        "date": "2026-07-11"
       },
       {
-       "h": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+       "h": "This Unstoppable Tech ETF Is Down More Than 20%. Is It Time to Buy the Dip?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-tech-etf-down-more-215400201.html",
+       "date": "2026-07-11"
+      },
+      {
+       "h": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-just-joined-213500838.html",
        "date": "2026-07-11"
       }
      ]
@@ -1869,6 +1869,12 @@
      "take": "The lottery-ticket-with-a-thesis. The idea \u2014 be the autonomy brain for everyone's drones \u2014 is the most leveraged way to bet on where warfare is heading, with potentially spectacular margins if adopted. But \"if\" is doing enormous work. Small, speculative position only, sized so a total loss wouldn't hurt.",
      "news": [
       {
+       "h": "Palladyne AI (PDYN) Stock Sees Fair Value Lift As Analysts Weigh Defense Partnership Risks",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palladyne-ai-pdyn-stock-sees-220656474.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Palladyne AI gains after landing US Air Force contract for autonomous swarm technology (PDYN)",
        "pub": "InvestorsHub",
        "link": "https://finance.yahoo.com/technology/ai/articles/palladyne-ai-gains-landing-us-125242581.html",
@@ -1879,12 +1885,6 @@
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palladyne-ai-cloudflare-rise-premarket-120839059.html",
        "date": "2026-07-07"
-      },
-      {
-       "h": "Palladyne AI (PDYN) Jumps Into Spotlight With SwarmOS Army Exercise",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palladyne-ai-pdyn-jumps-spotlight-210536015.html",
-       "date": "2026-06-26"
       }
      ]
     },
@@ -5891,6 +5891,12 @@
      },
      "news": [
       {
+       "h": "Elon Musk Says \u2018Sadly, Yes\u2019 Jeff Bezos\u2019 Ex-Wife MacKenzie Scott Has Donated Over $26 Billion \u2014 And It\u2019s Making the World Worse",
+       "pub": "Benzinga",
+       "link": "https://www.yahoo.com/news/politics/articles/elon-musk-says-sadly-yes-200126096.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "NVIDA Vs. Tesla: Tesla Jumps as It Finally Fulfills Decade-Old Promise So Buy Nvidia Instead",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nvida-vs-tesla-tesla-jumps-164331865.html",
@@ -5900,12 +5906,6 @@
        "h": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/forget-ai-hyperscalers-tesla-may-150327346.html",
-       "date": "2026-07-11"
-      },
-      {
-       "h": "The New IQQ ETF Just Started Trading. How to Play the Nasdaq Fund Here.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iqq-etf-just-started-trading-143002610.html",
        "date": "2026-07-11"
       }
      ],
@@ -5979,6 +5979,12 @@
      },
      "news": [
       {
+       "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/forget-ai-hyperscalers-tesla-may-150327346.html",
@@ -5988,12 +5994,6 @@
        "h": "Apple sues OpenAI alleging trade secret theft",
        "pub": "Pitchbook",
        "link": "https://finance.yahoo.com/technology/ai/articles/apple-sues-openai-alleging-trade-024610103.html",
-       "date": "2026-07-11"
-      },
-      {
-       "h": "Palantir CEO: \u201cSomething Has Gone Completely Wrong\u201d With OpenAI and Anthropic",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-something-gone-completely-012937353.html",
        "date": "2026-07-11"
       }
      ],
@@ -14670,6 +14670,12 @@
      "social": null,
      "news": [
       {
+       "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Vistra (VST) Becomes A Preferred Power Provider For AI",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-becomes-preferred-power-135417259.html",
@@ -14679,12 +14685,6 @@
        "h": "GE Vernova vs. Vistra: One AI Power Stock Has Absolutely Crushed the Other, And Could Continue Doing So",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-vistra-one-122210504.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "\u2018Staggering\u2019: sell-side Sachs Says China\u2019s Oil Demand May Never Fully Recover",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/staggering-goldman-sachs-says-china-115443481.html",
        "date": "2026-07-10"
       }
      ],
@@ -17870,16 +17870,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "5 Top AI Stocks Investors Own on Robinhood",
+   "h": "CrowdStrike Just Completed a Stock Split. Is the Stock a Buy Now?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-top-ai-stocks-investors-202000090.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-completed-stock-split-223000167.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "PDYN",
+   "h": "Palladyne AI (PDYN) Stock Sees Fair Value Lift As Analysts Weigh Defense Partnership Risks",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palladyne-ai-pdyn-stock-sees-220656474.html",
    "date": "2026-07-11"
   },
   {
    "tk": "NVDA",
-   "h": "Why Lumentum (LITE) Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/why-lumentum-lite-could-benefit-201023391.html",
+   "h": "This Unstoppable Tech ETF Is Down More Than 20%. Is It Time to Buy the Dip?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unstoppable-tech-etf-down-more-215400201.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Elon Musk's SpaceX Just Joined the Nasdaq-100. Now What?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-just-joined-213500838.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "UBER",
+   "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "VST",
+   "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
    "date": "2026-07-11"
   },
   {
@@ -17890,10 +17925,10 @@
    "date": "2026-07-11"
   },
   {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: Market Ready To Go? Nvidia, Micron, Sandisk Near Buy Points With Big Earnings Due",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+   "tk": "TSLA",
+   "h": "Elon Musk Says \u2018Sadly, Yes\u2019 Jeff Bezos\u2019 Ex-Wife MacKenzie Scott Has Donated Over $26 Billion \u2014 And It\u2019s Making the World Worse",
+   "pub": "Benzinga",
+   "link": "https://www.yahoo.com/news/politics/articles/elon-musk-says-sadly-yes-200126096.html",
    "date": "2026-07-11"
   },
   {
@@ -17964,13 +17999,6 @@
    "h": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/forget-ai-hyperscalers-tesla-may-150327346.html",
-   "date": "2026-07-11"
-  },
-  {
-   "tk": "TSLA",
-   "h": "The New IQQ ETF Just Started Trading. How to Play the Nasdaq Fund Here.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/iqq-etf-just-started-trading-143002610.html",
    "date": "2026-07-11"
   },
   {
@@ -18119,35 +18147,7 @@
    "pub": "Pitchbook",
    "link": "https://finance.yahoo.com/technology/ai/articles/apple-sues-openai-alleging-trade-024610103.html",
    "date": "2026-07-11"
-  },
-  {
-   "tk": "UBER",
-   "h": "Palantir CEO: \u201cSomething Has Gone Completely Wrong\u201d With OpenAI and Anthropic",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-something-gone-completely-012937353.html",
-   "date": "2026-07-11"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing unveils new 737 MAX production line as aviation giant charts comeback",
-   "pub": "AFP",
-   "link": "https://finance.yahoo.com/economy/articles/boeing-expand-737-max-output-155519668.html",
-   "date": "2026-07-11"
-  },
-  {
-   "tk": "ONDS",
-   "h": "Ondas Snaps Up DZYNE in $875M Deal, Boosts Autonomous Defense Revenue Target",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-snaps-dzyne-875m-deal-010201855.html",
-   "date": "2026-07-11"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile (ASTS) Stock Looks Rich Relative To Fair Value",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-stock-looks-001651350.html",
-   "date": "2026-07-11"
   }
  ],
- "prices_asof": "2026-07-11 20:55 UTC"
+ "prices_asof": "2026-07-11 22:55 UTC"
 }
