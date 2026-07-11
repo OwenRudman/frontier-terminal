@@ -1143,16 +1143,16 @@
        "date": "2026-07-10"
       },
       {
-       "h": "Chip stocks regain some ground after whipsaw of a trading week",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/chip-stocks-regain-ground-whipsaw-143000172.html",
-       "date": "2026-07-10"
+       "h": "Prediction: Carvana's New-Car Business Will Work. Early Numbers Are Stunning.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-carvanas-car-business-early-145000618.html",
+       "date": "2026-07-11"
       },
       {
-       "h": "Why you should care about SK Hynix's IPO",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/why-you-should-care-about-sk-hynixs-ipo-142904448.html",
-       "date": "2026-07-10"
+       "h": "Rivian Just Did What Investors Despised Lucid for. How Bad Is It?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-just-did-investors-despised-142000590.html",
+       "date": "2026-07-11"
       }
      ]
     },
@@ -7469,6 +7469,12 @@
      },
      "news": [
       {
+       "h": "Symbotic (SYM) Acquires ARMS Innovations to Expand Warehouse Optimization",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/articles/symbotic-sym-acquires-arms-innovations-142225115.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Symbotic Inc. (SYM) Beats Stock Market Upswing: What Investors Need to Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-beats-stock-220005446.html",
@@ -7479,12 +7485,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-sym-beats-bond-own-203854077.html",
        "date": "2026-07-10"
-      },
-      {
-       "h": "Symbotic (SYM) Stock Still Looks Cheap Following Its 315% Run",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-stock-still-looks-050928923.html",
-       "date": "2026-07-08"
       }
      ]
     },
@@ -9887,16 +9887,16 @@
        "date": "2026-07-10"
       },
       {
+       "h": "Rocket Lab\u2019s Stock Drop Comes With a Bullish Twist",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-drop-comes-143500140.html",
+       "date": "2026-07-10"
+      },
+      {
        "h": "Rocket Lab (RKLB) Stock Faces Fresh Questions After Beck Sale And $8 Billion Iridium Deal",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-faces-071051945.html",
        "date": "2026-07-10"
-      },
-      {
-       "h": "Can Rocket Lab Stock Become the Next SpaceX-Like Success Story?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-become-next-131052174.html",
-       "date": "2026-07-08"
       }
      ]
     },
@@ -13643,6 +13643,12 @@
      },
      "news": [
       {
+       "h": "Nuclear Energy Stock SMR Is Trading Under $10: Bargain Buy or Value Trap?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-stock-smr-trading-140500714.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "One Nuclear Energy Stock With a 100% Upside Potential",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/one-nuclear-energy-stock-100-180006435.html",
@@ -13652,12 +13658,6 @@
        "h": "NuScale Power Stock at a 52-Week Low: Opportunity or Warning?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-stock-52-week-115700474.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "This $9 Nuclear Energy Stock Could Be Worth $100 by 2030",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/9-nuclear-energy-stock-could-113500394.html",
        "date": "2026-07-10"
       }
      ]
@@ -15077,6 +15077,12 @@
      },
      "news": [
       {
+       "h": "The Retirement Budget Most People Build Is Backward",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/options/articles/retirement-budget-most-people-build-141503836.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Nobody Is Talking About This Dividend King Stock. Here's Why It's a Screaming Buy Right Now.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nobody-talking-dividend-king-stock-123500553.html",
@@ -15086,12 +15092,6 @@
        "h": "Can Clearway's Renewable & Storage Portfolio Power Future Growth?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/clearways-renewable-storage-portfolio-power-164400452.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "NextEra Energy vs. Duke Energy: A $67 Billion Deal Could Change the Revenue Script",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-duke-energy-113002813.html",
        "date": "2026-07-10"
       }
      ],
@@ -17870,9 +17870,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "AT&T Yields 5.3% and Trades Near a 52-Week Low. Is the SpaceX Threat Really Worth That Discount?",
+   "h": "Prediction: Carvana's New-Car Business Will Work. Early Numbers Are Stunning.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/t-yields-5-3-trades-132000928.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-carvanas-car-business-early-145000618.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "SYM",
+   "h": "Symbotic (SYM) Acquires ARMS Innovations to Expand Warehouse Optimization",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/articles/symbotic-sym-acquires-arms-innovations-142225115.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Rivian Just Did What Investors Despised Lucid for. How Bad Is It?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-just-did-investors-despised-142000590.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NEE",
+   "h": "The Retirement Budget Most People Build Is Backward",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/options/articles/retirement-budget-most-people-build-141503836.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "3 Stocks That Crushed Nvidia With 300% or More Gains Over the Past Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-crushed-nvidia-300-140500145.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "SMR",
+   "h": "Nuclear Energy Stock SMR Is Trading Under $10: Bargain Buy or Value Trap?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/nuclear-energy-stock-smr-trading-140500714.html",
    "date": "2026-07-11"
   },
   {
@@ -18112,42 +18147,7 @@
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html",
    "date": "2026-07-10"
-  },
-  {
-   "tk": "SAIC",
-   "h": "IT Keeps Buying What The Market Keeps Selling",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/keeps-buying-market-keeps-selling-204910825.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "BA",
-   "h": "Top Analyst Reports for SpaceX, Meta Platforms & Boeing",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-spacex-meta-204400366.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "LMT",
-   "h": "Top Analyst Reports for SpaceX, Meta Platforms & Boeing",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-spacex-meta-204400366.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "SYM",
-   "h": "Why SYM Beats A Bond At Its Own Game",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-sym-beats-bond-own-203854077.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Energy Fuels CEO Bhappu Buys 74,000 Shares. What Does This Mean for UUUU Shareholders?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-ceo-bhappu-buys-201834794.html",
-   "date": "2026-07-10"
   }
  ],
- "prices_asof": "2026-07-11 13:37 UTC"
+ "prices_asof": "2026-07-11 14:58 UTC"
 }
