@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 3,
-      "rk": 45,
-      "up": 32
+      "m": 1,
+      "m0": 19,
+      "rk": 703,
+      "up": 4
      },
      "news": [
       {
@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "Did Zacks\u2019 Earnings Upgrade Just Reframe Perimeter Solutions\u2019 (PRM) Risk\u2011Reward Profile for Investors?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/did-zacks-earnings-upgrade-just-061329459.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Albemarle (ALB) Stock Drops Despite Market Gains: Important Facts to Note",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-drops-despite-215004764.html",
@@ -696,12 +702,6 @@
        "h": "S&P 500 Posts Weekly Gain as Technology, Energy Rally",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205535829.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Fortuna Mining's H1 Gold-Equivalent Production Hits 145,089 Ounces",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/fortuna-minings-h1-gold-equivalent-141600222.html",
        "date": "2026-07-10"
       }
      ],
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 781,
+      "up": 42
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 233,
-      "m0": 275,
+      "m": 148,
+      "m0": 233,
       "rk": 5,
-      "up": 4243
+      "up": 349
      },
      "thesis": {
       "bull": [
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 17,
-      "rk": 31,
-      "up": -78
+      "m": 10,
+      "m0": 22,
+      "rk": 52,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -2030,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 361,
-      "up": 2
+      "rk": 105,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -2322,7 +2327,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 244,
+      "up": 223
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2346,6 +2356,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-now-nato-181000851.html",
@@ -2355,12 +2371,6 @@
        "h": "Why Northrop Grumman (NOC) is Poised to Beat Earnings Estimates Again",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-northrop-grumman-noc-poised-161003419.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Defense Investor: 300 Companies Could Define the Future of Warfare \u2013 and 92 of Them Are International. \u201cInstead of Thinking U.S. Hegemony, Now We\u2019re Thinking This Is an Allied Play\u201d",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-investor-300-companies-could-151955343.html",
        "date": "2026-07-10"
       }
      ],
@@ -2475,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
+      "m": 12,
       "m0": 8,
-      "rk": 81,
-      "up": 9
+      "rk": 45,
+      "up": 115
      },
      "thesis": {
       "bull": [
@@ -2825,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 800,
-      "up": 1
+      "rk": 86,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -3141,7 +3151,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 115,
+      "up": 18
+     },
      "thesis": {
       "bull": [
        {
@@ -3570,7 +3585,12 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 799,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -3659,7 +3679,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 675,
+      "up": 5
+     },
      "news": [
       {
        "h": "2 Drone Stocks for Your Watchlist",
@@ -3728,7 +3753,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 692,
+      "rk": 657,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4033,10 +4058,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 22,
-      "rk": 120,
-      "up": 12
+      "m": 8,
+      "m0": 5,
+      "rk": 64,
+      "up": 128
      },
      "thesis": {
       "bull": [
@@ -4383,12 +4408,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 154,
-      "up": 11
+      "m": 4,
+      "m0": 1,
+      "rk": 107,
+      "up": 225
      },
      "news": [
+      {
+       "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+       "date": "2026-07-11"
+      },
       {
        "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
        "pub": "Zacks",
@@ -4399,12 +4430,6 @@
        "h": "Rackspace Plunges 25% After Cutting 2026 Outlook, Unveils $250M Share Offering",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/rackspace-plunges-25-cutting-2026-172727482.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Why RTX (RTX) Could Beat Earnings Estimates Again",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rtx-rtx-could-beat-161002540.html",
        "date": "2026-07-10"
       }
      ],
@@ -4717,9 +4742,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 725,
-      "up": 5
+      "m0": 1,
+      "rk": 692,
+      "up": 4
      },
      "news": [
       {
@@ -5140,7 +5165,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890340676.74,
+       "amt": 6890356010.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5265,12 +5290,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 665,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power Technologies deepens European maritime security push",
@@ -5864,12 +5884,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 60,
-      "m0": 48,
+      "m": 58,
+      "m0": 59,
       "rk": 12,
-      "up": 155
+      "up": 146
      },
      "news": [
+      {
+       "h": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/hynix-etfs-leveraged-inverse-stock-02ea2851?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-11"
+      },
       {
        "h": "If You Have $1,000 to Invest in EV Stocks, Should It Go to Tesla or Rivian?",
        "pub": "Motley Fool",
@@ -5880,12 +5906,6 @@
        "h": "The 2 Magnificent Seven Stocks With the Most Upside Potential, According to Wall Street",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-magnificent-seven-stocks-most-043500149.html",
-       "date": "2026-07-11"
-      },
-      {
-       "h": "Has Meta ever had a stock split? What sets this \u2018Mag 7\u2019 stock apart",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/meta-ever-had-stock-split-014754437.html",
        "date": "2026-07-11"
       }
      ],
@@ -5953,8 +5973,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 450,
+      "m0": 1,
+      "rk": 420,
       "up": 1
      },
      "news": [
@@ -6041,9 +6061,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 442,
-      "up": 3
+      "m0": 1,
+      "rk": 413,
+      "up": 1
      },
      "news": [
       {
@@ -6274,8 +6294,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 796,
-      "up": 3
+      "rk": 756,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -7047,7 +7067,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 787,
+      "up": 1
+     },
      "news": [
       {
        "h": "CYD or MBLY: Which Is the Better Value Stock Right Now?",
@@ -7105,10 +7130,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 126,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 250,
+      "up": 2
      },
      "news": [
       {
@@ -7249,7 +7274,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 766,
+      "up": 1
+     },
      "news": [
       {
        "h": "indie Semiconductor (INDI) Declines, However The Street Remains Bullish",
@@ -7374,12 +7404,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 465,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Will Serve Robotics' Healthcare Push Unlock a Bigger AI Opportunity?",
@@ -7436,7 +7461,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 786,
+      "up": 1
+     },
      "news": [
       {
        "h": "Symbotic Inc. (SYM) Beats Stock Market Upswing: What Investors Need to Know",
@@ -7762,10 +7792,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 18,
-      "rk": 63,
-      "up": 23
+      "m": 3,
+      "m0": 8,
+      "rk": 134,
+      "up": 8
      },
      "news": [
       {
@@ -8271,10 +8301,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 44,
-      "rk": 17,
-      "up": 149
+      "m": 44,
+      "m0": 39,
+      "rk": 14,
+      "up": 281
      },
      "thesis": {
       "bull": [
@@ -8573,9 +8603,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 493,
-      "up": 3
+      "m0": 1,
+      "rk": 457,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8756,10 +8786,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 746,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 170,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -9078,12 +9108,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 767,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Small-Cap Stocks Getting a Russell 2000 Rebalance Boost",
@@ -9176,10 +9201,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 201,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 754,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9275,12 +9300,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 755,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "AI-Powered Earth Observation Drives Planet Labs' Growth?",
@@ -9363,7 +9383,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 767,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products",
@@ -9525,10 +9550,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 22,
-      "rk": 14,
-      "up": 473
+      "m": 35,
+      "m0": 45,
+      "rk": 17,
+      "up": 219
      },
      "thesis": {
       "bull": [
@@ -9850,9 +9875,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 427,
-      "up": 2
+      "m0": 1,
+      "rk": 402,
+      "up": 1
      },
      "news": [
       {
@@ -9913,7 +9938,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 332,
+      "rk": 311,
       "up": 1
      },
      "news": [
@@ -10002,7 +10027,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 429,
+      "rk": 405,
       "up": 4
      },
      "news": [
@@ -10415,10 +10440,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
+      "m": 6,
       "m0": 13,
-      "rk": 52,
-      "up": 13
+      "rk": 87,
+      "up": 11
      },
      "news": [
       {
@@ -10569,10 +10594,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 224,
-      "up": 0
+      "m": 2,
+      "m0": 1,
+      "rk": 144,
+      "up": 227
      },
      "streetNotes": [
       {
@@ -10589,21 +10614,21 @@
      ],
      "news": [
       {
+       "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+       "date": "2026-07-11"
+      },
+      {
+       "h": "Ukraine creates long-range military command to intensify strikes on Russia",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/ukraine-creates-long-range-military-071222914.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Top Analyst Reports for SpaceX, Meta Platforms & Boeing",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-spacex-meta-204400366.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-now-nato-181000851.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "LMT or HWM: Which Is the Better Value Stock Right Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lmt-hwm-better-value-stock-154002272.html",
        "date": "2026-07-10"
       }
      ],
@@ -10678,7 +10703,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 244,
+      "up": 223
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10702,6 +10732,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+       "date": "2026-07-11"
+      },
+      {
        "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-now-nato-181000851.html",
@@ -10711,12 +10747,6 @@
        "h": "Why Northrop Grumman (NOC) is Poised to Beat Earnings Estimates Again",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-northrop-grumman-noc-poised-161003419.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Defense Investor: 300 Companies Could Define the Future of Warfare \u2013 and 92 of Them Are International. \u201cInstead of Thinking U.S. Hegemony, Now We\u2019re Thinking This Is an Allied Play\u201d",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-investor-300-companies-could-151955343.html",
        "date": "2026-07-10"
       }
      ],
@@ -10783,10 +10813,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 165,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 192,
+      "up": 1
      },
      "news": [
       {
@@ -10871,12 +10901,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 154,
-      "up": 11
+      "m": 4,
+      "m0": 1,
+      "rk": 107,
+      "up": 225
      },
      "news": [
+      {
+       "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+       "date": "2026-07-11"
+      },
       {
        "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
        "pub": "Zacks",
@@ -10887,12 +10923,6 @@
        "h": "Rackspace Plunges 25% After Cutting 2026 Outlook, Unveils $250M Share Offering",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/rackspace-plunges-25-cutting-2026-172727482.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "Why RTX (RTX) Could Beat Earnings Estimates Again",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rtx-rtx-could-beat-161002540.html",
        "date": "2026-07-10"
       }
      ],
@@ -10958,7 +10988,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 285,
+      "up": 3
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11001,7 +11036,7 @@
        "date": "2009-05-27"
       },
       {
-       "amt": 1283781354.76,
+       "amt": 1319979762.76,
        "ag": "Department of Defense",
        "desc": "AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT",
        "date": "2020-02-25"
@@ -11238,10 +11273,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 17,
-      "rk": 31,
-      "up": -78
+      "m": 10,
+      "m0": 22,
+      "rk": 52,
+      "up": 13
      },
      "news": [
       {
@@ -11326,12 +11361,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 567,
-      "up": -1
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12371,7 +12401,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 515,
+      "rk": 473,
       "up": 2
      },
      "news": [
@@ -12434,7 +12464,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 722,
+      "rk": 688,
       "up": 2
      },
      "news": [
@@ -12566,7 +12596,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 414,
+      "up": 1
+     },
      "news": [
       {
        "h": "Denison Mines (TSX:DML) Could Be A Bargain Following Its Split Fair Value Debate",
@@ -12684,8 +12719,8 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 2,
-      "rk": 114,
+      "m0": 6,
+      "rk": 93,
       "up": 12
      },
      "news": [
@@ -12766,9 +12801,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 20,
-      "rk": 27,
+      "m": 27,
+      "m0": 27,
+      "rk": 26,
       "up": 83
      },
      "news": [
@@ -13360,10 +13395,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 12,
-      "rk": 85,
-      "up": 29
+      "m": 12,
+      "m0": 7,
+      "rk": 47,
+      "up": 77
      },
      "thesis": {
       "bull": [
@@ -13601,10 +13636,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 204,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 778,
+      "up": 2
      },
      "news": [
       {
@@ -14016,7 +14051,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 391,
+      "rk": 370,
       "up": 2
      },
      "streetNotes": [
@@ -14253,12 +14288,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 502,
-      "up": 5
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14552,8 +14582,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 793,
-      "up": 5
+      "rk": 752,
+      "up": 4
      },
      "news": [
       {
@@ -14952,10 +14982,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 2,
       "m0": 6,
-      "rk": 95,
-      "up": 11
+      "rk": 152,
+      "up": 12
      },
      "news": [
       {
@@ -15042,7 +15072,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 299,
+      "rk": 274,
       "up": 1
      },
      "news": [
@@ -15128,10 +15158,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 8,
       "m0": 1,
-      "rk": 310,
-      "up": 0
+      "rk": 59,
+      "up": 36
      },
      "news": [
       {
@@ -15192,7 +15222,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 254,
+      "rk": 222,
       "up": 1
      },
      "news": [
@@ -15419,7 +15449,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 535,
+      "up": 3
+     },
      "news": [
       {
        "h": "Forget URA. This Pure-Miner Uranium Fund Skips the Utilities and Is Up 61%",
@@ -15480,7 +15515,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 547,
+      "rk": 508,
       "up": 2
      },
      "news": [
@@ -17554,7 +17589,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-10",
+ "social_asof": "2026-07-11",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17834,10 +17869,52 @@
  ],
  "news": [
   {
+   "tk": "LMT",
+   "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "NOC",
+   "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "RTX",
+   "h": "Trump threatens to \u2019decimate\u2019 Iran as U.S. steps up military, diplomatic pressure",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-decimate-iran-u-073035027.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "LMT",
+   "h": "Ukraine creates long-range military command to intensify strikes on Russia",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/ukraine-creates-long-range-military-071222914.html",
+   "date": "2026-07-11"
+  },
+  {
    "tk": "NVDA",
-   "h": "Rocket Lab Just Unveiled a Game-Changing New Technology Worth Watching",
+   "h": "This Overlooked Investment Could Set You Up for Life. Here's How.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-just-unveiled-game-055000526.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/overlooked-investment-could-set-life-070500917.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "ALB",
+   "h": "Did Zacks\u2019 Earnings Upgrade Just Reframe Perimeter Solutions\u2019 (PRM) Risk\u2011Reward Profile for Investors?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/did-zacks-earnings-upgrade-just-061329459.html",
+   "date": "2026-07-11"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SK Hynix ETFs Are Coming. Exactly Who Should Own Them.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/hynix-etfs-leveraged-inverse-stock-02ea2851?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-11"
   },
   {
@@ -17922,13 +17999,6 @@
    "h": "AST SpaceMobile (ASTS) Stock Looks Rich Relative To Fair Value",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-stock-looks-001651350.html",
-   "date": "2026-07-11"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Reportedly Pushes Staff Toward Grok 4.5 As AI Spending Cap Takes Effect",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-reportedly-pushes-staff-toward-000214568.html",
    "date": "2026-07-11"
   },
   {
@@ -18077,42 +18147,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-went-nowhere-month-easily-191736045.html",
    "date": "2026-07-10"
-  },
-  {
-   "tk": "RKLB",
-   "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-went-nowhere-month-easily-191736045.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "UFO",
-   "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-went-nowhere-month-easily-191736045.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "ASTS",
-   "h": "ASTS Stock In Focus \u2014 AST SpaceMobile\u2019s BlueBird 11 Reaches Cape Canaveral Ahead Of August Launch",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-focus-ast-spacemobile-182818734.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber (UBER) Tightens Lawsuit Terms As Drivers Protest AI Pay Cuts",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-tightens-lawsuit-terms-181554451.html",
-   "date": "2026-07-10"
-  },
-  {
-   "tk": "LMT",
-   "h": "Defense ETFs to Buy Now as NATO Allies Pledge to Invest Over $50B",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-now-nato-181000851.html",
-   "date": "2026-07-10"
   }
  ],
- "prices_asof": "2026-07-11 06:18 UTC"
+ "prices_asof": "2026-07-11 07:39 UTC"
 }
