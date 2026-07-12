@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 19,
-      "rk": 703,
-      "up": 4
+      "m0": 1,
+      "rk": 577,
+      "up": 2
      },
      "news": [
       {
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 781,
-      "up": 42
+      "rk": 647,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 148,
-      "m0": 233,
+      "m": 29,
+      "m0": 149,
       "rk": 5,
-      "up": 349
+      "up": 91
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
+       "h": "3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-dividend-stocks-074500422.html",
+       "date": "2026-07-12"
+      },
+      {
+       "h": "What a $5,000 Investment in SpaceX at Launch Would Be Worth Now",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-investment-spacex-launch-065500677.html",
+       "date": "2026-07-12"
+      },
+      {
        "h": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/monday-blues-dip-monday-com-062000916.html",
-       "date": "2026-07-12"
-      },
-      {
-       "h": "Is Bitcoin a Good Crypto for Long-Term Investors?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-crypto-long-term-060100494.html",
-       "date": "2026-07-12"
-      },
-      {
-       "h": "What\u2019s the AI hit to U.S. inflation?",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
        "date": "2026-07-12"
       }
      ]
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 666,
+      "up": 13
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 22,
-      "rk": 52,
-      "up": 13
+      "m": 2,
+      "m0": 10,
+      "rk": 79,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -1858,7 +1863,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 705,
+      "up": 3
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2035,10 +2045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 105,
-      "up": 11
+      "m": 1,
+      "m0": 4,
+      "rk": 250,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -2328,10 +2338,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 244,
-      "up": 223
+      "m": 2,
+      "m0": 1,
+      "rk": 88,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -2485,10 +2495,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 8,
-      "rk": 45,
-      "up": 115
+      "m": 4,
+      "m0": 12,
+      "rk": 49,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2845,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 86,
-      "up": 13
+      "m": 4,
+      "m0": 6,
+      "rk": 41,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -3152,10 +3162,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 115,
-      "up": 18
+      "m": 2,
+      "m0": 4,
+      "rk": 73,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -3587,8 +3597,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 799,
+      "m0": 1,
+      "rk": 663,
       "up": 1
      },
      "streetNotes": [
@@ -3681,9 +3691,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 675,
-      "up": 5
+      "m0": 1,
+      "rk": 552,
+      "up": 1
      },
      "news": [
       {
@@ -3750,12 +3760,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 657,
-      "up": 1
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4058,10 +4063,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 5,
-      "rk": 64,
-      "up": 128
+      "m": 11,
+      "m0": 8,
+      "rk": 13,
+      "up": 137
      },
      "thesis": {
       "bull": [
@@ -4408,10 +4413,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 107,
-      "up": 225
+      "m": 1,
+      "m0": 4,
+      "rk": 320,
+      "up": 1
      },
      "news": [
       {
@@ -4740,12 +4745,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 692,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside",
@@ -5884,10 +5884,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 58,
-      "m0": 59,
-      "rk": 12,
-      "up": 146
+      "m": 6,
+      "m0": 58,
+      "rk": 34,
+      "up": 9
      },
      "news": [
       {
@@ -5971,12 +5971,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 420,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
@@ -6062,7 +6057,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 413,
+      "rk": 298,
       "up": 1
      },
      "news": [
@@ -6294,7 +6289,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 756,
+      "rk": 624,
       "up": 1
      },
      "thesis": {
@@ -7070,7 +7065,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 787,
+      "rk": 653,
       "up": 1
      },
      "news": [
@@ -7131,8 +7126,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 250,
+      "m0": 1,
+      "rk": 163,
       "up": 2
      },
      "news": [
@@ -7274,12 +7269,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 766,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Declines, However The Street Remains Bullish",
@@ -7464,7 +7454,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 786,
+      "rk": 652,
       "up": 1
      },
      "news": [
@@ -7703,7 +7693,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 738,
+      "up": 5
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7792,10 +7787,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 8,
-      "rk": 134,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 508,
+      "up": 3
      },
      "news": [
       {
@@ -8301,10 +8296,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 39,
-      "rk": 14,
-      "up": 281
+      "m": 14,
+      "m0": 44,
+      "rk": 9,
+      "up": 115
      },
      "thesis": {
       "bull": [
@@ -8603,8 +8598,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 457,
+      "m0": 0,
+      "rk": 339,
       "up": 1
      },
      "streetNotes": [
@@ -8786,9 +8781,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 170,
+      "m": 1,
+      "m0": 2,
+      "rk": 585,
       "up": 6
      },
      "thesis": {
@@ -9051,7 +9046,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 735,
+      "up": 39
+     },
      "news": [
       {
        "h": "Is MDA Space (TSX:MDA) Above Fair Value After Its Share Offering?",
@@ -9202,9 +9202,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 754,
-      "up": 2
+      "m0": 1,
+      "rk": 622,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -9386,7 +9386,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 767,
+      "rk": 632,
       "up": 1
      },
      "news": [
@@ -9550,10 +9550,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 35,
-      "m0": 45,
-      "rk": 17,
-      "up": 219
+      "m": 8,
+      "m0": 36,
+      "rk": 24,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -9876,7 +9876,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 402,
+      "rk": 292,
       "up": 1
      },
      "news": [
@@ -9935,12 +9935,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 311,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Lumentum Stock Was Already Sold Out Before Its Big Rally",
@@ -10024,12 +10019,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 405,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10440,10 +10430,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 13,
-      "rk": 87,
-      "up": 11
+      "m": 1,
+      "m0": 6,
+      "rk": 680,
+      "up": 3
      },
      "news": [
       {
@@ -10594,10 +10584,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 144,
-      "up": 227
+      "m": 6,
+      "m0": 2,
+      "rk": 32,
+      "up": 17
      },
      "streetNotes": [
       {
@@ -10704,10 +10694,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 244,
-      "up": 223
+      "m": 2,
+      "m0": 1,
+      "rk": 88,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -10814,8 +10804,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 192,
+      "m0": 1,
+      "rk": 105,
       "up": 1
      },
      "news": [
@@ -10901,10 +10891,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 107,
-      "up": 225
+      "m": 1,
+      "m0": 4,
+      "rk": 320,
+      "up": 1
      },
      "news": [
       {
@@ -10990,8 +10980,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 285,
+      "m0": 1,
+      "rk": 194,
       "up": 3
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11273,10 +11263,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 22,
-      "rk": 52,
-      "up": 13
+      "m": 2,
+      "m0": 10,
+      "rk": 79,
+      "up": 5
      },
      "news": [
       {
@@ -12398,12 +12388,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 473,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Bangladesh\u2019s first nuclear plant highlights emerging markets\u2019 energy shift",
@@ -12464,7 +12449,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 688,
+      "rk": 568,
       "up": 2
      },
      "news": [
@@ -12598,8 +12583,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 414,
+      "m0": 1,
+      "rk": 301,
       "up": 1
      },
      "news": [
@@ -12718,10 +12703,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 6,
-      "rk": 93,
-      "up": 12
+      "m": 1,
+      "m0": 5,
+      "rk": 300,
+      "up": 1
      },
      "news": [
       {
@@ -12801,10 +12786,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 27,
+      "m": 9,
       "m0": 27,
-      "rk": 26,
-      "up": 83
+      "rk": 21,
+      "up": 19
      },
      "news": [
       {
@@ -13395,10 +13380,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 7,
-      "rk": 47,
-      "up": 77
+      "m": 1,
+      "m0": 12,
+      "rk": 696,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -13636,10 +13621,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 778,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 75,
+      "up": 12
      },
      "news": [
       {
@@ -14048,12 +14033,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 370,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14579,12 +14559,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 752,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Constellation Energy Is Helping Solve the AI Power Crunch. Here's Why You Shouldn't Hesitate to Buy It Right Now.",
@@ -14983,9 +14958,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 6,
-      "rk": 152,
-      "up": 12
+      "m0": 2,
+      "rk": 87,
+      "up": 13
      },
      "news": [
       {
@@ -15072,7 +15047,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 274,
+      "rk": 185,
       "up": 1
      },
      "news": [
@@ -15158,10 +15133,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 59,
-      "up": 36
+      "m": 1,
+      "m0": 8,
+      "rk": 199,
+      "up": 1
      },
      "news": [
       {
@@ -15219,12 +15194,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 222,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What to Expect From Exelon's Q2 2026 Earnings Report",
@@ -15451,9 +15421,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 535,
-      "up": 3
+      "m0": 1,
+      "rk": 417,
+      "up": 1
      },
      "news": [
       {
@@ -15515,7 +15485,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 508,
+      "rk": 389,
       "up": 2
      },
      "news": [
@@ -17589,7 +17559,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-11",
+ "social_asof": "2026-07-12",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17870,6 +17840,20 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-yield-dividend-stocks-074500422.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "NVDA",
+   "h": "What a $5,000 Investment in SpaceX at Launch Would Be Worth Now",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-investment-spacex-launch-065500677.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "NVDA",
    "h": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/monday-blues-dip-monday-com-062000916.html",
@@ -17883,24 +17867,10 @@
    "date": "2026-07-12"
   },
   {
-   "tk": "NVDA",
-   "h": "What\u2019s the AI hit to U.S. inflation?",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
-   "date": "2026-07-12"
-  },
-  {
    "tk": "VST",
    "h": "What\u2019s the AI hit to U.S. inflation?",
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
-   "date": "2026-07-12"
-  },
-  {
-   "tk": "NVDA",
-   "h": "XRP Has Pulled Back Sharply. Is Now the Time to Load Up?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-pulled-back-sharply-now-052000260.html",
    "date": "2026-07-12"
   },
   {
@@ -18149,5 +18119,5 @@
    "date": "2026-07-11"
   }
  ],
- "prices_asof": "2026-07-12 06:38 UTC"
+ "prices_asof": "2026-07-12 07:58 UTC"
 }
