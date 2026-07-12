@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures: Market Sets Up But U.S. Strikes Iran; Nvidia, Micron, Sandisk Near Buy Points",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+       "h": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/monday-blues-dip-monday-com-062000916.html",
        "date": "2026-07-12"
       },
       {
-       "h": "Why Oklo Stock Sank 27% In The First Half of 2026",
+       "h": "Is Bitcoin a Good Crypto for Long-Term Investors?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-sank-27-020704897.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-crypto-long-term-060100494.html",
        "date": "2026-07-12"
       },
       {
-       "h": "Prediction: $500,000 Invested in SpaceX Stock Could Grow to $1,615,000 by 2030",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-500-000-invested-spacex-015900847.html",
+       "h": "What\u2019s the AI hit to U.S. inflation?",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
        "date": "2026-07-12"
       }
      ]
@@ -5891,6 +5891,12 @@
      },
      "news": [
       {
+       "h": "2 Beaten-Down Stocks With Massive Upside Potential",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-stocks-massive-043500557.html",
+       "date": "2026-07-12"
+      },
+      {
        "h": "Elon Musk Says \u2018Sadly, Yes\u2019 Jeff Bezos\u2019 Ex-Wife MacKenzie Scott Has Donated Over $26 Billion \u2014 And It\u2019s Making the World Worse",
        "pub": "Benzinga",
        "link": "https://www.yahoo.com/news/politics/articles/elon-musk-says-sadly-yes-200126096.html",
@@ -5900,12 +5906,6 @@
        "h": "NVIDA Vs. Tesla: Tesla Jumps as It Finally Fulfills Decade-Old Promise So Buy Nvidia Instead",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nvida-vs-tesla-tesla-jumps-164331865.html",
-       "date": "2026-07-11"
-      },
-      {
-       "h": "Forget AI Hyperscalers: Tesla May Own the Most Valuable AI Application",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/forget-ai-hyperscalers-tesla-may-150327346.html",
        "date": "2026-07-11"
       }
      ],
@@ -14670,6 +14670,12 @@
      "social": null,
      "news": [
       {
+       "h": "What\u2019s the AI hit to U.S. inflation?",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
+       "date": "2026-07-12"
+      },
+      {
        "h": "Nancy Pelosi, Donald Trump Bet On The Same 10 Stocks \u2013 Some Might Surprise You (CORRECTED)",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-donald-trump-bet-213114487.html",
@@ -14679,12 +14685,6 @@
        "h": "Vistra (VST) Becomes A Preferred Power Provider For AI",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-becomes-preferred-power-135417259.html",
-       "date": "2026-07-10"
-      },
-      {
-       "h": "GE Vernova vs. Vistra: One AI Power Stock Has Absolutely Crushed the Other, And Could Continue Doing So",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-vistra-one-122210504.html",
        "date": "2026-07-10"
       }
      ],
@@ -17870,9 +17870,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Dow sell-side Futures: Market Sets Up But U.S. Strikes Iran; Nvidia, Micron, Sandisk Near Buy Points",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+   "h": "The Monday Blues. Is the Dip in Monday.com Stock a Buying Opportunity?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/monday-blues-dip-monday-com-062000916.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is Bitcoin a Good Crypto for Long-Term Investors?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-good-crypto-long-term-060100494.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "NVDA",
+   "h": "What\u2019s the AI hit to U.S. inflation?",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "VST",
+   "h": "What\u2019s the AI hit to U.S. inflation?",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "NVDA",
+   "h": "XRP Has Pulled Back Sharply. Is Now the Time to Load Up?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-pulled-back-sharply-now-052000260.html",
+   "date": "2026-07-12"
+  },
+  {
+   "tk": "TSLA",
+   "h": "2 Beaten-Down Stocks With Massive Upside Potential",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-stocks-massive-043500557.html",
    "date": "2026-07-12"
   },
   {
@@ -17890,31 +17925,10 @@
    "date": "2026-07-12"
   },
   {
-   "tk": "NVDA",
-   "h": "Why Oklo Stock Sank 27% In The First Half of 2026",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-sank-27-020704897.html",
-   "date": "2026-07-12"
-  },
-  {
    "tk": "OKLO",
    "h": "Why Oklo Stock Sank 27% In The First Half of 2026",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-oklo-stock-sank-27-020704897.html",
-   "date": "2026-07-12"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Prediction: $500,000 Invested in SpaceX Stock Could Grow to $1,615,000 by 2030",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-500-000-invested-spacex-015900847.html",
-   "date": "2026-07-12"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Interactive Brokers Stock Zoomed 35.3% Higher In The First Half of 2026",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-interactive-brokers-stock-zoomed-013644696.html",
    "date": "2026-07-12"
   },
   {
@@ -18107,13 +18121,6 @@
    "date": "2026-07-11"
   },
   {
-   "tk": "TSLA",
-   "h": "You Have Lots of Questions for Our Car Columnist, So He Responded",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/lifestyle/cars/wsj-columnist-takes-your-questions-f551fac7?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-11"
-  },
-  {
    "tk": "LMT",
    "h": "Iran\u2019s Khamenei vows revenge as Trump warns of devastating U.S. response",
    "pub": "Investing.com",
@@ -18140,14 +18147,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/world/articles/ukraine-creates-long-range-military-071222914.html",
    "date": "2026-07-11"
-  },
-  {
-   "tk": "ALB",
-   "h": "Did Zacks\u2019 Earnings Upgrade Just Reframe Perimeter Solutions\u2019 (PRM) Risk\u2011Reward Profile for Investors?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/did-zacks-earnings-upgrade-just-061329459.html",
-   "date": "2026-07-11"
   }
  ],
- "prices_asof": "2026-07-12 03:23 UTC"
+ "prices_asof": "2026-07-12 06:38 UTC"
 }
