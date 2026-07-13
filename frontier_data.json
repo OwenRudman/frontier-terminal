@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 577,
-      "up": 2
+      "rk": 499,
+      "up": 1
      },
      "news": [
       {
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 647,
-      "up": 2
+      "rk": 545,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 149,
-      "rk": 5,
-      "up": 91
+      "m": 31,
+      "m0": 29,
+      "rk": 7,
+      "up": 66
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1143,15 @@
        "date": "2026-07-12"
       },
       {
-       "h": "History Says It's Time to Buy SpaceX Stock Before It's Too Late",
+       "h": "The Smartest Artificial Intelligence (AI) Investment Moves to Make With $5,000 in July",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-time-buy-spacex-065000375.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/smartest-artificial-intelligence-ai-investment-082900891.html",
        "date": "2026-07-13"
       },
       {
-       "h": "TSMC posts record revenue in second quarter on AI demand",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
+       "h": "It's Been Over 7 Weeks, and Fed Chair Kevin Warsh Has Failed to Make Any Headway on a Key Central Bank Reform",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/economy/policy/articles/over-7-weeks-fed-chair-082600018.html",
        "date": "2026-07-13"
       }
      ]
@@ -1312,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 666,
-      "up": 13
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 10,
-      "rk": 79,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 348,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -1866,7 +1861,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 705,
+      "rk": 584,
       "up": 3
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
@@ -2046,9 +2041,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 250,
-      "up": 7
+      "m0": 1,
+      "rk": 253,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2338,10 +2333,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 88,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 182,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -2495,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 12,
-      "rk": 49,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 263,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -2845,10 +2840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 6,
-      "rk": 41,
-      "up": 14
+      "m": 1,
+      "m0": 4,
+      "rk": 530,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3162,10 +3157,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 73,
-      "up": 11
+      "m": 1,
+      "m0": 2,
+      "rk": 573,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -3598,7 +3593,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 663,
+      "rk": 553,
       "up": 1
      },
      "streetNotes": [
@@ -3689,12 +3684,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 552,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Drone Stocks for Your Watchlist",
@@ -4063,10 +4053,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 8,
-      "rk": 13,
-      "up": 137
+      "m": 6,
+      "m0": 11,
+      "rk": 55,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4333,6 +4323,12 @@
      "take": "Best theme on the list, and the backlog jump genuinely strengthens the bull case I underrated before \u2014 trailing P/S really is the wrong lens here. But \"the growth is real\" and \"the stock is expensive\" can both be true: a lot of upside is already priced, and acquisitions dilute. A high-conviction thematic bet \u2014 size it like a speculation, watch the share count.",
      "news": [
       {
+       "h": "ONDS Stock Extends Six-Week Slide \u2013 But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-extends-six-week-074649348.html",
+       "date": "2026-07-13"
+      },
+      {
        "h": "Ondas Snaps Up DZYNE in $875M Deal, Boosts Autonomous Defense Revenue Target",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-snaps-dzyne-875m-deal-010201855.html",
@@ -4343,12 +4339,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-stock-261-investors-buy-151800969.html",
        "date": "2026-07-10"
-      },
-      {
-       "h": "Ondas (ONDS) Could Be 62% Undervalued Following Its $875.8 Million DZYNE Deal",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-could-62-undervalued-191208751.html",
-       "date": "2026-07-08"
       }
      ],
      "awards": [
@@ -4414,8 +4404,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 320,
+      "m0": 1,
+      "rk": 310,
       "up": 1
      },
      "news": [
@@ -5130,7 +5120,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 169,
+      "up": 1
+     },
      "news": [
       {
        "h": "Is Huntington Ingalls Expanding Its Presence in the UUV Market?",
@@ -5884,10 +5879,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 58,
-      "rk": 34,
-      "up": 9
+      "m": 22,
+      "m0": 6,
+      "rk": 14,
+      "up": 102
      },
      "news": [
       {
@@ -5971,7 +5966,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 298,
+      "up": 1
+     },
      "news": [
       {
        "h": "TechCrunch Mobility: A robotaxi ultimatum",
@@ -6057,8 +6057,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 298,
-      "up": 1
+      "rk": 292,
+      "up": 2
      },
      "news": [
       {
@@ -6286,12 +6286,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 624,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -7062,12 +7057,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 653,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "CYD or MBLY: Which Is the Better Value Stock Right Now?",
@@ -7124,12 +7114,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 163,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "QUALCOMM (QCOM) Unveils Snapdragon Reality Elite For On Device AI And Spatial Computing",
@@ -7451,12 +7436,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 652,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Symbotic (SYM) Acquires ARMS Innovations to Expand Warehouse Optimization",
@@ -7696,8 +7676,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 738,
-      "up": 5
+      "rk": 606,
+      "up": 2
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7787,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 508,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 77,
+      "up": 15
      },
      "news": [
       {
@@ -8296,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 44,
-      "rk": 9,
-      "up": 115
+      "m": 24,
+      "m0": 13,
+      "rk": 12,
+      "up": 123
      },
      "thesis": {
       "bull": [
@@ -8599,8 +8579,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 339,
-      "up": 1
+      "rk": 323,
+      "up": 324
      },
      "streetNotes": [
       {
@@ -8782,8 +8762,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 585,
+      "m0": 1,
+      "rk": 503,
       "up": 6
      },
      "thesis": {
@@ -9049,7 +9029,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 735,
+      "rk": 603,
       "up": 39
      },
      "news": [
@@ -9201,10 +9181,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 622,
-      "up": 4
+      "rk": 122,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9383,12 +9363,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 632,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products",
@@ -9550,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 36,
-      "rk": 24,
-      "up": 4
+      "m": 13,
+      "m0": 8,
+      "rk": 27,
+      "up": 38
      },
      "thesis": {
       "bull": [
@@ -9736,6 +9711,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Slips Overnight Despite Fresh New Zealand Gateway Approval For AST SpaceMobile",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-slips-overnight-despite-065325176.html",
+       "date": "2026-07-13"
+      },
+      {
        "h": "NASA ETF Tumbles Toward Launch Lows Amid SpaceX Selloff \u2014 But Tema Quietly Adds Over 5M ASTS, RKLB And LUNR Shares",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nasa-etf-tumbles-toward-launch-041740286.html",
@@ -9746,12 +9727,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-time-sensitive-opportunity-130500216.html",
        "date": "2026-07-12"
-      },
-      {
-       "h": "AST SpaceMobile (ASTS) Stock Looks Rich Relative To Fair Value",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-stock-looks-001651350.html",
-       "date": "2026-07-11"
       }
      ]
     },
@@ -9876,8 +9851,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 292,
-      "up": 1
+      "rk": 287,
+      "up": 2
      },
      "news": [
       {
@@ -10430,10 +10405,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 680,
-      "up": 3
+      "m": 5,
+      "m0": 1,
+      "rk": 67,
+      "up": 36
      },
      "news": [
       {
@@ -10584,10 +10559,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 2,
-      "rk": 32,
-      "up": 17
+      "m": 3,
+      "m0": 6,
+      "rk": 81,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -10694,10 +10669,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 88,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 182,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10802,12 +10777,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 105,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX\u2019s Ambition Is \u2018Unlike Anything\u2019 This Analyst Has Ever Seen",
@@ -10892,8 +10862,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 320,
+      "m0": 1,
+      "rk": 310,
       "up": 1
      },
      "news": [
@@ -10981,7 +10951,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 194,
+      "rk": 208,
       "up": 3
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11083,7 +11053,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 178,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11263,10 +11238,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 10,
-      "rk": 79,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 348,
+      "up": 2
      },
      "news": [
       {
@@ -11351,7 +11326,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 379,
+      "up": 6
+     },
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12446,12 +12426,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 568,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Can Energy Fuels' Liquidity Position Support Its Expansion Plans?",
@@ -12581,12 +12556,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 301,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Denison Mines (TSX:DML) Could Be A Bargain Following Its Split Fair Value Debate",
@@ -12704,8 +12674,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 300,
+      "m0": 1,
+      "rk": 294,
       "up": 1
      },
      "news": [
@@ -12786,10 +12756,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 27,
-      "rk": 21,
-      "up": 19
+      "m": 6,
+      "m0": 9,
+      "rk": 54,
+      "up": 7
      },
      "news": [
       {
@@ -13059,7 +13029,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 118,
+      "up": 7
+     },
      "news": [
       {
        "h": "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
@@ -13380,9 +13355,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 12,
-      "rk": 696,
+      "m": 2,
+      "m0": 1,
+      "rk": 124,
       "up": 8
      },
      "thesis": {
@@ -13622,9 +13597,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 75,
-      "up": 12
+      "m0": 2,
+      "rk": 123,
+      "up": 7
      },
      "news": [
       {
@@ -14033,7 +14008,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 267,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14102,7 +14082,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 583,
+      "up": 1
+     },
      "news": [
       {
        "h": "2 Top Power Stocks That Could Outperform the Market Through 2030",
@@ -14959,8 +14944,8 @@
      "social": {
       "m": 2,
       "m0": 2,
-      "rk": 87,
-      "up": 13
+      "rk": 99,
+      "up": 334
      },
      "news": [
       {
@@ -15044,12 +15029,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 185,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "The Dividend Growth Approach That Builds Bigger Paychecks Every Single Year",
@@ -15134,8 +15114,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 199,
+      "m0": 1,
+      "rk": 213,
       "up": 1
      },
      "news": [
@@ -15422,7 +15402,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 417,
+      "rk": 390,
       "up": 1
      },
      "news": [
@@ -15485,8 +15465,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 389,
-      "up": 2
+      "rk": 365,
+      "up": 1
      },
      "news": [
       {
@@ -17559,7 +17539,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-12",
+ "social_asof": "2026-07-13",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17840,9 +17820,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "History Says It's Time to Buy SpaceX Stock Before It's Too Late",
+   "h": "The Smartest Artificial Intelligence (AI) Investment Moves to Make With $5,000 in July",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-time-buy-spacex-065000375.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/smartest-artificial-intelligence-ai-investment-082900891.html",
+   "date": "2026-07-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "It's Been Over 7 Weeks, and Fed Chair Kevin Warsh Has Failed to Make Any Headway on a Key Central Bank Reform",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/over-7-weeks-fed-chair-082600018.html",
+   "date": "2026-07-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "1 ETF That Has Quietly Beaten the S&P 500 for a Decade",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-etf-quietly-beaten-p-081200886.html",
+   "date": "2026-07-13"
+  },
+  {
+   "tk": "ONDS",
+   "h": "ONDS Stock Extends Six-Week Slide \u2013 But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-extends-six-week-074649348.html",
+   "date": "2026-07-13"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Slips Overnight Despite Fresh New Zealand Gateway Approval For AST SpaceMobile",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-slips-overnight-despite-065325176.html",
    "date": "2026-07-13"
   },
   {
@@ -17857,20 +17865,6 @@
    "h": "MDA Space Bets \u20ac567M on CLS to Build AI Geo-Intelligence Platform",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/technology/ai/articles/mda-space-bets-567m-cls-060157230.html",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "TSMC posts record revenue in second quarter on AI demand",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Avoid This Hidden Risk of Index Funds",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/options/articles/avoid-hidden-risk-index-funds-052000657.html",
    "date": "2026-07-13"
   },
   {
@@ -18103,21 +18097,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/politics/articles/lindsey-graham-dies-71-brief-073255798.html",
    "date": "2026-07-12"
-  },
-  {
-   "tk": "NOC",
-   "h": "Lindsey Graham dies at 71 after brief illness, leaving vacancy in U.S. Senate",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/politics/articles/lindsey-graham-dies-71-brief-073255798.html",
-   "date": "2026-07-12"
-  },
-  {
-   "tk": "VST",
-   "h": "What\u2019s the AI hit to U.S. inflation?",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/economy/policy/articles/ai-hit-u-inflation-053010343.html",
-   "date": "2026-07-12"
   }
  ],
- "prices_asof": "2026-07-13 07:25 UTC"
+ "prices_asof": "2026-07-13 08:47 UTC"
 }
