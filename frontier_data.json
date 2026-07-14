@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 499,
-      "up": 1
+      "rk": 619,
+      "up": 2
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 225,
+      "up": 2
+     },
      "news": [
       {
        "h": "Bet on These 5 Low-Leverage Stocks as SK Hynix Makes Record Nasdaq-Debut",
@@ -816,8 +821,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 545,
-      "up": 1
+      "rk": 695,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 29,
-      "rk": 7,
-      "up": 66
+      "m": 110,
+      "m0": 32,
+      "rk": 9,
+      "up": 288
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1154,9 @@
        "date": "2026-07-13"
       },
       {
-       "h": "29 Wall Street Analysts Priced SpaceX. Here Is the Target Worth Paying Attention To",
+       "h": "Why Micron Technology Stock Soared 304% in the First Half of 2026 and Why There Might Be More to Come",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/29-wall-street-analysts-priced-052000340.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-soared-072200093.html",
        "date": "2026-07-14"
       }
      ]
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 348,
-      "up": 2
+      "m": 16,
+      "m0": 1,
+      "rk": 41,
+      "up": 52
      },
      "thesis": {
       "bull": [
@@ -1861,8 +1866,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 584,
-      "up": 3
+      "rk": 734,
+      "up": 57
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
@@ -2040,10 +2045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 253,
-      "up": 1
+      "rk": 88,
+      "up": 32
      },
      "thesis": {
       "bull": [
@@ -2334,8 +2339,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 182,
+      "m0": 1,
+      "rk": 266,
       "up": 1
      },
      "streetNotes": [
@@ -2490,10 +2495,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 263,
-      "up": 0
+      "m": 7,
+      "m0": 1,
+      "rk": 80,
+      "up": 67
      },
      "thesis": {
       "bull": [
@@ -2840,10 +2845,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 530,
-      "up": 1
+      "m": 5,
+      "m0": 1,
+      "rk": 108,
+      "up": 97
      },
      "thesis": {
       "bull": [
@@ -3158,8 +3163,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 573,
+      "m0": 1,
+      "rk": 724,
       "up": 0
      },
      "thesis": {
@@ -3590,12 +3595,7 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 553,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -4053,10 +4053,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 11,
-      "rk": 55,
-      "up": 7
+      "m": 21,
+      "m0": 6,
+      "rk": 37,
+      "up": 169
      },
      "thesis": {
       "bull": [
@@ -4403,10 +4403,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 310,
-      "up": 1
+      "rk": 178,
+      "up": 5
      },
      "news": [
       {
@@ -4735,7 +4735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 608,
+      "up": 1
+     },
      "news": [
       {
        "h": "Ouster (OUST) Drops On Share Offering As Fair Value Still Suggests Some Upside",
@@ -5122,8 +5127,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 169,
+      "m0": 1,
+      "rk": 255,
       "up": 1
      },
      "news": [
@@ -5879,10 +5884,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 6,
-      "rk": 14,
-      "up": 102
+      "m": 40,
+      "m0": 20,
+      "rk": 17,
+      "up": 78
      },
      "news": [
       {
@@ -5967,10 +5972,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 298,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 175,
+      "up": 4
      },
      "news": [
       {
@@ -6057,7 +6062,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 292,
+      "rk": 390,
       "up": 2
      },
      "news": [
@@ -6772,7 +6777,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 706,
+      "up": 1
+     },
      "news": [
       {
        "h": "A Duke Professor Says China Could Disable Self-Driving Cars Across America. Nvidia Is Using the Sensors Anyway.",
@@ -6829,7 +6839,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 652,
+      "up": 3
+     },
      "news": [
       {
        "h": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares?",
@@ -7057,7 +7072,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 198,
+      "up": 59
+     },
      "news": [
       {
        "h": "CYD or MBLY: Which Is the Better Value Stock Right Now?",
@@ -7114,7 +7134,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 271,
+      "up": 3
+     },
      "news": [
       {
        "h": "Congress Is Trading on Laws They\u2019re About to Pass \u2014 And It\u2019s Perfectly Legal",
@@ -7197,7 +7222,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 354,
+      "up": 1
+     },
      "news": [
       {
        "h": "Ambarella Is a Top Pure-Play Physical AI Bet. Here\u2019s Why AMBA Stock Will Continue Surging Higher.",
@@ -7436,7 +7466,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 197,
+      "up": 3
+     },
      "news": [
       {
        "h": "Why SYM Stock Beats A Bond At Its Own Game",
@@ -7676,8 +7711,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 606,
-      "up": 2
+      "rk": 753,
+      "up": 3
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7767,12 +7802,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 77,
-      "up": 15
+      "m": 2,
+      "m0": 4,
+      "rk": 187,
+      "up": 3
      },
      "news": [
+      {
+       "h": "SLS Stock Jumps Overnight After New Investor Disclosure \u2013 Retail Flags \u2018Massive\u2019 Options Bet Ahead Of AML Data",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/options/articles/sls-stock-jumps-overnight-investor-071130711.html",
+       "date": "2026-07-14"
+      },
       {
        "h": "SLS Vs MLTX: Retail Traders Race To Pick Merck\u2019s Next Biotech Buyout As Keytruda\u2019s $31.7B Patent Cliff Nears",
        "pub": "Stocktwits",
@@ -7783,12 +7824,6 @@
        "h": "Here\u2019s Why SELLAS (SLS) is Among the 10 Best Performing American Stocks in June 2026",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-sellas-sls-among-10-103809587.html",
-       "date": "2026-07-09"
-      },
-      {
-       "h": "SLS Stock Snaps 2-Day Slide: Sellas\u2019 SLS009 AML Trial Spotlights Big Pharma Drug Combo From ABBV, RHHBY And BMY",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-snaps-2-day-043853369.html",
        "date": "2026-07-09"
       }
      ]
@@ -8276,10 +8311,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 13,
-      "rk": 12,
-      "up": 123
+      "m": 118,
+      "m0": 21,
+      "rk": 8,
+      "up": 1552
      },
      "thesis": {
       "bull": [
@@ -8487,6 +8522,12 @@
      ],
      "news": [
       {
+       "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
+       "date": "2026-07-14"
+      },
+      {
        "h": "RKLB Stock Rises Overnight: Rocket Lab Completes Major Engine Test Ahead of Neutron\u2019s First Launch",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-overnight-rocket-033327512.html",
@@ -8496,12 +8537,6 @@
        "h": "Investors Debate Which Stock Will Create the Most Millionaires in the Next 10 Years. 'Not the Safest. Not Your Favorite'",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debate-stock-create-most-230124253.html",
-       "date": "2026-07-13"
-      },
-      {
-       "h": "What Does Rocket Lab's $8 Billion Iridium Acquisition Signal for the New Space Stock Era?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-labs-8-billion-160500741.html",
        "date": "2026-07-13"
       }
      ],
@@ -8578,9 +8613,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 323,
-      "up": 324
+      "m0": 1,
+      "rk": 423,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8761,9 +8796,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 503,
+      "m": 3,
+      "m0": 0,
+      "rk": 148,
       "up": 6
      },
      "thesis": {
@@ -9027,10 +9062,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 603,
-      "up": 39
+      "rk": 208,
+      "up": 27
      },
      "news": [
       {
@@ -9181,9 +9216,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 122,
+      "m": 3,
+      "m0": 2,
+      "rk": 150,
       "up": 6
      },
      "streetNotes": [
@@ -9200,6 +9235,12 @@
      ],
      "news": [
       {
+       "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
+       "date": "2026-07-14"
+      },
+      {
        "h": "Planet Labs (PL) Down 12% Over the Past Month, Wedbush Initiates the Stock With a Buy Rating",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-down-12-100046275.html",
@@ -9210,12 +9251,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-shareholders-back-190154341.html",
        "date": "2026-07-12"
-      },
-      {
-       "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-went-nowhere-month-easily-191736045.html",
-       "date": "2026-07-10"
       }
      ],
      "awards": [
@@ -9363,7 +9398,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 676,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products",
@@ -9525,10 +9565,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 8,
-      "rk": 27,
-      "up": 38
+      "m": 123,
+      "m0": 11,
+      "rk": 7,
+      "up": 1698
      },
      "thesis": {
       "bull": [
@@ -9711,6 +9751,12 @@
      },
      "news": [
       {
+       "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
+       "date": "2026-07-14"
+      },
+      {
        "h": "AST SpaceMobile, Inc. (ASTS) Declines More Than Market: Some Information for Investors",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-declines-221506517.html",
@@ -9720,12 +9766,6 @@
        "h": "SpaceX and AST SpaceMobile Fall 5%, Rocket Lab Sheds 4% as China Rocket Milestone and Oil Spike Hit Space Stocks",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ast-spacemobile-fall-5-151811623.html",
-       "date": "2026-07-13"
-      },
-      {
-       "h": "ASTS Stock Slips Overnight Despite Fresh New Zealand Gateway Approval For AST SpaceMobile",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-slips-overnight-despite-065325176.html",
        "date": "2026-07-13"
       }
      ]
@@ -9765,7 +9805,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 571,
+      "up": 2
+     },
      "news": [
       {
        "h": "Can ASTS Satellites Transform the Future of Defense Communications?",
@@ -9851,8 +9896,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 287,
-      "up": 2
+      "rk": 385,
+      "up": 1
      },
      "news": [
       {
@@ -10231,7 +10276,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 662,
+      "up": 1
+     },
      "news": [
       {
        "h": "Why the SpaceX IPO Dragged AST SpaceMobile Down",
@@ -10296,7 +10346,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 667,
+      "up": 1
+     },
      "news": [
       {
        "h": "Spotlight On Penny Stocks To Consider In May 2026",
@@ -10405,10 +10460,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 67,
-      "up": 36
+      "m": 18,
+      "m0": 5,
+      "rk": 38,
+      "up": 171
      },
      "news": [
       {
@@ -10559,10 +10614,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 81,
-      "up": 6
+      "m": 1,
+      "m0": 4,
+      "rk": 221,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10670,8 +10725,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 182,
+      "m0": 1,
+      "rk": 266,
       "up": 1
      },
      "streetNotes": [
@@ -10777,7 +10832,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 6,
+      "m0": 0,
+      "rk": 86,
+      "up": 16
+     },
      "news": [
       {
        "h": "The Iran War Hasn\u2019t Helped Defense Stocks. Maybe Earnings Can.",
@@ -10861,10 +10921,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 310,
-      "up": 1
+      "rk": 178,
+      "up": 5
      },
      "news": [
       {
@@ -10948,12 +11008,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 208,
-      "up": 3
-     },
+     "social": null,
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11055,8 +11110,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 178,
+      "m0": 1,
+      "rk": 262,
       "up": 1
      },
      "streetNotes": [
@@ -11238,10 +11293,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 348,
-      "up": 2
+      "m": 16,
+      "m0": 1,
+      "rk": 41,
+      "up": 52
      },
      "news": [
       {
@@ -11328,9 +11383,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 379,
-      "up": 6
+      "m0": 1,
+      "rk": 483,
+      "up": 1
      },
      "news": [
       {
@@ -12674,9 +12729,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 294,
-      "up": 1
+      "m0": 0,
+      "rk": 394,
+      "up": 6
      },
      "news": [
       {
@@ -12756,10 +12811,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 9,
-      "rk": 54,
-      "up": 7
+      "m": 13,
+      "m0": 6,
+      "rk": 47,
+      "up": 29
      },
      "news": [
       {
@@ -13030,10 +13085,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 118,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 609,
+      "up": 1
      },
      "news": [
       {
@@ -13112,7 +13167,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 699,
+      "up": 1
+     },
      "news": [
       {
        "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
@@ -13355,10 +13415,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 124,
-      "up": 8
+      "m": 27,
+      "m0": 2,
+      "rk": 27,
+      "up": 79
      },
      "thesis": {
       "bull": [
@@ -13598,8 +13658,8 @@
      "social": {
       "m": 2,
       "m0": 2,
-      "rk": 123,
-      "up": 7
+      "rk": 195,
+      "up": 11
      },
      "news": [
       {
@@ -13658,7 +13718,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 728,
+      "up": 1
+     },
      "news": [
       {
        "h": "This Nuclear Stock Is Down 30% This Year -- Here's 1 Reason It Could Be a Screaming Buy Right Now",
@@ -14010,8 +14075,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 267,
+      "m0": 1,
+      "rk": 361,
       "up": 1
      },
      "streetNotes": [
@@ -14085,8 +14150,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 583,
-      "up": 1
+      "rk": 733,
+      "up": 0
      },
      "news": [
       {
@@ -14861,6 +14926,12 @@
      "social": null,
      "news": [
       {
+       "h": "Duke Energy (DUK) Is Betting On Nuclear As Offshore Wind Loses Favor",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/duke-energy-duk-betting-nuclear-071228339.html",
+       "date": "2026-07-14"
+      },
+      {
        "h": "Duke Energy (DUK) Gains As Market Dips: What You Should Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-gains-market-220003002.html",
@@ -14870,12 +14941,6 @@
        "h": "How Much of Your Social Security Will You Actually Keep After Taxes?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/much-social-security-actually-keep-182809153.html",
-       "date": "2026-07-13"
-      },
-      {
-       "h": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
        "date": "2026-07-13"
       }
      ],
@@ -14899,7 +14964,7 @@
        "date": "2020-04-30"
       },
       {
-       "amt": 47804710.46,
+       "amt": 49127629.66,
        "ag": "Department of Defense",
        "desc": "CAMP LEJEUNE UESC TO II",
        "date": "2019-07-31"
@@ -14942,10 +15007,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 11,
       "m0": 2,
-      "rk": 99,
-      "up": 334
+      "rk": 50,
+      "up": 63
      },
      "news": [
       {
@@ -15115,8 +15180,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 213,
-      "up": 1
+      "rk": 294,
+      "up": 2
      },
      "news": [
       {
@@ -15399,12 +15464,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 390,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Forget URA. This Pure-Miner Uranium Fund Skips the Utilities and Is Up 61%",
@@ -15465,7 +15525,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
+      "rk": 470,
       "up": 1
      },
      "news": [
@@ -17539,7 +17599,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-13",
+ "social_asof": "2026-07-14",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17820,9 +17880,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "29 Wall Street Analysts Priced SpaceX. Here Is the Target Worth Paying Attention To",
+   "h": "Why Micron Technology Stock Soared 304% in the First Half of 2026 and Why There Might Be More to Come",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/29-wall-street-analysts-priced-052000340.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-technology-stock-soared-072200093.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "DUK",
+   "h": "Duke Energy (DUK) Is Betting On Nuclear As Offshore Wind Loses Favor",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/duke-energy-duk-betting-nuclear-071228339.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Jumps Overnight After New Investor Disclosure \u2013 Retail Flags \u2018Massive\u2019 Options Bet Ahead Of AML Data",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/options/articles/sls-stock-jumps-overnight-investor-071130711.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Walmart Just Declared Its 53rd Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-53rd-dividend-070500922.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "ASTS",
+   "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "PL",
+   "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
+   "date": "2026-07-14"
+  },
+  {
+   "tk": "RKLB",
+   "h": "SPCX Vs RKLB Vs ASTS Vs PL: Which Space Stock Are Retail Traders Buying After The Selloff?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-vs-rklb-vs-asts-055334034.html",
    "date": "2026-07-14"
   },
   {
@@ -17851,13 +17953,6 @@
    "h": "Drone Stocks Are Back In Play: Why RCAT, AVAV, KTOS, UMAC Stocks Are Climbing",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-back-play-why-051944484.html",
-   "date": "2026-07-14"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Chip toolmaker ASML expected to shine light on capacity and China challenges",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/articles/chip-toolmaker-asml-expected-shine-050423589.html",
    "date": "2026-07-14"
   },
   {
@@ -18062,42 +18157,7 @@
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/energy-stocks-where-to-invest-8b505444?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-13"
-  },
-  {
-   "tk": "TLN",
-   "h": "Soaring Energy Profits Won\u2019t Last. Where to Find Bargains Now.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/energy-stocks-where-to-invest-8b505444?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/noble-plains-uses-ai-unlock-200207260.html",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "UEC",
-   "h": "Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/noble-plains-uses-ai-unlock-200207260.html",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "URG",
-   "h": "Noble Plains Uses AI to Unlock Historic Wyoming Uranium Data, Sets Stage for Resource Expansion",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/noble-plains-uses-ai-unlock-200207260.html",
-   "date": "2026-07-13"
-  },
-  {
-   "tk": "VST",
-   "h": "Quality Stocks Aren\u2019t the Names You\u2019d Expect",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/quality-tech-stocks-investing-market-eade9ddd?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-13"
   }
  ],
- "prices_asof": "2026-07-14 06:15 UTC"
+ "prices_asof": "2026-07-14 07:46 UTC"
 }
