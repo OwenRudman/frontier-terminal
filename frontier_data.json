@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 717,
-      "up": 1
+      "rk": 177,
+      "up": 4
      },
      "news": [
       {
@@ -684,12 +684,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 232,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Top Stock Picks for Week of July 13, 2026",
@@ -819,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 159,
-      "up": 6
+      "m": 2,
+      "m0": 3,
+      "rk": 185,
+      "up": 10
      },
      "streetNotes": [
       {
@@ -945,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 143,
-      "m0": 108,
-      "rk": 5,
-      "up": 424
+      "m": 119,
+      "m0": 144,
+      "rk": 10,
+      "up": 622
      },
      "thesis": {
       "bull": [
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 16,
-      "rk": 20,
-      "up": 74
+      "m": 11,
+      "m0": 36,
+      "rk": 53,
+      "up": 315
      },
      "thesis": {
       "bull": [
@@ -1863,12 +1858,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 207,
-      "up": 3
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2045,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 355,
-      "up": 2
+      "m": 4,
+      "m0": 1,
+      "rk": 113,
+      "up": 77
      },
      "thesis": {
       "bull": [
@@ -2490,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 121,
-      "up": 11
+      "m": 2,
+      "m0": 4,
+      "rk": 159,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2839,12 +2829,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 776,
-      "up": 3
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4043,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 21,
-      "rk": 52,
-      "up": 51
+      "m": 6,
+      "m0": 13,
+      "rk": 90,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -4394,9 +4379,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 449,
-      "up": 2
+      "m0": 1,
+      "rk": 443,
+      "up": 9
      },
      "news": [
       {
@@ -4728,7 +4713,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 701,
+      "rk": 693,
       "up": 2
      },
      "news": [
@@ -5138,7 +5123,7 @@
      ],
      "awards": [
       {
-       "amt": 12721774557.85,
+       "amt": 12741774557.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5277,8 +5262,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 638,
+      "m0": 1,
+      "rk": 617,
       "up": 1
      },
      "news": [
@@ -5366,7 +5351,7 @@
        "date": "2022-11-29"
       },
       {
-       "amt": 4879116.0,
+       "amt": 4896052.0,
        "ag": "Department of Defense",
        "desc": "SAAB - DEPLOYABLE CORROSION AND PREVENTION CONTROL FACILITY",
        "date": "2024-09-13"
@@ -5874,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 41,
-      "rk": 18,
-      "up": 63
+      "m": 52,
+      "m0": 37,
+      "rk": 17,
+      "up": 121
      },
      "news": [
       {
@@ -5962,12 +5947,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 124,
-      "up": 9
+      "m": 1,
+      "m0": 4,
+      "rk": 421,
+      "up": 4
      },
      "news": [
+      {
+       "h": "Uber Reaches Deal for $14.8 Billion Takeover of Delivery Hero",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/deals/uber-reaches-deal-for-14-8-billion-takeover-of-delivery-hero-85436e8e?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-16"
+      },
       {
        "h": "Lucid Shares Jump 15% After EV Maker Denies Bankruptcy Rumors",
        "pub": "GuruFocus.com",
@@ -5978,12 +5969,6 @@
        "h": "UBER Reportedly Eyeing \u20ac12.5B Delivery Hero Takeover To Challenge DoorDash",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-reportedly-eyeing-12-5b-192812168.html",
-       "date": "2026-07-15"
-      },
-      {
-       "h": "Uber nears \u20ac12.5bn deal to acquire Delivery Hero, FT reports",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-nears-12-5bn-deal-184917897.html",
        "date": "2026-07-15"
       }
      ],
@@ -6049,7 +6034,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 414,
+      "up": 2
+     },
      "news": [
       {
        "h": "Apple clears key hurdle for iPhone AI launch in China",
@@ -6822,7 +6812,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 755,
+      "rk": 744,
       "up": 1
      },
      "news": [
@@ -6997,8 +6987,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 647,
+      "m0": 1,
+      "rk": 631,
       "up": 3
      },
      "news": [
@@ -7057,7 +7047,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 797,
+      "up": 3
+     },
      "news": [
       {
        "h": "CYD or MBLY: Which Is the Better Value Stock Right Now?",
@@ -7115,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 77,
-      "up": 13
+      "m": 1,
+      "m0": 8,
+      "rk": 264,
+      "up": 3
      },
      "news": [
       {
@@ -7205,7 +7200,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 374,
+      "rk": 358,
       "up": 1
      },
      "news": [
@@ -7266,9 +7261,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 785,
-      "up": 1
+      "m0": 1,
+      "rk": 774,
+      "up": 2
      },
      "news": [
       {
@@ -7451,7 +7446,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 796,
+      "up": 1
+     },
      "news": [
       {
        "h": "Amazon Is Throwing Billions at Warehouse Robotics: What That Means for Symbotic's Stock.",
@@ -7777,10 +7777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 636,
-      "up": 5
+      "m": 8,
+      "m0": 1,
+      "rk": 66,
+      "up": 21
      },
      "news": [
       {
@@ -8139,6 +8139,12 @@
      ],
      "news": [
       {
+       "h": "Karman Holdings (KRMN) Joins S&P SmallCap 600 As It Expands $2.7 Million Facility",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-joins-p-061343479.html",
+       "date": "2026-07-16"
+      },
+      {
        "h": "Why Karman Holdings Stock Zoomed More Than 6% Higher Today",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-karman-holdings-stock-zoomed-235815208.html",
@@ -8148,12 +8154,6 @@
        "h": "Unusual Machines Stock Could Soar 125%, Analyst Says.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/unusual-machines-analyst-coverage-125-stock-price-trump-jr-karman-redwire-drones-order-umac-stock-krmn-rdw-defense/?src=A00220&yptr=yahoo",
-       "date": "2026-07-15"
-      },
-      {
-       "h": "Anduril Expands War Portfolio To Hypersonic Missiles, Army Names Suppliers",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/anduril-army-hypersonic-drone-uas-castelion-ursa-major-defense-contractors-missiles/?src=A00220&yptr=yahoo",
        "date": "2026-07-15"
       }
      ]
@@ -8286,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 40,
-      "m0": 119,
-      "rk": 17,
-      "up": 122
+      "m": 80,
+      "m0": 41,
+      "rk": 12,
+      "up": 964
      },
      "thesis": {
       "bull": [
@@ -8587,10 +8587,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 186,
-      "up": 12
+      "m": 1,
+      "m0": 2,
+      "rk": 464,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8771,10 +8771,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 109,
-      "up": 15
+      "m": 2,
+      "m0": 5,
+      "rk": 178,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -8988,16 +8988,16 @@
        "date": "2021-06-21"
       },
       {
-       "amt": 17562397.52,
-       "ag": "Department of Defense",
-       "desc": "STAR - ADVANCED LABORATORIES, ALGORITHMS, COLLABORATIVE RESEARCH AND DEVELOPMENT INNOVATIONS, AND TECHNOLOGY (ALACRITY)",
-       "date": "2024-09-24"
-      },
-      {
        "amt": 10248703.0,
        "ag": "Department of Defense",
        "desc": "EXPERIMENT FOR LONG LIFE INNOVATIVE ENERGY",
        "date": "2019-12-23"
+      },
+      {
+       "amt": 7938607.6,
+       "ag": "National Aeronautics and Space Administration",
+       "desc": "ADVANCED PLANT HABITAT (APH) MISSION INTEGRATION AND OPERATIONS AND SUSTAINING ENGINEERING SERVICES FOR SPACE BIOLOGY TASK ORDER",
+       "date": "2018-03-14"
       }
      ]
     },
@@ -9036,7 +9036,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 1,
+      "rk": 121,
+      "up": 6
+     },
      "news": [
       {
        "h": "MDA Space Price Target Lowered to C$59 at CIBC",
@@ -9186,10 +9191,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 111,
-      "up": 16
+      "m": 2,
+      "m0": 5,
+      "rk": 181,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9287,8 +9292,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 734,
+      "m0": 1,
+      "rk": 722,
       "up": 1
      },
      "news": [
@@ -9325,7 +9330,7 @@
        "date": "2024-03-15"
       },
       {
-       "amt": 2100000.0,
+       "amt": 2600000.0,
        "ag": "Department of Defense",
        "desc": "SEGMENTED LARGE OPTICAL IMAGER DESIGN AND RISK ASSESSMENT",
        "date": "2026-03-06"
@@ -9373,12 +9378,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 787,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) and SynMax Partner on AI Geospatial Intelligence Products",
@@ -9540,10 +9540,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 122,
-      "rk": 24,
-      "up": 73
+      "m": 318,
+      "m0": 34,
+      "rk": 2,
+      "up": 3182
      },
      "thesis": {
       "bull": [
@@ -9783,7 +9783,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 654,
+      "rk": 640,
       "up": 2
      },
      "news": [
@@ -9871,7 +9871,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 414,
+      "rk": 403,
       "up": 1
      },
      "news": [
@@ -10254,7 +10254,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 767,
+      "rk": 758,
       "up": 1
      },
      "news": [
@@ -10321,12 +10321,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 774,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Factorial Inks a Deal, and Its Stock Gets Demolished",
@@ -10435,10 +10430,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
+      "m": 15,
       "m0": 18,
-      "rk": 40,
-      "up": 42
+      "rk": 44,
+      "up": 45
      },
      "news": [
       {
@@ -10591,8 +10586,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 227,
-      "up": 2
+      "rk": 205,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10804,9 +10799,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 219,
-      "up": 4
+      "m0": 1,
+      "rk": 200,
+      "up": 1
      },
      "news": [
       {
@@ -10892,9 +10887,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 449,
-      "up": 2
+      "m0": 1,
+      "rk": 443,
+      "up": 9
      },
      "news": [
       {
@@ -11258,10 +11253,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 16,
-      "rk": 20,
-      "up": 74
+      "m": 11,
+      "m0": 36,
+      "rk": 53,
+      "up": 315
      },
      "news": [
       {
@@ -11349,7 +11344,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 544,
+      "rk": 529,
       "up": 1
      },
      "news": [
@@ -12578,8 +12573,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 426,
+      "m0": 1,
+      "rk": 417,
       "up": 1
      },
      "news": [
@@ -12698,10 +12693,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 425,
-      "up": 8
+      "rk": 165,
+      "up": 9
      },
      "news": [
       {
@@ -12781,10 +12776,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 13,
-      "rk": 64,
-      "up": 42
+      "m": 6,
+      "m0": 10,
+      "rk": 89,
+      "up": -6
      },
      "news": [
       {
@@ -13054,12 +13049,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 702,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
@@ -13137,7 +13127,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 798,
+      "up": 2
+     },
      "news": [
       {
        "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
@@ -13380,10 +13375,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 27,
-      "rk": 138,
-      "up": 16
+      "m": 13,
+      "m0": 4,
+      "rk": 49,
+      "up": 34
      },
      "thesis": {
       "bull": [
@@ -13620,7 +13615,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 785,
+      "up": 3
+     },
      "news": [
       {
        "h": "NuScale Power Stock Has 195% Upside, According to This Wall Street Analyst",
@@ -14028,12 +14028,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 384,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14270,9 +14265,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 481,
-      "up": 5
+      "m0": 1,
+      "rk": 476,
+      "up": 4
      },
      "awards": [
       {
@@ -14647,7 +14642,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 365,
+      "up": 2
+     },
      "news": [
       {
        "h": "Vistra Corp. (VST) Rises Higher Than Market: Key Facts",
@@ -14798,6 +14798,12 @@
      "social": null,
      "news": [
       {
+       "h": "NextEra and Dominion Seek Merger Approval With $2.25B Customer Credit Plan",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-merger-approval-070814415.html",
+       "date": "2026-07-16"
+      },
+      {
        "h": "Our Dominion Energy Pick Has Produced Returns. Time to Sell.",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/dominion-energy-stock-pick-has-produced-returns-time-to-sell-63a1a637?siteid=yhoof2&yptr=yahoo",
@@ -14807,12 +14813,6 @@
        "h": "Dominion files paperwork with SCC to begin NextEra merger",
        "pub": "The Virginian-Pilot",
        "link": "https://finance.yahoo.com/energy/articles/dominion-files-paperwork-scc-begin-232600748.html",
-       "date": "2026-07-15"
-      },
-      {
-       "h": "Virginia SCC weighs Dominion data center transmission cost allocation",
-       "pub": "Utility Dive",
-       "link": "https://finance.yahoo.com/energy/articles/virginia-scc-weighs-dominion-data-104544627.html",
        "date": "2026-07-15"
       }
      ],
@@ -14962,10 +14962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 11,
-      "rk": 83,
-      "up": 28
+      "m": 6,
+      "m0": 7,
+      "rk": 79,
+      "up": 16
      },
      "news": [
       {
@@ -15052,6 +15052,12 @@
      "social": null,
      "news": [
       {
+       "h": "NextEra and Dominion Seek Merger Approval With $2.25B Customer Credit Plan",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-merger-approval-070814415.html",
+       "date": "2026-07-16"
+      },
+      {
        "h": "Our Dominion Energy Pick Has Produced Returns. Time to Sell.",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/dominion-energy-stock-pick-has-produced-returns-time-to-sell-63a1a637?siteid=yhoof2&yptr=yahoo",
@@ -15061,12 +15067,6 @@
        "h": "Dominion files paperwork with SCC to begin NextEra merger",
        "pub": "The Virginian-Pilot",
        "link": "https://finance.yahoo.com/energy/articles/dominion-files-paperwork-scc-begin-232600748.html",
-       "date": "2026-07-15"
-      },
-      {
-       "h": "Can PPL's Robust T&D Network Fuel Sustainable Long-term Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/ppls-robust-t-d-network-165300423.html",
        "date": "2026-07-15"
       }
      ],
@@ -15135,8 +15135,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 315,
-      "up": 2
+      "rk": 298,
+      "up": 5
      },
      "news": [
       {
@@ -15477,12 +15477,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 529,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AI\u2019s Dirty Little Power Secret Is Turning This Uranium ETF Into a Mainstream Trade",
@@ -17554,7 +17549,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-15",
+ "social_asof": "2026-07-16",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17835,9 +17830,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "TSMC\u2019s Earnings Streak Continues on Robust AI Demand",
+   "h": "Meet the Dividend King Stock That Yields More Than Double the S&P 500 and Just Raised Its Dividend for the 64th Straight Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-king-stock-yields-075000817.html",
+   "date": "2026-07-16"
+  },
+  {
+   "tk": "D",
+   "h": "NextEra and Dominion Seek Merger Approval With $2.25B Customer Credit Plan",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-merger-approval-070814415.html",
+   "date": "2026-07-16"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra and Dominion Seek Merger Approval With $2.25B Customer Credit Plan",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-merger-approval-070814415.html",
+   "date": "2026-07-16"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber Reaches Deal for $14.8 Billion Takeover of Delivery Hero",
    "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/tsmcs-earnings-streak-continues-on-robust-ai-demand-1f6b0fe1?siteid=yhoof2&yptr=yahoo",
+   "link": "https://www.wsj.com/business/deals/uber-reaches-deal-for-14-8-billion-takeover-of-delivery-hero-85436e8e?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-16"
+  },
+  {
+   "tk": "KRMN",
+   "h": "Karman Holdings (KRMN) Joins S&P SmallCap 600 As It Expands $2.7 Million Facility",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-joins-p-061343479.html",
    "date": "2026-07-16"
   },
   {
@@ -18084,35 +18107,7 @@
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/technology/articles/microvision-pitches-lidar-2-0-190232582.html",
    "date": "2026-07-15"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber nears \u20ac12.5bn deal to acquire Delivery Hero, FT reports",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-nears-12-5bn-deal-184917897.html",
-   "date": "2026-07-15"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Bank of America Says Long Semiconductors is the \u201cMost Crowded Trade Ever\u201d",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-long-semiconductors-184652554.html",
-   "date": "2026-07-15"
-  },
-  {
-   "tk": "BA",
-   "h": "Aerospace Stocks Q1 Highlights: Boeing (NYSE:BA)",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-q1-highlights-boeing-182917227.html",
-   "date": "2026-07-15"
-  },
-  {
-   "tk": "UBER",
-   "h": "Can Uber Technologies (UBER) Stay Cheap While Automation Risks Grow?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-stay-cheap-181551061.html",
-   "date": "2026-07-15"
   }
  ],
- "prices_asof": "2026-07-16 06:22 UTC"
+ "prices_asof": "2026-07-16 07:54 UTC"
 }
