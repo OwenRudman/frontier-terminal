@@ -1149,9 +1149,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+       "h": "President Trump's Major Marijuana Move: What It Means for Canopy Growth, Green Thumb, and Tilray",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-never-sold-tesla-072500316.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/president-trumps-major-marijuana-move-095000827.html",
        "date": "2026-07-17"
       }
      ]
@@ -5876,10 +5876,10 @@
      },
      "news": [
       {
-       "h": "SpaceX IPO & why oil could hit $150: Robinhood Exec",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/spacex-ipo-why-oil-could-100000270.html",
-       "date": "2026-07-16"
+       "h": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082853729.html",
+       "date": "2026-07-17"
       },
       {
        "h": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
@@ -9706,6 +9706,12 @@
      },
      "news": [
       {
+       "h": "US Stock Market Today: S&P 500 Futures Dip On Tariff And Energy Cost Worries",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html",
+       "date": "2026-07-17"
+      },
+      {
        "h": "ASTS Punished Over 1.5% Dilution? Shay Boloor Bought the Dip, Calls Fundraise 'Completely Misunderstood'",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-punished-over-1-5-061025463.html",
@@ -9715,12 +9721,6 @@
        "h": "AST SpaceMobile: Shares Sink 17% After Pricing a $1 Billion Convertible-Note Offering, But Dilution Risk Is Smaller Than It Looks (NASDAQ:ASTS)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-shares-sink-17-060700682.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "RKLB, SPCX, ASTS Head For Over 30% July Losses \u2014 sell-side Says Space Stocks Are 5x More Volatile Than S&P 500",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-spcx-asts-head-over-045027150.html",
        "date": "2026-07-17"
       }
      ]
@@ -17825,9 +17825,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
+   "h": "President Trump's Major Marijuana Move: What It Means for Canopy Growth, Green Thumb, and Tilray",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-never-sold-tesla-072500316.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/president-trumps-major-marijuana-move-095000827.html",
+   "date": "2026-07-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "3 Dividend ETFs Built for Long-Term Investors to Buy and Hold",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-etfs-built-long-093500016.html",
+   "date": "2026-07-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Nasdaq, S&P 500 Futures Slide As Chip Stocks Tumble, Iran Tensions Fuel Risk-Off Mood: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-slide-082853729.html",
+   "date": "2026-07-17"
+  },
+  {
+   "tk": "ASTS",
+   "h": "US Stock Market Today: S&P 500 Futures Dip On Tariff And Energy Cost Worries",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080928466.html",
    "date": "2026-07-17"
   },
   {
@@ -17835,13 +17856,6 @@
    "h": "Elon Musk Has Never Sold His Tesla Vision. Should You Buy the Dip Before July 22?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-never-sold-tesla-072500316.html",
-   "date": "2026-07-17"
-  },
-  {
-   "tk": "NVDA",
-   "h": "3 Reasons SpaceX Stock Could Drop 30% by 2028",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-spacex-stock-could-065000623.html",
    "date": "2026-07-17"
   },
   {
@@ -17933,13 +17947,6 @@
    "h": "SLS Stock Hits July Low As AML Readout Nears \u2014 Retail Bulls See \u2018Stellar\u2019 Hint In CEO\u2019s Fox Appearance Next Week",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-hits-july-low-041847738.html",
-   "date": "2026-07-17"
-  },
-  {
-   "tk": "ASTS",
-   "h": "ASTS Stock Hits 2026 Low After Surprise $1B Raise \u2014 But Jon Najarian Calls It A \u2018Strong Bet To The Upside\u2019",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-hits-2026-low-023714975.html",
    "date": "2026-07-17"
   },
   {
@@ -18095,14 +18102,7 @@
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-4f24eb91?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-16"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Alex Karp Grouped Palantir With These 3 Unstoppable Stocks as the Only True Artificial Intelligence (AI) Infrastructure Winners",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/alex-karp-grouped-palantir-3-210500351.html",
-   "date": "2026-07-16"
   }
  ],
- "prices_asof": "2026-07-17 07:51 UTC"
+ "prices_asof": "2026-07-17 10:02 UTC"
 }
