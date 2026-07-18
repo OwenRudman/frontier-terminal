@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 2,
-      "rk": 116,
-      "up": 20
+      "m": 3,
+      "m0": 6,
+      "rk": 154,
+      "up": 11
      },
      "news": [
       {
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 2,
-      "rk": 230,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 102,
-      "m0": 119,
-      "rk": 14,
-      "up": 335
+      "m": 93,
+      "m0": 102,
+      "rk": 9,
+      "up": 460
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1138,15 @@
        "date": "2026-07-17"
       },
       {
-       "h": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
+       "h": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/missed-sandisks-580-rally-3-053000590.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-putting-house-070200269.html",
        "date": "2026-07-18"
       },
       {
-       "h": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
+       "h": "Warren Buffett Is Disposing of His Berkshire Shares. Here's How.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/occidental-petroleum-cut-capital-spending-050500229.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-disposing-berkshire-shares-065000690.html",
        "date": "2026-07-18"
       }
      ]
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 11,
-      "rk": 43,
-      "up": 80
+      "m": 4,
+      "m0": 19,
+      "rk": 123,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2036,9 +2031,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 384,
-      "up": 4
+      "m0": 1,
+      "rk": 386,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2328,10 +2323,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 303,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 112,
+      "up": 10
      },
      "streetNotes": [
       {
@@ -2485,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 121,
-      "up": 11
+      "m": 4,
+      "m0": 5,
+      "rk": 115,
+      "up": 44
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 228,
-      "up": 4
+      "m": 3,
+      "m0": 2,
+      "rk": 157,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -4038,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 6,
-      "rk": 49,
-      "up": 81
+      "m": 7,
+      "m0": 16,
+      "rk": 85,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -4390,8 +4385,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 478,
-      "up": 2
+      "rk": 488,
+      "up": 1
      },
      "news": [
       {
@@ -4723,8 +4718,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 729,
-      "up": 1
+      "rk": 754,
+      "up": 3
      },
      "news": [
       {
@@ -5133,7 +5128,7 @@
      ],
      "awards": [
       {
-       "amt": 12741796637.85,
+       "amt": 12741806237.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5145,7 +5140,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890356010.74,
+       "amt": 6890379708.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5270,12 +5265,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 655,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power Technologies selected by US government for further assessment of maritime drone technology",
@@ -5869,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 64,
-      "m0": 52,
-      "rk": 22,
-      "up": 133
+      "m": 44,
+      "m0": 65,
+      "rk": 19,
+      "up": 102
      },
      "news": [
       {
@@ -5957,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 205,
-      "up": 71
+      "m": 4,
+      "m0": 2,
+      "rk": 120,
+      "up": 16
      },
      "news": [
       {
@@ -6047,7 +6037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 450,
+      "rk": 459,
       "up": 2
      },
      "news": [
@@ -7105,10 +7095,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 195,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 297,
+      "up": 5
      },
      "news": [
       {
@@ -7375,10 +7365,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 170,
-      "up": 26
+      "m": 1,
+      "m0": 3,
+      "rk": 481,
+      "up": 2
      },
      "news": [
       {
@@ -7762,12 +7752,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 8,
-      "rk": 149,
-      "up": 7
+      "m": 16,
+      "m0": 4,
+      "rk": 44,
+      "up": 24
      },
      "news": [
+      {
+       "h": "SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-group-sls-060947838.html",
+       "date": "2026-07-18"
+      },
       {
        "h": "Sellas Life (SLS) Climbs 12% Ahead of \u2018Potentially Company-Defining\u2019 Clinical Trial Result",
        "pub": "Insider Monkey",
@@ -7779,12 +7775,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-hits-july-low-041847738.html",
        "date": "2026-07-17"
-      },
-      {
-       "h": "SLS, IBRX Rise Overnight: Retail Bets On Big Pharma Buyouts As J&J Chases No. 1 Oncology Spot",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-rise-overnight-retail-071251016.html",
-       "date": "2026-07-16"
       }
      ]
     }
@@ -8271,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 144,
-      "m0": 80,
-      "rk": 9,
-      "up": 666
+      "m": 46,
+      "m0": 144,
+      "rk": 18,
+      "up": 134
      },
      "thesis": {
       "bull": [
@@ -8572,10 +8562,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 146,
-      "up": 11
+      "m": 1,
+      "m0": 4,
+      "rk": 505,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -8756,10 +8746,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 224,
-      "up": 6
+      "rk": 773,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -9171,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 2,
-      "rk": 95,
-      "up": 21
+      "m": 3,
+      "m0": 7,
+      "rk": 156,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9190,6 +9180,12 @@
      ],
      "news": [
       {
+       "h": "Planet Labs (PL) Stock Looks Strong On Returns Yet Rich On Sales",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-stock-looks-061114889.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geospatial Intelligence Partner?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-quietly-repositioning-031605447.html",
@@ -9199,12 +9195,6 @@
        "h": "Q1 Earnings Recap: Planet Labs (NYSE:PL) Tops Data & Business Process Services Stocks",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-recap-planet-labs-204146971.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "Planet Labs vs. Satellogic: Which Earth Observation Stock Has an Edge?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-vs-satellogic-earth-175200274.html",
        "date": "2026-07-17"
       }
      ],
@@ -9273,7 +9263,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 759,
+      "rk": 781,
       "up": 3
      },
      "news": [
@@ -9520,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 287,
-      "m0": 318,
-      "rk": 4,
-      "up": 964
+      "m": 84,
+      "m0": 288,
+      "rk": 11,
+      "up": 283
      },
      "thesis": {
       "bull": [
@@ -9846,7 +9836,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 438,
+      "rk": 445,
       "up": 1
      },
      "news": [
@@ -10400,10 +10390,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 15,
-      "rk": 58,
-      "up": 40
+      "m": 5,
+      "m0": 14,
+      "rk": 107,
+      "up": 12
      },
      "news": [
       {
@@ -10554,10 +10544,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 158,
-      "up": -8
+      "m": 5,
+      "m0": 3,
+      "rk": 99,
+      "up": 19
      },
      "streetNotes": [
       {
@@ -10664,10 +10654,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 303,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 112,
+      "up": 10
      },
      "streetNotes": [
       {
@@ -10775,8 +10765,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 244,
-      "up": 0
+      "rk": 213,
+      "up": 1
      },
      "news": [
       {
@@ -10863,8 +10853,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 478,
-      "up": 2
+      "rk": 488,
+      "up": 1
      },
      "news": [
       {
@@ -11228,10 +11218,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 11,
-      "rk": 43,
-      "up": 80
+      "m": 4,
+      "m0": 19,
+      "rk": 123,
+      "up": 9
      },
      "news": [
       {
@@ -11319,8 +11309,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 569,
-      "up": 6
+      "rk": 574,
+      "up": 1
      },
      "news": [
       {
@@ -12358,7 +12348,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 525,
+      "up": 3
+     },
      "news": [
       {
        "h": "Skyharbour, Purecore sign LoI for Yurchison uranium option",
@@ -12418,8 +12413,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 724,
+      "m0": 1,
+      "rk": 750,
       "up": 2
      },
      "news": [
@@ -12479,7 +12474,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 742,
+      "up": 1
+     },
      "news": [
       {
        "h": "NexGen Energy CEO Leigh Curyer Explains How AI is Influencing Energy Demand",
@@ -12553,8 +12553,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 453,
+      "m0": 0,
+      "rk": 461,
       "up": 1
      },
      "news": [
@@ -12673,10 +12673,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 452,
-      "up": 6
+      "m": 4,
+      "m0": 0,
+      "rk": 119,
+      "up": 14
      },
      "news": [
       {
@@ -12756,10 +12756,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 6,
-      "rk": 154,
-      "up": 18
+      "m": 13,
+      "m0": 4,
+      "rk": 50,
+      "up": 56
      },
      "news": [
       {
@@ -13031,8 +13031,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 730,
+      "m0": 1,
+      "rk": 755,
       "up": 2
      },
      "news": [
@@ -13112,12 +13112,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 181,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Top Midday Decliners",
@@ -13360,10 +13355,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 13,
-      "rk": 51,
-      "up": 56
+      "m": 13,
+      "m0": 16,
+      "rk": 52,
+      "up": 115
      },
      "thesis": {
       "bull": [
@@ -13601,10 +13596,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 229,
-      "up": 4
+      "m": 8,
+      "m0": 2,
+      "rk": 80,
+      "up": 19
      },
      "news": [
       {
@@ -14013,7 +14008,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 176,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14082,7 +14082,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 6,
+      "m0": 1,
+      "rk": 98,
+      "up": 8
+     },
      "news": [
       {
        "h": "Dow sell-side Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
@@ -14248,12 +14253,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 508,
-      "up": 4
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14630,8 +14630,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 405,
-      "up": 3
+      "rk": 409,
+      "up": 1
      },
      "news": [
       {
@@ -14865,8 +14865,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 332,
+      "m0": 1,
+      "rk": 324,
       "up": 6
      },
      "news": [
@@ -14952,10 +14952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 6,
-      "rk": 81,
-      "up": 28
+      "m": 9,
+      "m0": 8,
+      "rk": 65,
+      "up": 17
      },
      "news": [
       {
@@ -15040,10 +15040,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 325,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 169,
+      "up": 4
      },
      "news": [
       {
@@ -15128,10 +15128,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 141,
-      "up": 21
+      "m": 1,
+      "m0": 4,
+      "rk": 335,
+      "up": 7
      },
      "news": [
       {
@@ -15356,7 +15356,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 617,
+      "up": 2
+     },
      "news": [
       {
        "h": "Forget URA. This Pure-Miner Uranium Fund Skips the Utilities and Is Up 61%",
@@ -15414,7 +15419,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 585,
+      "up": 2
+     },
      "news": [
       {
        "h": "Forget URA. This Pure-Miner Uranium Fund Skips the Utilities and Is Up 61%",
@@ -17544,7 +17554,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-17",
+ "social_asof": "2026-07-18",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17825,23 +17835,37 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Mark Zuckerberg's Meta Is Putting Its In-House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-putting-house-070200269.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Warren Buffett Is Disposing of His Berkshire Shares. Here's How.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-disposing-berkshire-shares-065000690.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "PL",
+   "h": "Planet Labs (PL) Stock Looks Strong On Returns Yet Rich On Sales",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-stock-looks-061114889.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "SLS",
+   "h": "SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-group-sls-060947838.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
    "h": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/missed-sandisks-580-rally-3-053000590.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/occidental-petroleum-cut-capital-spending-050500229.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Some of Berkshire's Newest Bets Aren't American. Greg Abel Bought 3 Japanese Trading Houses Last Quarter.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshires-newest-bets-arent-american-043900876.html",
    "date": "2026-07-18"
   },
   {
@@ -18088,21 +18112,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-stock-outlook-spin-182100864.html",
    "date": "2026-07-17"
-  },
-  {
-   "tk": "LMT",
-   "h": "Can Lockheed Martin's Missile Defense Business Power Long-Term Growth?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martins-missile-defense-business-181800856.html",
-   "date": "2026-07-17"
-  },
-  {
-   "tk": "NOC",
-   "h": "Can Lockheed Martin's Missile Defense Business Power Long-Term Growth?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martins-missile-defense-business-181800856.html",
-   "date": "2026-07-17"
   }
  ],
- "prices_asof": "2026-07-18 06:08 UTC"
+ "prices_asof": "2026-07-18 07:26 UTC"
 }
