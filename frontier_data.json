@@ -1143,15 +1143,15 @@
        "date": "2026-07-17"
       },
       {
-       "h": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vti-cheaper-used-whats-catch-013245650.html",
+       "h": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/missed-sandisks-580-rally-3-053000590.html",
        "date": "2026-07-18"
       },
       {
-       "h": "Why Sweetgreen Stock Surged Today",
+       "h": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-sweetgreen-stock-surged-today-003609820.html",
+       "link": "https://finance.yahoo.com/energy/articles/occidental-petroleum-cut-capital-spending-050500229.html",
        "date": "2026-07-18"
       }
      ]
@@ -9190,6 +9190,12 @@
      ],
      "news": [
       {
+       "h": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geospatial Intelligence Partner?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-quietly-repositioning-031605447.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Q1 Earnings Recap: Planet Labs (NYSE:PL) Tops Data & Business Process Services Stocks",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q1-earnings-recap-planet-labs-204146971.html",
@@ -9200,12 +9206,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-vs-satellogic-earth-175200274.html",
        "date": "2026-07-17"
-      },
-      {
-       "h": "Why Rocket Lab (RKLB) Shares Are Plunging Today",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-220922136.html",
-       "date": "2026-07-16"
       }
      ],
      "awards": [
@@ -17824,17 +17824,38 @@
  ],
  "news": [
   {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile Nears Commercial Launch: Is It Time To Buy The Dip?",
+   "tk": "NVDA",
+   "h": "Missed Out on Sandisk's 580% Rally? Here Are 3 Chip Stocks You Can Buy Now.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-nears-commercial-launch-023500938.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/missed-sandisks-580-rally-3-053000590.html",
    "date": "2026-07-18"
   },
   {
    "tk": "NVDA",
-   "h": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vti-cheaper-used-whats-catch-013245650.html",
+   "h": "Occidental Petroleum Cut Its Capital Spending by 8% for 2026. Should the Oil Giant Rethink Its Plans with Crude Prices Now Up 30%?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/occidental-petroleum-cut-capital-spending-050500229.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Some of Berkshire's Newest Bets Aren't American. Greg Abel Bought 3 Japanese Trading Houses Last Quarter.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshires-newest-bets-arent-american-043900876.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "PL",
+   "h": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geospatial Intelligence Partner?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-quietly-repositioning-031605447.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST SpaceMobile Nears Commercial Launch: Is It Time To Buy The Dip?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-nears-commercial-launch-023500938.html",
    "date": "2026-07-18"
   },
   {
@@ -17849,20 +17870,6 @@
    "h": "Does \u2018token shock\u2019 hurt AI adoption?",
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/technology/ai/articles/does-token-shock-hurt-ai-012210452.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Sweetgreen Stock Surged Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-sweetgreen-stock-surged-today-003609820.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why StubHub Stock Plummeted by 13% This Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-stubhub-stock-plummeted-13-002348867.html",
    "date": "2026-07-18"
   },
   {
@@ -18095,14 +18102,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martins-missile-defense-business-181800856.html",
    "date": "2026-07-17"
-  },
-  {
-   "tk": "SMR",
-   "h": "NuScale Power (SMR) Faces More Cautious Sentiment, Is 92% Undervalued Enough?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-faces-more-181216415.html",
-   "date": "2026-07-17"
   }
  ],
- "prices_asof": "2026-07-18 02:49 UTC"
+ "prices_asof": "2026-07-18 06:08 UTC"
 }
