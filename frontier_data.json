@@ -1138,15 +1138,15 @@
        "date": "2026-07-17"
       },
       {
-       "h": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
+       "h": "SpaceX's Unlucky Flight 13 Fails to Launch Starship. Can the Stock Survive Yet Another Delay?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-scores-big-japan-090000711.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-unlucky-flight-13-fails-104001049.html",
        "date": "2026-07-18"
       },
       {
-       "h": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
+       "h": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-posted-best-second-083300706.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-said-nvidia-first-103500990.html",
        "date": "2026-07-18"
       }
      ]
@@ -10949,6 +10949,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "L3Harris (LHX) Lands 18 Space Force Satellites And New Army Orders",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-18-space-101016313.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
@@ -10959,12 +10965,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-post-q2-earnings-165200163.html",
        "date": "2026-07-16"
-      },
-      {
-       "h": "Top Analyst Reports for NVIDIA, Oracle & Analog Device",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-nvidia-oracle-202800143.html",
-       "date": "2026-07-15"
       }
      ],
      "awards": [
@@ -14789,15 +14789,15 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
-       "pub": "Power Technology",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
-       "date": "2026-07-16"
-      },
-      {
        "h": "NextEra and Dominion seek regulatory approval for proposed merger",
        "pub": "Energy Monitor",
        "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
+       "date": "2026-07-16"
+      },
+      {
+       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
+       "pub": "Power Technology",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
        "date": "2026-07-16"
       }
      ],
@@ -17834,6 +17834,34 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "SpaceX's Unlucky Flight 13 Fails to Launch Starship. Can the Stock Survive Yet Another Delay?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-unlucky-flight-13-fails-104001049.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Jensen Huang Said Nvidia Will Be the First Customer for HBM4. Here's the AI Memory Stock That Has Reportedly Locked Up 70% of Those Orders.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-said-nvidia-first-103500990.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Can Starbucks Continue Obliterating Dutch Bros in the Second Half?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-continue-obliterating-dutch-bros-103500901.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris (LHX) Lands 18 Space Force Satellites And New Army Orders",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-18-space-101016313.html",
+   "date": "2026-07-18"
+  },
+  {
    "tk": "RKLB",
    "h": "Rocket Lab (RKLB) Expands Launch Infrastructure To Support More Frequent Missions",
    "pub": "Simply Wall St.",
@@ -17848,31 +17876,10 @@
    "date": "2026-07-18"
   },
   {
-   "tk": "NVDA",
-   "h": "Jensen Huang Scores Big in Japan -- Here's How to Follow the Nvidia CEO's Lead as the Country Transforms Into a $124 Billion AI Hub",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-scores-big-japan-090000711.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-posted-best-second-083300706.html",
-   "date": "2026-07-18"
-  },
-  {
    "tk": "TSLA",
    "h": "Tesla Just Posted Its Best Second Quarter Deliveries Ever. Here's the 1 Number That Will Actually Move the Stock on July 22.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-just-posted-best-second-083300706.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "SpaceX Stock vs. Micron Stock: Buy One and Sell the Other, According to Certain Wall Street Analysts",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-vs-micron-stock-083200966.html",
    "date": "2026-07-18"
   },
   {
@@ -18105,14 +18112,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/joby-archer-ehang-down-40-191606684.html",
    "date": "2026-07-17"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Will Baidu\u2019s Hong Kong Dual-Primary Listing and Apple AI Deal Change Baidu's (BIDU) Narrative",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-hong-kong-dual-primary-191022219.html",
-   "date": "2026-07-17"
   }
  ],
- "prices_asof": "2026-07-18 09:37 UTC"
+ "prices_asof": "2026-07-18 11:07 UTC"
 }
