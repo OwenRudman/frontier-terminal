@@ -1138,15 +1138,15 @@
        "date": "2026-07-18"
       },
       {
-       "h": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
+       "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
        "date": "2026-07-18"
       },
       {
-       "h": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500",
+       "h": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/2-vanguard-etfs-using-momentum-185000443.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/watch-eli-lilly-novo-nordisk-200500618.html",
        "date": "2026-07-18"
       }
      ]
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html",
@@ -1783,12 +1789,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slipped-35-peak-080500365.html",
        "date": "2026-07-18"
-      },
-      {
-       "h": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/joby-archer-ehang-down-40-191606684.html",
-       "date": "2026-07-17"
       }
      ],
      "awards": [
@@ -2734,6 +2734,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "AeroVironment CEO Wahid Nawabi Sells 5,246 Shares for Tax Withholding. What Investors Need to Know.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-ceo-wahid-nawabi-sells-195349878.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "3 Drone Defense Stocks to Buy in July",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-drone-defense-stocks-buy-130034592.html",
@@ -2743,12 +2749,6 @@
        "h": "AVAV Stock Has Slumped Over 40% YTD \u2014 Why sell-side Thinks This Beaten-Down Drone Stock Can Soar 49%",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-slumped-over-40-171703348.html",
-       "date": "2026-07-16"
-      },
-      {
-       "h": "1 of Wall Street\u2019s Favorite Stocks for Long-Term Investors and 2 Facing Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-140922364.html",
        "date": "2026-07-16"
       }
      ],
@@ -5866,21 +5866,21 @@
      },
      "news": [
       {
-       "h": "Yahoo Finance test drives Mercedes-Benz's new luxury EV, the CLA 250+",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/yahoo-finance-test-drives-mercedes-benzs-new-luxury-ev-the-cla-250-203949728.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "SpaceX stock closes at lows after first test flight since IPO scrubbed",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-closes-at-lows-after-first-test-flight-since-ipo-scrubbed-140052308.html",
-       "date": "2026-07-16"
-      },
-      {
-       "h": "Dow sell-side Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+       "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+       "date": "2026-07-18"
+      },
+      {
+       "h": "Tesla face 3 major headwinds heading into earnings report",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-face-3-major-headwinds-151700908.html",
+       "date": "2026-07-18"
+      },
+      {
+       "h": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tesla-poised-12-143027428.html",
        "date": "2026-07-18"
       }
      ],
@@ -5954,6 +5954,12 @@
      },
      "news": [
       {
+       "h": "Dara Khosrowshahi Says $14.8 Billion Delivery Hero Deal Will Double Uber's Mobility, Delivery Markets",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-says-14-8-180138489.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Does \u2018token shock\u2019 hurt AI adoption?",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/does-token-shock-hurt-ai-012210452.html",
@@ -5963,12 +5969,6 @@
        "h": "Why Is Lucid (LCID) Stock Rocketing Higher Today",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-lucid-lcid-stock-rocketing-231346668.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "Auto & Transport Roundup: Market Talk",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/articles/auto-transport-roundup-market-talk-956efe24?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-17"
       }
      ],
@@ -7108,16 +7108,16 @@
        "date": "2026-07-18"
       },
       {
-       "h": "Semiconductor stocks trim losses as investors buy the dip",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-trim-losses-as-investors-buy-the-dip-130920103.html",
-       "date": "2026-07-17"
-      },
-      {
        "h": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
        "date": "2026-07-18"
+      },
+      {
+       "h": "Qualcomm (QCOM) Slips 2% After GF Securities Starts Coverage With Hold Rating",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-slips-2-gf-200026317.html",
+       "date": "2026-07-17"
       }
      ],
      "awards": [
@@ -9696,6 +9696,12 @@
      },
      "news": [
       {
+       "h": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-sell-ast-140002785.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
@@ -9706,12 +9712,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-nears-commercial-launch-023500938.html",
        "date": "2026-07-18"
-      },
-      {
-       "h": "Why AST SpaceMobile Stock Raced Higher Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ast-spacemobile-stock-raced-211708449.html",
-       "date": "2026-07-17"
       }
      ]
     },
@@ -10770,6 +10770,12 @@
      },
      "news": [
       {
+       "h": "United (UAL) Joins Push For $20 Billion Air Traffic Control Upgrade",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/united-ual-joins-push-20-190738956.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Boeing Comes to Air Show Carrying Weight of Trump\u2019s Influence",
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-comes-air-show-carrying-120000385.html",
@@ -10780,12 +10786,6 @@
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/economy/policy/articles/boeing-airbus-major-airlines-push-104525130.html",
        "date": "2026-07-18"
-      },
-      {
-       "h": "Boeing Targets 100-Jet SMBC Deal as Airbus Battles for Major Order",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-targets-100-jet-smbc-200219207.html",
-       "date": "2026-07-17"
       }
      ],
      "awards": [
@@ -11225,6 +11225,12 @@
      },
      "news": [
       {
+       "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
+       "date": "2026-07-18"
+      },
+      {
        "h": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html",
@@ -11235,12 +11241,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slipped-35-peak-080500365.html",
        "date": "2026-07-18"
-      },
-      {
-       "h": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/joby-archer-ehang-down-40-191606684.html",
-       "date": "2026-07-17"
       }
      ],
      "awards": [
@@ -14090,9 +14090,9 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+       "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
        "date": "2026-07-18"
       },
       {
@@ -14795,9 +14795,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
-       "pub": "Power Technology",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
+       "h": "NextEra and Dominion seek regulatory approval for proposed merger",
+       "pub": "Energy Monitor",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
        "date": "2026-07-16"
       }
      ],
@@ -17834,14 +17834,63 @@
  ],
  "news": [
   {
-   "tk": "LEU",
-   "h": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
+   "tk": "NVDA",
+   "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "PLTR",
+   "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
    "date": "2026-07-18"
   },
   {
    "tk": "NVDA",
+   "h": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/watch-eli-lilly-novo-nordisk-200500618.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "AVAV",
+   "h": "AeroVironment CEO Wahid Nawabi Sells 5,246 Shares for Tax Withholding. What Investors Need to Know.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-ceo-wahid-nawabi-sells-195349878.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Meta Platforms Is Up 21% This Month, and Here Is What's Driving the Surge",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-21-month-whats-195000181.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "GEV",
+   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "BA",
+   "h": "United (UAL) Joins Push For $20 Billion Air Traffic Control Upgrade",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/united-ual-joins-push-20-190738956.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "LEU",
    "h": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
@@ -17855,31 +17904,10 @@
    "date": "2026-07-18"
   },
   {
-   "tk": "NVDA",
-   "h": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-vanguard-etfs-using-momentum-185000443.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Investing Legend John Templeton Has a Warning for Micron and SK Hynix Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investing-legend-john-templeton-warning-182000356.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "GEV",
-   "h": "Dow sell-side Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-amd-ai-stock-sell-off/?src=A00220&yptr=yahoo",
+   "tk": "UBER",
+   "h": "Dara Khosrowshahi Says $14.8 Billion Delivery Hero Deal Will Double Uber's Mobility, Delivery Markets",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-says-14-8-180138489.html",
    "date": "2026-07-18"
   },
   {
@@ -17925,6 +17953,13 @@
    "date": "2026-07-18"
   },
   {
+   "tk": "TSLA",
+   "h": "Price Prediction: Tesla Poised for 12% Rally as Profit Margins Improve",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-tesla-poised-12-143027428.html",
+   "date": "2026-07-18"
+  },
+  {
    "tk": "IRDM",
    "h": "Can Iridium Communications (IRDM) Stay Below Fair Value After New Growth Moves?",
    "pub": "Simply Wall St.",
@@ -17943,6 +17978,13 @@
    "h": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "ASTS",
+   "h": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-sell-ast-140002785.html",
    "date": "2026-07-18"
   },
   {
@@ -17999,6 +18041,13 @@
    "h": "NextEra Energy Plans to Spend $59 Billion in Annual Capex Through 2032. Will This Massive Capital Outlay Pay Dividends for Shareholders?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/nextera-energy-plans-spend-59-123500670.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "TSLA",
+   "h": "XPeng\u2019s New SUV Launch Reveals Bigger Tesla Challenge With Level 4 Autonomy and In-House AI Foundation Model Planned By 2028: Report",
+   "pub": "Benzinga",
+   "link": "https://autos.yahoo.com/ev-and-future-tech/articles/xpeng-suv-launch-reveals-bigger-120108617.html",
    "date": "2026-07-18"
   },
   {
@@ -18063,56 +18112,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slipped-35-peak-080500365.html",
    "date": "2026-07-18"
-  },
-  {
-   "tk": "ASTS",
-   "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "LHX",
-   "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "RKLB",
-   "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "PL",
-   "h": "Planet Labs (PL) Stock Looks Strong On Returns Yet Rich On Sales",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-stock-looks-061114889.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "SLS",
-   "h": "SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-group-sls-060947838.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "PL",
-   "h": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geospatial Intelligence Partner?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-quietly-repositioning-031605447.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile Nears Commercial Launch: Is It Time To Buy The Dip?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-nears-commercial-launch-023500938.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-18 19:11 UTC"
+ "prices_asof": "2026-07-18 20:55 UTC"
 }
