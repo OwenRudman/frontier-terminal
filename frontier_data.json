@@ -1138,16 +1138,16 @@
        "date": "2026-07-18"
       },
       {
-       "h": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
+       "h": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-jeremy-grantham-calls-222000004.html",
-       "date": "2026-07-18"
+       "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-chip-stock-id-030700542.html",
+       "date": "2026-07-19"
       },
       {
-       "h": "3 AI Stocks That Can Outperform Nvidia Next Year",
+       "h": "SpaceX Stock Just Quietly Fell to $124 a Share -- and It's Still Not a Buy",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
-       "date": "2026-07-18"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-just-quietly-fell-023400040.html",
+       "date": "2026-07-19"
       }
      ]
     },
@@ -5866,21 +5866,21 @@
      },
      "news": [
       {
-       "h": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
-       "date": "2026-07-18"
-      },
-      {
-       "h": "Bank of America revamps Tesla forecast before earnings",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
-       "date": "2026-07-18"
-      },
-      {
        "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+       "date": "2026-07-19"
+      },
+      {
+       "h": "TSLY Investors Are Missing Tesla\u2019s Rally: How Option Income Strategy Costs You 30% in Upside",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/options/articles/tsly-investors-missing-tesla-rally-004800261.html",
+       "date": "2026-07-19"
+      },
+      {
+       "h": "Tesla stock: How much does an improved auto business matter?",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-much-does-improved-234420878.html",
        "date": "2026-07-18"
       }
      ],
@@ -14093,7 +14093,7 @@
        "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-       "date": "2026-07-18"
+       "date": "2026-07-19"
       },
       {
        "h": "GE Aerospace Faces a Prove-It Moment in Q2 Earnings",
@@ -14795,9 +14795,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
-       "pub": "Power Technology",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
+       "h": "NextEra and Dominion seek regulatory approval for proposed merger",
+       "pub": "Energy Monitor",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
        "date": "2026-07-16"
       }
      ],
@@ -17835,9 +17835,58 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
+   "h": "The 1 AI Chip Stock I'd Buy Hand Over Fist in This Sell-Off -- and It Isn't Nvidia.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/billionaire-investor-jeremy-grantham-calls-222000004.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-chip-stock-id-030700542.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Stock Just Quietly Fell to $124 a Share -- and It's Still Not a Buy",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-just-quietly-fell-023400040.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "South Korean stocks emerge as key gauge for global AI sentiment",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/south-korean-stocks-emerge-key-022758936.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "GEV",
+   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLY Investors Are Missing Tesla\u2019s Rally: How Option Income Strategy Costs You 30% in Upside",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/options/articles/tsly-investors-missing-tesla-rally-004800261.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla stock: How much does an improved auto business matter?",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-much-does-improved-234420878.html",
+   "date": "2026-07-18"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Which \"Magnificent Seven\" Stock Has the Best Risk/Reward Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stock-best-risk-232500897.html",
    "date": "2026-07-18"
   },
   {
@@ -17848,38 +17897,10 @@
    "date": "2026-07-18"
   },
   {
-   "tk": "NVDA",
-   "h": "3 AI Stocks That Can Outperform Nvidia Next Year",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-outperform-nvidia-215600814.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Pok\u00e9mon Cards Beat the S&P 500 by 2.5x, But the Math Is a Lie",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pok-mon-cards-beat-p-214500876.html",
-   "date": "2026-07-18"
-  },
-  {
    "tk": "SLS",
    "h": "Will Near-Complete REGAL Phase 3 GPS Data and New Executive Terms Change SELLAS Life Sciences Group's (SLS) Narrative",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/healthcare/articles/near-complete-regal-phase-3-210808813.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Bank of America revamps Tesla forecast before earnings",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-tesla-forecast-210600094.html",
    "date": "2026-07-18"
   },
   {
@@ -17894,20 +17915,6 @@
    "h": "AeroVironment CEO Wahid Nawabi Sells 5,246 Shares for Tax Withholding. What Investors Need to Know.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-ceo-wahid-nawabi-sells-195349878.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "GEV",
-   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
    "date": "2026-07-18"
   },
   {
@@ -17943,13 +17950,6 @@
    "h": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla face 3 major headwinds heading into earnings report",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-face-3-major-headwinds-151700908.html",
    "date": "2026-07-18"
   },
   {
@@ -18114,5 +18114,5 @@
    "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-18 22:55 UTC"
+ "prices_asof": "2026-07-19 03:20 UTC"
 }
