@@ -1143,15 +1143,15 @@
        "date": "2026-07-19"
       },
       {
-       "h": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?",
+       "h": "AI Expectations Hit a Fever Pitch",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/alphabets-gemini-3-5-pro-204300449.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html",
        "date": "2026-07-19"
       },
       {
-       "h": "Cathie Wood Is Selling This High-Flying Stock. Is It a Buy?",
+       "h": "Cathie Wood Is Loading Up on This GLP-1 Stock That Has Soared 1,600% Over the Past 10 Years",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-high-flying-203200378.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/cathie-wood-loading-glp-1-222000380.html",
        "date": "2026-07-19"
       }
      ]
@@ -5898,9 +5898,9 @@
        "date": "2026-07-19"
       },
       {
-       "h": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-remains-one-192500823.html",
+       "h": "Dow sell-side Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
        "date": "2026-07-19"
       }
      ],
@@ -10599,6 +10599,12 @@
      ],
      "news": [
       {
+       "h": "AI Expectations Hit a Fever Pitch",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "Nancy Pelosi Slams Trump, GOP Budget as 'America Last' Plan, Says Republicans Spend $73 Billion on 'Endless Wars'",
        "pub": "Benzinga",
        "link": "https://www.yahoo.com/news/politics/articles/nancy-pelosi-slams-trump-gop-133043290.html",
@@ -10609,12 +10615,6 @@
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/ukraine-strikes-wildberries-warehouses-deep-055309312.html",
        "date": "2026-07-19"
-      },
-      {
-       "h": "SpaceX Aborts Starship Test Flight 13 After Engine Failure, Completes SDA Mission",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-starship-flight-13-starlink-sda-mission-launch-satellites-falcon-9-spcx-stock/?src=A00220&yptr=yahoo",
-       "date": "2026-07-17"
       }
      ],
      "awards": [
@@ -14131,7 +14131,7 @@
        "date": "2026-07-19"
       },
       {
-       "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+       "h": "Dow sell-side Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
        "date": "2026-07-19"
@@ -17879,24 +17879,52 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Alphabet's Gemini 3.5 Pro Is Late and the Stock Is Slipping. Is the AI Leader Falling Behind?",
+   "tk": "GEV",
+   "h": "Dow sell-side Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures Fall, Oil Prices Jump As U.S.-Iran Attacks Escalate; Google, Tesla Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "LMT",
+   "h": "AI Expectations Hit a Fever Pitch",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/alphabets-gemini-3-5-pro-204300449.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html",
    "date": "2026-07-19"
   },
   {
    "tk": "NVDA",
-   "h": "Cathie Wood Is Selling This High-Flying Stock. Is It a Buy?",
+   "h": "AI Expectations Hit a Fever Pitch",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-high-flying-203200378.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html",
    "date": "2026-07-19"
   },
   {
    "tk": "NVDA",
-   "h": "My 2 Favorite Dividend Kings to Buy Right Now",
+   "h": "Cathie Wood Is Loading Up on This GLP-1 Stock That Has Soared 1,600% Over the Past 10 Years",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-favorite-dividend-kings-buy-202000869.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/cathie-wood-loading-glp-1-222000380.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX's IPO Lockup Starts Expiring in August. Here's Why the Next Wave of Sellers Could Be the Real Test.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-lockup-starts-expiring-215100223.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Mercedes Benz (XTRA:MBG) Unveils CLA 250 Plus To Take On Tesla Model 3",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mercedes-benz-xtra-mbg-unveils-210728470.html",
    "date": "2026-07-19"
   },
   {
@@ -17911,13 +17939,6 @@
    "h": "Utility ETFs Soar 8% YTD on AI Power Demand. Here\u2019s Which One to Buy",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/utility-etfs-soar-8-ytd-195846799.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's Tesla Remains One of the Last Great Founder-Led Tech Giants. Is the Stock a Buy Before July 22?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-remains-one-192500823.html",
    "date": "2026-07-19"
   },
   {
@@ -17939,13 +17960,6 @@
    "h": "Uber (UBER) Expands Uber Eats Retail Reach With Foot Locker And 1,000 Stores",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-expands-uber-eats-190659428.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Jobs, GM, Tesla, Alphabet, Intel, Verizon, and More to Watch This Week",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/jobs-gm-tesla-alphabet-intel-verizon-and-more-to-watch-this-week-3dd9de07?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-19"
   },
   {
@@ -17974,13 +17988,6 @@
    "h": "TechCrunch Mobility: The battle over robotaxi rules",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/ai/articles/techcrunch-mobility-battle-over-robotaxi-160500259.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "GEV",
-   "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
    "date": "2026-07-19"
   },
   {
@@ -18150,14 +18157,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-down-46-screaming-190500883.html",
    "date": "2026-07-18"
-  },
-  {
-   "tk": "UBER",
-   "h": "Dara Khosrowshahi Says $14.8 Billion Delivery Hero Deal Will Double Uber's Mobility, Delivery Markets",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-says-14-8-180138489.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-19 20:56 UTC"
+ "prices_asof": "2026-07-19 22:57 UTC"
 }
