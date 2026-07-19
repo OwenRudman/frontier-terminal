@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "This week's AI winners and losers",
+       "h": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
-       "date": "2026-07-18"
-      },
-      {
-       "h": "The Stock Market Is Doing Something Observed Only 3 Times in 155 Years -- 1999, 2022, and 2026 -- and It Offers a Dire Warning for Wall Street",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-observed-105600435.html",
+       "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
        "date": "2026-07-19"
       },
       {
-       "h": "4 Cryptocurrencies Poised to Deliver Huge Gains, According to Standard Chartered",
+       "h": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/4-cryptocurrencies-poised-deliver-huge-105000036.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-passed-nvidia-top-130100471.html",
+       "date": "2026-07-19"
+      },
+      {
+       "h": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-spacex-stock-nasdaq-100-125000443.html",
        "date": "2026-07-19"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
+       "pub": "Benzinga",
+       "link": "https://tech.yahoo.com/ai/articles/mira-murati-unveils-open-weight-104531804.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-taiwan-semiconductor-asml-show-080000902.html",
@@ -1792,12 +1798,6 @@
        "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
-       "date": "2026-07-18"
-      },
-      {
-       "h": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html",
        "date": "2026-07-18"
       }
      ],
@@ -5886,21 +5886,21 @@
      },
      "news": [
       {
-       "h": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/even-tesla-under-400-id-092500352.html",
+       "h": "Big Tech earnings test tech's big rotation: What to watch this week",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
        "date": "2026-07-19"
       },
       {
-       "h": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-biggest-bargain-magnificent-seven-092000684.html",
-       "date": "2026-07-19"
-      },
-      {
-       "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+       "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+       "date": "2026-07-19"
+      },
+      {
+       "h": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-magnificent-seven-stocks-im-122500026.html",
        "date": "2026-07-19"
       }
      ],
@@ -7132,12 +7132,6 @@
      },
      "news": [
       {
-       "h": "This week's AI winners and losers",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
-       "date": "2026-07-18"
-      },
-      {
        "h": "Price Prediction: Qualcomm Has Over 50% Upside as AI Data Center Push Accelerates",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-qualcomm-over-50-163021342.html",
@@ -7147,6 +7141,12 @@
        "h": "Micron Is Signing Deals in the Automotive Space. What That Means for MU Stock Here.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-signing-deals-automotive-space-151502547.html",
+       "date": "2026-07-18"
+      },
+      {
+       "h": "This week's AI winners and losers",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
        "date": "2026-07-18"
       }
      ],
@@ -11265,6 +11265,12 @@
      },
      "news": [
       {
+       "h": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
+       "pub": "Benzinga",
+       "link": "https://tech.yahoo.com/ai/articles/mira-murati-unveils-open-weight-104531804.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "Earnings From Taiwan Semiconductor and ASML Show Soaring Demand, So Why Are AI Stocks Falling? (And Here's What Investors Should Do Next.)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-taiwan-semiconductor-asml-show-080000902.html",
@@ -11274,12 +11280,6 @@
        "h": "What Do SpaceX, AMD, and Palantir Have in Common?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-amd-palantir-common-203300719.html",
-       "date": "2026-07-18"
-      },
-      {
-       "h": "Palantir (NasdaqGS:PLTR) Teams Up With Nvidia On Sovereign AI For Governments",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nasdaqgs-pltr-teams-nvidia-140914270.html",
        "date": "2026-07-18"
       }
      ],
@@ -13155,6 +13155,12 @@
      },
      "news": [
       {
+       "h": "Is ASP Isotopes' (ASPI) New Shelf Registration Quietly Reframing Its Long-Term Capital Strategy?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asp-isotopes-aspi-shelf-registration-121657486.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "ASP Isotopes (ASPI) Files A Shelf Registration, Is The Stock Now Too Expensive?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asp-isotopes-aspi-files-shelf-080749408.html",
@@ -13165,12 +13171,6 @@
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-180819627.html",
        "date": "2026-07-16"
-      },
-      {
-       "h": "CRML, UUUU, ASPI, USAR In Focus: Report Questions Trump, Lutnick Family Ties To Government-Backed Critical Metal Projects",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/crml-uuuu-aspi-usar-focus-091454555.html",
-       "date": "2026-06-29"
       }
      ]
     },
@@ -14125,7 +14125,13 @@
      "social": null,
      "news": [
       {
-       "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
+       "h": "Big Tech earnings test tech's big rotation: What to watch this week",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+       "date": "2026-07-19"
+      },
+      {
+       "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
        "date": "2026-07-19"
@@ -14135,12 +14141,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-faces-prove-moment-145500340.html",
        "date": "2026-07-17"
-      },
-      {
-       "h": "Why Wall Street Thinks GE Vernova (GEV) Is Built for the Next Energy Cycle",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/energy/articles/why-wall-street-thinks-ge-184148387.html",
-       "date": "2026-07-16"
       }
      ],
      "awards": [
@@ -14840,9 +14840,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra and Dominion seek regulatory approval for proposed merger",
-       "pub": "Energy Monitor",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
+       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
+       "pub": "Power Technology",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
        "date": "2026-07-16"
       }
      ],
@@ -17879,38 +17879,87 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "The Stock Market Is Doing Something Observed Only 3 Times in 155 Years -- 1999, 2022, and 2026 -- and It Offers a Dire Warning for Wall Street",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-doing-something-observed-105600435.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "4 Cryptocurrencies Poised to Deliver Huge Gains, According to Standard Chartered",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/4-cryptocurrencies-poised-deliver-huge-105000036.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "5 Stocks Poised to Outperform With Their Best Growth Still Ahead",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-poised-outperform-best-104400880.html",
+   "tk": "GEV",
+   "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
    "date": "2026-07-19"
   },
   {
    "tk": "TSLA",
-   "h": "Even With Tesla Under $400, I'd Still Rather Buy This Unstoppable Growth Stock in July",
+   "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/even-tesla-under-400-id-092500352.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-passed-nvidia-top-130100471.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-spacex-stock-nasdaq-100-125000443.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Warren Buffett Is Behind Berkshire Hathaway's Massive Alphabet Investment. Here's What He Likes About the Company.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-behind-berkshire-hathaways-125000156.html",
    "date": "2026-07-19"
   },
   {
    "tk": "TSLA",
-   "h": "The 3 Biggest Bargain \"Magnificent Seven\" Stocks to Buy Today",
+   "h": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-biggest-bargain-magnificent-seven-092000684.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-magnificent-seven-stocks-im-122500026.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "GEV",
+   "h": "Big Tech earnings test tech's big rotation: What to watch this week",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Big Tech earnings test tech's big rotation: What to watch this week",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "ASPI",
+   "h": "Is ASP Isotopes' (ASPI) New Shelf Registration Quietly Reframing Its Long-Term Capital Strategy?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asp-isotopes-aspi-shelf-registration-121657486.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
+   "pub": "Investopedia",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-alphabet-tesla-110000980.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Mira Murati Unveils Open-Weight AI Model as Alex Karp, Satya Nadella Warn Companies Are Giving Away Their IP",
+   "pub": "Benzinga",
+   "link": "https://tech.yahoo.com/ai/articles/mira-murati-unveils-open-weight-104531804.html",
    "date": "2026-07-19"
   },
   {
@@ -17960,27 +18009,6 @@
    "h": "AeroVironment (AVAV) Wins Italian JUMP 20 Designation And German Drone Contracts",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-wins-italian-jump-031610992.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "GEV",
-   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLY Investors Are Missing Tesla\u2019s Rally: How Option Income Strategy Costs You 30% in Upside",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/options/articles/tsly-investors-missing-tesla-rally-004800261.html",
    "date": "2026-07-19"
   },
   {
@@ -18110,13 +18138,6 @@
    "date": "2026-07-18"
   },
   {
-   "tk": "NVDA",
-   "h": "This week's AI winners and losers",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/this-weeks-ai-winners-and-losers-131654035.html",
-   "date": "2026-07-18"
-  },
-  {
    "tk": "QCOM",
    "h": "This week's AI winners and losers",
    "pub": "Yahoo Finance",
@@ -18136,28 +18157,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-drone-defense-stocks-buy-130034592.html",
    "date": "2026-07-18"
-  },
-  {
-   "tk": "KTOS",
-   "h": "3 Drone Defense Stocks to Buy in July",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-drone-defense-stocks-buy-130034592.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "RCAT",
-   "h": "3 Drone Defense Stocks to Buy in July",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-drone-defense-stocks-buy-130034592.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "D",
-   "h": "NextEra Energy Plans to Spend $59 Billion in Annual Capex Through 2032. Will This Massive Capital Outlay Pay Dividends for Shareholders?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-plans-spend-59-123500670.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-19 11:12 UTC"
+ "prices_asof": "2026-07-19 13:26 UTC"
 }
