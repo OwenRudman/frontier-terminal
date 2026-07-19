@@ -1143,15 +1143,15 @@
        "date": "2026-07-19"
       },
       {
-       "h": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
+       "h": "3 ETFs That Could Build a Complete Investment Portfolio",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-passed-nvidia-top-130100471.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-could-build-complete-145000042.html",
        "date": "2026-07-19"
       },
       {
-       "h": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
+       "h": "Interactive Brokers Grew Its Customer Accounts 34% in a Year. Here's the Bull Case Before Q2 Earnings.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-spacex-stock-nasdaq-100-125000443.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-grew-customer-accounts-143500753.html",
        "date": "2026-07-19"
       }
      ]
@@ -5886,6 +5886,12 @@
      },
      "news": [
       {
+       "h": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/the-mercedes-cla-250-is-a-more-luxurious-model-3--at-a-surprisingly-good-price-review-143237482.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "Big Tech earnings test tech's big rotation: What to watch this week",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/big-tech-earnings-test-techs-big-rotation-what-to-watch-this-week-122359843.html",
@@ -5895,12 +5901,6 @@
        "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-       "date": "2026-07-19"
-      },
-      {
-       "h": "5 \"Magnificent Seven\" Stocks I'm Buying and 2 That I'm Selling",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-magnificent-seven-stocks-im-122500026.html",
        "date": "2026-07-19"
       }
      ],
@@ -10599,6 +10599,12 @@
      ],
      "news": [
       {
+       "h": "Nancy Pelosi Slams Trump, GOP Budget as 'America Last' Plan, Says Republicans Spend $73 Billion on 'Endless Wars'",
+       "pub": "Benzinga",
+       "link": "https://www.yahoo.com/news/politics/articles/nancy-pelosi-slams-trump-gop-133043290.html",
+       "date": "2026-07-19"
+      },
+      {
        "h": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/ukraine-strikes-wildberries-warehouses-deep-055309312.html",
@@ -10608,12 +10614,6 @@
        "h": "SpaceX Aborts Starship Test Flight 13 After Engine Failure, Completes SDA Mission",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/spacex-starship-flight-13-starlink-sda-mission-launch-satellites-falcon-9-spcx-stock/?src=A00220&yptr=yahoo",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "Can Lockheed Martin's Missile Defense Business Power Long-Term Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martins-missile-defense-business-181800856.html",
        "date": "2026-07-17"
       }
      ],
@@ -14840,9 +14840,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
-       "pub": "Power Technology",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
+       "h": "NextEra and Dominion seek regulatory approval for proposed merger",
+       "pub": "Energy Monitor",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
        "date": "2026-07-16"
       }
      ],
@@ -17879,6 +17879,41 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "3 ETFs That Could Build a Complete Investment Portfolio",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-could-build-complete-145000042.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Interactive Brokers Grew Its Customer Accounts 34% in a Year. Here's the Bull Case Before Q2 Earnings.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-grew-customer-accounts-143500753.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Think QQQ Is Concentrated? This Nasdaq ETF Bets Even Harder on Big Tech (And It\u2019s Winning)",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/think-qqq-concentrated-nasdaq-etf-143237973.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Mercedes CLA 250+ is a more luxurious Model 3 \u2014 at a surprisingly good price: Review",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/the-mercedes-cla-250-is-a-more-luxurious-model-3--at-a-surprisingly-good-price-review-143237482.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "LMT",
+   "h": "Nancy Pelosi Slams Trump, GOP Budget as 'America Last' Plan, Says Republicans Spend $73 Billion on 'Endless Wars'",
+   "pub": "Benzinga",
+   "link": "https://www.yahoo.com/news/politics/articles/nancy-pelosi-slams-trump-gop-133043290.html",
+   "date": "2026-07-19"
+  },
+  {
    "tk": "GEV",
    "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
    "pub": "Investor's Business Daily",
@@ -17890,27 +17925,6 @@
    "h": "Dow sell-side Futures Loom As U.S.-Iran Attacks Escalate; Google, Tesla, AMD Ahead",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-iran-attack-kills-us-troops-google-tesla-amd/?src=A00220&yptr=yahoo",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "AMD Just Passed Nvidia at the Top of a $45 Billion Semiconductor ETF. Micron Is Closing In.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-passed-nvidia-top-130100471.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "How to Invest in SpaceX Stock After Its Nasdaq-100 Debut",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-spacex-stock-nasdaq-100-125000443.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Warren Buffett Is Behind Berkshire Hathaway's Massive Alphabet Investment. Here's What He Likes About the Company.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-behind-berkshire-hathaways-125000156.html",
    "date": "2026-07-19"
   },
   {
@@ -17946,13 +17960,6 @@
    "h": "'Earnings need to be strong': Wall Street assesses next catalyst for AI trade",
    "pub": "Yahoo Finance",
    "link": "https://finance.yahoo.com/markets/article/earnings-need-to-be-strong-wall-street-assesses-next-catalyst-for-ai-trade-120841127.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "What to Expect in Markets This Week: Alphabet, Tesla and Intel Headline Big Tech Earnings Reports",
-   "pub": "Investopedia",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-alphabet-tesla-110000980.html",
    "date": "2026-07-19"
   },
   {
@@ -18150,14 +18157,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/portfolio-lets-cruise-news-unbothered-130047978.html",
    "date": "2026-07-18"
-  },
-  {
-   "tk": "AVAV",
-   "h": "3 Drone Defense Stocks to Buy in July",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-drone-defense-stocks-buy-130034592.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-19 13:26 UTC"
+ "prices_asof": "2026-07-19 15:00 UTC"
 }
