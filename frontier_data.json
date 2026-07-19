@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 154,
-      "up": 11
+      "m": 1,
+      "m0": 3,
+      "rk": 699,
+      "up": 2
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 1,
+      "rk": 61,
+      "up": 8
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 93,
-      "m0": 102,
-      "rk": 9,
-      "up": 460
+      "m": 35,
+      "m0": 93,
+      "rk": 7,
+      "up": 181
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1143,15 @@
        "date": "2026-07-18"
       },
       {
-       "h": "Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?",
+       "h": "Can Nvidia Become a $10 Trillion Stock by 2030?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/down-62-high-ethereum-value-055000901.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-become-10-trillion-stock-074500122.html",
        "date": "2026-07-19"
       },
       {
-       "h": "Warren Buffett Donated $6 Billion in Berkshire Hathaway Shares Recently -- and Cut the Gates Foundation Off for the First Time in 20 Years",
+       "h": "1 Growth Stock to Buy Before the End of July",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-donated-6-billion-052000076.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-buy-end-073500625.html",
        "date": "2026-07-19"
       }
      ]
@@ -1307,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 797,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1585,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 19,
-      "rk": 123,
-      "up": 9
+      "m": 5,
+      "m0": 4,
+      "rk": 48,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -2032,8 +2042,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 386,
-      "up": 2
+      "rk": 311,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2323,10 +2333,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 112,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 217,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -2480,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 5,
-      "rk": 115,
-      "up": 44
+      "m": 2,
+      "m0": 4,
+      "rk": 99,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2830,10 +2840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 157,
-      "up": 12
+      "m": 1,
+      "m0": 3,
+      "rk": 753,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3146,7 +3156,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 1,
+      "rk": 53,
+      "up": 8
+     },
      "thesis": {
       "bull": [
        {
@@ -3730,7 +3745,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 651,
+      "up": 2
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4033,10 +4053,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 16,
-      "rk": 85,
-      "up": 17
+      "m": 8,
+      "m0": 7,
+      "rk": 27,
+      "up": 46
      },
      "thesis": {
       "bull": [
@@ -4385,8 +4405,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 488,
-      "up": 1
+      "rk": 423,
+      "up": 4
      },
      "news": [
       {
@@ -4718,8 +4738,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 754,
-      "up": 3
+      "rk": 691,
+      "up": 1
      },
      "news": [
       {
@@ -5859,10 +5879,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 65,
-      "rk": 19,
-      "up": 102
+      "m": 14,
+      "m0": 44,
+      "rk": 15,
+      "up": 221
      },
      "news": [
       {
@@ -5947,10 +5967,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 120,
-      "up": 16
+      "m": 1,
+      "m0": 4,
+      "rk": 400,
+      "up": 6
      },
      "news": [
       {
@@ -6034,12 +6054,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 459,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Is AI now the main driver of China\u2019s growth?",
@@ -6266,7 +6281,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 749,
+      "up": 4
+     },
      "thesis": {
       "bull": [
        {
@@ -6809,7 +6829,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 734,
+      "up": 2
+     },
      "news": [
       {
        "h": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares?",
@@ -7037,7 +7062,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 780,
+      "up": 1
+     },
      "news": [
       {
        "h": "Earnings Preview: Mobileye Global (MBLY) Q2 Earnings Expected to Decline",
@@ -7096,9 +7126,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 297,
-      "up": 5
+      "m0": 1,
+      "rk": 223,
+      "up": 1
      },
      "news": [
       {
@@ -7182,7 +7212,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 331,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Picks-and-Shovels Stocks Powering the Humanoid Robotics Buildout",
@@ -7366,9 +7401,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 481,
-      "up": 2
+      "m0": 1,
+      "rk": 417,
+      "up": 1
      },
      "news": [
       {
@@ -7426,7 +7461,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 779,
+      "up": 1
+     },
      "news": [
       {
        "h": "Why Symbotic Inc. (SYM) Dipped More Than Broader Market Today",
@@ -7663,7 +7703,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 1,
+      "rk": 64,
+      "up": 26
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7752,10 +7797,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 4,
-      "rk": 44,
-      "up": 24
+      "m": 4,
+      "m0": 16,
+      "rk": 60,
+      "up": 20
      },
      "news": [
       {
@@ -8261,10 +8306,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 46,
-      "m0": 144,
-      "rk": 18,
-      "up": 134
+      "m": 14,
+      "m0": 46,
+      "rk": 16,
+      "up": 193
      },
      "thesis": {
       "bull": [
@@ -8563,9 +8608,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 505,
-      "up": 2
+      "m0": 1,
+      "rk": 441,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8747,9 +8792,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 773,
-      "up": 3
+      "m0": 1,
+      "rk": 706,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -9161,10 +9206,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 7,
-      "rk": 156,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 746,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9260,12 +9305,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 781,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Do BlackSky\u2019s New Gen-3 AI ISR R&D Wins Reframe Its Competitive Edge Story (BKSY)?",
@@ -9510,10 +9550,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 84,
-      "m0": 288,
-      "rk": 11,
-      "up": 283
+      "m": 16,
+      "m0": 84,
+      "rk": 13,
+      "up": 382
      },
      "thesis": {
       "bull": [
@@ -9836,8 +9876,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 445,
-      "up": 1
+      "rk": 378,
+      "up": 4
      },
      "news": [
       {
@@ -10389,12 +10429,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 5,
-      "m0": 14,
-      "rk": 107,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "AST SpaceMobile Stock Sinks as SpaceX Fallout Rattles Space Sector",
@@ -10544,10 +10579,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 99,
-      "up": 19
+      "m": 1,
+      "m0": 5,
+      "rk": 146,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10654,10 +10689,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 112,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 217,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10765,7 +10800,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 213,
+      "rk": 130,
       "up": 1
      },
      "news": [
@@ -10853,8 +10888,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 488,
-      "up": 1
+      "rk": 423,
+      "up": 4
      },
      "news": [
       {
@@ -11038,7 +11073,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 209,
+      "up": 5
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11218,10 +11258,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 19,
-      "rk": 123,
-      "up": 9
+      "m": 5,
+      "m0": 4,
+      "rk": 48,
+      "up": 14
      },
      "news": [
       {
@@ -11309,7 +11349,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 574,
+      "rk": 514,
       "up": 1
      },
      "news": [
@@ -12350,9 +12390,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 525,
-      "up": 3
+      "m0": 1,
+      "rk": 460,
+      "up": 1
      },
      "news": [
       {
@@ -12411,12 +12451,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 750,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "OKLO, XE, SMR, NNE, UEC Stocks Tumble On Thursday: AI Made Nuclear Stocks Market Darlings \u2013 Now Investors Want Proof",
@@ -12476,8 +12511,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 742,
+      "m0": 1,
+      "rk": 682,
       "up": 1
      },
      "news": [
@@ -12553,8 +12588,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 461,
+      "m0": 1,
+      "rk": 394,
       "up": 1
      },
      "news": [
@@ -12614,7 +12649,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 788,
+      "up": 1
+     },
      "news": [
       {
        "h": "Why Uranium Energy Stock Popped Today",
@@ -12673,10 +12713,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 119,
-      "up": 14
+      "m": 1,
+      "m0": 4,
+      "rk": 393,
+      "up": 1
      },
      "news": [
       {
@@ -12756,10 +12796,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 4,
-      "rk": 50,
-      "up": 56
+      "m": 36,
+      "m0": 13,
+      "rk": 6,
+      "up": 96
      },
      "news": [
       {
@@ -13029,12 +13069,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 755,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "This Nuclear Stock Is Down 46%, and It's a Screaming Buy",
@@ -13112,7 +13147,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 785,
+      "up": 1
+     },
      "news": [
       {
        "h": "ASP Isotopes (ASPI) Files A Shelf Registration, Is The Stock Now Too Expensive?",
@@ -13355,10 +13395,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 16,
-      "rk": 52,
-      "up": 115
+      "m": 4,
+      "m0": 13,
+      "rk": 63,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -13596,10 +13636,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 80,
-      "up": 19
+      "m": 3,
+      "m0": 8,
+      "rk": 82,
+      "up": 5
      },
      "news": [
       {
@@ -14009,10 +14049,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 176,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 346,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -14082,12 +14122,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 98,
-      "up": 8
-     },
+     "social": null,
      "news": [
       {
        "h": "Dow sell-side Futures: Iran Attack Kills Two U.S. Troops; Google, Tesla, AMD Ahead",
@@ -14253,7 +14288,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 455,
+      "up": 1
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14544,7 +14584,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 81,
+      "up": 8
+     },
      "news": [
       {
        "h": "Bloom Energy vs. Constellation Energy: Which Industrials Stock Is a Better Buy in 2026?",
@@ -14630,7 +14675,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 409,
+      "rk": 339,
       "up": 1
      },
      "news": [
@@ -14866,10 +14911,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 324,
+      "rk": 249,
       "up": 6
      },
      "news": [
+      {
+       "h": "Duke Energy (DUK) Stock Could Be 29% Overvalued After Rate Case Pushback",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-070854788.html",
+       "date": "2026-07-19"
+      },
       {
        "h": "The Portfolio That Lets You Cruise Through the News, Unbothered",
        "pub": "24/7 Wall St.",
@@ -14880,12 +14931,6 @@
        "h": "Can NRG's Expanding Generation Fleet Drive Long-Term Growth?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/nrgs-expanding-generation-fleet-drive-171600036.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "Can a Conservative Portfolio Really Generate $4,000 a Month in Retirement Income?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/conservative-portfolio-really-generate-4-153750854.html",
        "date": "2026-07-17"
       }
      ],
@@ -14952,10 +14997,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 8,
-      "rk": 65,
-      "up": 17
+      "m": 2,
+      "m0": 9,
+      "rk": 91,
+      "up": 8
      },
      "news": [
       {
@@ -15040,10 +15085,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 169,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 244,
+      "up": 1
      },
      "news": [
       {
@@ -15129,9 +15174,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 335,
-      "up": 7
+      "m0": 1,
+      "rk": 262,
+      "up": 10
      },
      "news": [
       {
@@ -15358,8 +15403,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 617,
+      "m0": 1,
+      "rk": 564,
       "up": 2
      },
      "news": [
@@ -15421,8 +15466,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 585,
+      "m0": 1,
+      "rk": 528,
       "up": 2
      },
      "news": [
@@ -17554,7 +17599,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-18",
+ "social_asof": "2026-07-19",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17834,31 +17879,38 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Can Nvidia Become a $10 Trillion Stock by 2030?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-become-10-trillion-stock-074500122.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "1 Growth Stock to Buy Before the End of July",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-buy-end-073500625.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "DUK",
+   "h": "Duke Energy (DUK) Stock Could Be 29% Overvalued After Rate Case Pushback",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-070854788.html",
+   "date": "2026-07-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "\"It's Gambling\": Warren Buffett Just Issued a Blunt Warning to Investors -- and History Says He's Right.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gambling-warren-buffett-just-issued-062000287.html",
+   "date": "2026-07-19"
+  },
+  {
    "tk": "LMT",
    "h": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/world/articles/ukraine-strikes-wildberries-warehouses-deep-055309312.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/down-62-high-ethereum-value-055000901.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Warren Buffett Donated $6 Billion in Berkshire Hathaway Shares Recently -- and Cut the Gates Foundation Off for the First Time in 20 Years",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-donated-6-billion-052000076.html",
-   "date": "2026-07-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Coinbase CEO Brian Armstrong Says $60,000 Is the Bottom for Bitcoin. Where Does BTC Go From Here?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-043500546.html",
    "date": "2026-07-19"
   },
   {
@@ -18105,14 +18157,7 @@
    "pub": "Bloomberg",
    "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-comes-air-show-carrying-120000385.html",
    "date": "2026-07-18"
-  },
-  {
-   "tk": "NEE",
-   "h": "Here\u2019s the Funding It Takes to Keep Learning Forever",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/funding-takes-keep-learning-forever-111137880.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-19 06:34 UTC"
+ "prices_asof": "2026-07-19 07:58 UTC"
 }
