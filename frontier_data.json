@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 699,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 102,
+      "up": 4
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 61,
-      "up": 8
+      "m": 2,
+      "m0": 4,
+      "rk": 108,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 35,
-      "m0": 93,
-      "rk": 7,
-      "up": 181
+      "m": 22,
+      "m0": 35,
+      "rk": 10,
+      "up": 76
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1143,15 @@
        "date": "2026-07-19"
       },
       {
-       "h": "SPCX Stock Rises Overnight Even As Elon Musk Shoots Down Report Of $52B Foxconn-Nvidia Order As 'Fake News'",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-rises-overnight-even-062637561.html",
+       "h": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-july-inflation-forecast-082600179.html",
        "date": "2026-07-20"
       },
       {
-       "h": "Inflation in June Was Lower Than Anticipated. Could That Support a New Crypto Bull Market?",
+       "h": "Why Does Donald Trump Think Australia Has the Answer to Social Security's Woes?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/inflation-june-lower-anticipated-could-062000535.html",
+       "link": "https://finance.yahoo.com/economy/policy/articles/why-does-donald-trump-think-081800989.html",
        "date": "2026-07-20"
       }
      ]
@@ -1314,8 +1314,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 797,
+      "m0": 1,
+      "rk": 637,
       "up": 1
      },
      "streetNotes": [
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 48,
-      "up": 14
+      "m": 2,
+      "m0": 5,
+      "rk": 95,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -1863,7 +1863,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 673,
+      "up": 1
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2040,10 +2045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 311,
-      "up": 1
+      "rk": 70,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2334,8 +2339,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 217,
+      "m0": 1,
+      "rk": 185,
       "up": 1
      },
      "streetNotes": [
@@ -2491,9 +2496,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 4,
-      "rk": 99,
-      "up": 4
+      "m0": 2,
+      "rk": 87,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2841,9 +2846,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 753,
-      "up": 1
+      "m0": 1,
+      "rk": 608,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3157,10 +3162,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 53,
-      "up": 8
+      "m": 1,
+      "m0": 5,
+      "rk": 659,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -3747,8 +3752,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 651,
+      "m0": 1,
+      "rk": 531,
       "up": 2
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4053,10 +4058,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 7,
-      "rk": 27,
-      "up": 46
+      "m": 7,
+      "m0": 8,
+      "rk": 35,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4405,7 +4410,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 423,
+      "rk": 351,
       "up": 4
      },
      "news": [
@@ -4738,7 +4743,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 691,
+      "rk": 556,
       "up": 1
      },
      "news": [
@@ -5879,10 +5884,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 44,
-      "rk": 15,
-      "up": 221
+      "m": 17,
+      "m0": 14,
+      "rk": 11,
+      "up": 61
      },
      "news": [
       {
@@ -5968,9 +5973,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 400,
-      "up": 6
+      "m0": 1,
+      "rk": 335,
+      "up": 2
      },
      "news": [
       {
@@ -6283,8 +6288,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 749,
+      "m0": 1,
+      "rk": 604,
       "up": 4
      },
      "thesis": {
@@ -6831,9 +6836,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 734,
-      "up": 2
+      "m0": 1,
+      "rk": 591,
+      "up": 1
      },
      "news": [
       {
@@ -7062,12 +7067,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 780,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Earnings Preview: Mobileye Global (MBLY) Q2 Earnings Expected to Decline",
@@ -7127,7 +7127,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 223,
+      "rk": 191,
       "up": 1
      },
      "news": [
@@ -7214,8 +7214,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 331,
+      "m0": 1,
+      "rk": 274,
       "up": 1
      },
      "news": [
@@ -7399,12 +7399,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 417,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is This Robotics Stock a Potential 10-Bagger?",
@@ -7461,12 +7456,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 779,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Symbotic Inc. (SYM) Dipped More Than Broader Market Today",
@@ -7704,10 +7694,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 64,
-      "up": 26
+      "m": 7,
+      "m0": 4,
+      "rk": 36,
+      "up": 12
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7798,9 +7788,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 16,
-      "rk": 60,
-      "up": 20
+      "m0": 4,
+      "rk": 61,
+      "up": 22
      },
      "news": [
       {
@@ -8306,10 +8296,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 46,
-      "rk": 16,
-      "up": 193
+      "m": 11,
+      "m0": 14,
+      "rk": 21,
+      "up": 413
      },
      "thesis": {
       "bull": [
@@ -8609,7 +8599,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 441,
+      "rk": 363,
       "up": 1
      },
      "streetNotes": [
@@ -8793,7 +8783,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 706,
+      "rk": 567,
       "up": 2
      },
      "thesis": {
@@ -9056,7 +9046,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 692,
+      "up": 2
+     },
      "news": [
       {
        "h": "MDA Space Price Target Lowered to C$59 at CIBC",
@@ -9205,12 +9200,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 746,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9550,10 +9540,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 84,
+      "m": 17,
+      "m0": 18,
       "rk": 13,
-      "up": 382
+      "up": 53
      },
      "thesis": {
       "bull": [
@@ -9736,6 +9726,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Rises Premarket Ahead Of $1B Note Settlement: Analyst Warns Rocket-Firm Buy May Be \u2018Likely Foolish\u2019",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-rises-premarket-ahead-080523035.html",
+       "date": "2026-07-20"
+      },
+      {
        "h": "Volatility Is Climbing\u2014and a New Margin Rule May Be Adding Fuel",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/volatility-margin-stocks-pattern-day-trading-d39cb249?siteid=yhoof2&yptr=yahoo",
@@ -9745,12 +9741,6 @@
        "h": "A $1 Billion Reason to Sell AST SpaceMobile Stock Here",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-billion-reason-sell-ast-140002785.html",
-       "date": "2026-07-18"
-      },
-      {
-       "h": "UBS projects the space economy\u2019s TAM at $1.3TN by 2040",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/technology/articles/ubs-projects-space-economy-tam-072340801.html",
        "date": "2026-07-18"
       }
      ]
@@ -9876,8 +9866,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 378,
-      "up": 4
+      "rk": 318,
+      "up": 2
      },
      "news": [
       {
@@ -10429,7 +10419,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 653,
+      "up": 4
+     },
      "news": [
       {
        "h": "AST SpaceMobile Stock Sinks as SpaceX Fallout Rattles Space Sector",
@@ -10580,8 +10575,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 146,
+      "m0": 1,
+      "rk": 137,
       "up": 1
      },
      "streetNotes": [
@@ -10599,6 +10594,12 @@
      ],
      "news": [
       {
+       "h": "Lockheed Martin Plans Bargain-Rate Patriot Missile to Replenish Low Stockpiles",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/lockheed-martin-plans-bargain-rate-patriot-missile-to-replenish-low-stockpiles-7b4bd637?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-20"
+      },
+      {
        "h": "AI Expectations Hit a Fever Pitch",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/ai-expectations-hit-fever-pitch-224601324.html",
@@ -10608,12 +10609,6 @@
        "h": "Nancy Pelosi Slams Trump, GOP Budget as 'America Last' Plan, Says Republicans Spend $73 Billion on 'Endless Wars'",
        "pub": "Benzinga",
        "link": "https://www.yahoo.com/news/politics/articles/nancy-pelosi-slams-trump-gop-133043290.html",
-       "date": "2026-07-19"
-      },
-      {
-       "h": "Ukraine strikes Wildberries warehouses deep inside Russia, killing eight",
-       "pub": "Investing.com",
-       "link": "https://www.yahoo.com/news/world/articles/ukraine-strikes-wildberries-warehouses-deep-055309312.html",
        "date": "2026-07-19"
       }
      ],
@@ -10690,8 +10685,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 217,
+      "m0": 1,
+      "rk": 185,
       "up": 1
      },
      "streetNotes": [
@@ -10800,7 +10795,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 130,
+      "rk": 125,
       "up": 1
      },
      "news": [
@@ -10888,7 +10883,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 423,
+      "rk": 351,
       "up": 4
      },
      "news": [
@@ -11076,7 +11071,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 209,
+      "rk": 179,
       "up": 5
      },
      "streetNotes": [
@@ -11126,7 +11121,7 @@
        "date": "2009-04-28"
       },
       {
-       "amt": 3088721029.93,
+       "amt": 3116039041.48,
        "ag": "National Science Foundation",
        "desc": "SCIENCE OPERATION AND MAINTENANCE SUPPORT FOR THE UNITED STATES ANTARCTIC PROGRAM",
        "date": "2011-12-23"
@@ -11258,10 +11253,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 48,
-      "up": 14
+      "m": 2,
+      "m0": 5,
+      "rk": 95,
+      "up": 8
      },
      "news": [
       {
@@ -11349,7 +11344,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 514,
+      "rk": 419,
       "up": 1
      },
      "news": [
@@ -12391,7 +12386,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 460,
+      "rk": 379,
       "up": 1
      },
      "news": [
@@ -12512,7 +12507,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 682,
+      "rk": 549,
       "up": 1
      },
      "news": [
@@ -12589,7 +12584,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 394,
+      "rk": 330,
       "up": 1
      },
      "news": [
@@ -12652,7 +12647,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 788,
+      "rk": 632,
       "up": 1
      },
      "news": [
@@ -12713,10 +12708,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 393,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 89,
+      "up": 11
      },
      "news": [
       {
@@ -12796,10 +12791,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 13,
-      "rk": 6,
-      "up": 96
+      "m": 5,
+      "m0": 36,
+      "rk": 46,
+      "up": 11
      },
      "news": [
       {
@@ -13150,7 +13145,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 785,
+      "rk": 629,
       "up": 1
      },
      "news": [
@@ -13395,10 +13390,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 13,
-      "rk": 63,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 662,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13636,10 +13631,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 8,
-      "rk": 82,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 621,
+      "up": 1
      },
      "news": [
       {
@@ -14050,8 +14045,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 346,
+      "m0": 1,
+      "rk": 285,
       "up": 1
      },
      "streetNotes": [
@@ -14122,7 +14117,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 113,
+      "up": 3
+     },
      "news": [
       {
        "h": "Big Tech earnings test tech's big rotation: What to watch this week",
@@ -14290,8 +14290,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 455,
+      "m0": 1,
+      "rk": 372,
       "up": 1
      },
      "awards": [
@@ -14585,10 +14585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 81,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 601,
+      "up": 1
      },
      "news": [
       {
@@ -14675,7 +14675,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 339,
+      "rk": 279,
       "up": 1
      },
      "news": [
@@ -14908,12 +14908,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 249,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Duke Energy (DUK) Stock Could Be 29% Overvalued After Rate Case Pushback",
@@ -14997,10 +14992,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 91,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 194,
+      "up": 1
      },
      "news": [
       {
@@ -15086,8 +15081,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 244,
+      "m0": 1,
+      "rk": 208,
       "up": 1
      },
      "news": [
@@ -15175,8 +15170,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 262,
-      "up": 10
+      "rk": 220,
+      "up": 2
      },
      "news": [
       {
@@ -15404,7 +15399,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 564,
+      "rk": 460,
       "up": 2
      },
      "news": [
@@ -15467,7 +15462,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 528,
+      "rk": 428,
       "up": 2
      },
      "news": [
@@ -17599,7 +17594,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-19",
+ "social_asof": "2026-07-20",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17880,23 +17875,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "SPCX Stock Rises Overnight Even As Elon Musk Shoots Down Report Of $52B Foxconn-Nvidia Order As 'Fake News'",
+   "h": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-july-inflation-forecast-082600179.html",
+   "date": "2026-07-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Does Donald Trump Think Australia Has the Answer to Social Security's Woes?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/why-does-donald-trump-think-081800989.html",
+   "date": "2026-07-20"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Rises Premarket Ahead Of $1B Note Settlement: Analyst Warns Rocket-Firm Buy May Be \u2018Likely Foolish\u2019",
    "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-rises-overnight-even-062637561.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-rises-premarket-ahead-080523035.html",
    "date": "2026-07-20"
   },
   {
    "tk": "NVDA",
-   "h": "Inflation in June Was Lower Than Anticipated. Could That Support a New Crypto Bull Market?",
+   "h": "Could Pfizer Ultimately Be the Biggest Winner in the $100 Billion Weight-Loss Market?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/inflation-june-lower-anticipated-could-062000535.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/could-pfizer-ultimately-biggest-winner-073500695.html",
    "date": "2026-07-20"
   },
   {
-   "tk": "NVDA",
-   "h": "Stock Price Projections and History: The Bullish and Bearish Takes for SpaceX Stock Over the Next 12 Months",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-price-projections-history-bullish-055000355.html",
+   "tk": "LMT",
+   "h": "Lockheed Martin Plans Bargain-Rate Patriot Missile to Replenish Low Stockpiles",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/lockheed-martin-plans-bargain-rate-patriot-missile-to-replenish-low-stockpiles-7b4bd637?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-20"
   },
   {
@@ -18143,21 +18152,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-wins-italian-jump-031610992.html",
    "date": "2026-07-19"
-  },
-  {
-   "tk": "BKSY",
-   "h": "Do BlackSky\u2019s New Gen-3 AI ISR R&D Wins Reframe Its Competitive Edge Story (BKSY)?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/blacksky-gen-3-ai-isr-220752236.html",
-   "date": "2026-07-18"
-  },
-  {
-   "tk": "SLS",
-   "h": "Will Near-Complete REGAL Phase 3 GPS Data and New Executive Terms Change SELLAS Life Sciences Group's (SLS) Narrative",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/healthcare/articles/near-complete-regal-phase-3-210808813.html",
-   "date": "2026-07-18"
   }
  ],
- "prices_asof": "2026-07-20 06:51 UTC"
+ "prices_asof": "2026-07-20 08:39 UTC"
 }
