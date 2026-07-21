@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 102,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 584,
+      "up": 3
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 108,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 653,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 35,
-      "rk": 10,
-      "up": 76
+      "m": 84,
+      "m0": 23,
+      "rk": 5,
+      "up": 323
      },
      "thesis": {
       "bull": [
@@ -1250,6 +1250,12 @@
      ],
      "news": [
       {
+       "h": "Teledyne (TDY) To Report Earnings Tomorrow: Here Is What To Expect",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-report-earnings-tomorrow-071026657.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "AAR to Report Q4 Results: What's in Store for the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aar-report-q4-results-whats-131300315.html",
@@ -1260,12 +1266,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-upgraded-buy-heres-160002459.html",
        "date": "2026-07-16"
-      },
-      {
-       "h": "Teledyne Technologies (TDY) Earnings Expected to Grow: Should You Buy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-technologies-tdy-earnings-expected-140006260.html",
-       "date": "2026-07-15"
       }
      ]
     },
@@ -1312,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 637,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 95,
-      "up": 8
+      "m": 9,
+      "m0": 2,
+      "rk": 51,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -1783,22 +1778,22 @@
      },
      "news": [
       {
+       "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200341.html",
+       "date": "2026-07-21"
+      },
+      {
+       "h": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-sandisk-both-posted-blowout-064300011.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Palantir (PLTR) Stock May Be 10% Below Fair Value Following Regulated AI Expansion",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-10-021108058.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/claude-ai-says-zeta-global-192239031.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Should You Buy Palantir Technologies Stock While It's Trading Below $140?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-palantir-technologies-stock-while-172644754.html",
-       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -1863,12 +1858,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 673,
-      "up": 1
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2045,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 70,
-      "up": 9
+      "m": 1,
+      "m0": 3,
+      "rk": 313,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2337,12 +2327,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 185,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2495,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 87,
-      "up": 9
+      "rk": 326,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2847,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 608,
+      "rk": 634,
       "up": 2
      },
      "thesis": {
@@ -3163,8 +3148,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 659,
+      "m0": 1,
+      "rk": 686,
       "up": 0
      },
      "thesis": {
@@ -3750,12 +3735,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 531,
-      "up": 2
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4058,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 8,
-      "rk": 35,
-      "up": 7
+      "m": 8,
+      "m0": 7,
+      "rk": 57,
+      "up": 23
      },
      "thesis": {
       "bull": [
@@ -4408,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 351,
-      "up": 4
+      "rk": 155,
+      "up": 7
      },
      "news": [
       {
@@ -4743,7 +4723,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 556,
+      "rk": 576,
       "up": 1
      },
      "news": [
@@ -5769,7 +5749,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 703,
+      "up": 4
+     },
      "news": [
       {
        "h": "Alphabet's Waymo, Baidu Ahead of Competitors in Robotaxi Space, Wedbush Says",
@@ -5884,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 14,
-      "rk": 11,
-      "up": 61
+      "m": 79,
+      "m0": 17,
+      "rk": 7,
+      "up": 592
      },
      "news": [
       {
@@ -5903,9 +5888,9 @@
        "date": "2026-07-20"
       },
       {
-       "h": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-falls-behind-msft-060404959.html",
+       "h": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
        "date": "2026-07-21"
       }
      ],
@@ -5974,8 +5959,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 335,
-      "up": 2
+      "rk": 369,
+      "up": 1
      },
      "news": [
       {
@@ -6289,7 +6274,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 604,
+      "rk": 628,
       "up": 4
      },
      "thesis": {
@@ -6837,7 +6822,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 591,
+      "rk": 618,
       "up": 1
      },
      "news": [
@@ -7127,8 +7112,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 191,
-      "up": 1
+      "rk": 251,
+      "up": 5
      },
      "news": [
       {
@@ -7215,7 +7200,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 274,
+      "rk": 324,
       "up": 1
      },
      "news": [
@@ -7694,10 +7679,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 36,
-      "up": 12
+      "m": 3,
+      "m0": 7,
+      "rk": 134,
+      "up": 7
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7787,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 6,
       "m0": 4,
-      "rk": 61,
-      "up": 22
+      "rk": 65,
+      "up": 15
      },
      "news": [
       {
@@ -8296,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 14,
-      "rk": 21,
-      "up": 413
+      "m": 54,
+      "m0": 11,
+      "rk": 12,
+      "up": 243
      },
      "thesis": {
       "bull": [
@@ -8599,8 +8584,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 363,
-      "up": 1
+      "rk": 399,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -8783,7 +8768,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 567,
+      "rk": 591,
       "up": 2
      },
      "thesis": {
@@ -9046,12 +9031,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 692,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "MDA Space Price Target Lowered to C$59 at CIBC",
@@ -9108,7 +9088,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 603,
+      "up": 5
+     },
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -9200,7 +9185,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 626,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9540,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
+      "m": 33,
       "m0": 18,
-      "rk": 13,
-      "up": 53
+      "rk": 20,
+      "up": 106
      },
      "thesis": {
       "bull": [
@@ -9866,7 +9856,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 318,
+      "rk": 360,
       "up": 2
      },
      "news": [
@@ -10422,8 +10412,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 653,
-      "up": 4
+      "rk": 680,
+      "up": 1
      },
      "news": [
       {
@@ -10576,8 +10566,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 137,
-      "up": 1
+      "rk": 196,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10683,12 +10673,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 185,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10793,10 +10778,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 125,
-      "up": 1
+      "rk": 85,
+      "up": 12
      },
      "news": [
       {
@@ -10881,10 +10866,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 351,
-      "up": 4
+      "rk": 155,
+      "up": 7
      },
      "news": [
       {
@@ -11068,12 +11053,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 179,
-      "up": 5
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11253,29 +11233,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 95,
-      "up": 8
+      "m": 9,
+      "m0": 2,
+      "rk": 51,
+      "up": 16
      },
      "news": [
+      {
+       "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200341.html",
+       "date": "2026-07-21"
+      },
+      {
+       "h": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-sandisk-both-posted-blowout-064300011.html",
+       "date": "2026-07-21"
+      },
       {
        "h": "Palantir (PLTR) Stock May Be 10% Below Fair Value Following Regulated AI Expansion",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-10-021108058.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "Claude AI Says Zeta Global (ZETA) Is a Better Buy Than Microsoft (MSFT)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/claude-ai-says-zeta-global-192239031.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Should You Buy Palantir Technologies Stock While It's Trading Below $140?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-palantir-technologies-stock-while-172644754.html",
-       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -11343,9 +11323,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 419,
-      "up": 1
+      "m0": 0,
+      "rk": 446,
+      "up": 0
      },
      "news": [
       {
@@ -12386,7 +12366,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 379,
+      "rk": 412,
       "up": 1
      },
      "news": [
@@ -12504,12 +12484,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 549,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy Ltd. (NXE) Fell Due to Risk-Off Sentiment in the Commodity Market",
@@ -12581,12 +12556,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 330,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Denison Mines (TSX:DML) Could Be A Bargain Following Its Split Fair Value Debate",
@@ -12644,12 +12614,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 632,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Uranium Energy Stock Popped Today",
@@ -12709,9 +12674,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 89,
-      "up": 11
+      "m0": 2,
+      "rk": 153,
+      "up": 7
      },
      "news": [
       {
@@ -12791,10 +12756,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 36,
-      "rk": 46,
-      "up": 11
+      "m": 12,
+      "m0": 6,
+      "rk": 37,
+      "up": 121
      },
      "news": [
       {
@@ -13142,12 +13107,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 629,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Reframing ASP Isotopes' (ASPI) Long-Term Strategy",
@@ -13390,10 +13350,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 662,
-      "up": 1
+      "m": 5,
+      "m0": 1,
+      "rk": 84,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -13632,8 +13592,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 621,
+      "m0": 1,
+      "rk": 650,
       "up": 1
      },
      "news": [
@@ -14043,12 +14003,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 285,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14118,10 +14073,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 113,
-      "up": 3
+      "rk": 701,
+      "up": 1
      },
      "news": [
       {
@@ -14288,12 +14243,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 372,
-      "up": 1
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14584,12 +14534,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 601,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Constellation Invests in Blue Energy as Nuclear Demand From AI Data Centers Surges. Here's What CEG Investors Need to Know.",
@@ -14630,7 +14575,7 @@
        "date": "2016-09-30"
       },
       {
-       "amt": 36854372.0,
+       "amt": 39847656.0,
        "ag": "Department of Defense",
        "desc": "ESPC AT NAVAL STATIONS GREAT LAKES",
        "date": "2009-12-18"
@@ -14675,7 +14620,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 279,
+      "rk": 331,
       "up": 1
      },
      "news": [
@@ -14840,9 +14785,9 @@
        "date": "2026-07-16"
       },
       {
-       "h": "NextEra, Dominion seek regulatory approval for proposed merger",
-       "pub": "Power Technology",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449765.html",
+       "h": "NextEra and Dominion seek regulatory approval for proposed merger",
+       "pub": "Energy Monitor",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-dominion-seek-regulatory-approval-084449976.html",
        "date": "2026-07-16"
       }
      ],
@@ -14992,10 +14937,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 194,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 87,
+      "up": 19
      },
      "news": [
       {
@@ -15082,7 +15027,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 208,
+      "rk": 262,
       "up": 1
      },
      "news": [
@@ -15168,10 +15113,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 220,
-      "up": 2
+      "rk": 144,
+      "up": 8
      },
      "news": [
       {
@@ -15396,12 +15341,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 460,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Why These 3 Nuclear ETFs Are Getting a Fresh Look as AI Power Demand Rises",
@@ -15459,12 +15399,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 428,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NLR Trades at 0.61%: Why This Nuclear Fund Beats Uranium Miners",
@@ -17594,7 +17529,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-20",
+ "social_asof": "2026-07-21",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17874,6 +17809,41 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Kevin Warsh's Inflation Testimony Came as Traders Priced an 86% Chance of a Fed Rate Hold",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warshs-inflation-testimony-came-073500489.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Prediction: This Could Be Palantir's Stock Price By the End of 2027",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-palantirs-stock-price-072200341.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "TDY",
+   "h": "Teledyne (TDY) To Report Earnings Tomorrow: Here Is What To Expect",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-report-earnings-tomorrow-071026657.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-sandisk-both-posted-blowout-064300011.html",
+   "date": "2026-07-21"
+  },
+  {
    "tk": "TXT",
    "h": "How Investors May Respond To Textron (TXT) Expanding Its Role In Global Pilot Training Fleets",
    "pub": "Simply Wall St.",
@@ -17892,20 +17862,6 @@
    "h": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-falls-behind-msft-060404959.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Should You Buy SpaceX Stock 11% Below Its IPO Price?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-spacex-stock-11-below-053500048.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-reports-q2-everything-051026350.html",
    "date": "2026-07-21"
   },
   {
@@ -18131,28 +18087,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/boeing-airbus-farnborough-airshow-rtx-plane-orders-evtols/?src=A00220&yptr=yahoo",
    "date": "2026-07-20"
-  },
-  {
-   "tk": "RTX",
-   "h": "Boeing Wins Big As Farnborough Airshow Takes Off. Airbus, RTX Land Deals.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/boeing-airbus-farnborough-airshow-rtx-plane-orders-evtols/?src=A00220&yptr=yahoo",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "MP",
-   "h": "Trump Order to Secure Critical Minerals Supply Chain Underscores Risk to Defense Industry",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/trump-order-critical-minerals-supply-chain-8bd68bae?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "RKLB",
-   "h": "RKLB Stock Is Falling Despite A Space Force Contract Win Alongside SPCX \u2014 Retail Sees A Buying Opportunity",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-falling-despite-space-203303056.html",
-   "date": "2026-07-20"
   }
  ],
- "prices_asof": "2026-07-21 06:33 UTC"
+ "prices_asof": "2026-07-21 08:07 UTC"
 }
