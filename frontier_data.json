@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/crml-mp-uamy-usar-stocks-084206752.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Trump Signs Orders On Aluminum And Defense Supply Chains \u2014 AA, KALU, CENX, MP Stocks In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-signs-orders-aluminum-defense-234722200.html",
@@ -626,12 +632,6 @@
        "h": "Trump Order to Secure Critical Minerals Supply Chain Underscores Risk to Defense Industry",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/trump-order-critical-minerals-supply-chain-8bd68bae?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Rare Earth Stocks Slide On Oversupply Fears",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rare-earth-stocks-iea-outlook-2026-usar-mp/?src=A00220&yptr=yahoo",
        "date": "2026-07-20"
       }
      ],
@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Trump Media pitches $100K-a-month Truth Social feed",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/trump-media-pitches-100k-month-220000188.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery",
+       "h": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-climb-as-semiconductor-complex-attempt-recovery-133110868.html",
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+       "date": "2026-07-21"
+      },
+      {
+       "h": "AMD sets sights on Nvidia with Helios AI racks",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/amd-sets-sights-on-nvidia-with-helios-ai-racks-195850534.html",
        "date": "2026-07-20"
       },
       {
-       "h": "MicroStrategy holds 843K bitcoin as cash reserves reach $3.2B",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/microstrategy-holds-843k-bitcoin-as-cash-reserves-reach-32b-155722352.html",
+       "h": "Why it's time to retire the 'Magnificent 7' name: Strategist",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/why-its-time-to-retire-the-magnificent-7-name-strategist-165552204.html",
        "date": "2026-07-20"
       }
      ]
@@ -2357,15 +2357,15 @@
        "date": "2026-07-21"
       },
       {
+       "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-21"
+      },
+      {
        "h": "The Biggest Problem For GE Stock Is Also Its Biggest Opportunity",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-problem-ge-stock-biggest-162111103.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Defense Tech May Be in a Bubble as Legacy Defense Stocks Offer Value",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/defense-tech-bubble-defense-stocks-value-91cf3da6?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-20"
       }
      ],
@@ -5888,10 +5888,10 @@
        "date": "2026-07-20"
       },
       {
-       "h": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
-       "date": "2026-07-21"
+       "h": "What it will take for Big Tech to wow investors this earnings season",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/what-it-will-take-for-big-tech-to-wow-investors-this-earnings-season-133640708.html",
+       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -6047,6 +6047,12 @@
      "social": null,
      "news": [
       {
+       "h": "China\u2019s New AI Breakthrough Shows Tim Cook\u2019s Risky Final Bet Might Actually Be Genius",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/china-ai-breakthrough-shows-tim-101020131.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Is AI now the main driver of China\u2019s growth?",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/ai-now-main-driver-china-000444126.html",
@@ -6056,12 +6062,6 @@
        "h": "Will Baidu\u2019s Hong Kong Dual-Primary Listing and Apple AI Deal Change Baidu's (BIDU) Narrative",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-hong-kong-dual-primary-191022219.html",
-       "date": "2026-07-17"
-      },
-      {
-       "h": "Baidu (BIDU) Stock Could Be Undervalued On Hong Kong Listing Shift",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-bidu-stock-could-undervalued-161036891.html",
        "date": "2026-07-17"
       }
      ]
@@ -7123,15 +7123,15 @@
        "date": "2026-07-20"
       },
       {
+       "h": "Did Viasat\u2019s (VSAT) In-Car Satellite Call Demo with BMW Just Reframe Its Connected Vehicle Ambitions?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/articles/did-viasat-vsat-car-satellite-081104469.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "After A Steep Run And A Sharp Drop, Is Marvell Technology Stock A Bet On The AI Buildout?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/steep-run-sharp-drop-marvell-235319330.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Tesla Is Still Down 17% in 2026. Can Wednesday\u2019s Earnings Event Get TSLA Stock Back on Track?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-still-down-17-2026-191515507.html",
        "date": "2026-07-20"
       }
      ],
@@ -8191,6 +8191,12 @@
      "social": null,
      "news": [
       {
+       "h": "The Zacks Analyst Blog Highlights Johnson & Johnson, Lam Research, Seagate, KVH Industries and Dawson Geophysical",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-johnson-073900810.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Top Analyst Reports for Johnson & Johnson, Lam Research & Seagate",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-johnson-johnson-200900890.html",
@@ -8201,12 +8207,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/esquire-financial-holdings-2-insider-113644004.html",
        "date": "2026-06-15"
-      },
-      {
-       "h": "Spotlight On June 2026's Insider-Favored Growth Stocks",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spotlight-june-2026s-insider-favored-173555354.html",
-       "date": "2026-06-12"
       }
      ],
      "awards": [
@@ -9716,6 +9716,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Jumps Premarket: Midland Approves Factory Nearly 5x Larger Than AST SpaceMobile\u2019s Original Plant",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-premarket-midland-080939293.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-shine-fades-taking-030526398.html",
@@ -9725,12 +9731,6 @@
        "h": "1 Space Stock That's Expected to Grow at a Significantly Faster Rate Than SpaceX Over the Next Few Years",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-space-stock-thats-expected-165624456.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "AST SpaceMobile Stock Is Down 50% From Highs, and Just Raised $1 Billion to Shore Up Its Satellite Internet Plans. Here's Why I Am Still Not Buying Shares.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-down-50-140500040.html",
        "date": "2026-07-20"
       }
      ]
@@ -9918,6 +9918,12 @@
      "social": null,
      "news": [
       {
+       "h": "Did Viasat\u2019s (VSAT) In-Car Satellite Call Demo with BMW Just Reframe Its Connected Vehicle Ambitions?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/articles/did-viasat-vsat-car-satellite-081104469.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Is Viasat (VSAT) A Bargain After Its BMW Satellite Calling Demo?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-bargain-bmw-satellite-031228872.html",
@@ -9928,12 +9934,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-shine-fades-taking-030526398.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "Can Viasat's Satellite Voice Calling Demo for BMW Drive Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/viasats-satellite-voice-calling-demo-140100757.html",
-       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -10590,15 +10590,15 @@
        "date": "2026-07-20"
       },
       {
-       "h": "As Russia deploys jet-powered Shaheds, companies turn to faster interceptor drones",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/news/russia-deploys-jet-powered-shaheds-050600812.html",
+       "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-21"
       },
       {
-       "h": "Lockheed Martin (LMT) Stock May Be Below Fair Value On $10.5B Logistics Win",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-stock-may-010908602.html",
+       "h": "As Russia deploys jet-powered Shaheds, companies turn to faster interceptor drones",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/news/russia-deploys-jet-powered-shaheds-050600812.html",
        "date": "2026-07-21"
       }
      ],
@@ -10703,15 +10703,15 @@
        "date": "2026-07-21"
       },
       {
+       "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-21"
+      },
+      {
        "h": "The Biggest Problem For GE Stock Is Also Its Biggest Opportunity",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-problem-ge-stock-biggest-162111103.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Defense Tech May Be in a Bubble as Legacy Defense Stocks Offer Value",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/defense-tech-bubble-defense-stocks-value-91cf3da6?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-20"
       }
      ],
@@ -10785,6 +10785,12 @@
      },
      "news": [
       {
+       "h": "Exclusive-Boeing asks US to intervene over record EU loan to Airbus",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-boeing-asks-us-intervene-093610195.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-014308759.html",
@@ -10794,12 +10800,6 @@
        "h": "GE Stock Ends Lower Despite GE Aerospace Scoring Two Aviation Wins At Farnborough",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-ends-lower-despite-225131144.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Ryanair CFO: Rival Airlines Could Fail This Winter; Industry Shakeout Could Lead to Pricing Power",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ryanair-cfo-rival-airlines-could-214718922.html",
        "date": "2026-07-20"
       }
      ],
@@ -12371,6 +12371,12 @@
      },
      "news": [
       {
+       "h": "Prediction: This Is What $5,000 Invested in These 2 Nuclear Energy Stocks Will Be Worth in 10 Years",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/prediction-5-000-invested-2-100500167.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Why These 3 Nuclear ETFs Are Getting a Fresh Look as AI Power Demand Rises",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/commodities/articles/why-3-nuclear-etfs-getting-125000999.html",
@@ -12381,12 +12387,6 @@
        "pub": "Mining Technology",
        "link": "https://finance.yahoo.com/markets/commodities/articles/skyharbour-purecore-sign-loi-yurchison-105949436.html",
        "date": "2026-07-17"
-      },
-      {
-       "h": "MP Materials and the U.S. Rare Earth Push are Starting to Align",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-u-rare-earth-160000902.html",
-       "date": "2026-07-16"
       }
      ]
     },
@@ -14086,16 +14086,16 @@
        "date": "2026-07-20"
       },
       {
-       "h": "GE Vernova's Next Earnings Report on July 22 Could Send the Stock Soaring. Here's Why.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-next-earnings-report-131225168.html",
+       "h": "What GE Vernova's sold-out gas turbines represent for energy company",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/ge-vernovas-sold-gas-turbines-143000291.html",
        "date": "2026-07-20"
       },
       {
-       "h": "Update: US Equity Futures Edge Higher Pre-Bell as Traders Monitor Middle East Situation, Anticipate Week's Tech Earnings",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-edge-higher-125057479.html",
-       "date": "2026-07-20"
+       "h": "GE Vernova Earnings: What To Look For From GEV",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-earnings-look-gev-092626164.html",
+       "date": "2026-07-21"
       }
      ],
      "awards": [
@@ -14537,6 +14537,12 @@
      "social": null,
      "news": [
       {
+       "h": "Prediction: This Is What $5,000 Invested in These 2 Nuclear Energy Stocks Will Be Worth in 10 Years",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/prediction-5-000-invested-2-100500167.html",
+       "date": "2026-07-21"
+      },
+      {
        "h": "Constellation Invests in Blue Energy as Nuclear Demand From AI Data Centers Surges. Here's What CEG Investors Need to Know.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/constellation-invests-blue-energy-nuclear-150408990.html",
@@ -14547,12 +14553,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-constellation-energy-031741150.html",
        "date": "2026-07-19"
-      },
-      {
-       "h": "BlackRock CEO Larry Fink Warned of an AI Power Crunch\u2014New York Just Halted Large Data Centers: CEG, VST, NEE in Focus",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/ai/articles/blackrock-ceo-larry-fink-warned-143036756.html",
-       "date": "2026-07-18"
       }
      ],
      "awards": [
@@ -17809,10 +17809,108 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Kevin Warsh's Inflation Testimony Came as Traders Priced an 86% Chance of a Fed Rate Hold",
+   "tk": "BA",
+   "h": "Exclusive-Boeing asks US to intervene over record EU loan to Airbus",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-boeing-asks-us-intervene-093610195.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "BIDU",
+   "h": "China\u2019s New AI Breakthrough Shows Tim Cook\u2019s Risky Final Bet Might Actually Be Genius",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/china-ai-breakthrough-shows-tim-101020131.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Prediction: This Is What $5,000 Invested in These 2 Nuclear Energy Stocks Will Be Worth in 10 Years",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warshs-inflation-testimony-came-073500489.html",
+   "link": "https://finance.yahoo.com/energy/articles/prediction-5-000-invested-2-100500167.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "CEG",
+   "h": "Prediction: This Is What $5,000 Invested in These 2 Nuclear Energy Stocks Will Be Worth in 10 Years",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/prediction-5-000-invested-2-100500167.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla cash burn to test investor faith in AI bets",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-cash-burn-test-investor-100151216.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "GEV",
+   "h": "GE Vernova Earnings: What To Look For From GEV",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-earnings-look-gev-092626164.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "MP",
+   "h": "CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/crml-mp-uamy-usar-stocks-084206752.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Did Viasat\u2019s (VSAT) In-Car Satellite Call Demo with BMW Just Reframe Its Connected Vehicle Ambitions?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/articles/did-viasat-vsat-car-satellite-081104469.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "VSAT",
+   "h": "Did Viasat\u2019s (VSAT) In-Car Satellite Call Demo with BMW Just Reframe Its Connected Vehicle Ambitions?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/articles/did-viasat-vsat-car-satellite-081104469.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Jumps Premarket: Midland Approves Factory Nearly 5x Larger Than AST SpaceMobile\u2019s Original Plant",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-premarket-midland-080939293.html",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "GEV",
+   "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "LMT",
+   "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "NOC",
+   "h": "GM, Alphabet, IBM Earnings: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026/card/gm-alphabet-ibm-earnings-what-to-watch-this-week-AlXcHUU7CBVH72XZB4KI?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-21"
+  },
+  {
+   "tk": "KVHI",
+   "h": "The Zacks Analyst Blog Highlights Johnson & Johnson, Lam Research, Seagate, KVH Industries and Dawson Geophysical",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-johnson-073900810.html",
    "date": "2026-07-21"
   },
   {
@@ -17827,13 +17925,6 @@
    "h": "Teledyne (TDY) To Report Earnings Tomorrow: Here Is What To Expect",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-report-earnings-tomorrow-071026657.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Ahead of Tesla Earnings, Gary Black Says Cybercab Fleet Milestone Is 'Irrelevant' Until This Critical FSD Goal Is Achieved: 'Just for Show'",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-tesla-earnings-gary-black-065419517.html",
    "date": "2026-07-21"
   },
   {
@@ -17855,13 +17946,6 @@
    "h": "Jacobs Solutions (J) Stock May Be A Bargain On Cash Flow But Full On Earnings",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-stock-may-061140436.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA Stock Falls Behind MSFT To Become Mag 7\u2019s Worst Performer Ahead Of Q2 Earnings \u2014 But Retail Is Betting On A Musk Surprise",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-falls-behind-msft-060404959.html",
    "date": "2026-07-21"
   },
   {
@@ -18003,91 +18087,7 @@
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/economy/policy/articles/trump-signs-orders-aluminum-defense-234722200.html",
    "date": "2026-07-20"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Leidos Holdings (LDOS) Partners On Defence Logistics As Fair Value Narrative Stays In Focus",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-partners-defence-231214702.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "UBER",
-   "h": "Domino's Pizza Inc (DPZ) Q2 2026 Earnings Call Highlights: Strong Demand and Strategic ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dominos-pizza-inc-dpz-q2-230016861.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "BA",
-   "h": "GE Stock Ends Lower Despite GE Aerospace Scoring Two Aviation Wins At Farnborough",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-ends-lower-despite-225131144.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "OUST",
-   "h": "Why Ouster, Inc. (OUST) Dipped More Than Broader Market Today",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ouster-inc-oust-dipped-221506408.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Corporation (RKLB) Declines More Than Market: Some Information for Investors",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-declines-221504674.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Is Leidos' AI-Enabled Logistics Alliance Reshaping the Investment Case For Leidos Holdings (LDOS)?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/leidos-ai-enabled-logistics-alliance-221354676.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Trump Media pitches $100K-a-month Truth Social feed",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/trump-media-pitches-100k-month-220000188.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "BA",
-   "h": "Ryanair CFO: Rival Airlines Could Fail This Winter; Industry Shakeout Could Lead to Pricing Power",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ryanair-cfo-rival-airlines-could-214718922.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Energy Fuels (UUUU) Increases Despite Market Slip: Here's What You Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-increases-despite-214505572.html",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "AVAV",
-   "h": "Cathie Wood Adds $18 Million Worth Of SpaceX, These Defense Names",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-stock-aerovironment-kratos-defense-spcx-avav-ktos/?src=A00220&yptr=yahoo",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "KTOS",
-   "h": "Cathie Wood Adds $18 Million Worth Of SpaceX, These Defense Names",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-stock-aerovironment-kratos-defense-spcx-avav-ktos/?src=A00220&yptr=yahoo",
-   "date": "2026-07-20"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Wins Big As Farnborough Airshow Takes Off. Airbus, RTX Land Deals.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/boeing-airbus-farnborough-airshow-rtx-plane-orders-evtols/?src=A00220&yptr=yahoo",
-   "date": "2026-07-20"
   }
  ],
- "prices_asof": "2026-07-21 08:07 UTC"
+ "prices_asof": "2026-07-21 10:28 UTC"
 }
