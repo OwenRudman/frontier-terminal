@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 584,
+      "m0": 1,
+      "rk": 657,
       "up": 3
      },
      "news": [
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 653,
-      "up": 2
+      "m0": 1,
+      "rk": 744,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 84,
-      "m0": 23,
-      "rk": 5,
-      "up": 323
+      "m": 80,
+      "m0": 84,
+      "rk": 10,
+      "up": 184
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-07-21"
       },
       {
-       "h": "Why AppLovin Stock Fell 24% in the First Half of 2026",
+       "h": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-applovin-stock-fell-24-054252837.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/potential-10-billion-compute-lease-073200994.html",
        "date": "2026-07-22"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 2,
-      "rk": 51,
-      "up": 16
+      "m": 2,
+      "m0": 9,
+      "rk": 164,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -2036,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 313,
-      "up": 1
+      "m0": 1,
+      "rk": 337,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2327,7 +2327,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 257,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2383,7 +2388,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8478209531.67,
+       "amt": 8478306481.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2481,9 +2486,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 326,
-      "up": 2
+      "m0": 1,
+      "rk": 355,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2837,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 634,
+      "rk": 716,
       "up": 2
      },
      "thesis": {
@@ -3149,8 +3154,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 686,
-      "up": 0
+      "rk": 791,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4038,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 7,
-      "rk": 57,
-      "up": 23
+      "m": 27,
+      "m0": 8,
+      "rk": 26,
+      "up": 75
      },
      "thesis": {
       "bull": [
@@ -4388,12 +4393,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 155,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 431,
+      "up": 3
      },
      "news": [
+      {
+       "h": "RTX (RTX) Q2 Earnings: What To Expect",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-q2-earnings-expect-073427232.html",
+       "date": "2026-07-22"
+      },
       {
        "h": "RTX (RTX) Could Be 10% Undervalued After The British Army Training Contract",
        "pub": "Simply Wall St.",
@@ -4404,12 +4415,6 @@
        "h": "Reading Between The Lines Of GE Stock's Latest Call",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-ge-stocks-205402949.html",
-       "date": "2026-07-21"
-      },
-      {
-       "h": "Should You Buy, Hold or Sell RTX Stock Ahead of Q2 Earnings?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-rtx-stock-141600845.html",
        "date": "2026-07-21"
       }
      ],
@@ -4723,7 +4728,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 576,
+      "rk": 644,
       "up": 1
      },
      "news": [
@@ -5145,7 +5150,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890379708.74,
+       "amt": 6890401284.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5749,12 +5754,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 703,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Alphabet's Waymo, Baidu Ahead of Competitors in Robotaxi Space, Wedbush Says",
@@ -5869,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 79,
-      "m0": 17,
-      "rk": 7,
-      "up": 592
+      "m": 62,
+      "m0": 79,
+      "rk": 13,
+      "up": 763
      },
      "news": [
       {
@@ -5957,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 369,
-      "up": 1
+      "rk": 160,
+      "up": 13
      },
      "news": [
       {
@@ -6274,8 +6274,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 628,
-      "up": 4
+      "rk": 711,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6819,12 +6819,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 618,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares?",
@@ -7112,8 +7107,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 251,
-      "up": 5
+      "rk": 264,
+      "up": 4
      },
      "news": [
       {
@@ -7197,12 +7192,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 324,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ambarella (AMBA) Upgraded to Buy: What Does It Mean for the Stock?",
@@ -7678,12 +7668,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 3,
-      "m0": 7,
-      "rk": 134,
-      "up": 7
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7772,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 4,
-      "rk": 65,
-      "up": 15
+      "m": 9,
+      "m0": 6,
+      "rk": 56,
+      "up": 23
      },
      "news": [
       {
@@ -8281,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 11,
-      "rk": 12,
-      "up": 243
+      "m": 56,
+      "m0": 54,
+      "rk": 15,
+      "up": 230
      },
      "thesis": {
       "bull": [
@@ -8584,8 +8569,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 399,
-      "up": 4
+      "rk": 449,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -8768,7 +8753,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 591,
+      "rk": 668,
       "up": 2
      },
      "thesis": {
@@ -9090,9 +9075,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 603,
-      "up": 5
+      "m0": 1,
+      "rk": 687,
+      "up": 2
      },
      "news": [
       {
@@ -9187,9 +9172,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 626,
-      "up": 2
+      "m0": 1,
+      "rk": 709,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9530,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 18,
-      "rk": 20,
-      "up": 106
+      "m": 57,
+      "m0": 34,
+      "rk": 14,
+      "up": 124
      },
      "thesis": {
       "bull": [
@@ -9856,8 +9841,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 360,
-      "up": 2
+      "rk": 402,
+      "up": 1
      },
      "news": [
       {
@@ -10410,10 +10395,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 680,
-      "up": 1
+      "rk": 177,
+      "up": 3
      },
      "news": [
       {
@@ -10566,8 +10551,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 196,
-      "up": 2
+      "rk": 193,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10584,6 +10569,12 @@
      ],
      "news": [
       {
+       "h": "Earnings To Watch: Lockheed Martin (LMT) Reports Q2 Results Tomorrow",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-lockheed-martin-lmt-062227227.html",
+       "date": "2026-07-22"
+      },
+      {
        "h": "Lockheed Martin Unveils Patriot Missile That Could Cost Less Than Half the Current Interceptor as Ukraine, Middle East Conflicts Drive Demand",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/economy/policy/articles/lockheed-martin-unveils-patriot-missile-013123304.html",
@@ -10593,12 +10584,6 @@
        "h": "Auto & Transport Roundup: Market Talk",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5ce816fb?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-21"
-      },
-      {
-       "h": "Reading Between The Lines Of GE Stock's Latest Call",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-ge-stocks-205402949.html",
        "date": "2026-07-21"
       }
      ],
@@ -10673,7 +10658,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 257,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10729,7 +10719,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8478209531.67,
+       "amt": 8478306481.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10778,12 +10768,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 85,
-      "up": 12
+      "m": 6,
+      "m0": 4,
+      "rk": 86,
+      "up": 17
      },
      "news": [
+      {
+       "h": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/adam-smith-wealth-of-nations-36cabcc0?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-22"
+      },
       {
        "h": "BA Stock Gains Overnight: Boeing Reportedly Challenges Airbus Loan Deal As Aircraft Rivalry Rekindles",
        "pub": "Stocktwits",
@@ -10794,12 +10790,6 @@
        "h": "The Real Cost of Retiring in Hawaii on Nothing but a Single Pension",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/economy/policy/articles/real-cost-retiring-hawaii-nothing-225723043.html",
-       "date": "2026-07-21"
-      },
-      {
-       "h": "Exclusive-Boeing asks US to intervene over record EU loan to Airbus",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-boeing-asks-us-intervene-093610195.html",
        "date": "2026-07-21"
       }
      ],
@@ -10866,12 +10856,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 155,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 431,
+      "up": 3
      },
      "news": [
+      {
+       "h": "RTX (RTX) Q2 Earnings: What To Expect",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-q2-earnings-expect-073427232.html",
+       "date": "2026-07-22"
+      },
       {
        "h": "RTX (RTX) Could Be 10% Undervalued After The British Army Training Contract",
        "pub": "Simply Wall St.",
@@ -10882,12 +10878,6 @@
        "h": "Reading Between The Lines Of GE Stock's Latest Call",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-ge-stocks-205402949.html",
-       "date": "2026-07-21"
-      },
-      {
-       "h": "Should You Buy, Hold or Sell RTX Stock Ahead of Q2 Earnings?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-rtx-stock-141600845.html",
        "date": "2026-07-21"
       }
      ],
@@ -11233,10 +11223,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 2,
-      "rk": 51,
-      "up": 16
+      "m": 2,
+      "m0": 9,
+      "rk": 164,
+      "up": 10
      },
      "news": [
       {
@@ -11323,9 +11313,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 446,
-      "up": 0
+      "m0": 1,
+      "rk": 505,
+      "up": 3
      },
      "news": [
       {
@@ -12366,7 +12356,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 412,
+      "rk": 465,
       "up": 1
      },
      "news": [
@@ -12673,10 +12663,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 153,
-      "up": 7
+      "rk": 413,
+      "up": 1
      },
      "news": [
       {
@@ -12756,10 +12746,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 6,
-      "rk": 37,
-      "up": 121
+      "m": 19,
+      "m0": 12,
+      "rk": 33,
+      "up": 752
      },
      "news": [
       {
@@ -13029,7 +13019,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 645,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Nuclear Stocks for Investors Willing to Wait Out the Dip",
@@ -13350,10 +13345,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 84,
-      "up": 11
+      "m": 22,
+      "m0": 5,
+      "rk": 28,
+      "up": 113
      },
      "thesis": {
       "bull": [
@@ -13527,6 +13522,12 @@
      },
      "news": [
       {
+       "h": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
+       "date": "2026-07-22"
+      },
+      {
        "h": "SMR Stock Powers Ahead After Best Day In Over A Month: What\u2019s Behind The Surge?",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/smr-stock-powers-ahead-best-030344073.html",
@@ -13537,12 +13538,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-021334148.html",
        "date": "2026-07-22"
-      },
-      {
-       "h": "OKLO, XE Stocks Jump After-Hours \u2014 Trump Administration Taps Oklo, X-Energy In $200M Push To Power AI Data Centers",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-xe-stocks-jump-hours-225827894.html",
-       "date": "2026-07-21"
       }
      ],
      "awards": [
@@ -13593,8 +13588,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 650,
-      "up": 1
+      "rk": 739,
+      "up": 2
      },
      "news": [
       {
@@ -14073,10 +14068,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 10,
       "m0": 1,
-      "rk": 701,
-      "up": 1
+      "rk": 54,
+      "up": 35
      },
      "news": [
       {
@@ -14534,7 +14529,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 708,
+      "up": 0
+     },
      "news": [
       {
        "h": "Can Constellation Energy's Diverse Power Fleet Drive Future Growth?",
@@ -14620,8 +14620,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 331,
-      "up": 1
+      "rk": 361,
+      "up": -1
      },
      "news": [
       {
@@ -14937,10 +14937,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 87,
-      "up": 19
+      "m": 3,
+      "m0": 4,
+      "rk": 122,
+      "up": 16
      },
      "news": [
       {
@@ -15024,12 +15024,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 262,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Best Stocks to Buy in July and Hold Forever: GEV, NEE",
@@ -15113,10 +15108,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 144,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 296,
+      "up": 1
      },
      "news": [
       {
@@ -17529,7 +17524,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-21",
+ "social_asof": "2026-07-22",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17809,21 +17804,56 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Why AppLovin Stock Fell 24% in the First Half of 2026",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-applovin-stock-fell-24-054252837.html",
+   "tk": "RTX",
+   "h": "RTX (RTX) Q2 Earnings: What To Expect",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-q2-earnings-expect-073427232.html",
    "date": "2026-07-22"
   },
   {
-   "tk": "GEV",
-   "h": "Dow sell-side Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&yptr=yahoo",
+   "tk": "NVDA",
+   "h": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/potential-10-billion-compute-lease-073200994.html",
+   "date": "2026-07-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
+   "date": "2026-07-22"
+  },
+  {
+   "tk": "OKLO",
+   "h": "What Oklo (OKLO)'s Role in Federally Backed AI Data Center Nuclear Project Means For Shareholders",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/oklo-oklo-role-federally-backed-071056823.html",
+   "date": "2026-07-22"
+  },
+  {
+   "tk": "BA",
+   "h": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/adam-smith-wealth-of-nations-36cabcc0?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-22"
   },
   {
    "tk": "TSLA",
+   "h": "Adam Smith\u2019s \u2018Wealth of Nations\u2019 Helped Create the World\u2019s Wealthiest Nation",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/adam-smith-wealth-of-nations-36cabcc0?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-22"
+  },
+  {
+   "tk": "LMT",
+   "h": "Earnings To Watch: Lockheed Martin (LMT) Reports Q2 Results Tomorrow",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-lockheed-martin-lmt-062227227.html",
+   "date": "2026-07-22"
+  },
+  {
+   "tk": "GEV",
    "h": "Dow sell-side Futures: S&P 500 Regains 50-Day As Sandisk, Micron Soar; Google, Tesla Earnings Due",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-sandisk-micron-google-tesla-earnings/?src=A00220&yptr=yahoo",
@@ -17841,13 +17871,6 @@
    "h": "ASTS Stock Rises Overnight: CEO Says BlueBirds 8, 9 And 10 Are Fully Deployed \u2014 With 3 More Satellites Already At Cape",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-rises-overnight-ceo-042744666.html",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Upstart Stock Lost 19% in the First Half of 2026",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-stock-lost-19-042000060.html",
    "date": "2026-07-22"
   },
   {
@@ -18054,40 +18077,12 @@
    "date": "2026-07-21"
   },
   {
-   "tk": "BA",
-   "h": "Farnborough Airshow Dealmaking Continues. Smaller Innovators Shine.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/farnborough-airshow-boeing-airbus-deals-orders-embraer-beta-archer-anduril/?src=A00220&yptr=yahoo",
-   "date": "2026-07-21"
-  },
-  {
    "tk": "RTX",
    "h": "RTX (RTX) Could Be 10% Undervalued After The British Army Training Contract",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-could-10-undervalued-211427570.html",
    "date": "2026-07-21"
-  },
-  {
-   "tk": "NOC",
-   "h": "Northrop Grumman Corp (NOC) Q2 2026 Earnings Call Highlights: Record Backlog and Raised ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-corp-noc-q2-210142307.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Google & Tesla kick off Big Tech earnings: What to Watch",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/google--tesla-kick-off-big-tech-earnings-what-to-watch-210020832.html",
-   "date": "2026-07-21"
-  },
-  {
-   "tk": "LMT",
-   "h": "Auto & Transport Roundup: Market Talk",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-5ce816fb?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-21"
   }
  ],
- "prices_asof": "2026-07-22 06:33 UTC"
+ "prices_asof": "2026-07-22 08:07 UTC"
 }
