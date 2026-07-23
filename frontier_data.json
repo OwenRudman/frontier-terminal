@@ -610,12 +610,18 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 657,
-      "up": 3
+      "m": 2,
+      "m0": 0,
+      "rk": 195,
+      "up": -2
      },
      "news": [
+      {
+       "h": "This Boom Is for the AI-Anxious. 10 Ways to Cash In.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-23"
+      },
       {
        "h": "Rare-Earth Stock Gold Rush Leaves Investors Empty-Handed \u2014 For Now",
        "pub": "Investor's Business Daily",
@@ -627,12 +633,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/crml-mp-uamy-usar-stocks-084206752.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "Trump Signs Orders On Aluminum And Defense Supply Chains \u2014 AA, KALU, CENX, MP Stocks In Focus",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/economy/policy/articles/trump-signs-orders-aluminum-defense-234722200.html",
-       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 744,
-      "up": 1
+      "rk": 792,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 80,
-      "m0": 84,
-      "rk": 10,
-      "up": 184
+      "m": 181,
+      "m0": 80,
+      "rk": 9,
+      "up": 5719
      },
      "thesis": {
       "bull": [
@@ -1234,7 +1234,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 449,
+      "up": 5
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 164,
-      "up": 10
+      "m": 14,
+      "m0": 2,
+      "rk": 48,
+      "up": 44
      },
      "thesis": {
       "bull": [
@@ -2037,8 +2042,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 337,
-      "up": 4
+      "rk": 374,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2329,9 +2334,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 257,
-      "up": 1
+      "m0": 1,
+      "rk": 285,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -2388,7 +2393,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8478306481.67,
+       "amt": 8481306481.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2485,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 355,
-      "up": 3
+      "rk": 94,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -2836,8 +2841,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 716,
+      "m0": 0,
+      "rk": 767,
       "up": 2
      },
      "thesis": {
@@ -3152,10 +3157,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 791,
-      "up": 3
+      "rk": 126,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -4043,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 8,
-      "rk": 26,
-      "up": 75
+      "m": 20,
+      "m0": 27,
+      "rk": 33,
+      "up": 39
      },
      "thesis": {
       "bull": [
@@ -4393,9 +4398,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 431,
+      "m": 2,
+      "m0": 1,
+      "rk": 173,
       "up": 3
      },
      "news": [
@@ -4728,8 +4733,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 644,
-      "up": 1
+      "rk": 706,
+      "up": 2
      },
      "news": [
       {
@@ -5138,7 +5143,7 @@
      ],
      "awards": [
       {
-       "amt": 12741806237.85,
+       "amt": 12742005737.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5869,10 +5874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 62,
-      "m0": 79,
-      "rk": 13,
-      "up": 763
+      "m": 271,
+      "m0": 62,
+      "rk": 7,
+      "up": 1430
      },
      "news": [
       {
@@ -5882,15 +5887,15 @@
        "date": "2026-07-22"
       },
       {
-       "h": "Elon Musk is 'in denial' that Tesla is just an EV company: Ross Gerber",
+       "h": "Tesla's 'ChatGPT moment' will be here in the next 5 years: Earnings takeaways",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/elon-musk-is-in-denial-that-tesla-is-just-an-ev-company-ross-gerber-210812615.html",
+       "link": "https://finance.yahoo.com/video/teslas-chatgpt-moment-will-be-here-in-the-next-5-years-earnings-takeaways-210118556.html",
        "date": "2026-07-22"
       },
       {
-       "h": "SpaceX stock dips as Elon's other company \u2014 Tesla \u2014 reports Wednesday night",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-dips-as-elons-other-company--tesla--reports-wednesday-night-153703005.html",
+       "h": "AI isn't 'the whole game' for Alphabet: Strategist previews Q2 earnings",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/ai-isnt-the-whole-game-for-alphabet-strategist-previews-q2-earnings-134016844.html",
        "date": "2026-07-22"
       }
      ],
@@ -5959,8 +5964,8 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 160,
-      "up": 13
+      "rk": 169,
+      "up": 10
      },
      "news": [
       {
@@ -6272,10 +6277,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 711,
-      "up": 1
+      "rk": 199,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -7105,9 +7110,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 264,
+      "rk": 156,
       "up": 4
      },
      "news": [
@@ -7757,12 +7762,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 6,
-      "rk": 56,
-      "up": 23
+      "m": 4,
+      "m0": 9,
+      "rk": 113,
+      "up": 4
      },
      "news": [
+      {
+       "h": "SLS Stock July Rout Deepens: \u2018Pharma Bro\u2019 Martin Shkreli Questions Timing Of AML Trial, Says Data May Wait Until Christmas",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-july-rout-deepens-062731606.html",
+       "date": "2026-07-23"
+      },
       {
        "h": "SLS Stock Tracks Worst Month Since March: Investor Slashes Stake By Over 30% As Quiet Period Begins Ahead Of AML Readout",
        "pub": "Stocktwits",
@@ -7774,12 +7785,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rises-overnight-retail-040832516.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "SLS Stock Jumps Ahead Of CEO\u2019s Fox Appearance: Retail Bets AML Readout Could Spark Big Pharma Bidding War",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-jumps-ahead-ceo-030059721.html",
-       "date": "2026-07-20"
       }
      ]
     }
@@ -8266,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 56,
-      "m0": 54,
-      "rk": 15,
-      "up": 230
+      "m": 17,
+      "m0": 56,
+      "rk": 39,
+      "up": 39
      },
      "thesis": {
       "bull": [
@@ -8569,7 +8574,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 449,
+      "rk": 482,
       "up": 3
      },
      "streetNotes": [
@@ -8752,9 +8757,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 668,
-      "up": 2
+      "m0": 0,
+      "rk": 726,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -8936,6 +8941,12 @@
      },
      "news": [
       {
+       "h": "3 of Wall Street\u2019s Favorite Stocks We Find Risky",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-075649100.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Red Cat Just Dropped 26% in a Month: Are Drone Stocks Like RCAT, Ondas, Redwire, and AeroVironment Out of Fuel?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-just-dropped-26-191510267.html",
@@ -8945,12 +8956,6 @@
        "h": "Better Space Stock: AST SpaceMobile vs. Redwire",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/better-space-stock-ast-spacemobile-164000663.html",
-       "date": "2026-07-22"
-      },
-      {
-       "h": "Redwire (RDW) Opens Indiana Facility For Space Based Drug Development",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/healthcare/articles/redwire-rdw-opens-indiana-facility-001849461.html",
        "date": "2026-07-22"
       }
      ],
@@ -9076,7 +9081,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 687,
+      "rk": 744,
       "up": 2
      },
      "news": [
@@ -9173,8 +9178,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 709,
-      "up": 1
+      "rk": 765,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9515,10 +9520,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 57,
-      "m0": 34,
-      "rk": 14,
-      "up": 124
+      "m": 20,
+      "m0": 57,
+      "rk": 34,
+      "up": 57
      },
      "thesis": {
       "bull": [
@@ -9838,12 +9843,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 402,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Compared to Estimates, Iridium (IRDM) Q2 Earnings: A Look at Key Metrics",
@@ -10395,10 +10395,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 177,
-      "up": 3
+      "m": 14,
+      "m0": 2,
+      "rk": 45,
+      "up": 33
      },
      "news": [
       {
@@ -10549,10 +10549,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 193,
-      "up": 1
+      "rk": 101,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -10660,9 +10660,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 257,
-      "up": 1
+      "m0": 1,
+      "rk": 285,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -10719,7 +10719,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8478306481.67,
+       "amt": 8481306481.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10768,10 +10768,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 4,
-      "rk": 86,
-      "up": 17
+      "m": 1,
+      "m0": 6,
+      "rk": 222,
+      "up": 2
      },
      "news": [
       {
@@ -10856,9 +10856,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 431,
+      "m": 2,
+      "m0": 1,
+      "rk": 173,
       "up": 3
      },
      "news": [
@@ -11139,7 +11139,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 463,
+      "up": 4
+     },
      "news": [
       {
        "h": "Should Value Investors Buy Science Applications International (SAIC) Stock?",
@@ -11223,10 +11228,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 164,
-      "up": 10
+      "m": 14,
+      "m0": 2,
+      "rk": 48,
+      "up": 44
      },
      "news": [
       {
@@ -11312,10 +11317,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 505,
-      "up": 3
+      "rk": 177,
+      "up": 8
      },
      "news": [
       {
@@ -12353,12 +12358,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 465,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Cameco (TSX:CCO) Stock Looks Fully Priced Despite Strong 5 Year Returns",
@@ -12664,8 +12664,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 413,
+      "m0": 1,
+      "rk": 444,
       "up": 1
      },
      "news": [
@@ -12746,10 +12746,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 12,
-      "rk": 33,
-      "up": 752
+      "m": 15,
+      "m0": 19,
+      "rk": 42,
+      "up": 52
      },
      "news": [
       {
@@ -13021,8 +13021,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 645,
+      "m0": 1,
+      "rk": 707,
       "up": 1
      },
      "news": [
@@ -13345,10 +13345,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 5,
-      "rk": 28,
-      "up": 113
+      "m": 16,
+      "m0": 22,
+      "rk": 40,
+      "up": 44
      },
      "thesis": {
       "bull": [
@@ -13586,10 +13586,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 739,
-      "up": 2
+      "rk": 202,
+      "up": 4
      },
      "news": [
       {
@@ -14068,10 +14068,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 1,
-      "rk": 54,
-      "up": 35
+      "m": 27,
+      "m0": 9,
+      "rk": 26,
+      "up": 52
      },
      "news": [
       {
@@ -14087,9 +14087,9 @@
        "date": "2026-07-22"
       },
       {
-       "h": "GE Vernova\u2019s AI power trade has one weak link",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/energy/articles/ge-vernova-ai-power-trade-033300687.html",
+       "h": "GEV Stock Edges Higher Overnight: Growing Backlog Shows 'AI Data Centers Cannot Wait For The Grid,' Says Strategist",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-edges-higher-overnight-062645974.html",
        "date": "2026-07-23"
       }
      ],
@@ -14267,6 +14267,12 @@
      ],
      "news": [
       {
+       "h": "1 Profitable Stock to Target This Week and 2 We Ignore",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-071649474.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Is Curtiss Wright (CW) Undervalued After Its Recent Pullback?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-undervalued-recent-211050642.html",
@@ -14277,12 +14283,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-technologies-report-q2-earnings-143700089.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "AAR to Report Q4 Results: What's in Store for the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aar-report-q4-results-whats-131300315.html",
-       "date": "2026-07-20"
       }
      ]
     },
@@ -14407,6 +14407,12 @@
      "social": null,
      "news": [
       {
+       "h": "This Boom Is for the AI-Anxious. 10 Ways to Cash In.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-23"
+      },
+      {
        "h": "J vs. WMS: Which Stock Is the Better Value Option?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/j-vs-wms-stock-better-154003807.html",
@@ -14416,12 +14422,6 @@
        "h": "Jacobs Solutions (J) Contract Momentum Puts Its Valuation Back In Focus",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-contract-momentum-140901322.html",
-       "date": "2026-07-21"
-      },
-      {
-       "h": "Why Is J Stock Rising Today?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-j-stock-rising-today-111514167.html",
        "date": "2026-07-21"
       }
      ]
@@ -14530,10 +14530,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 708,
-      "up": 0
+      "m": 3,
+      "m0": 1,
+      "rk": 147,
+      "up": 8
      },
      "news": [
       {
@@ -14620,7 +14620,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 361,
+      "rk": 396,
       "up": -1
      },
      "news": [
@@ -14937,10 +14937,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 122,
-      "up": 16
+      "m": 6,
+      "m0": 3,
+      "rk": 85,
+      "up": 12
      },
      "news": [
       {
@@ -15024,7 +15024,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 310,
+      "up": 1
+     },
      "news": [
       {
        "h": "Zacks Investment Ideas feature highlights: GE Vernova, NextEra Energy, Meta and Google",
@@ -15109,8 +15114,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 296,
+      "m0": 1,
+      "rk": 329,
       "up": 1
      },
      "news": [
@@ -15336,7 +15341,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 182,
+      "up": 4
+     },
      "news": [
       {
        "h": "Uranium Holds at $85 as AI Data Centers Go Nuclear",
@@ -15452,7 +15462,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 537,
+      "up": 3
+     },
      "news": [
       {
        "h": "NLR Trades at 0.61%: Why This Nuclear Fund Beats Uranium Miners",
@@ -17524,7 +17539,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-22",
+ "social_asof": "2026-07-23",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17804,6 +17819,41 @@
  ],
  "news": [
   {
+   "tk": "RDW",
+   "h": "3 of Wall Street\u2019s Favorite Stocks We Find Risky",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-075649100.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "CW",
+   "h": "1 Profitable Stock to Target This Week and 2 We Ignore",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-071649474.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla's record quarter costs $71bn after Musk spending spree. Is there a silver lining?",
+   "pub": "Proactive",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-record-quarter-costs-71bn-070800461.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock July Rout Deepens: \u2018Pharma Bro\u2019 Martin Shkreli Questions Timing Of AML Trial, Says Data May Wait Until Christmas",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-july-rout-deepens-062731606.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "GEV",
+   "h": "GEV Stock Edges Higher Overnight: Growing Backlog Shows 'AI Data Centers Cannot Wait For The Grid,' Says Strategist",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gev-stock-edges-higher-overnight-062645974.html",
+   "date": "2026-07-23"
+  },
+  {
    "tk": "NOC",
    "h": "Northrop Grumman (NOC) Stock May Be A Bargain Following Raised Outlook",
    "pub": "Simply Wall St.",
@@ -17836,6 +17886,20 @@
    "h": "RCAT Stock Heads For Second Monthly Loss: Red Cat Executive Lawsuit Adds Pressure Before Earnings",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rcat-stock-heads-second-monthly-050401455.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "J",
+   "h": "This Boom Is for the AI-Anxious. 10 Ways to Cash In.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "MP",
+   "h": "This Boom Is for the AI-Anxious. 10 Ways to Cash In.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-23"
   },
   {
@@ -18033,56 +18097,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-sliding-investors-213900719.html",
    "date": "2026-07-22"
-  },
-  {
-   "tk": "MP",
-   "h": "Rare-Earth Stock Gold Rush Leaves Investors Empty-Handed \u2014 For Now",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rare-earth-stocks-iea-outlook-2026-usar-mp/?src=A00220&yptr=yahoo",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Rare-Earth Stock Gold Rush Leaves Investors Empty-Handed \u2014 For Now",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rare-earth-stocks-iea-outlook-2026-usar-mp/?src=A00220&yptr=yahoo",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "AMBA",
-   "h": "Kalanick\u2019s Atoms raises $1.7B in a16z-led round for industrial AI",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "OUST",
-   "h": "Kalanick\u2019s Atoms raises $1.7B in a16z-led round for industrial AI",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "UBER",
-   "h": "Kalanick\u2019s Atoms raises $1.7B in a16z-led round for industrial AI",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "PLTR",
-   "h": "After a Tough Day, ServiceNow Reports Solid Earnings",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/servicenow-earnings-stock-price-49fa598b?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-22"
-  },
-  {
-   "tk": "AVAV",
-   "h": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-22-212541591.html",
-   "date": "2026-07-22"
   }
  ],
- "prices_asof": "2026-07-23 06:33 UTC"
+ "prices_asof": "2026-07-23 08:11 UTC"
 }
