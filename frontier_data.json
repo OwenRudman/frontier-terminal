@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Tech stocks live: Intel reports blowout earnings as Tesla and Google fall",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "AMD launches Helios system in direct challenge to Nvidia's AI dominance",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/amd-launches-helios-system-in-direct-challenge-to-nvidias-ai-dominance-183000104.html",
+       "h": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
        "date": "2026-07-23"
       },
       {
-       "h": "Ryder System, Inc. Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ryder-system-inc-q2-2026-205405633.html",
+       "h": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/could-amds-new-helios-ai-rack-system-push-it-to-outperform-nvidia-193930252.html",
+       "date": "2026-07-23"
+      },
+      {
+       "h": "If You'd Invested $10,000 in Ford Stock 10 Years Ago, Here's How Much You'd Have Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-ford-222500730.html",
        "date": "2026-07-23"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Cleveland-Cliffs Inc. Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-inc-q2-2026-210153656.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Best Monthly Dividend ETFs for Consistent Income",
        "pub": "Kiplinger",
        "link": "https://finance.yahoo.com/markets/stocks/articles/best-monthly-dividend-etfs-consistent-173153528.html",
@@ -1792,12 +1798,6 @@
        "h": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-vs-lockheed-martin-defense-172500445.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Palantir Commercial Business Gets Citi Boost",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-commercial-business-gets-citi-170827003.html",
        "date": "2026-07-23"
       }
      ],
@@ -3075,6 +3075,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Red Cat Holdings (RCAT) Could Be 68% Undervalued After CRO Exit And Legal Complaint",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-could-221157551.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "RCAT Stock Heads For Second Monthly Loss: Red Cat Executive Lawsuit Adds Pressure Before Earnings",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rcat-stock-heads-second-monthly-050401455.html",
@@ -3084,12 +3090,6 @@
        "h": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-22-212541591.html",
-       "date": "2026-07-22"
-      },
-      {
-       "h": "Red Cat Just Dropped 26% in a Month: Are Drone Stocks Like RCAT, Ondas, Redwire, and AeroVironment Out of Fuel?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-just-dropped-26-191510267.html",
        "date": "2026-07-22"
       }
      ],
@@ -4405,6 +4405,12 @@
      },
      "news": [
       {
+       "h": "Why Is RTX (RTX) Stock Soaring Today",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rtx-rtx-stock-soaring-222031868.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
@@ -4414,12 +4420,6 @@
        "h": "RTX Raises Outlook as Shares Jump 8% on Strong Q2 Beat",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-raises-outlook-shares-jump-203036781.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Update: Nasdaq, S&P 500 Log Worst Day in More Than Four Weeks as Brent Tops $100",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-log-worst-202557019.html",
        "date": "2026-07-23"
       }
      ],
@@ -5887,15 +5887,15 @@
        "date": "2026-07-23"
       },
       {
-       "h": "Elon Musk and Tesla's next big engineering challenge? Thumbs.",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/elon-musk-and-teslas-next-big-engineering-challenge-thumbs-155303952.html",
+       "h": "How Tesla's robotaxi struggle is akin to the Apple vs. Google Maps rivalry",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/teslas-robotaxi-struggle-akin-apple-151500987.html",
        "date": "2026-07-23"
       },
       {
-       "h": "IBM may be caught up in latest bout of AI volatility: 'Don't concentrate in any one theme'",
+       "h": "Earnings: Negative cash flows make Big Tech more 'economically sensitive'",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/ibm-may-caught-latest-bout-150000533.html",
+       "link": "https://finance.yahoo.com/video/earnings-negative-cash-flows-make-big-tech-more-economically-sensitive-140918058.html",
        "date": "2026-07-23"
       }
      ],
@@ -8494,9 +8494,9 @@
        "date": "2026-07-23"
       },
       {
-       "h": "RKLB vs. LUNR: Which Emerging Space Stock Is the Better Pick Today?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-vs-lunr-emerging-space-145400922.html",
+       "h": "A $266 Million Reason to Buy Rocket Lab Stock Here",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/266-million-reason-buy-rocket-160226686.html",
        "date": "2026-07-23"
       }
      ],
@@ -9201,15 +9201,15 @@
        "date": "2026-07-23"
       },
       {
-       "h": "Satellite Images Show Iran Is Rebuilding. Fast.",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/world/middle-east/satellite-images-show-iran-is-rebuilding-fast-199978f7?siteid=yhoof2&yptr=yahoo",
+       "h": "A Planet Labs Director Sold Over 6,000 Shares Amid a 323% Stock Rally. What Does That Mean for Investors?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-director-sold-over-212801572.html",
        "date": "2026-07-23"
       },
       {
-       "h": "1 Unprofitable Stock Worth Your Attention and 2 We Avoid",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-unprofitable-stock-worth-attention-145207206.html",
+       "h": "Satellite Images Show Iran Is Rebuilding. Fast.",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/world/middle-east/satellite-images-show-iran-is-rebuilding-fast-199978f7?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-23"
       }
      ],
@@ -10569,21 +10569,21 @@
      ],
      "news": [
       {
-       "h": "Lockheed Martin Corp (LMT) Q2 2026 Earnings Call Highlights: Record Backlog and Robust ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corp-lmt-q2-210301110.html",
+       "h": "Why Are Lockheed Martin (LMT) Shares Soaring Today",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-lmt-shares-220431200.html",
        "date": "2026-07-23"
       },
       {
-       "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
+       "h": "Lockheed Martin Corporation Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-q2-2026-212644093.html",
        "date": "2026-07-23"
       },
       {
-       "h": "Update: Nasdaq, S&P 500 Log Worst Day in More Than Four Weeks as Brent Tops $100",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-log-worst-202557019.html",
+       "h": "Lockheed Martin Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-q2-earnings-call-210729314.html",
        "date": "2026-07-23"
       }
      ],
@@ -10863,6 +10863,12 @@
      },
      "news": [
       {
+       "h": "Why Is RTX (RTX) Stock Soaring Today",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-rtx-rtx-stock-soaring-222031868.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
@@ -10872,12 +10878,6 @@
        "h": "RTX Raises Outlook as Shares Jump 8% on Strong Q2 Beat",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-raises-outlook-shares-jump-203036781.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Update: Nasdaq, S&P 500 Log Worst Day in More Than Four Weeks as Brent Tops $100",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-log-worst-202557019.html",
        "date": "2026-07-23"
       }
      ],
@@ -11235,6 +11235,12 @@
      },
      "news": [
       {
+       "h": "Cleveland-Cliffs Inc. Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-inc-q2-2026-210153656.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Best Monthly Dividend ETFs for Consistent Income",
        "pub": "Kiplinger",
        "link": "https://finance.yahoo.com/markets/stocks/articles/best-monthly-dividend-etfs-consistent-173153528.html",
@@ -11244,12 +11250,6 @@
        "h": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-vs-lockheed-martin-defense-172500445.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Palantir Commercial Business Gets Citi Boost",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-commercial-business-gets-citi-170827003.html",
        "date": "2026-07-23"
       }
      ],
@@ -13528,16 +13528,16 @@
        "date": "2026-07-23"
       },
       {
+       "h": "Oklo (OKLO) Could Be 45% Below Fair Value Following $200 Million Federal Program",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-could-45-below-211334506.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Oklo Joins Trump\u2019s $200M Nuclear Push for AI. Here\u2019s What It Means for OKLO Stock.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/energy/articles/oklo-joins-trump-200m-nuclear-150131038.html",
        "date": "2026-07-23"
-      },
-      {
-       "h": "Nuclear Stocks Rally Off Lows On Milestone U.S. Deal And AI Program",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/nuclear-stocks-rally-milestone-us-saudi-nuclear-deal-ai-program/?src=A00220&yptr=yahoo",
-       "date": "2026-07-22"
       }
      ],
      "awards": [
@@ -13593,6 +13593,12 @@
      },
      "news": [
       {
+       "h": "NuScale Power (SMR) Stock May Trade Near Fair Value Following ENTRA1 Probe",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-stock-may-211435960.html",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Why NuScale Power Stock Fell 29% in the First Half of 2026",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-nuscale-power-stock-fell-184243480.html",
@@ -13602,12 +13608,6 @@
        "h": "Nuclear Stock Pick: Here's Why LEU May Have the Edge Over SMR",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-pick-heres-why-182500142.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "NNE or SMR: Which Small Modular Reactor Stock Holds More Promise?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/nne-smr-small-modular-reactor-154500442.html",
        "date": "2026-07-23"
       }
      ]
@@ -14856,6 +14856,12 @@
      "social": null,
      "news": [
       {
+       "h": "Why Americans Are Fighting the AI Data Center Boom",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/ai-data-centers-electricity-bills-32286b3c?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Turn The VST Shares You Own Into A 16% Income Stream",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/turn-vst-shares-own-16-190559742.html",
@@ -14865,12 +14871,6 @@
        "h": "PG&E Q2 Earnings Surpass Estimates, Revenues Increase Y/Y",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-q2-earnings-surpass-151800432.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Autodesk initiated, Norwegian Cruise downgrade: Wall Street's top analyst calls",
-       "pub": "The Fly",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/autodesk-initiated-norwegian-cruise-downgrade-135507863.html",
        "date": "2026-07-23"
       }
      ],
@@ -15032,6 +15032,12 @@
      },
      "news": [
       {
+       "h": "Why Americans Are Fighting the AI Data Center Boom",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/ai-data-centers-electricity-bills-32286b3c?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-23"
+      },
+      {
        "h": "Turn The VST Shares You Own Into A 16% Income Stream",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/turn-vst-shares-own-16-190559742.html",
@@ -15042,12 +15048,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-monster-dividend-stocks-buy-170300889.html",
        "date": "2026-07-23"
-      },
-      {
-       "h": "Zacks Investment Ideas feature highlights: GE Vernova, NextEra Energy, Meta and Google",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/zacks-investment-ideas-feature-highlights-141100831.html",
-       "date": "2026-07-22"
       }
      ],
      "awards": [
@@ -17819,6 +17819,90 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "If You'd Invested $10,000 in Ford Stock 10 Years Ago, Here's How Much You'd Have Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-ford-222500730.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "RTX",
+   "h": "Why Is RTX (RTX) Stock Soaring Today",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-rtx-rtx-stock-soaring-222031868.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-chip-stocks-just-got-221404136.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Red Cat Holdings (RCAT) Could Be 68% Undervalued After CRO Exit And Legal Complaint",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-could-221157551.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "LMT",
+   "h": "Why Are Lockheed Martin (LMT) Shares Soaring Today",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-lmt-shares-220431200.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "PL",
+   "h": "A Planet Labs Director Sold Over 6,000 Shares Amid a 323% Stock Rally. What Does That Mean for Investors?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-director-sold-over-212801572.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "LMT",
+   "h": "Lockheed Martin Corporation Q2 2026 Earnings Call Summary",
+   "pub": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-corporation-q2-2026-212644093.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale Power (SMR) Stock May Trade Near Fair Value Following ENTRA1 Probe",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-stock-may-211435960.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Oklo (OKLO) Could Be 45% Below Fair Value Following $200 Million Federal Program",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-could-45-below-211334506.html",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "DUK",
+   "h": "Why Americans Are Fighting the AI Data Center Boom",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ai-data-centers-electricity-bills-32286b3c?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "NEE",
+   "h": "Why Americans Are Fighting the AI Data Center Boom",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ai-data-centers-electricity-bills-32286b3c?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-23"
+  },
+  {
+   "tk": "LMT",
+   "h": "Lockheed Martin Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-q2-earnings-call-210729314.html",
+   "date": "2026-07-23"
+  },
+  {
    "tk": "LMT",
    "h": "Lockheed Martin Corp (LMT) Q2 2026 Earnings Call Highlights: Record Backlog and Robust ...",
    "pub": "GuruFocus.com",
@@ -17826,10 +17910,10 @@
    "date": "2026-07-23"
   },
   {
-   "tk": "NVDA",
-   "h": "Ryder System, Inc. Q2 2026 Earnings Call Summary",
+   "tk": "PLTR",
+   "h": "Cleveland-Cliffs Inc. Q2 2026 Earnings Call Summary",
    "pub": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ryder-system-inc-q2-2026-205405633.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-inc-q2-2026-210153656.html",
    "date": "2026-07-23"
   },
   {
@@ -17840,24 +17924,10 @@
    "date": "2026-07-23"
   },
   {
-   "tk": "LMT",
-   "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
-   "date": "2026-07-23"
-  },
-  {
    "tk": "RTX",
    "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Altisource Portfolio Solutions S.A. Q2 2026 Earnings Call Summary",
-   "pub": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/altisource-portfolio-solutions-q2-2026-205201986.html",
    "date": "2026-07-23"
   },
   {
@@ -17879,13 +17949,6 @@
    "h": "2 Reasons to Watch LDOS and 1 to Stay Cautious",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-ldos-1-202831375.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "LMT",
-   "h": "Update: Nasdaq, S&P 500 Log Worst Day in More Than Four Weeks as Brent Tops $100",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-log-worst-202557019.html",
    "date": "2026-07-23"
   },
   {
@@ -17917,17 +17980,17 @@
    "date": "2026-07-23"
   },
   {
-   "tk": "LMT",
-   "h": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/lockheed-martin-rtx-earnings-defense-pentagon-us-iran/?src=A00220&yptr=yahoo",
+   "tk": "NVDA",
+   "h": "2 reasons why Microsoft belongs in your portfolio: D.A. Davidson's Gil Luria",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/2-reasons-why-microsoft-belongs-in-your-portfolio-da-davidsons-gil-luria-200819568.html",
    "date": "2026-07-23"
   },
   {
-   "tk": "RTX",
-   "h": "Lockheed Martin, RTX Jump After Earnings Beat. One Is Breaking Out.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/lockheed-martin-rtx-earnings-defense-pentagon-us-iran/?src=A00220&yptr=yahoo",
+   "tk": "NVDA",
+   "h": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/could-amds-new-helios-ai-rack-system-push-it-to-outperform-nvidia-193930252.html",
    "date": "2026-07-23"
   },
   {
@@ -18015,13 +18078,6 @@
    "date": "2026-07-23"
   },
   {
-   "tk": "NVDA",
-   "h": "AMD launches Helios system in direct challenge to Nvidia's AI dominance",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/article/amd-launches-helios-system-in-direct-challenge-to-nvidias-ai-dominance-183000104.html",
-   "date": "2026-07-23"
-  },
-  {
    "tk": "LEU",
    "h": "Nuclear Stock Pick: Here's Why LEU May Have the Edge Over SMR",
    "pub": "Zacks",
@@ -18041,63 +18097,7 @@
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-23-2026/card/what-stocks-are-getting-hit-hardest-on-the-nasdaq-today-gq9cJ4tLsgdt4SI9NXhY?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-23"
-  },
-  {
-   "tk": "BA",
-   "h": "Buy, Hold or Sell Boeing Stock? Key Insights Ahead of Q2 Earnings",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-boeing-stock-180500012.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "LHX",
-   "h": "Buy, Hold or Sell Boeing Stock? Key Insights Ahead of Q2 Earnings",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-boeing-stock-180500012.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm deepens ties with major Apple rival",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/qualcomm-deepens-ties-major-apple-180300039.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "GEV",
-   "h": "Data Centers Turbocharge Jet Engine Maker In A Battle For Power",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/research/ai-data-center-howmet-aerospace-hwm-stock/?src=A00220&yptr=yahoo",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Best Monthly Dividend ETFs for Consistent Income",
-   "pub": "Kiplinger",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/best-monthly-dividend-etfs-consistent-173153528.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir vs. Lockheed Martin: Which Defense Stock Wins the Next 5 Years?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-vs-lockheed-martin-defense-172500445.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "BA",
-   "h": "Airbus, Boeing fly in different directions at Farnborough",
-   "pub": "AFP",
-   "link": "https://finance.yahoo.com/technology/articles/airbus-boeing-fly-different-directions-171145657.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "VST",
-   "h": "Vistra (VST) Could Be 26% Below Fair Value On Power Demand Optimism",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-26-below-171019009.html",
-   "date": "2026-07-23"
   }
  ],
- "prices_asof": "2026-07-23 21:09 UTC"
+ "prices_asof": "2026-07-23 23:00 UTC"
 }
