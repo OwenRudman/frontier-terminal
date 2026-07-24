@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 195,
-      "up": -2
+      "m": 1,
+      "m0": 2,
+      "rk": 749,
+      "up": 1
      },
      "news": [
       {
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 792,
-      "up": 0
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 181,
-      "m0": 80,
-      "rk": 9,
-      "up": 5719
+      "m": 98,
+      "m0": 182,
+      "rk": 11,
+      "up": 348
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1144,9 @@
        "date": "2026-07-23"
       },
       {
-       "h": "Strategy Has Now Gone 4 Weeks Without Buying Bitcoin. Should Investors Be Concerned?",
+       "h": "Prediction: SpaceX Will Underperform Planet Labs This Year",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-now-gone-4-weeks-060500899.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-underperform-planet-labs-073000153.html",
        "date": "2026-07-24"
       }
      ]
@@ -1236,9 +1231,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 449,
-      "up": 5
+      "m0": 1,
+      "rk": 452,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 2,
-      "rk": 48,
-      "up": 44
+      "m": 4,
+      "m0": 14,
+      "rk": 133,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -2042,8 +2037,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 374,
-      "up": 3
+      "rk": 379,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2335,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 285,
+      "rk": 291,
       "up": 0
      },
      "streetNotes": [
@@ -2490,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 94,
-      "up": 7
+      "m": 2,
+      "m0": 5,
+      "rk": 179,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2840,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 767,
-      "up": 2
+      "m": 3,
+      "m0": 1,
+      "rk": 166,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -3156,12 +3151,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 126,
-      "up": 10
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4048,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 27,
-      "rk": 33,
-      "up": 39
+      "m": 2,
+      "m0": 20,
+      "rk": 218,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4398,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 173,
-      "up": 3
+      "m": 10,
+      "m0": 2,
+      "rk": 53,
+      "up": 25
      },
      "news": [
       {
@@ -4733,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 706,
-      "up": 2
+      "rk": 740,
+      "up": 0
      },
      "news": [
       {
@@ -5874,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 271,
-      "m0": 62,
-      "rk": 7,
-      "up": 1430
+      "m": 435,
+      "m0": 270,
+      "rk": 1,
+      "up": 2276
      },
      "news": [
       {
@@ -5962,12 +5952,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 169,
-      "up": 10
+      "m": 1,
+      "m0": 3,
+      "rk": 449,
+      "up": 2
      },
      "news": [
+      {
+       "h": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/david-tepper-5-portfolio-little-062500906.html",
+       "date": "2026-07-24"
+      },
       {
        "h": "Prediction: This Autonomous Driving Stock Will Be a Much Better Buy Than Tesla Over the Long Term",
        "pub": "Motley Fool",
@@ -5978,12 +5974,6 @@
        "h": "Uber (UBER) Wins Court Injunction Over New York Driver Deactivation Law",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-wins-court-injunction-200950873.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Uber Cuts 10% of Customer Service Jobs to Expand AI Use",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/uber-cuts-10-customer-jobs-170227990.html",
        "date": "2026-07-23"
       }
      ],
@@ -6277,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 199,
-      "up": 10
+      "m": 1,
+      "m0": 2,
+      "rk": 793,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6506,7 +6496,7 @@
        "date": "2019-09-19"
       },
       {
-       "amt": 1813020.64,
+       "amt": 1879020.64,
        "ag": "Department of Transportation",
        "desc": "EFAST PA 25-070-NW; RISK, ISSUE, OPPORTUNITIES (RIO) PMO SUPPORT",
        "date": "2025-06-18"
@@ -7110,10 +7100,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 156,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 298,
+      "up": 6
      },
      "news": [
       {
@@ -7439,6 +7429,12 @@
      "social": null,
      "news": [
       {
+       "h": "Symbotic (SYM) Stock Could Still Be 50% Undervalued On Cash Flow",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-stock-could-still-071645122.html",
+       "date": "2026-07-24"
+      },
+      {
        "h": "Is Symbotic (SYM) Undervalued After Hopes For A 4x Earnings Jump?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-undervalued-hopes-4x-010903546.html",
@@ -7448,12 +7444,6 @@
        "h": "Symbotic Inc. (SYM) Suffers a Larger Drop Than the General Market: Key Insights",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-suffers-larger-220007603.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Symbotic Inc. (SYM) is Attracting Investor Attention: Here is What You Should Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-inc-sym-attracting-investor-130001275.html",
        "date": "2026-07-23"
       }
      ]
@@ -7762,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 9,
-      "rk": 113,
-      "up": 4
+      "m": 5,
+      "m0": 4,
+      "rk": 110,
+      "up": 8
      },
      "news": [
       {
@@ -8271,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 56,
-      "rk": 39,
-      "up": 39
+      "m": 12,
+      "m0": 17,
+      "rk": 47,
+      "up": 106
      },
      "thesis": {
       "bull": [
@@ -8488,16 +8478,16 @@
        "date": "2026-07-23"
       },
       {
+       "h": "ASTS, RKLB Slip Overnight Amid Falcon 9 Booking Freeze: Retail Traders Say SpaceX Is \u2018Ruining\u2019 Space Stocks",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-slip-overnight-amid-062624018.html",
+       "date": "2026-07-24"
+      },
+      {
        "h": "2 Missions, 3 Launches, and Up to $300 Million for Rocket Lab",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-missions-3-launches-300-002500704.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "SpaceX Leads Race To Dodge Orbital Debris As Risk Outpaces Regulation",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-space-junk-orbital-debris-kesslers-syndrome-amazon-satellites/?src=A00220&yptr=yahoo",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -8571,12 +8561,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 482,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8757,9 +8742,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 726,
-      "up": 1
+      "m0": 1,
+      "rk": 759,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -9078,12 +9063,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 744,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -9178,8 +9158,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 765,
-      "up": 5
+      "rk": 791,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9201,16 +9181,16 @@
        "date": "2026-07-23"
       },
       {
+       "h": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-underperform-planet-labs-073000153.html",
+       "date": "2026-07-24"
+      },
+      {
        "h": "NVIDIA vs. Planet Labs: Which High-Growth Tech Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-planet-labs-high-004601296.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "A Planet Labs Director Sold Over 6,000 Shares Amid a 323% Stock Rally. What Does That Mean for Investors?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-director-sold-over-212801572.html",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -9520,10 +9500,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 57,
-      "rk": 34,
-      "up": 57
+      "m": 13,
+      "m0": 20,
+      "rk": 44,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -9712,15 +9692,15 @@
        "date": "2026-07-23"
       },
       {
+       "h": "ASTS, RKLB Slip Overnight Amid Falcon 9 Booking Freeze: Retail Traders Say SpaceX Is \u2018Ruining\u2019 Space Stocks",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-slip-overnight-amid-062624018.html",
+       "date": "2026-07-24"
+      },
+      {
        "h": "AT&T 'Strong' Wireless Execution Keeps Thesis Intact, RBC Says",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/t-apos-strong-apos-wireless-163727458.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "AST SpaceMobile's 50% Pullback Is A Buying Opportunity, Says Clear Street Ahead Of Q2 Earnings",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobiles-50-pullback-buying-112629725.html",
        "date": "2026-07-23"
       }
      ]
@@ -9862,6 +9842,14 @@
        "pub": "InvestorsHub",
        "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-shares-edge-higher-despite-122825789.html",
        "date": "2026-07-22"
+      }
+     ],
+     "awards": [
+      {
+       "amt": 15102293.81,
+       "ag": "Department of Defense",
+       "desc": "ENGINEERING AND MAINTENANCE SERVICES",
+       "date": "2025-08-25"
       }
      ]
     },
@@ -10395,10 +10383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 2,
-      "rk": 45,
-      "up": 33
+      "m": 2,
+      "m0": 14,
+      "rk": 219,
+      "up": 9
      },
      "news": [
       {
@@ -10549,10 +10537,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 101,
-      "up": 6
+      "m": 10,
+      "m0": 4,
+      "rk": 50,
+      "up": 23
      },
      "streetNotes": [
       {
@@ -10661,7 +10649,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 285,
+      "rk": 291,
       "up": 0
      },
      "streetNotes": [
@@ -10769,9 +10757,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 222,
-      "up": 2
+      "m0": 1,
+      "rk": 233,
+      "up": 1
      },
      "news": [
       {
@@ -10856,10 +10844,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 173,
-      "up": 3
+      "m": 10,
+      "m0": 2,
+      "rk": 53,
+      "up": 25
      },
      "news": [
       {
@@ -10992,7 +10980,7 @@
        "date": "2020-02-25"
       },
       {
-       "amt": 1035791035.0,
+       "amt": 1036291804.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "TAS::80 0122::TAS DEVELOPMENT, MANUFACTURING AND SUPPORT TO WEATHER OBSERVING INSTRUMENT",
        "date": "2004-09-15"
@@ -11141,9 +11129,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 463,
-      "up": 4
+      "m0": 1,
+      "rk": 464,
+      "up": 3
      },
      "news": [
       {
@@ -11228,10 +11216,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 2,
-      "rk": 48,
-      "up": 44
+      "m": 4,
+      "m0": 14,
+      "rk": 133,
+      "up": 13
      },
      "news": [
       {
@@ -11317,10 +11305,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 177,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 556,
+      "up": 2
      },
      "news": [
       {
@@ -12665,7 +12653,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 444,
+      "rk": 447,
       "up": 1
      },
      "news": [
@@ -12746,10 +12734,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 19,
-      "rk": 42,
-      "up": 52
+      "m": 54,
+      "m0": 15,
+      "rk": 19,
+      "up": 1798
      },
      "news": [
       {
@@ -13022,7 +13010,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 707,
+      "rk": 741,
       "up": 1
      },
      "news": [
@@ -13345,10 +13333,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 22,
+      "m": 14,
+      "m0": 16,
       "rk": 40,
-      "up": 44
+      "up": 191
      },
      "thesis": {
       "bull": [
@@ -13586,10 +13574,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 4,
       "m0": 1,
-      "rk": 202,
-      "up": 4
+      "rk": 138,
+      "up": 19
      },
      "news": [
       {
@@ -13648,7 +13636,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 221,
+      "up": 4
+     },
      "news": [
       {
        "h": "Nuclear Stocks Rally Off Lows On Milestone U.S. Deal And AI Program",
@@ -14068,10 +14061,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 9,
-      "rk": 26,
-      "up": 52
+      "m": 6,
+      "m0": 28,
+      "rk": 96,
+      "up": 7
      },
      "news": [
       {
@@ -14530,10 +14523,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 147,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 789,
+      "up": 5
      },
      "news": [
       {
@@ -14620,10 +14613,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 396,
+      "rk": 399,
       "up": -1
      },
      "news": [
+      {
+       "h": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/david-tepper-5-portfolio-little-062500906.html",
+       "date": "2026-07-24"
+      },
       {
        "h": "Turn The VST Shares You Own Into A 16% Income Stream",
        "pub": "Trefis",
@@ -14634,12 +14633,6 @@
        "h": "Vistra (VST) Could Be 26% Below Fair Value On Power Demand Optimism",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-could-26-below-171019009.html",
-       "date": "2026-07-23"
-      },
-      {
-       "h": "Wall Street Analysts Think Vistra (VST) Could Surge 34.12%: Read This Before Placing a Bet",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-vistra-135503841.html",
        "date": "2026-07-23"
       }
      ],
@@ -14937,10 +14930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 85,
-      "up": 12
+      "m": 9,
+      "m0": 6,
+      "rk": 57,
+      "up": 38
      },
      "news": [
       {
@@ -15026,9 +15019,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 310,
-      "up": 1
+      "m0": 1,
+      "rk": 312,
+      "up": 2
      },
      "news": [
       {
@@ -15115,7 +15108,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 329,
+      "rk": 331,
       "up": 1
      },
      "news": [
@@ -15342,10 +15335,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 182,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 602,
+      "up": 1
      },
      "news": [
       {
@@ -15464,9 +15457,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 537,
-      "up": 3
+      "m0": 1,
+      "rk": 545,
+      "up": 8
      },
      "news": [
       {
@@ -17539,7 +17532,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-23",
+ "social_asof": "2026-07-24",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17819,24 +17812,66 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-underperform-planet-labs-073000153.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "PL",
+   "h": "Prediction: SpaceX Will Underperform Planet Labs This Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacex-underperform-planet-labs-073000153.html",
+   "date": "2026-07-24"
+  },
+  {
    "tk": "TSLA",
-   "h": "FTSE 100 Live: London stocks called lower as Big Tech burns cash and oil hits $100",
-   "pub": "Proactive",
-   "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-london-stocks-061500559.html",
+   "h": "Musk Is Losing His Magic\u2014and Tesla Is Paying the Price",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/elon-musk-tesla-pays-the-price-478e5dde?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-24"
   },
   {
    "tk": "NVDA",
-   "h": "Strategy Has Now Gone 4 Weeks Without Buying Bitcoin. Should Investors Be Concerned?",
+   "h": "SpaceX Investors Should Mark Their Calendars for Aug. 4",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-now-gone-4-weeks-060500899.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-investors-mark-calendars-aug-072500990.html",
    "date": "2026-07-24"
   },
   {
-   "tk": "NVDA",
-   "h": "Alphabet-Owned YouTube Ad Sales Hit a Record $11.06 Billion. Is YouTube Dangerously Close to Surpassing Netflix in Revenue?",
+   "tk": "SYM",
+   "h": "Symbotic (SYM) Stock Could Still Be 50% Undervalued On Cash Flow",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-stock-could-still-071645122.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS, RKLB Slip Overnight Amid Falcon 9 Booking Freeze: Retail Traders Say SpaceX Is \u2018Ruining\u2019 Space Stocks",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-slip-overnight-amid-062624018.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "RKLB",
+   "h": "ASTS, RKLB Slip Overnight Amid Falcon 9 Booking Freeze: Retail Traders Say SpaceX Is \u2018Ruining\u2019 Space Stocks",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-slip-overnight-amid-062624018.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "UBER",
+   "h": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/media-advertising/articles/alphabet-owned-youtube-ad-sales-054923376.html",
+   "link": "https://finance.yahoo.com/energy/articles/david-tepper-5-portfolio-little-062500906.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "VST",
+   "h": "David Tepper Has 5% of His Portfolio in This Little-Known Energy Stock. Here's Why.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/david-tepper-5-portfolio-little-062500906.html",
    "date": "2026-07-24"
   },
   {
@@ -18055,49 +18090,7 @@
    "pub": "Moby",
    "link": "https://finance.yahoo.com/markets/stocks/articles/cleveland-cliffs-inc-q2-2026-210153656.html",
    "date": "2026-07-23"
-  },
-  {
-   "tk": "GEV",
-   "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "RTX",
-   "h": "Industrial Stocks And This ETF Claw Gains From A Falling Market",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX Raises Outlook as Shares Jump 8% on Strong Q2 Beat",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-raises-outlook-shares-jump-203036781.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Nears Max 10 Certification With 1,500+ Orders Awaiting Approval",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-nears-max-10-certification-202944730.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "LDOS",
-   "h": "2 Reasons to Watch LDOS and 1 to Stay Cautious",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-ldos-1-202831375.html",
-   "date": "2026-07-23"
-  },
-  {
-   "tk": "TSLA",
-   "h": "'Magnificent 7' stocks erase $797 billion in market value in worst day since April 2025",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-erase-797-billion-in-market-value-in-worst-day-since-april-2025-201930579.html",
-   "date": "2026-07-23"
   }
  ],
- "prices_asof": "2026-07-24 06:30 UTC"
+ "prices_asof": "2026-07-24 08:06 UTC"
 }
