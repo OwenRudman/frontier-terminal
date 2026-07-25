@@ -1143,15 +1143,15 @@
        "date": "2026-07-25"
       },
       {
-       "h": "AMD CEO Lisa Su isn't worried about an AI house of cards",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-isnt-worried-about-an-ai-house-of-cards-180022112.html",
-       "date": "2026-07-24"
+       "h": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/articles/ford-just-put-apple-maps-184600391.html",
+       "date": "2026-07-25"
       },
       {
-       "h": "Where Is the Floor for SpaceX Stock Right Now?",
+       "h": "The Smartest Way to Invest $5,000 in a Trillion-Dollar Stock Over Private Space Rivals",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/where-floor-spacex-stock-now-165000470.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/smartest-way-invest-5-000-184100993.html",
        "date": "2026-07-25"
       }
      ]
@@ -13526,15 +13526,15 @@
        "date": "2026-07-23"
       },
       {
-       "h": "Nuclear Company Oklo Receives Startup Authorization for Groves Reactor, A Key Step In Its Regulatory Journey",
+       "h": "The Crowd Is Dumping Oklo. Here's Why I'd Be Buying It Down 44%.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nuclear-company-oklo-receives-startup-121501907.html",
+       "link": "https://finance.yahoo.com/energy/articles/crowd-dumping-oklo-heres-why-172500554.html",
        "date": "2026-07-25"
       },
       {
-       "h": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?",
+       "h": "Nuclear Company Oklo Receives Startup Authorization for Groves Reactor, A Key Step In Its Regulatory Journey",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/openais-sam-altman-betting-big-062500148.html",
+       "link": "https://finance.yahoo.com/energy/articles/nuclear-company-oklo-receives-startup-121501907.html",
        "date": "2026-07-25"
       }
      ],
@@ -14068,6 +14068,12 @@
      "social": null,
      "news": [
       {
+       "h": "Morgan Stanley strongly resets GE Vernova stock target",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
@@ -14077,12 +14083,6 @@
        "h": "Is Inflation Ebbing? Not According to This Business Ratio",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/inflation-according-to-the-inventory-sales-ratio-e4e5a360?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "Top Renewable Energy & Battery Stocks to Buy Amid AI Power Boom",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/top-renewable-energy-battery-stocks-152600246.html",
        "date": "2026-07-24"
       }
      ],
@@ -17807,13 +17807,6 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Where Is the Floor for SpaceX Stock Right Now?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-floor-spacex-stock-now-165000470.html",
-   "date": "2026-07-25"
-  },
-  {
    "tk": "TSLA",
    "h": "Dow sell-side Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
    "pub": "Investor's Business Daily",
@@ -17822,9 +17815,37 @@
   },
   {
    "tk": "NVDA",
-   "h": "3 Major Reasons to Buy Microsoft Before July 29 Q4 Earnings",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-major-reasons-buy-microsoft-164103711.html",
+   "h": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/articles/ford-just-put-apple-maps-184600391.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Smartest Way to Invest $5,000 in a Trillion-Dollar Stock Over Private Space Rivals",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/smartest-way-invest-5-000-184100993.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Micron, Nvidia, or SpaceX: Which Is the Best AI Stock to Put $1,000 in Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/micron-nvidia-spacex-best-ai-182000221.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "GEV",
+   "h": "Morgan Stanley strongly resets GE Vernova stock target",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "OKLO",
+   "h": "The Crowd Is Dumping Oklo. Here's Why I'd Be Buying It Down 44%.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/crowd-dumping-oklo-heres-why-172500554.html",
    "date": "2026-07-25"
   },
   {
@@ -18064,28 +18085,7 @@
    "pub": "etf.com",
    "link": "https://finance.yahoo.com/markets/options/articles/anthropic-spacex-etf-issuers-234923889.html",
    "date": "2026-07-24"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "QCOM",
-   "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
-   "date": "2026-07-24"
   }
  ],
- "prices_asof": "2026-07-25 17:03 UTC"
+ "prices_asof": "2026-07-25 19:14 UTC"
 }
