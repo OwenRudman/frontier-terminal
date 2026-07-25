@@ -5113,6 +5113,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Huntington Ingalls Industries (HII) Undervalued As Leadership Changes At Mission Technologies?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-undervalued-042020652.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Why Huntington Ingalls (HII) Could Beat Earnings Estimates Again",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-huntington-ingalls-hii-could-161002333.html",
@@ -5123,12 +5129,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-huntington-ingalls-hii-140011529.html",
        "date": "2026-07-23"
-      },
-      {
-       "h": "LANL nuke waste cleanup contractor's ex-employees allege safety lapses, retaliation",
-       "pub": "The Santa Fe New Mexican",
-       "link": "https://www.yahoo.com/news/us/articles/lanl-nuke-waste-cleanup-contractors-035900877.html",
-       "date": "2026-07-21"
       }
      ],
      "awards": [
@@ -7107,6 +7107,12 @@
      },
      "news": [
       {
+       "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
+       "date": "2026-07-24"
+      },
+      {
        "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
@@ -7116,12 +7122,6 @@
        "h": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet",
        "pub": "Digital Trends",
        "link": "https://finance.yahoo.com/technology/articles/tsmc-might-set-price-hike-213102472.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "MRVL Has Momentum. The Question Is The Price",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mrvl-momentum-price-211444915.html",
        "date": "2026-07-24"
       }
      ],
@@ -17812,17 +17812,24 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Super Micro Just Delivered Fantastic News to Nvidia Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-just-delivered-fantastic-052000576.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "HII",
+   "h": "Is Huntington Ingalls Industries (HII) Undervalued As Leadership Changes At Mission Technologies?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-undervalued-042020652.html",
+   "date": "2026-07-25"
+  },
+  {
    "tk": "TSLA",
    "h": "Waymo vs. human drivers: Experts reveal which is safer",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/technology/ai/articles/waymo-vs-human-drivers-experts-030700387.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Apple Stock Is Up Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-apple-stock-today-030233758.html",
    "date": "2026-07-25"
   },
   {
@@ -17879,6 +17886,13 @@
    "h": "Anthropic Is the New SpaceX for ETF Issuers",
    "pub": "etf.com",
    "link": "https://finance.yahoo.com/markets/options/articles/anthropic-spacex-etf-issuers-234923889.html",
+   "date": "2026-07-24"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
    "date": "2026-07-24"
   },
   {
@@ -17994,13 +18008,6 @@
    "date": "2026-07-24"
   },
   {
-   "tk": "QCOM",
-   "h": "Qualcomm (QCOM) Raises Product Prices And Deepens Samsung Snapdragon Ties",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-raises-product-prices-210951335.html",
-   "date": "2026-07-24"
-  },
-  {
    "tk": "OPTT",
    "h": "Ocean Power Technologies Inc (OPTT) Q4 2026 Earnings Call Highlights: Record Backlog and ...",
    "pub": "GuruFocus.com",
@@ -18083,14 +18090,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-planet-labs-184108848.html",
    "date": "2026-07-24"
-  },
-  {
-   "tk": "LHX",
-   "h": "Lockheed Martin Stock Has A Record Backlog, So What's The Market Worried About?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-stock-record-backlog-183650814.html",
-   "date": "2026-07-24"
   }
  ],
- "prices_asof": "2026-07-25 03:11 UTC"
+ "prices_asof": "2026-07-25 06:21 UTC"
 }
