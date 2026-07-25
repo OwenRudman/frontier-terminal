@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 749,
-      "up": 1
+      "m0": 1,
+      "rk": 728,
+      "up": 6
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 797,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 98,
-      "m0": 182,
-      "rk": 11,
-      "up": 348
+      "m": 109,
+      "m0": 98,
+      "rk": 8,
+      "up": 599
      },
      "thesis": {
       "bull": [
@@ -1229,12 +1234,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 452,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 14,
-      "rk": 133,
-      "up": 13
+      "m": 7,
+      "m0": 4,
+      "rk": 70,
+      "up": 19
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Palantir Technologies (NasdaqGS:PLTR) Joins Nvidia To Defend Open Weight AI Models",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-nasdaqgs-pltr-joins-060929813.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-palantir-lead-big-235955088.html",
@@ -1787,12 +1793,6 @@
        "h": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-mu-225656653.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "The Best Aerospace and Defense ETFs to Buy",
-       "pub": "Kiplinger",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/best-aerospace-defense-etfs-buy-201102652.html",
        "date": "2026-07-24"
       }
      ],
@@ -2037,8 +2037,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 379,
-      "up": 1
+      "rk": 342,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -2330,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 291,
+      "rk": 245,
       "up": 0
      },
      "streetNotes": [
@@ -2485,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 179,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 355,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 166,
-      "up": 13
+      "m": 1,
+      "m0": 3,
+      "rk": 774,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4038,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 20,
-      "rk": 218,
-      "up": 7
+      "m": 10,
+      "m0": 2,
+      "rk": 50,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 53,
-      "up": 25
+      "m": 1,
+      "m0": 10,
+      "rk": 431,
+      "up": 17
      },
      "news": [
       {
@@ -4723,7 +4723,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 740,
+      "rk": 719,
       "up": 0
      },
      "news": [
@@ -5113,6 +5113,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Huntington Ingalls (HII) Quietly Rewiring Its Moat Through Compliance Hires and Distributed Shipbuilding?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-hii-quietly-rewiring-071240442.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Is Huntington Ingalls Industries (HII) Undervalued As Leadership Changes At Mission Technologies?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-undervalued-042020652.html",
@@ -5123,12 +5129,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-huntington-ingalls-hii-could-161002333.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "Analysts Estimate Huntington Ingalls (HII) to Report a Decline in Earnings: What to Look Out for",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-huntington-ingalls-hii-140011529.html",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -5864,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 435,
-      "m0": 270,
-      "rk": 1,
-      "up": 2276
+      "m": 170,
+      "m0": 435,
+      "rk": 3,
+      "up": 441
      },
      "news": [
       {
@@ -5883,9 +5883,9 @@
        "date": "2026-07-24"
       },
       {
-       "h": "Waymo vs. human drivers: Experts reveal which is safer",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/waymo-vs-human-drivers-experts-030700387.html",
+       "h": "Why Economist Mohamed El-Erian Monitors South Korea, U.K. Bonds, and the Yen",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/allianz-bonds-treasuries-korea-japan-aff04a67?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-25"
       }
      ],
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 449,
-      "up": 2
+      "m": 13,
+      "m0": 1,
+      "rk": 41,
+      "up": 25
      },
      "news": [
       {
@@ -6267,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 793,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 158,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -7101,9 +7101,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 298,
-      "up": 6
+      "m0": 1,
+      "rk": 253,
+      "up": 2
      },
      "news": [
       {
@@ -7752,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 110,
-      "up": 8
+      "m": 6,
+      "m0": 5,
+      "rk": 77,
+      "up": 39
      },
      "news": [
       {
@@ -8261,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 17,
-      "rk": 47,
-      "up": 106
+      "m": 43,
+      "m0": 12,
+      "rk": 19,
+      "up": 1665
      },
      "thesis": {
       "bull": [
@@ -8561,7 +8561,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 452,
+      "up": 6
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8743,8 +8748,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 759,
-      "up": 2
+      "rk": 737,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -9158,8 +9163,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 791,
-      "up": 2
+      "rk": 770,
+      "up": 16
      },
      "streetNotes": [
       {
@@ -9500,10 +9505,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 20,
-      "rk": 44,
-      "up": 15
+      "m": 49,
+      "m0": 13,
+      "rk": 18,
+      "up": 120
      },
      "thesis": {
       "bull": [
@@ -10384,9 +10389,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 14,
-      "rk": 219,
-      "up": 9
+      "m0": 2,
+      "rk": 164,
+      "up": 11
      },
      "news": [
       {
@@ -10537,10 +10542,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 4,
-      "rk": 50,
-      "up": 23
+      "m": 1,
+      "m0": 10,
+      "rk": 185,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10649,7 +10654,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 291,
+      "rk": 245,
       "up": 0
      },
      "streetNotes": [
@@ -10758,7 +10763,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 233,
+      "rk": 177,
       "up": 1
      },
      "news": [
@@ -10844,10 +10849,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 53,
-      "up": 25
+      "m": 1,
+      "m0": 10,
+      "rk": 431,
+      "up": 17
      },
      "news": [
       {
@@ -10942,6 +10947,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-stock-looks-below-060935397.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Lockheed Martin Stock Has A Record Backlog, So What's The Market Worried About?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-stock-record-backlog-183650814.html",
@@ -10951,12 +10962,6 @@
        "h": "General Dynamics to Release Q2 Earnings: Here's What to Expect",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-release-q2-earnings-152000068.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "L3Harris Technologies to Post Q2 Earnings: Here's What's in the Cards",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-post-q2-earnings-141000706.html",
        "date": "2026-07-24"
       }
      ],
@@ -11127,12 +11132,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 464,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Should Value Investors Buy Science Applications International (SAIC) Stock?",
@@ -11216,12 +11216,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 14,
-      "rk": 133,
-      "up": 13
+      "m": 7,
+      "m0": 4,
+      "rk": 70,
+      "up": 19
      },
      "news": [
+      {
+       "h": "Palantir Technologies (NasdaqGS:PLTR) Joins Nvidia To Defend Open Weight AI Models",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-nasdaqgs-pltr-joins-060929813.html",
+       "date": "2026-07-25"
+      },
       {
        "h": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
        "pub": "GuruFocus.com",
@@ -11232,12 +11238,6 @@
        "h": "Michael Burry Doubles Down On MU, NVDA Shorts While Holding TSLA, PLTR Bets \u2014 Here\u2019s What He\u2019s Buying",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-mu-225656653.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "The Best Aerospace and Defense ETFs to Buy",
-       "pub": "Kiplinger",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/best-aerospace-defense-etfs-buy-201102652.html",
        "date": "2026-07-24"
       }
      ],
@@ -11306,8 +11306,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 556,
+      "m0": 1,
+      "rk": 527,
       "up": 2
      },
      "news": [
@@ -12404,7 +12404,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 716,
+      "up": 3
+     },
      "news": [
       {
        "h": "OKLO, XE, SMR, NNE, UEC Stocks Tumble On Thursday: AI Made Nuclear Stocks Market Darlings \u2013 Now Investors Want Proof",
@@ -12462,25 +12467,30 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 712,
+      "up": 2
+     },
      "news": [
+      {
+       "h": "NexGen Energy (TSX:NXE) Stock Looks Above Fair Value Despite 145% Returns",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-071330222.html",
+       "date": "2026-07-25"
+      },
+      {
+       "h": "NexGen Energy (TSX:NXE) Has Slid In Recent Trading, Is It Still Fully Valued?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-slid-060934376.html",
+       "date": "2026-07-25"
+      },
       {
        "h": "Uranium Holds at $85 as AI Data Centers Go Nuclear",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-holds-85-ai-data-100301930.html",
        "date": "2026-07-22"
-      },
-      {
-       "h": "NexGen Energy Ltd. (NXE) Fell Due to Risk-Off Sentiment in the Commodity Market",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/nexgen-energy-ltd-nxe-fell-122655547.html",
-       "date": "2026-07-20"
-      },
-      {
-       "h": "Why These 3 Nuclear ETFs Are Getting a Fresh Look as AI Power Demand Rises",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/why-3-nuclear-etfs-getting-125000999.html",
-       "date": "2026-07-19"
       }
      ],
      "awards": [
@@ -12534,7 +12544,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 411,
+      "up": 2
+     },
      "news": [
       {
        "h": "Denison Mines (TSX:DML) Could Be A Bargain Following Its Split Fair Value Debate",
@@ -12652,9 +12667,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 447,
-      "up": 1
+      "m0": 0,
+      "rk": 410,
+      "up": 32
      },
      "news": [
       {
@@ -12734,10 +12749,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 15,
-      "rk": 19,
-      "up": 1798
+      "m": 29,
+      "m0": 53,
+      "rk": 24,
+      "up": 77
      },
      "news": [
       {
@@ -13007,12 +13022,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 741,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stock Pick: Here's Why LEU May Have the Edge Over SMR",
@@ -13333,10 +13343,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 16,
-      "rk": 40,
-      "up": 191
+      "m": 13,
+      "m0": 14,
+      "rk": 39,
+      "up": 48
      },
      "thesis": {
       "bull": [
@@ -13516,15 +13526,15 @@
        "date": "2026-07-23"
       },
       {
+       "h": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/openais-sam-altman-betting-big-062500148.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Could $2,000 in Oklo Stock Today Set You Up for a Dream Retirement?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/could-2-000-oklo-stock-192500537.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "Can NuScale Turn Its Regulatory Lead Into Commercial Success?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/nuscale-turn-regulatory-lead-commercial-134300487.html",
        "date": "2026-07-24"
       }
      ],
@@ -13575,9 +13585,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 1,
-      "rk": 138,
-      "up": 19
+      "m0": 4,
+      "rk": 105,
+      "up": 6
      },
      "news": [
       {
@@ -13636,12 +13646,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 221,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stocks Rally Off Lows On Milestone U.S. Deal And AI Program",
@@ -14060,13 +14065,14 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 6,
-      "m0": 28,
-      "rk": 96,
-      "up": 7
-     },
+     "social": null,
      "news": [
+      {
+       "h": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
+       "date": "2026-07-25"
+      },
       {
        "h": "Is Inflation Ebbing? Not According to This Business Ratio",
        "pub": "Barrons.com",
@@ -14077,12 +14083,6 @@
        "h": "Top Renewable Energy & Battery Stocks to Buy Amid AI Power Boom",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/top-renewable-energy-battery-stocks-152600246.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "3 Reasons GE Vernova (NYSE:GEV) Could Double by 2028",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-ge-vernova-nyse-152000311.html",
        "date": "2026-07-24"
       }
      ],
@@ -14524,9 +14524,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 789,
-      "up": 5
+      "m0": 1,
+      "rk": 768,
+      "up": 3
      },
      "news": [
       {
@@ -14613,8 +14613,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 399,
-      "up": -1
+      "rk": 358,
+      "up": 3
      },
      "news": [
       {
@@ -14929,12 +14929,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 9,
-      "m0": 6,
-      "rk": 57,
-      "up": 38
-     },
+     "social": null,
      "news": [
       {
        "h": "FirstEnergy to Report Q2 Earnings: What's in Store for the Stock?",
@@ -15020,7 +15015,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 312,
+      "rk": 271,
       "up": 2
      },
      "news": [
@@ -15108,8 +15103,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 331,
-      "up": 1
+      "rk": 290,
+      "up": 3
      },
      "news": [
       {
@@ -15336,8 +15331,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 602,
+      "m0": 1,
+      "rk": 584,
       "up": 1
      },
      "news": [
@@ -15458,8 +15453,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 545,
-      "up": 8
+      "rk": 514,
+      "up": 10
      },
      "news": [
       {
@@ -17532,7 +17527,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-24",
+ "social_asof": "2026-07-25",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17813,9 +17808,65 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Super Micro Just Delivered Fantastic News to Nvidia Investors",
+   "h": "Should You Invest $3,000 in Nu Holdings Right Now?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-just-delivered-fantastic-052000576.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-3-000-nu-holdings-072500473.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "NXE",
+   "h": "NexGen Energy (TSX:NXE) Stock Looks Above Fair Value Despite 145% Returns",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-071330222.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "HII",
+   "h": "Is Huntington Ingalls (HII) Quietly Rewiring Its Moat Through Compliance Hires and Distributed Shipbuilding?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-hii-quietly-rewiring-071240442.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "GEV",
+   "h": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "OKLO",
+   "h": "OpenAI's Sam Altman Is Betting Big on Nuclear -- Should You Follow Him Into Oklo?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/openais-sam-altman-betting-big-062500148.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-stock-looks-below-060935397.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "NXE",
+   "h": "NexGen Energy (TSX:NXE) Has Slid In Recent Trading, Is It Still Fully Valued?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-slid-060934376.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Technologies (NasdaqGS:PLTR) Joins Nvidia To Defend Open Weight AI Models",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-nasdaqgs-pltr-joins-060929813.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Why Economist Mohamed El-Erian Monitors South Korea, U.K. Bonds, and the Yen",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/allianz-bonds-treasuries-korea-japan-aff04a67?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-25"
   },
   {
@@ -17858,13 +17909,6 @@
    "h": "Does PayPal Have a Buyer?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/does-paypal-buyer-013655849.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk\u2019s Boring Company Eyes $20 Billion Valuation in New Funding Round",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/elon-musks-boring-company-eyes-20-billion-valuation-in-new-funding-round-9b0b79ef?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-25"
   },
   {
@@ -18041,56 +18085,7 @@
    "pub": "Kiplinger",
    "link": "https://finance.yahoo.com/markets/stocks/articles/best-aerospace-defense-etfs-buy-201102652.html",
    "date": "2026-07-24"
-  },
-  {
-   "tk": "ARKX",
-   "h": "Cathie Wood Adds $50 Million Of Tesla Stock After 15% Drop",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/cathie-wood-adds-50-million-of-tesla-stock-after-15-drop/?src=A00220&yptr=yahoo",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "NEE",
-   "h": "Sector Update: Energy Stocks Mixed Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195951492.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Could $2,000 in Oklo Stock Today Set You Up for a Dream Retirement?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-2-000-oklo-stock-192500537.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Jensen Huang Preaches Open-Weight Openness to Sell More Chips",
-   "pub": "Moby",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-preaches-open-weight-192245246.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy (NEE) Stock Looks Fully Valued Despite Its 34% Run",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-stock-looks-191253217.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "Why Lockheed Martin Stock Keeps Going Up",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-lockheed-martin-stock-keeps-184401395.html",
-   "date": "2026-07-24"
-  },
-  {
-   "tk": "PL",
-   "h": "3 Reasons We Love Planet Labs (PL)",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-planet-labs-184108848.html",
-   "date": "2026-07-24"
   }
  ],
- "prices_asof": "2026-07-25 06:21 UTC"
+ "prices_asof": "2026-07-25 07:50 UTC"
 }
