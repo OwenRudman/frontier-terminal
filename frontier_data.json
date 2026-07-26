@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
+       "h": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/were-starting-over-500-invest-165000119.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/tevas-turnaround-working-heres-1-190500118.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+       "h": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-2-boring-industrial-infrastructure-185000667.html",
        "date": "2026-07-26"
       },
       {
-       "h": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
+       "h": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-15-yield-blue-chip-183431725.html",
        "date": "2026-07-26"
       }
      ]
@@ -7112,6 +7112,12 @@
      },
      "news": [
       {
+       "h": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-qualcomm-still-overlooked-173500749.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html",
@@ -7121,12 +7127,6 @@
        "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
        "date": "2026-07-24"
       }
      ],
@@ -17823,30 +17823,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
+   "h": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/were-starting-over-500-invest-165000119.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/tevas-turnaround-working-heres-1-190500118.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+   "h": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-2-boring-industrial-infrastructure-185000667.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
+   "h": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-15-yield-blue-chip-183431725.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
+   "h": "Dividend ETFs vs. Bond ETFs: Here's Which One Makes More Sense for Income Investors in This Market",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/best-quantum-computing-pick-shovel-161400287.html",
+   "link": "https://finance.yahoo.com/markets/options/articles/dividend-etfs-vs-bond-etfs-182600491.html",
    "date": "2026-07-26"
   },
   {
@@ -17854,6 +17854,13 @@
    "h": "Dow sell-side Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-qualcomm-still-overlooked-173500749.html",
    "date": "2026-07-26"
   },
   {
@@ -18093,14 +18100,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-4-income-play-beats-162438414.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "SO",
-   "h": "Southern (SO) Secures 25 Year OpenAI Power Deal In Georgia",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/southern-secures-25-openai-power-160851483.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 17:07 UTC"
+ "prices_asof": "2026-07-26 19:18 UTC"
 }
