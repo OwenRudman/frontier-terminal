@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
+       "h": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/tevas-turnaround-working-heres-1-190500118.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-pulling-money-blackstones-205000360.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
+       "h": "Why CoreWeave Stock Fell 30% in Just 1 Month",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-2-boring-industrial-infrastructure-185000667.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-fell-30-203800419.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-15-yield-blue-chip-183431725.html",
+       "h": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividends",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invest-schd-202800578.html",
        "date": "2026-07-26"
       }
      ]
@@ -7050,6 +7050,12 @@
      "social": null,
      "news": [
       {
+       "h": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Mobileye (MBLY) Stock Fair Value Edges Lower As Analysts Weigh CEO Change And 2026 Risks",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-mbly-stock-fair-value-110930683.html",
@@ -7059,12 +7065,6 @@
        "h": "Intel Stock Outlook as AI and Foundry Growth Reshape INTC Strategy",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-outlook-ai-foundry-161200704.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "MBLY Stock Alert: What to Know as Mobileye Announces Leadership Transition",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mbly-stock-alert-know-mobileye-152933898.html",
        "date": "2026-07-24"
       }
      ]
@@ -10773,6 +10773,12 @@
      },
      "news": [
       {
+       "h": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/fed-meeting-inflation-boeing-meta-apple-exxon-01806fda?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Does Boeing\u2019s (BA) FAA Win Signal the 737 MAX Turnaround Is Finally Underway?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-ba-faa-win-111941439.html",
@@ -10782,12 +10788,6 @@
        "h": "Boeing (BA) Is Putting $5 Million Into St. Louis Manufacturing Talent",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-putting-5-million-211438070.html",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "Should You Forget SpaceX, Starlink, and Small Satellites? USAF Orders 2 Big Billion-Dollar Satellites From Boeing.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spacex-starlink-small-satellites-092500658.html",
        "date": "2026-07-25"
       }
      ],
@@ -17822,38 +17822,52 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Teva's Turnaround Is Working. Here's the 1 Thing That Could Send It Soaring Another 50%.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/tevas-turnaround-working-heres-1-190500118.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Buy These 2 Boring Industrial Infrastructure Stocks This Month",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-2-boring-industrial-infrastructure-185000667.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why a 15% Yield on Blue Chip Stocks Worries Even Income Investors",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-15-yield-blue-chip-183431725.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dividend ETFs vs. Bond ETFs: Here's Which One Makes More Sense for Income Investors in This Market",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/options/articles/dividend-etfs-vs-bond-etfs-182600491.html",
-   "date": "2026-07-26"
-  },
-  {
    "tk": "TSLA",
    "h": "Dow sell-side Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-pulling-money-blackstones-205000360.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why CoreWeave Stock Fell 30% in Just 1 Month",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-fell-30-203800419.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividends",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invest-schd-202800578.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-still-overvalued-14-post-201700463.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Is Still Overvalued After Its 14% Post-Earnings Drop",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-still-overvalued-14-post-201700463.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "BA",
+   "h": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/fed-meeting-inflation-boeing-meta-apple-exxon-01806fda?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-26"
   },
   {
@@ -17871,17 +17885,17 @@
    "date": "2026-07-26"
   },
   {
-   "tk": "TSLA",
+   "tk": "UBER",
    "h": "TechCrunch Mobility: Uber bets on its former CEO",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
    "date": "2026-07-26"
   },
   {
-   "tk": "UBER",
-   "h": "TechCrunch Mobility: Uber bets on its former CEO",
-   "pub": "TechCrunch",
-   "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
+   "tk": "MBLY",
+   "h": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
    "date": "2026-07-26"
   },
   {
@@ -18086,21 +18100,7 @@
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "OKLO",
-   "h": "The Crowd Is Dumping Oklo. Here's Why I'd Be Buying It Down 44%.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/crowd-dumping-oklo-heres-why-172500554.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "LMT",
-   "h": "The 3.4% Income Play That Beats the Dogs of the Dow Strategy",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-4-income-play-beats-162438414.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 19:18 UTC"
+ "prices_asof": "2026-07-26 21:02 UTC"
 }
