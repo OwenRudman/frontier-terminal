@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 728,
-      "up": 6
+      "rk": 625,
+      "up": 1
      },
      "news": [
       {
@@ -816,7 +816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 797,
+      "rk": 690,
       "up": 4
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 109,
-      "m0": 98,
-      "rk": 8,
-      "up": 599
+      "m": 13,
+      "m0": 109,
+      "rk": 18,
+      "up": 44
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1143,15 @@
        "date": "2026-07-25"
       },
       {
-       "h": "Should You Buy Amazon Stock Before July 30?",
+       "h": "Which Is the Better Value Stock Right Now: Microsoft or Nvidia?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-july-30-062000080.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/better-value-stock-now-microsoft-073500909.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Prediction: Micron Stock Will Return to All-Time Highs Soon",
+       "h": "3 Top Dividend Stocks Yielding 4.3% or More to Buy Right Now for Passive Income",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-return-time-053500431.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-top-dividend-stocks-yielding-072500999.html",
        "date": "2026-07-26"
       }
      ]
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 708,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 70,
-      "up": 19
+      "m": 1,
+      "m0": 7,
+      "rk": 423,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
@@ -1787,12 +1798,6 @@
        "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/2-millionaire-maker-ai-stocks-092500433.html",
        "date": "2026-07-25"
       }
      ],
@@ -2037,8 +2042,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 342,
-      "up": 14
+      "rk": 286,
+      "up": 25
      },
      "thesis": {
       "bull": [
@@ -2329,9 +2334,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 245,
-      "up": 0
+      "m0": 0,
+      "rk": 193,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -2485,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 355,
-      "up": 17
+      "m": 2,
+      "m0": 1,
+      "rk": 94,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -2836,9 +2841,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 774,
-      "up": 3
+      "m0": 1,
+      "rk": 672,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4038,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 50,
-      "up": 18
+      "m": 1,
+      "m0": 10,
+      "rk": 716,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -4389,9 +4394,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 10,
-      "rk": 431,
-      "up": 17
+      "m0": 1,
+      "rk": 372,
+      "up": 4
      },
      "news": [
       {
@@ -4723,7 +4728,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 719,
+      "rk": 611,
       "up": 0
      },
      "news": [
@@ -5864,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 170,
-      "m0": 435,
-      "rk": 3,
-      "up": 441
+      "m": 36,
+      "m0": 170,
+      "rk": 7,
+      "up": 208
      },
      "news": [
       {
@@ -5952,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 1,
-      "rk": 41,
-      "up": 25
+      "m": 1,
+      "m0": 13,
+      "rk": 355,
+      "up": 2
      },
      "news": [
       {
@@ -6267,10 +6272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 158,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 669,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -7102,7 +7107,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 253,
+      "rk": 200,
       "up": 2
      },
      "news": [
@@ -7752,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 77,
-      "up": 39
+      "m": 13,
+      "m0": 6,
+      "rk": 21,
+      "up": 285
      },
      "news": [
       {
@@ -8261,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 43,
-      "m0": 12,
-      "rk": 19,
-      "up": 1665
+      "m": 16,
+      "m0": 43,
+      "rk": 15,
+      "up": 42
      },
      "thesis": {
       "bull": [
@@ -8563,8 +8568,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 452,
+      "m0": 1,
+      "rk": 390,
       "up": 6
      },
      "streetNotes": [
@@ -8748,8 +8753,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 737,
-      "up": 4
+      "rk": 634,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -9163,8 +9168,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 770,
-      "up": 16
+      "rk": 667,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9505,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 49,
-      "m0": 13,
-      "rk": 18,
-      "up": 120
+      "m": 4,
+      "m0": 49,
+      "rk": 61,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -10388,10 +10393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 164,
-      "up": 11
+      "rk": 718,
+      "up": 7
      },
      "news": [
       {
@@ -10542,10 +10547,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 10,
-      "rk": 185,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 87,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10653,9 +10658,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 245,
-      "up": 0
+      "m0": 0,
+      "rk": 193,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10763,8 +10768,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 177,
-      "up": 1
+      "rk": 124,
+      "up": 3
      },
      "news": [
       {
@@ -10850,9 +10855,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 10,
-      "rk": 431,
-      "up": 17
+      "m0": 1,
+      "rk": 372,
+      "up": 4
      },
      "news": [
       {
@@ -10979,7 +10984,7 @@
        "date": "2009-05-27"
       },
       {
-       "amt": 1319979762.76,
+       "amt": 1321438804.7,
        "ag": "Department of Defense",
        "desc": "AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT",
        "date": "2020-02-25"
@@ -11216,12 +11221,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 70,
-      "up": 19
+      "m": 1,
+      "m0": 7,
+      "rk": 423,
+      "up": 3
      },
      "news": [
+      {
+       "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
+       "date": "2026-07-26"
+      },
       {
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
@@ -11232,12 +11243,6 @@
        "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/2-millionaire-maker-ai-stocks-092500433.html",
        "date": "2026-07-25"
       }
      ],
@@ -11305,10 +11310,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 527,
-      "up": 2
+      "rk": 99,
+      "up": -1
      },
      "news": [
       {
@@ -12406,9 +12411,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 716,
-      "up": 3
+      "m0": 1,
+      "rk": 609,
+      "up": 1
      },
      "news": [
       {
@@ -12469,8 +12474,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 712,
+      "m0": 1,
+      "rk": 602,
       "up": 2
      },
      "news": [
@@ -12546,8 +12551,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 411,
+      "m0": 1,
+      "rk": 348,
       "up": 2
      },
      "news": [
@@ -12667,9 +12672,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 410,
-      "up": 32
+      "m0": 1,
+      "rk": 347,
+      "up": 2
      },
      "news": [
       {
@@ -12749,10 +12754,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 53,
-      "rk": 24,
-      "up": 77
+      "m": 47,
+      "m0": 30,
+      "rk": 4,
+      "up": 1368
      },
      "news": [
       {
@@ -13343,10 +13348,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 14,
-      "rk": 39,
-      "up": 48
+      "m": 5,
+      "m0": 13,
+      "rk": 48,
+      "up": 27
      },
      "thesis": {
       "bull": [
@@ -13584,10 +13589,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 1,
       "m0": 4,
-      "rk": 105,
-      "up": 6
+      "rk": 689,
+      "up": 2
      },
      "news": [
       {
@@ -13646,7 +13651,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 730,
+      "up": 3
+     },
      "news": [
       {
        "h": "Nuclear Stocks Rally Off Lows On Milestone U.S. Deal And AI Program",
@@ -14065,7 +14075,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 1,
+      "rk": 49,
+      "up": 10
+     },
      "news": [
       {
        "h": "Morgan Stanley strongly resets GE Vernova stock target",
@@ -14525,7 +14540,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 768,
+      "rk": 665,
       "up": 3
      },
      "news": [
@@ -14613,7 +14628,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 358,
+      "rk": 301,
       "up": 3
      },
      "news": [
@@ -14929,7 +14944,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 4,
+      "rk": 90,
+      "up": 6
+     },
      "news": [
       {
        "h": "Southern (SO) Stock Looks About Right With Strong Returns But Pricey Earnings",
@@ -15015,7 +15035,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 271,
+      "rk": 218,
       "up": 2
      },
      "news": [
@@ -15040,7 +15060,7 @@
      ],
      "awards": [
       {
-       "amt": 15369826.99,
+       "amt": 15688734.68,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15103,8 +15123,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 290,
-      "up": 3
+      "rk": 236,
+      "up": 1
      },
      "news": [
       {
@@ -15329,12 +15349,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 584,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium Holds at $85 as AI Data Centers Go Nuclear",
@@ -15453,7 +15468,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 514,
+      "rk": 442,
       "up": 10
      },
      "news": [
@@ -17527,7 +17542,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-25",
+ "social_asof": "2026-07-26",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17808,23 +17823,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Should You Buy Amazon Stock Before July 30?",
+   "h": "Which Is the Better Value Stock Right Now: Microsoft or Nvidia?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-july-30-062000080.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-value-stock-now-microsoft-073500909.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: Micron Stock Will Return to All-Time Highs Soon",
+   "h": "3 Top Dividend Stocks Yielding 4.3% or More to Buy Right Now for Passive Income",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-return-time-053500431.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-top-dividend-stocks-yielding-072500999.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-microsoft-stock-051700442.html",
+   "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
    "date": "2026-07-26"
   },
   {
@@ -18078,14 +18100,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-could-23-091050062.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "This Artificial Intelligence (AI) Stock May Be the Best Company in the World, Says a Wall Street Analyst",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-stock-may-083200659.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 06:40 UTC"
+ "prices_asof": "2026-07-26 08:07 UTC"
 }
