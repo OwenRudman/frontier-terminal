@@ -1143,15 +1143,15 @@
        "date": "2026-07-25"
       },
       {
-       "h": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
+       "h": "Should You Buy Amazon Stock Before July 30?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/articles/big-bank-earnings-just-revealed-023500824.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-july-30-062000080.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Why RingCentral Stock Rocketed Higher This Week",
+       "h": "Prediction: Micron Stock Will Return to All-Time Highs Soon",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ringcentral-stock-rocketed-higher-020825272.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-return-time-053500431.html",
        "date": "2026-07-26"
       }
      ]
@@ -5883,9 +5883,9 @@
        "date": "2026-07-25"
       },
       {
-       "h": "Cathie Wood buys $50.1 million of tumbling megacap stock",
+       "h": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
        "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-50-1-024700318.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-microsoft-stock-051700442.html",
        "date": "2026-07-26"
       }
      ],
@@ -17807,24 +17807,38 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Should You Buy Amazon Stock Before July 30?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-july-30-062000080.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: Micron Stock Will Return to All-Time Highs Soon",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-stock-return-time-053500431.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-microsoft-stock-051700442.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Morgan Stanley resets Microsoft stock forecast ahead of earnings",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-microsoft-stock-051700442.html",
+   "date": "2026-07-26"
+  },
+  {
    "tk": "TSLA",
    "h": "Cathie Wood buys $50.1 million of tumbling megacap stock",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-50-1-024700318.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/articles/big-bank-earnings-just-revealed-023500824.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why RingCentral Stock Rocketed Higher This Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ringcentral-stock-rocketed-higher-020825272.html",
    "date": "2026-07-26"
   },
   {
@@ -17842,13 +17856,6 @@
    "date": "2026-07-26"
   },
   {
-   "tk": "NVDA",
-   "h": "Oracle Won a $7 Billion Pentagon Contract on Thursday. Yet Shares Have Been Slammed.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-won-7-billion-pentagon-011200235.html",
-   "date": "2026-07-26"
-  },
-  {
    "tk": "LUNR",
    "h": "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run",
    "pub": "Simply Wall St.",
@@ -17860,13 +17867,6 @@
    "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
    "date": "2026-07-25"
   },
   {
@@ -18087,5 +18087,5 @@
    "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 03:25 UTC"
+ "prices_asof": "2026-07-26 06:40 UTC"
 }
