@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
+       "h": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-record-buybacks-rising-margins-145000675.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/were-starting-over-500-invest-165000119.html",
        "date": "2026-07-26"
       },
       {
-       "h": "IonQ vs. Rigetti: Who's Winning the $2.7 Trillion Quantum Computing Race?",
+       "h": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/ionq-vs-rigetti-whos-winning-144500861.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+       "h": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-raised-dividend-65-143500569.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
        "date": "2026-07-26"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Better AI Software Stock: Palantir vs. ServiceNow",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
@@ -1792,12 +1798,6 @@
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
        "date": "2026-07-25"
       }
      ],
@@ -5964,6 +5964,12 @@
      },
      "news": [
       {
+       "h": "TechCrunch Mobility: Uber bets on its former CEO",
+       "pub": "TechCrunch",
+       "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Uber\u2019s New Acquisition and GE Aerospace\u2019s Search for Parts",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-acquisition-ge-aerospace-search-015155881.html",
@@ -5974,12 +5980,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-paypal-buyer-013655849.html",
        "date": "2026-07-25"
-      },
-      {
-       "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -11228,6 +11228,12 @@
      },
      "news": [
       {
+       "h": "Better AI Software Stock: Palantir vs. ServiceNow",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
@@ -11237,12 +11243,6 @@
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
        "date": "2026-07-25"
       }
      ],
@@ -17823,37 +17823,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
+   "h": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-record-buybacks-rising-margins-145000675.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/were-starting-over-500-invest-165000119.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "IonQ vs. Rigetti: Who's Winning the $2.7 Trillion Quantum Computing Race?",
+   "h": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/ionq-vs-rigetti-whos-winning-144500861.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/neocloud-stocks-vs-hyperscalers-actually-163500706.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+   "h": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-raised-dividend-65-143500569.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/magic-number-comfortable-retirement-1-162000761.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "The 1 Vanguard ETF I'd Tell You to Buy Right Now in a Heartbeat",
+   "h": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-vanguard-etf-id-tell-143100947.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "GEV",
-   "h": "Why GE Vernova Investors Should Ignore the Wind",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-ignore-135000520.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/best-quantum-computing-pick-shovel-161400287.html",
    "date": "2026-07-26"
   },
   {
@@ -17861,6 +17854,34 @@
    "h": "Dow sell-side Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Better AI Software Stock: Palantir vs. ServiceNow",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TechCrunch Mobility: Uber bets on its former CEO",
+   "pub": "TechCrunch",
+   "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "UBER",
+   "h": "TechCrunch Mobility: Uber bets on its former CEO",
+   "pub": "TechCrunch",
+   "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "GEV",
+   "h": "Why GE Vernova Investors Should Ignore the Wind",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-ignore-135000520.html",
    "date": "2026-07-26"
   },
   {
@@ -17875,13 +17896,6 @@
    "h": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
    "pub": "Fortune",
    "link": "https://finance.yahoo.com/economy/policy/articles/u-government-invested-27-billion-120000768.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk flags that America is \u20181,000% going to go bankrupt\u2019 and \u2018fail as a country\u2019 \u2014 Here\u2019s what he says can save us",
-   "pub": "Moneywise",
-   "link": "https://finance.yahoo.com/economy/policy/articles/elon-musk-flags-america-1-113500554.html",
    "date": "2026-07-26"
   },
   {
@@ -18086,21 +18100,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/energy/articles/southern-secures-25-openai-power-160851483.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "UMAC",
-   "h": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-startup-just-143015023.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy vs Brookfield Renewable: The Better Dividend Stock",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-brookfield-renewable-143013745.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 15:09 UTC"
+ "prices_asof": "2026-07-26 17:07 UTC"
 }
