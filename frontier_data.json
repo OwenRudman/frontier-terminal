@@ -1143,16 +1143,16 @@
        "date": "2026-07-25"
       },
       {
-       "h": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/options/articles/retirement-10-000-days-no-222829276.html",
-       "date": "2026-07-25"
+       "h": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/economy/articles/big-bank-earnings-just-revealed-023500824.html",
+       "date": "2026-07-26"
       },
       {
-       "h": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
+       "h": "Why RingCentral Stock Rocketed Higher This Week",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-fell-11-4-212700175.html",
-       "date": "2026-07-25"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ringcentral-stock-rocketed-higher-020825272.html",
+       "date": "2026-07-26"
       }
      ]
     },
@@ -1778,15 +1778,15 @@
      },
      "news": [
       {
-       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
-       "date": "2026-07-25"
-      },
-      {
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-25"
+      },
+      {
+       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
        "date": "2026-07-25"
       },
       {
@@ -2356,6 +2356,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "SpaceX (SPCX) Launches Northrop Grumman Repair Mission And Opens A New Service Market",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-launches-northrop-grumman-200643407.html",
@@ -2366,12 +2372,6 @@
        "pub": "Fortune",
        "link": "https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-thought-war-095400081.html",
        "date": "2026-07-25"
-      },
-      {
-       "h": "The Best Aerospace and Defense ETFs to Buy",
-       "pub": "Kiplinger",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/best-aerospace-defense-etfs-buy-201102652.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -5883,10 +5883,10 @@
        "date": "2026-07-25"
       },
       {
-       "h": "Dow sell-side Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-       "date": "2026-07-25"
+       "h": "Cathie Wood buys $50.1 million of tumbling megacap stock",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-50-1-024700318.html",
+       "date": "2026-07-26"
       }
      ],
      "awards": [
@@ -7107,6 +7107,12 @@
      },
      "news": [
       {
+       "h": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html",
+       "date": "2026-07-25"
+      },
+      {
        "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
@@ -7116,12 +7122,6 @@
        "h": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout \u2014 PSKY, UBER, QCOM, VZ, INTC In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-end-225448903.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "TSMC might set up a price hike that could come straight for your next phone, laptop, or tablet",
-       "pub": "Digital Trends",
-       "link": "https://finance.yahoo.com/technology/articles/tsmc-might-set-price-hike-213102472.html",
        "date": "2026-07-24"
       }
      ],
@@ -10395,6 +10395,12 @@
      },
      "news": [
       {
+       "h": "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-looks-011105934.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Archer Aviation vs. Intuitive Machines: Is an Air or Space Pioneer the BetterBuy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-intuitive-machines-191301265.html",
@@ -10405,12 +10411,6 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "RKLB vs. LUNR: Which Emerging Space Stock Is the Better Pick Today?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-vs-lunr-emerging-space-145400922.html",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -10562,6 +10562,12 @@
      ],
      "news": [
       {
+       "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "The 3.4% Income Play That Beats the Dogs of the Dow Strategy",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-4-income-play-beats-162438414.html",
@@ -10571,12 +10577,6 @@
        "h": "Lockheed Isn't Waiting For Pentagon Orders Anymore",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/economy/articles/lockheed-isnt-waiting-pentagon-orders-153038655.html",
-       "date": "2026-07-25"
-      },
-      {
-       "h": "Defense tech investors thought the war in Iran could make them millionaires. Instead, they faced a Wall Street bloodbath",
-       "pub": "Fortune",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-thought-war-095400081.html",
        "date": "2026-07-25"
       }
      ],
@@ -10680,6 +10680,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "SpaceX (SPCX) Launches Northrop Grumman Repair Mission And Opens A New Service Market",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-launches-northrop-grumman-200643407.html",
@@ -10690,12 +10696,6 @@
        "pub": "Fortune",
        "link": "https://finance.yahoo.com/markets/stocks/articles/defense-tech-investors-thought-war-095400081.html",
        "date": "2026-07-25"
-      },
-      {
-       "h": "The Best Aerospace and Defense ETFs to Buy",
-       "pub": "Kiplinger",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/best-aerospace-defense-etfs-buy-201102652.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -11223,15 +11223,15 @@
      },
      "news": [
       {
-       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
-       "date": "2026-07-25"
-      },
-      {
        "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-25"
+      },
+      {
+       "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
        "date": "2026-07-25"
       },
       {
@@ -17807,10 +17807,59 @@
  ],
  "news": [
   {
+   "tk": "TSLA",
+   "h": "Cathie Wood buys $50.1 million of tumbling megacap stock",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-50-1-024700318.html",
+   "date": "2026-07-26"
+  },
+  {
    "tk": "NVDA",
-   "h": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/options/articles/retirement-10-000-days-no-222829276.html",
+   "h": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/articles/big-bank-earnings-just-revealed-023500824.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why RingCentral Stock Rocketed Higher This Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ringcentral-stock-rocketed-higher-020825272.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "LMT",
+   "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NOC",
+   "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Oracle Won a $7 Billion Pentagon Contract on Thursday. Yet Shares Have Been Slammed.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-won-7-billion-pentagon-011200235.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-looks-011105934.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-25"
   },
   {
@@ -17818,27 +17867,6 @@
    "h": "Dow sell-side Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Top 3 US Stock Market Stories From This Week",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-us-stock-market-214117947.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NVDA",
-   "h": "CoreWeave Stock Fell 11.4% on Friday. The Sell-Off Is About What It's Spending, Not What It's Selling.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-fell-11-4-212700175.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NVDA",
-   "h": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nuscale-power-down-38-heres-212500204.html",
    "date": "2026-07-25"
   },
   {
@@ -17881,6 +17909,13 @@
    "h": "Southern (SO) Stock Looks About Right With Strong Returns But Pricey Earnings",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-looks-strong-returns-200607436.html",
+   "date": "2026-07-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html",
    "date": "2026-07-25"
   },
   {
@@ -17951,13 +17986,6 @@
    "h": "NextEra Energy vs Brookfield Renewable: The Better Dividend Stock",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-brookfield-renewable-143013745.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-25"
   },
   {
@@ -18057,35 +18085,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/technology/ai/articles/artificial-intelligence-ai-stock-may-083200659.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "LHX",
-   "h": "Is L3Harris Technologies (LHX) A Bargain Following Its Space Force Satellite Contract?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-bargain-following-081258118.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NXE",
-   "h": "NexGen Energy (TSX:NXE) Stock Looks Above Fair Value Despite 145% Returns",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-tsx-nxe-stock-071330222.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "HII",
-   "h": "Is Huntington Ingalls (HII) Quietly Rewiring Its Moat Through Compliance Hires and Distributed Shipbuilding?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-hii-quietly-rewiring-071240442.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-25 22:58 UTC"
+ "prices_asof": "2026-07-26 03:25 UTC"
 }
