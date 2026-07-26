@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
+       "pub": "Fortune",
+       "link": "https://finance.yahoo.com/economy/policy/articles/u-government-invested-27-billion-120000768.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/trump-nationalize-spacex-heres-betting-172500448.html",
@@ -627,12 +633,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-23"
-      },
-      {
-       "h": "Rare-Earth Stock Gold Rush Leaves Investors Empty-Handed \u2014 For Now",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rare-earth-stocks-iea-outlook-2026-usar-mp/?src=A00220&yptr=yahoo",
-       "date": "2026-07-22"
       }
      ],
      "awards": [
@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News.",
+       "h": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-one-coreweaves-132000989.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-record-buybacks-rising-margins-145000675.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/companies-aggressive-buybacks-lagged-p-131321741.html",
+       "h": "IonQ vs. Rigetti: Who's Winning the $2.7 Trillion Quantum Computing Race?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/articles/ionq-vs-rigetti-whos-winning-144500861.html",
        "date": "2026-07-26"
       },
       {
-       "h": "Warren Buffett Built a $397 Billion War Chest. Berkshire Can Buy Almost Every S&P 500 Company",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-built-397-billion-131153124.html",
+       "h": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-raised-dividend-65-143500569.html",
        "date": "2026-07-26"
       }
      ]
@@ -14083,6 +14083,12 @@
      },
      "news": [
       {
+       "h": "Why GE Vernova Investors Should Ignore the Wind",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-ignore-135000520.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "Morgan Stanley strongly resets GE Vernova stock target",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html",
@@ -14093,12 +14099,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/ai/articles/ge-vernova-gev-176-billion-065504214.html",
        "date": "2026-07-25"
-      },
-      {
-       "h": "Is Inflation Ebbing? Not According to This Business Ratio",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/inflation-according-to-the-inventory-sales-ratio-e4e5a360?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -17823,30 +17823,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News.",
+   "h": "Netflix: Record Buybacks, Rising Margins, and a Slate in Need of a Refresh",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-one-coreweaves-132000989.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-record-buybacks-rising-margins-145000675.html",
    "date": "2026-07-26"
   },
   {
    "tk": "NVDA",
-   "h": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/companies-aggressive-buybacks-lagged-p-131321741.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Warren Buffett Built a $397 Billion War Chest. Berkshire Can Buy Almost Every S&P 500 Company",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-built-397-billion-131153124.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "The Vanguard Total Stock Market ETF (VTI) Now Holds 18,738,438 Shares of SpaceX Stock. Here's What That Means for Investors.",
+   "h": "IonQ vs. Rigetti: Who's Winning the $2.7 Trillion Quantum Computing Race?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-total-stock-market-etf-131100896.html",
+   "link": "https://finance.yahoo.com/technology/articles/ionq-vs-rigetti-whos-winning-144500861.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Cincinnati Financial Has Raised Its Dividend for 65 Straight Years. At 10 Times Earnings, Is the Dividend King a Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cincinnati-financial-raised-dividend-65-143500569.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The 1 Vanguard ETF I'd Tell You to Buy Right Now in a Heartbeat",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-vanguard-etf-id-tell-143100947.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "GEV",
+   "h": "Why GE Vernova Investors Should Ignore the Wind",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-investors-ignore-135000520.html",
    "date": "2026-07-26"
   },
   {
@@ -17861,6 +17868,13 @@
    "h": "'The AI trade is still on': Wall Street sees Big Tech's spending as positive for semiconductor stocks",
    "pub": "Yahoo Finance",
    "link": "https://finance.yahoo.com/markets/article/the-ai-trade-is-still-on-wall-street-sees-big-techs-spending-as-positive-for-semiconductor-stocks-121056519.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "MP",
+   "h": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
+   "pub": "Fortune",
+   "link": "https://finance.yahoo.com/economy/policy/articles/u-government-invested-27-billion-120000768.html",
    "date": "2026-07-26"
   },
   {
@@ -18086,21 +18100,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-brookfield-renewable-143013745.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "LHX",
-   "h": "L3Harris Technologies (LHX) Is Up 6.5% After New Space Force Satellite Deal And Dividend Hike - What's Changed",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-6-5-131247856.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "NOC",
-   "h": "Defense Earnings Show Readiness Now and Modernization Ahead",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-earnings-show-readiness-now-130000175.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 13:38 UTC"
+ "prices_asof": "2026-07-26 15:09 UTC"
 }
