@@ -617,22 +617,22 @@
      },
      "news": [
       {
+       "h": "China\u2019s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/china-rare-earth-strategy-forcing-000000920.html",
+       "date": "2026-07-27"
+      },
+      {
+       "h": "Washington Has Quietly Built A Stock Portfolio That Nobody Can Size: Report",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/washington-quietly-built-stock-portfolio-154919802.html",
+       "date": "2026-07-26"
+      },
+      {
        "h": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
        "pub": "Fortune",
        "link": "https://finance.yahoo.com/economy/policy/articles/u-government-invested-27-billion-120000768.html",
        "date": "2026-07-26"
-      },
-      {
-       "h": "Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/trump-nationalize-spacex-heres-betting-172500448.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "This Boom Is for the AI-Anxious. 10 Ways to Cash In.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -1137,22 +1137,22 @@
      },
      "news": [
       {
-       "h": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now.",
+       "h": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-meta-platforms-negative-2026-225000616.html",
-       "date": "2026-07-26"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
+       "date": "2026-07-27"
       },
       {
-       "h": "AT&T Beat on Earnings, Announced a $10 Billion Buyback, and Still Trades at 8 Times Earnings With a 4.6% Yield.",
+       "h": "Why Quest Diagnostics Stock Climbed This Past Week",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/t-beat-earnings-announced-10-222500597.html",
-       "date": "2026-07-26"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-stock-climbed-022230171.html",
+       "date": "2026-07-27"
       },
       {
-       "h": "Texas Instruments Can Ride AI Demand to New Highs",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/texas-instruments-ride-ai-demand-222000225.html",
-       "date": "2026-07-26"
+       "h": "Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-022228124.html",
+       "date": "2026-07-27"
       }
      ]
     },
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Better AI Software Stock: Palantir vs. ServiceNow",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
@@ -1793,12 +1799,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
        "date": "2026-07-26"
-      },
-      {
-       "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-25"
       }
      ],
      "awards": [
@@ -5891,7 +5891,7 @@
        "h": "Dow sell-side Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-       "date": "2026-07-26"
+       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -11228,6 +11228,12 @@
      },
      "news": [
       {
+       "h": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Better AI Software Stock: Palantir vs. ServiceNow",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
@@ -11238,12 +11244,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
        "date": "2026-07-26"
-      },
-      {
-       "h": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/nvidia-jensen-huang-china-ai-models-openai-anthropic-82fe7a80?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-25"
       }
      ],
      "awards": [
@@ -17826,42 +17826,56 @@
    "h": "Dow sell-side Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
-   "date": "2026-07-26"
+   "date": "2026-07-27"
   },
   {
    "tk": "NVDA",
-   "h": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now.",
+   "h": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-meta-platforms-negative-2026-225000616.html",
-   "date": "2026-07-26"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PLTR",
+   "h": "IBM Fell 25% as Hardware Spending Dominated AI Budgets. Palantir Sells What Runs on Top.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
+   "date": "2026-07-27"
   },
   {
    "tk": "NVDA",
-   "h": "AT&T Beat on Earnings, Announced a $10 Billion Buyback, and Still Trades at 8 Times Earnings With a 4.6% Yield.",
+   "h": "Why Quest Diagnostics Stock Climbed This Past Week",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/t-beat-earnings-announced-10-222500597.html",
-   "date": "2026-07-26"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-stock-climbed-022230171.html",
+   "date": "2026-07-27"
   },
   {
    "tk": "NVDA",
-   "h": "Texas Instruments Can Ride AI Demand to New Highs",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/texas-instruments-ride-ai-demand-222000225.html",
-   "date": "2026-07-26"
+   "h": "Nasdaq, S&P 500, Dow Futures Rise As Iran Pause Eases Oil Fears Ahead Of Big Tech Earnings, Fed Meeting: ORCL, NVDA, VG, DEL In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-022228124.html",
+   "date": "2026-07-27"
   },
   {
    "tk": "NVDA",
-   "h": "Microsoft's Next Earnings Report on July 29 Could Send the Stock Soaring. Here's Why.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/microsofts-next-earnings-report-july-221001552.html",
-   "date": "2026-07-26"
+   "h": "ORCL Stock Jumps Overnight: Nvidia Reportedly Puts $250B On Table For OpenAI\u2019s Data Center Push",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-jumps-overnight-nvidia-022211301.html",
+   "date": "2026-07-27"
   },
   {
    "tk": "TSLA",
-   "h": "Ford Motor vs. Tesla: What The Revenue Trends of These Automotive Giants Tell Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ford-motor-vs-tesla-revenue-214601224.html",
-   "date": "2026-07-26"
+   "h": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020525579.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "MP",
+   "h": "China\u2019s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/china-rare-earth-strategy-forcing-000000920.html",
+   "date": "2026-07-27"
   },
   {
    "tk": "BA",
@@ -17889,6 +17903,13 @@
    "h": "TechCrunch Mobility: Uber bets on its former CEO",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html",
+   "date": "2026-07-26"
+  },
+  {
+   "tk": "MP",
+   "h": "Washington Has Quietly Built A Stock Portfolio That Nobody Can Size: Report",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/washington-quietly-built-stock-portfolio-154919802.html",
    "date": "2026-07-26"
   },
   {
@@ -18079,28 +18100,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-planet-labs-comparing-192602865.html",
    "date": "2026-07-25"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Archer Aviation vs. Intuitive Machines: Is an Air or Space Pioneer the BetterBuy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-intuitive-machines-191301265.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But\u2026'",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-debating-stocks-theyd-never-190025632.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "GEV",
-   "h": "Morgan Stanley strongly resets GE Vernova stock target",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-26 23:02 UTC"
+ "prices_asof": "2026-07-27 03:34 UTC"
 }
