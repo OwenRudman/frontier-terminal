@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 625,
+      "rk": 491,
       "up": 1
      },
      "news": [
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 690,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 109,
-      "rk": 18,
-      "up": 44
+      "m": 44,
+      "m0": 13,
+      "rk": 5,
+      "up": 163
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Fed Chair Kevin Warsh Faces a Committee Where 9 of 19 Members Are Signaling Higher Interest Rates This Year",
+       "h": "MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-faces-072000227.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-why-e-commerce-091500023.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Millionaire Maker or Market Hype? The Honest Truth About TMC The Metals Company.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/millionaire-maker-market-hype-honest-070500438.html",
+       "h": "Stocks to Watch: CXMT, LVMH, Nvidia, Chevron",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-27"
       },
       {
-       "h": "How Lisa Su Has Positioned AMD to Be a Big AI Winner and Why the Stock Is a Buy",
+       "h": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-positioned-amd-big-065000893.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/only-had-500-invest-etf-090400942.html",
        "date": "2026-07-27"
       }
      ]
@@ -1314,9 +1309,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 708,
-      "up": 4
+      "m0": 0,
+      "rk": 550,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 7,
-      "rk": 423,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 62,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -1783,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "The Growth That Has to Land for Palantir Stock to Make Sense",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Palantir\u2019s Infamy Opens Doors for French Challenger",
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-infamy-opens-doors-french-040020154.html",
@@ -1793,12 +1794,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "Better AI Software Stock: Palantir vs. ServiceNow",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
-       "date": "2026-07-26"
       }
      ],
      "awards": [
@@ -2039,12 +2034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 286,
-      "up": 25
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2334,9 +2324,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 193,
-      "up": 4
+      "m0": 1,
+      "rk": 180,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -2490,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 94,
-      "up": 9
+      "m": 1,
+      "m0": 2,
+      "rk": 254,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2842,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 672,
-      "up": 1
+      "rk": 525,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -3156,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 565,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 10,
-      "rk": 716,
-      "up": 0
+      "m": 2,
+      "m0": 1,
+      "rk": 107,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4393,9 +4388,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 372,
+      "rk": 89,
       "up": 4
      },
      "news": [
@@ -4727,9 +4722,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 611,
-      "up": 0
+      "m0": 0,
+      "rk": 481,
+      "up": 2
      },
      "news": [
       {
@@ -5870,9 +5865,9 @@
      "geo": "US",
      "social": {
       "m": 36,
-      "m0": 170,
-      "rk": 7,
-      "up": 208
+      "m0": 36,
+      "rk": 8,
+      "up": 90
      },
      "news": [
       {
@@ -5956,12 +5951,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 13,
-      "rk": 355,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "TechCrunch Mobility: Uber bets on its former CEO",
@@ -6044,8 +6034,19 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 286,
+      "up": 1
+     },
      "news": [
+      {
+       "h": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/china-memory-champion-cxmt-set-230000143.html",
+       "date": "2026-07-26"
+      },
       {
        "h": "Memory Frenzy Primes China Champion CXMT for Historic Debut",
        "pub": "Bloomberg",
@@ -6056,12 +6057,6 @@
        "h": "GOOGL Bets on AI to Defend Search Leadership: More Upside Ahead?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/googl-bets-ai-defend-search-151200801.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "Wall Street Analysts Think Baidu Inc. (BIDU) Is a Good Investment: Is It?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-baidu-133003802.html",
        "date": "2026-07-24"
       }
      ]
@@ -6271,12 +6266,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 669,
-      "up": 4
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -7105,12 +7095,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 200,
-      "up": 2
+      "rk": 86,
+      "up": 10
      },
      "news": [
+      {
+       "h": "Why Cheap QCOM Stock Fails Part Of The Value Test",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-cheap-qcom-stock-fails-084604262.html",
+       "date": "2026-07-27"
+      },
       {
        "h": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
        "pub": "Motley Fool",
@@ -7122,12 +7118,6 @@
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html",
        "date": "2026-07-25"
-      },
-      {
-       "h": "Texas Instruments vs. Qualcomm: One Pays Out 94% of Earnings. The Better Dividend Chip Stock Is Clear.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -7757,12 +7747,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 6,
-      "rk": 21,
-      "up": 285
+      "m": 6,
+      "m0": 13,
+      "rk": 50,
+      "up": 15
      },
      "news": [
+      {
+       "h": "SLS Stock Climbs Premarket: Here\u2019s What Smart Money Is Doing As Sellas Nears Critical Phase 3 AML Readout",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-climbs-premarket-smart-081751159.html",
+       "date": "2026-07-27"
+      },
       {
        "h": "Sellas CEO Angelos Stergiou Says \u2018100% Certain\u2019 AI Can Be Used To Beat Cancer",
        "pub": "Stocktwits",
@@ -7774,12 +7770,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-rises-overnight-retail-051130344.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "SLS Stock July Rout Deepens: \u2018Pharma Bro\u2019 Martin Shkreli Questions Timing Of AML Trial, Says Data May Wait Until Christmas",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-july-rout-deepens-062731606.html",
-       "date": "2026-07-23"
       }
      ]
     }
@@ -8267,9 +8257,9 @@
      "geo": "US",
      "social": {
       "m": 16,
-      "m0": 43,
-      "rk": 15,
-      "up": 42
+      "m0": 18,
+      "rk": 16,
+      "up": 90
      },
      "thesis": {
       "bull": [
@@ -8569,7 +8559,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 390,
+      "rk": 318,
       "up": 6
      },
      "streetNotes": [
@@ -8753,8 +8743,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 634,
-      "up": 3
+      "rk": 496,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -9016,7 +9006,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 600,
+      "up": 0
+     },
      "news": [
       {
        "h": "MDA Space Receives Notice to Proceed Contract From the European Space Company",
@@ -9168,7 +9163,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 667,
+      "rk": 522,
       "up": 2
      },
      "streetNotes": [
@@ -9348,7 +9343,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 531,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Stock Gets Fair Value Boost After Defense Contract Driven Analyst Revisions",
@@ -9510,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 49,
-      "rk": 61,
-      "up": 9
+      "m": 25,
+      "m0": 7,
+      "rk": 10,
+      "up": 95
      },
      "thesis": {
       "bull": [
@@ -9696,6 +9696,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Jumps Premarket: Analyst Says AST SpaceMobile Could Be \u2018Too Little, Too Late\u2019 As Starlink Widens D2D Lead",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-premarket-analyst-083211251.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "AST SpaceMobile (ASTS) Slides On $1b Note Deal As The Valuation Story Stays Intact",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-slides-1b-020750099.html",
@@ -9705,12 +9711,6 @@
        "h": "SpaceX Drops 5%, Rocket Lab Falls 7%, AST SpaceMobile Slides 4% as Jittery Market Awaits Tonight\u2019s Crucial Test Flight",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-drops-5-rocket-lab-164814036.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "SpaceX stock got cut in half after joining an industry sell-off already underway: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html",
        "date": "2026-07-24"
       }
      ]
@@ -10394,9 +10394,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 718,
-      "up": 7
+      "m0": 1,
+      "rk": 558,
+      "up": 1
      },
      "news": [
       {
@@ -10547,10 +10547,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 87,
-      "up": 3
+      "m": 6,
+      "m0": 2,
+      "rk": 41,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -10658,9 +10658,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 193,
-      "up": 4
+      "m0": 1,
+      "rk": 180,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10768,8 +10768,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 124,
-      "up": 3
+      "rk": 119,
+      "up": 1
      },
      "news": [
       {
@@ -10854,9 +10854,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 372,
+      "rk": 89,
       "up": 4
      },
      "news": [
@@ -11137,7 +11137,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 304,
+      "up": 1
+     },
      "news": [
       {
        "h": "Should Value Investors Buy Science Applications International (SAIC) Stock?",
@@ -11221,12 +11226,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 7,
-      "rk": 423,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 62,
+      "up": 6
      },
      "news": [
+      {
+       "h": "The Growth That Has to Land for Palantir Stock to Make Sense",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
+       "date": "2026-07-27"
+      },
       {
        "h": "Palantir\u2019s Infamy Opens Doors for French Challenger",
        "pub": "Bloomberg",
@@ -11238,12 +11249,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fell-25-hardware-spending-025000321.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "Better AI Software Stock: Palantir vs. ServiceNow",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html",
-       "date": "2026-07-26"
       }
      ],
      "awards": [
@@ -11310,10 +11315,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 99,
-      "up": -1
+      "m": 1,
+      "m0": 2,
+      "rk": 367,
+      "up": 1
      },
      "news": [
       {
@@ -12412,7 +12417,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 609,
+      "rk": 480,
       "up": 1
      },
      "news": [
@@ -12472,12 +12477,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 602,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy (TSX:NXE) Stock Looks Above Fair Value Despite 145% Returns",
@@ -12549,12 +12549,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 348,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Denison Mines (TSX:DML) Could Be A Bargain Following Its Split Fair Value Debate",
@@ -12673,8 +12668,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 347,
-      "up": 2
+      "rk": 288,
+      "up": 1
      },
      "news": [
       {
@@ -12754,10 +12749,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 30,
-      "rk": 4,
-      "up": 1368
+      "m": 13,
+      "m0": 46,
+      "rk": 23,
+      "up": 25
      },
      "news": [
       {
@@ -13348,10 +13343,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 13,
-      "rk": 48,
-      "up": 27
+      "m": 1,
+      "m0": 5,
+      "rk": 569,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13590,9 +13585,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 689,
-      "up": 2
+      "m0": 1,
+      "rk": 536,
+      "up": 1
      },
      "news": [
       {
@@ -13651,12 +13646,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 730,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stocks Rally Off Lows On Milestone U.S. Deal And AI Program",
@@ -14076,10 +14066,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 49,
-      "up": 10
+      "m": 1,
+      "m0": 5,
+      "rk": 579,
+      "up": 2
      },
      "news": [
       {
@@ -14540,8 +14530,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 665,
-      "up": 3
+      "rk": 521,
+      "up": 2
      },
      "news": [
       {
@@ -14625,12 +14615,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 301,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Can NRG's Capital Allocation Strategy Drive Shareholder Returns?",
@@ -14945,10 +14930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 90,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 188,
+      "up": 3
      },
      "news": [
       {
@@ -15032,12 +15017,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 218,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NextEra Energy vs Brookfield Renewable: The Better Dividend Stock",
@@ -15123,7 +15103,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 236,
+      "rk": 208,
       "up": 1
      },
      "news": [
@@ -15465,12 +15445,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 442,
-      "up": 10
-     },
+     "social": null,
      "news": [
       {
        "h": "Saudi Nuclear Deal Confusion Threatens Billions in Potential US Manufacturing Sales",
@@ -17542,7 +17517,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-26",
+ "social_asof": "2026-07-27",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17823,16 +17798,58 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Fed Chair Kevin Warsh Faces a Committee Where 9 of 19 Members Are Signaling Higher Interest Rates This Year",
+   "h": "MercadoLibre Stock: Why This E-Commerce Leader Can Outperform the Market Over the Next 5 Years",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-faces-072000227.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-stock-why-e-commerce-091500023.html",
    "date": "2026-07-27"
   },
   {
    "tk": "NVDA",
-   "h": "Millionaire Maker or Market Hype? The Honest Truth About TMC The Metals Company.",
+   "h": "Stocks to Watch: CXMT, LVMH, Nvidia, Chevron",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/millionaire-maker-market-hype-honest-070500438.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/only-had-500-invest-etf-090400942.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia rallies the open AI camp",
+   "pub": "Axios",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rallies-open-ai-camp-090105595.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PLTR",
+   "h": "The Growth That Has to Land for Palantir Stock to Make Sense",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Why Cheap QCOM Stock Fails Part Of The Value Test",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-cheap-qcom-stock-fails-084604262.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Jumps Premarket: Analyst Says AST SpaceMobile Could Be \u2018Too Little, Too Late\u2019 As Starlink Widens D2D Lead",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-premarket-analyst-083211251.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Climbs Premarket: Here\u2019s What Smart Money Is Doing As Sellas Nears Critical Phase 3 AML Readout",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-climbs-premarket-smart-081751159.html",
    "date": "2026-07-27"
   },
   {
@@ -17861,20 +17878,6 @@
    "h": "Does RTX Stock Chart Its Own Course?",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/does-rtx-stock-chart-own-065052210.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "How Lisa Su Has Positioned AMD to Be a Big AI Winner and Why the Stock Is a Buy",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lisa-su-positioned-amd-big-065000893.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Should Nebius and CoreWeave Investors Be Worried About Meta's Latest AI Infrastructure Plans?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nebius-coreweave-investors-worried-metas-062000438.html",
    "date": "2026-07-27"
   },
   {
@@ -17925,6 +17928,13 @@
    "pub": "Oilprice.com",
    "link": "https://finance.yahoo.com/energy/articles/china-rare-earth-strategy-forcing-000000920.html",
    "date": "2026-07-27"
+  },
+  {
+   "tk": "BIDU",
+   "h": "China Memory Champion CXMT Set to Debut After $9.8 Billion IPO",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/china-memory-champion-cxmt-set-230000143.html",
+   "date": "2026-07-26"
   },
   {
    "tk": "BA",
@@ -18053,13 +18063,6 @@
    "date": "2026-07-26"
   },
   {
-   "tk": "PLTR",
-   "h": "Prediction: Palantir Stock Will Drop to This Price After Aug. 3",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-drop-price-071200497.html",
-   "date": "2026-07-26"
-  },
-  {
    "tk": "LMT",
    "h": "Russian attack on Kyiv triggers fires across Ukrainian capital",
    "pub": "Investing.com",
@@ -18072,35 +18075,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html",
    "date": "2026-07-26"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-looks-011105934.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Memory Frenzy Primes China Champion CXMT for Historic Debut",
-   "pub": "Bloomberg",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/memory-frenzy-primes-china-champion-000000045.html",
-   "date": "2026-07-26"
-  },
-  {
-   "tk": "SMR",
-   "h": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nuscale-power-down-38-heres-212500204.html",
-   "date": "2026-07-25"
-  },
-  {
-   "tk": "TLN",
-   "h": "Talen Energy (TLN) Stock May Be Overvalued On Fresh PJM Auction Revenue",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-stock-may-211659985.html",
-   "date": "2026-07-25"
   }
  ],
- "prices_asof": "2026-07-27 07:37 UTC"
+ "prices_asof": "2026-07-27 09:29 UTC"
 }
