@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "US Produces Just 300 Tons of Rare-Earth Magnets Against 48,000-Ton Demand",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/energy/articles/us-produces-just-300-tons-210037859.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "China\u2019s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
        "pub": "Oilprice.com",
        "link": "https://finance.yahoo.com/energy/articles/china-rare-earth-strategy-forcing-000000920.html",
@@ -626,12 +632,6 @@
        "h": "Washington Has Quietly Built A Stock Portfolio That Nobody Can Size: Report",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/washington-quietly-built-stock-portfolio-154919802.html",
-       "date": "2026-07-26"
-      },
-      {
-       "h": "The U.S. government invested $27 billion in corporate stakes. Good luck finding them",
-       "pub": "Fortune",
-       "link": "https://finance.yahoo.com/economy/policy/articles/u-government-invested-27-billion-120000768.html",
        "date": "2026-07-26"
       }
      ],
@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
+       "h": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/nvidia-reportedly-in-talks-to-finance-openais-massive-ohio-data-center-204640730.html",
+       "date": "2026-07-27"
+      },
+      {
+       "h": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/nvidia-drops-4-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html",
+       "link": "https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-won-1-6-billion-192900309.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html",
+       "h": "NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-pursues-750-billion-ai-205709197.html",
        "date": "2026-07-27"
       }
      ]
@@ -1784,15 +1784,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html",
+       "h": "Palantir Earnings Set Up for a Major Beat",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-set-major-beat-205749580.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Salesforce Surges 7%, ServiceNow Jumps 8%, Workday Jumps 10% as Software Rebounds on AI Rotation",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-surges-7-servicenow-jumps-183633422.html",
+       "h": "Palantir Stock Soars -- Gets Massive $200 Price Target Ahead of Critical Earnings",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-soars-gets-massive-205441698.html",
        "date": "2026-07-27"
       }
      ],
@@ -5871,21 +5871,21 @@
      },
      "news": [
       {
+       "h": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
        "date": "2026-07-27"
       },
       {
-       "h": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html",
-       "date": "2026-07-26"
-      },
-      {
-       "h": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-plunge-100-192000603.html",
+       "h": "Tesla Stock Slips Despite Major UK Supreme Court Victory in 5G Patent Fight",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-despite-major-205227482.html",
        "date": "2026-07-27"
       }
      ],
@@ -7102,6 +7102,12 @@
      },
      "news": [
       {
+       "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Is Qualcomm Stock a Buy Ahead of July 29 Q3 Earnings?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-buy-ahead-july-180303502.html",
@@ -7111,12 +7117,6 @@
        "h": "Update: Equities Mixed Intraday as Markets Await Fed Decision, More Earnings Reports",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-markets-await-175438247.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Arm Holdings Has Fallen 28% in the Past Month. Should You Buy Before July 29 Earnings?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-fallen-28-past-172022413.html",
        "date": "2026-07-27"
       }
      ],
@@ -8467,15 +8467,15 @@
      ],
      "news": [
       {
-       "h": "Rocket Lab Stock Soars After Winning Biggest-Ever U.S. Space Force Deal",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-soars-winning-182244022.html",
-       "date": "2026-07-27"
-      },
-      {
        "h": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow?",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/rocket-lab-stock-price-defense-deal-spacex-1feaaac9?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-27"
+      },
+      {
+       "h": "Rocket Lab Stock Soars After Winning Biggest-Ever U.S. Space Force Deal",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-soars-winning-182244022.html",
        "date": "2026-07-27"
       },
       {
@@ -9180,22 +9180,22 @@
      ],
      "news": [
       {
-       "h": "Nvidia vs. Planet Labs: Comparing Revenue Trends Between an Artificial Intelligence Giant and a Rising Star of the Space-Based Economy",
+       "h": "Marvell Technology vs. Planet Labs: Which Growth Stock Is a Better Buy in 2026, the Artificial Intelligence Company or the Rising Star of the Space-Based Economy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-planet-labs-comparing-192602865.html",
-       "date": "2026-07-25"
+       "link": "https://finance.yahoo.com/technology/articles/marvell-technology-vs-planet-labs-204201102.html",
+       "date": "2026-07-27"
       },
       {
-       "h": "3 Reasons We Love Planet Labs (PL)",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-planet-labs-184108848.html",
-       "date": "2026-07-24"
+       "h": "Planet Labs PBC vs. Snowflake: Is a Space Stock or AI Cloud Stock the Better Buy in 2026?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-vs-snowflake-203001305.html",
+       "date": "2026-07-27"
       },
       {
-       "h": "SpaceX stock got cut in half after joining an industry sell-off already underway: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html",
-       "date": "2026-07-24"
+       "h": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-vs-planet-labs-200101531.html",
+       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -9702,15 +9702,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Vodafone AGM Highlights Three UK Integration, Dividend Growth and Cash Flow Ambitions",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vodafone-agm-highlights-three-uk-110156210.html",
+       "h": "Despite Challenges, AST SpaceMobile Stock Could Make a Compelling Options Trade for Contrarians Here",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/options/articles/despite-challenges-ast-spacemobile-stock-142525095.html",
        "date": "2026-07-27"
       },
       {
-       "h": "ASTS Stock Jumps Premarket: Analyst Says AST SpaceMobile Could Be \u2018Too Little, Too Late\u2019 As Starlink Widens D2D Lead",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-jumps-premarket-analyst-083211251.html",
+       "h": "Vodafone AGM Highlights Three UK Integration, Dividend Growth and Cash Flow Ambitions",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vodafone-agm-highlights-three-uk-110156210.html",
        "date": "2026-07-27"
       }
      ]
@@ -9753,21 +9753,21 @@
      "social": null,
      "news": [
       {
-       "h": "Amazon Leo Plans 5,105-Satellite Network for Direct-to-Phone Service",
+       "h": "Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Connectivity",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/technology/amazon-stock-amzn-leo-starlink-spacex/?src=A00220&yptr=yahoo",
+       "date": "2026-07-27"
+      },
+      {
+       "h": "Amazon Files for 5,000 Satellites to Challenge SpaceX",
        "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/articles/amazon-leo-plans-5-105-182439582.html",
+       "link": "https://finance.yahoo.com/technology/articles/amazon-files-5-000-satellites-205309426.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
-       "pub": "TechCrunch",
-       "link": "https://finance.yahoo.com/technology/articles/amazon-satellite-network-mobile-phones-180829515.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Amazon files FCC application for 5,105 direct-to-device satellites",
-       "pub": "Quartz",
-       "link": "https://finance.yahoo.com/technology/articles/amazon-files-fcc-application-5-164949931.html",
+       "h": "Amazon Leo Could Connect Smartphones From Space",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/articles/amazon-leo-could-connect-smartphones-201126340.html",
        "date": "2026-07-27"
       }
      ],
@@ -10567,15 +10567,15 @@
      ],
      "news": [
       {
-       "h": "U.S. Rare-Earth Supply Trails Demand by 47,700 Tons",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/energy/articles/u-rare-earth-supply-trails-192106464.html",
+       "h": "Ford Wants to Build the Army\u2019s New Tactical Truck. What the Push Into Defense Means for the Stock.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/ford-stock-price-army-tactical-truck-1d20d99a?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-27"
       },
       {
-       "h": "Ford and GM Look to Defense for New Growth",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/ford-gm-defense-truck-growth-1d20d99a?siteid=yhoof2&yptr=yahoo",
+       "h": "U.S. Rare-Earth Supply Trails Demand by 47,700 Tons",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/energy/articles/u-rare-earth-supply-trails-192106464.html",
        "date": "2026-07-27"
       },
       {
@@ -10773,21 +10773,21 @@
      },
      "news": [
       {
-       "h": "Earnings live: AstraZeneca stock rises to kick off a busy earnings week",
+       "h": "Earnings live: LVMH sales grow as US luxury shoppers boost results",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/earnings-live-astrazeneca-stock-rises-to-kick-off-a-busy-earnings-week-115207214.html",
+       "link": "https://finance.yahoo.com/markets/live/earnings-live-lvmh-sales-grow-as-us-luxury-shoppers-boost-results-115207214.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Update: Equities Mixed Intraday as Markets Await Fed Decision, More Earnings Reports",
+       "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
        "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-markets-await-175438247.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Durable Goods Orders Increased Less Than Expected",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/durable-goods-orders-increased-less-150900988.html",
+       "h": "Boeing Is Getting More Orders. Now It Needs to Build More Planes.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/boeing-earnings-stock-price-228776d8?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-27"
       }
      ],
@@ -11239,15 +11239,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html",
+       "h": "Palantir Earnings Set Up for a Major Beat",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-set-major-beat-205749580.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Salesforce Surges 7%, ServiceNow Jumps 8%, Workday Jumps 10% as Software Rebounds on AI Rotation",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-surges-7-servicenow-jumps-183633422.html",
+       "h": "Palantir Stock Soars -- Gets Massive $200 Price Target Ahead of Critical Earnings",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-soars-gets-massive-205441698.html",
        "date": "2026-07-27"
       }
      ],
@@ -12359,6 +12359,12 @@
      "social": null,
      "news": [
       {
+       "h": "Cameco gets UBS upgrade on strengthening uranium bull case",
+       "pub": "Proactive",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-gets-ubs-upgrade-strengthening-194800502.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Crescent Energy (CRGY) Reports Next Week: Wall Street Expects Earnings Growth",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/crescent-energy-crgy-reports-next-140008651.html",
@@ -12368,12 +12374,6 @@
        "h": "Cameco (CCJ) Stock Falls Amid Market Uptick: What Investors Need to Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-falls-amid-214502212.html",
-       "date": "2026-07-24"
-      },
-      {
-       "h": "Trump\u2019s Saudi Deal Spurs Watchdog Interest in Nuclear Settlement",
-       "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/energy/articles/trump-saudi-deal-spurs-watchdog-150407832.html",
        "date": "2026-07-24"
       }
      ]
@@ -14011,6 +14011,12 @@
      ],
      "news": [
       {
+       "h": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-vs-archer-aviation-200601607.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls",
        "pub": "The Fly",
        "link": "https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
@@ -14021,12 +14027,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-buy-list-124502432.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "X-Energy vs. BWX Technologies: Which Bet Is More Compelling Today?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/x-energy-vs-bwx-technologies-152000208.html",
-       "date": "2026-07-24"
       }
      ]
     },
@@ -14156,6 +14156,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is the Options Market Predicting a Spike in Mirion Technologies Stock?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-mirion-195000750.html",
+       "date": "2026-07-27"
+      },
+      {
        "h": "Earnings To Watch: Mirion (MIR) Reports Q2 Results Tomorrow",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-mirion-mir-reports-050102845.html",
@@ -14166,12 +14172,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-mir-nuclear-growth-001951059.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "Earnings Preview: Coursera (COUR) Q2 Earnings Expected to Decline",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-coursera-cour-q2-140026826.html",
-       "date": "2026-07-22"
       }
      ],
      "awards": [
@@ -17797,10 +17797,178 @@
  ],
  "news": [
   {
+   "tk": "MP",
+   "h": "US Produces Just 300 Tons of Rare-Earth Magnets Against 48,000-Ton Demand",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/energy/articles/us-produces-just-300-tons-210037859.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Earnings Set Up for a Major Beat",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-earnings-set-major-beat-205749580.html",
+   "date": "2026-07-27"
+  },
+  {
    "tk": "NVDA",
-   "h": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/nvidia-drops-4-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html",
+   "h": "NVIDIA Pursues $750 Billion in New AI Deals Despite Financing Scrutiny",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-pursues-750-billion-ai-205709197.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "GSAT",
+   "h": "Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Connectivity",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/technology/amazon-stock-amzn-leo-starlink-spacex/?src=A00220&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Stock Soars -- Gets Massive $200 Price Target Ahead of Critical Earnings",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-soars-gets-massive-205441698.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "GSAT",
+   "h": "Amazon Files for 5,000 Satellites to Challenge SpaceX",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/articles/amazon-files-5-000-satellites-205309426.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Slips Despite Major UK Supreme Court Victory in 5G Patent Fight",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-slips-despite-major-205227482.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Stock Plummets 50% Below Its Post-IPO High. History Says a $5,000 Investment Will Be Worth This Much by June 2027.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-plummets-50-below-205000156.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "BA",
+   "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/nvidia-reportedly-in-talks-to-finance-openais-massive-ohio-data-center-204640730.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PL",
+   "h": "Marvell Technology vs. Planet Labs: Which Growth Stock Is a Better Buy in 2026, the Artificial Intelligence Company or the Rising Star of the Space-Based Economy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/articles/marvell-technology-vs-planet-labs-204201102.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PL",
+   "h": "Planet Labs PBC vs. Snowflake: Is a Space Stock or AI Cloud Stock the Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-vs-snowflake-203001305.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "LMT",
+   "h": "Ford Wants to Build the Army\u2019s New Tactical Truck. What the Push Into Defense Means for the Stock.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ford-stock-price-army-tactical-truck-1d20d99a?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow?",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/rocket-lab-stock-price-defense-deal-spacex-1feaaac9?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "GSAT",
+   "h": "Amazon Leo Could Connect Smartphones From Space",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/articles/amazon-leo-could-connect-smartphones-201126340.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "BWXT",
+   "h": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-vs-archer-aviation-200601607.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing Is Getting More Orders. Now It Needs to Build More Planes.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/boeing-earnings-stock-price-228776d8?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PL",
+   "h": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-vs-planet-labs-200101531.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "GSAT",
+   "h": "Amazon plans to deploy more than 5,000 satellites for new telecom service",
+   "pub": "CBS News",
+   "link": "https://finance.yahoo.com/technology/articles/amazon-plans-deploy-more-5-195456597.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "MIR",
+   "h": "Is the Options Market Predicting a Spike in Mirion Technologies Stock?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-mirion-195000750.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Cameco gets UBS upgrade on strengthening uranium bull case",
+   "pub": "Proactive",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-gets-ubs-upgrade-strengthening-194800502.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "BA",
+   "h": "Can You Stomach Joby Aviation Stock's Shocks?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stomach-joby-aviation-stocks-shocks-194154848.html",
+   "date": "2026-07-27"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Still Down 26% in 2026, Is Palantir\u2019s Rebound Just Getting Started?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/still-down-26-2026-palantir-193747127.html",
    "date": "2026-07-27"
   },
   {
@@ -17811,52 +17979,10 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "NVDA",
-   "h": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-won-1-6-billion-192900309.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "LMT",
    "h": "U.S. Rare-Earth Supply Trails Demand by 47,700 Tons",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/energy/articles/u-rare-earth-supply-trails-192106464.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia Forms AI Security Alliance After Hugging Face Incident",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-forms-ai-security-alliance-192028841.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Prediction: Tesla Stock Will Plunge to $100 If the Nasdaq Enters a Bear Market",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-plunge-100-192000603.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Wins UK Appeal in 5G Patent Licensing Case",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/articles/tesla-wins-uk-appeal-5g-191811598.html",
    "date": "2026-07-27"
   },
   {
@@ -17874,35 +18000,7 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "LMT",
-   "h": "Ford and GM Look to Defense for New Growth",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/ford-gm-defense-truck-growth-1d20d99a?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Salesforce Surges 7%, ServiceNow Jumps 8%, Workday Jumps 10% as Software Rebounds on AI Rotation",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-surges-7-servicenow-jumps-183633422.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Prediction: Is It Too Late to Buy Palantir Stock?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-too-buy-palantir-stock-183041118.html",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "ASTS",
-   "h": "Amazon Leo Plans 5,105-Satellite Network for Direct-to-Phone Service",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/articles/amazon-leo-plans-5-105-182439582.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "GSAT",
    "h": "Amazon Leo Plans 5,105-Satellite Network for Direct-to-Phone Service",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/technology/articles/amazon-leo-plans-5-105-182439582.html",
@@ -17916,24 +18014,10 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "GSAT",
-   "h": "Amazon\u2019s new satellite network for mobile phones could turn up the heat on SpaceX",
-   "pub": "TechCrunch",
-   "link": "https://finance.yahoo.com/technology/articles/amazon-satellite-network-mobile-phones-180829515.html",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "QCOM",
    "h": "Is Qualcomm Stock a Buy Ahead of July 29 Q3 Earnings?",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-buy-ahead-july-180303502.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "BA",
-   "h": "Update: Equities Mixed Intraday as Markets Await Fed Decision, More Earnings Reports",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mixed-intraday-markets-await-175438247.html",
    "date": "2026-07-27"
   },
   {
@@ -17958,24 +18042,10 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "RKLB",
-   "h": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow?",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/rocket-lab-stock-price-defense-deal-spacex-1feaaac9?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "SMR",
    "h": "Bold Prediction: NuScale Power Is About to Break Out",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/bold-prediction-nuscale-power-break-165700786.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "GSAT",
-   "h": "Amazon files FCC application for 5,105 direct-to-device satellites",
-   "pub": "Quartz",
-   "link": "https://finance.yahoo.com/technology/articles/amazon-files-fcc-application-5-164949931.html",
    "date": "2026-07-27"
   },
   {
@@ -18005,77 +18075,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/space-x-rocket-lab-pentagon-space-force-satellites/?src=A00220&yptr=yahoo",
    "date": "2026-07-27"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Stock Jumps After Securing Largest Launch Contract With Pentagon",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/space-x-rocket-lab-pentagon-space-force-satellites/?src=A00220&yptr=yahoo",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "GEV",
-   "h": "AI Energy Bottleneck: Buy GE Vernova or NextEra Energy on AI Pivot?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/ai-energy-bottleneck-buy-ge-152330474.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "NEE",
-   "h": "AI Energy Bottleneck: Buy GE Vernova or NextEra Energy on AI Pivot?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/ai-energy-bottleneck-buy-ge-152330474.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "GSAT",
-   "h": "Amazon's Leo Starlink Challenger Plans For More Satellites, Mobile Connectivity",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/amazon-stock-amzn-leo-starlink-spacex/?src=A00220&yptr=yahoo",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "SO",
-   "h": "DTE Energy Gears Up to Report Q2 Earnings: What's in the Cards?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dte-energy-gears-report-q2-151200336.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "BA",
-   "h": "Durable Goods Orders Increased Less Than Expected",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/durable-goods-orders-increased-less-150900988.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "SO",
-   "h": "CenterPoint Energy to Report Q2 Earnings: What's in the Cards?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-report-q2-earnings-150800837.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Apple overtakes Nvidia as most valuable company as iPhone maker avoids 'capex pitfalls'",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "UBER",
-   "h": "Killer marketing secrets that always work (ft. Ogilvy Vice Chairman)",
-   "pub": "My First Million",
-   "link": "https://finance.yahoo.com/video/killer-marketing-secrets-always-ft-150008774.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "HII",
-   "h": "Elon Musk\u2019s Tunneling Firm Is Worth More Than About 100 S&P Companies",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/elon-musk-the-boring-company-valuation-17dcd043?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-27"
   }
  ],
- "prices_asof": "2026-07-27 19:41 UTC"
+ "prices_asof": "2026-07-27 21:15 UTC"
 }
