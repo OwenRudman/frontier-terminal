@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 491,
-      "up": 1
+      "rk": 189,
+      "up": 8
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 652,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 13,
-      "rk": 5,
-      "up": 163
+      "m": 324,
+      "m0": 38,
+      "rk": 3,
+      "up": 3918
      },
      "thesis": {
       "bull": [
@@ -1144,9 +1149,9 @@
        "date": "2026-07-27"
       },
       {
-       "h": "AI anxiety sparks tech rout, broad selloff in Asian markets",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
+       "h": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-fallen-58-high-075200126.html",
        "date": "2026-07-28"
       }
      ]
@@ -1309,9 +1314,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 550,
-      "up": 0
+      "m0": 1,
+      "rk": 667,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 62,
-      "up": 6
+      "m": 21,
+      "m0": 4,
+      "rk": 30,
+      "up": 4162
      },
      "thesis": {
       "bull": [
@@ -1858,7 +1863,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 700,
+      "up": 2
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2034,7 +2044,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 318,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -2325,7 +2340,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 180,
+      "rk": 262,
       "up": 1
      },
      "streetNotes": [
@@ -2480,10 +2495,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 254,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 171,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2734,6 +2749,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "1 Cash-Burning Stock to Consider Right Now and 2 We Brush Off",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-consider-152908955.html",
@@ -2743,12 +2764,6 @@
        "h": "AeroVironment (AVAV) Gains As Market Dips: What You Should Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-gains-market-dips-221501926.html",
-       "date": "2026-07-22"
-      },
-      {
-       "h": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-22-212541591.html",
        "date": "2026-07-22"
       }
      ],
@@ -2832,8 +2847,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 525,
-      "up": 3
+      "rk": 633,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -3065,6 +3080,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Red Cat (RCAT) Stock Still Looks Above Fair Value Following A 7x Run",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-rcat-stock-still-090650130.html",
@@ -3075,12 +3096,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/executive-firing-lawsuit-over-controls-051325394.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "Red Cat Holdings (RCAT) Could Be 68% Undervalued After CRO Exit And Legal Complaint",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-could-221157551.html",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -3147,10 +3162,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 565,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 198,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -3415,6 +3430,12 @@
      "take": "The cleverest idea on the list, with the cash to build it. But be honest about the math: ~$1B of value on ~$30M of revenue, with a \"profit\" that came from investments. A venture-style bet dressed as a stock. Own only with money you can watch swing 30% in a week.",
      "news": [
       {
+       "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "This Eric Trump-Backed Startup Just Got AMD's Chips for Its Humanoid Robots\u2014 Now It's Building Military Versions Too, Reviving Conflict-Of-Interest Fears",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-startup-just-143015023.html",
@@ -3425,12 +3446,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-could-1-051319196.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "Eric Trump-backed Foundation partners with AMD to develop humanoid robots",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/ai/articles/eric-trump-backed-foundation-partners-183241547.html",
-       "date": "2026-07-23"
       }
      ]
     },
@@ -4038,10 +4053,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 107,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 676,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4403,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 89,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 390,
+      "up": 3
      },
      "news": [
       {
@@ -4722,8 +4737,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 481,
+      "m0": 1,
+      "rk": 588,
       "up": 2
      },
      "news": [
@@ -5145,7 +5160,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6890401284.74,
+       "amt": 6891031570.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5749,7 +5764,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 705,
+      "up": 1
+     },
      "news": [
       {
        "h": "China Resumes Issuing Robotaxi Licenses After Long Freeze",
@@ -5864,10 +5884,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
+      "m": 98,
       "m0": 36,
-      "rk": 8,
-      "up": 90
+      "rk": 9,
+      "up": 534
      },
      "news": [
       {
@@ -5883,10 +5903,10 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-down-30-heres-why-055000716.html",
-       "date": "2026-07-28"
+       "h": "What new Trump tariffs, inflation could mean for Fed ahead of July meeting",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/trump-tariffs-inflation-could-mean-130000339.html",
+       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -5951,7 +5971,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 376,
+      "up": 2
+     },
      "news": [
       {
        "h": "Best credit cards for restaurants for August 2026",
@@ -6037,7 +6062,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 286,
+      "rk": 371,
       "up": 1
      },
      "news": [
@@ -7095,12 +7120,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 86,
-      "up": 10
+      "m": 4,
+      "m0": 2,
+      "rk": 111,
+      "up": 16
      },
      "news": [
+      {
+       "h": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-28"
+      },
       {
        "h": "Navitas Semiconductor Corporation (NVTS) Reports Q2 Loss, Beats Revenue Estimates",
        "pub": "Zacks",
@@ -7111,12 +7142,6 @@
        "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Qualcomm\u2019s 36% Pullback Creates a Buying Opportunity Ahead of Q3 Earnings",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-36-pullback-creates-buying-183358559.html",
        "date": "2026-07-27"
       }
      ],
@@ -7747,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 13,
-      "rk": 50,
-      "up": 15
+      "m": 22,
+      "m0": 6,
+      "rk": 28,
+      "up": 83
      },
      "news": [
       {
@@ -8256,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 18,
-      "rk": 16,
-      "up": 90
+      "m": 44,
+      "m0": 17,
+      "rk": 17,
+      "up": 250
      },
      "thesis": {
       "bull": [
@@ -8467,6 +8492,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-fallen-58-high-075200126.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Radar",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/articles/rocket-lab-debuts-breakthrough-technology-045000691.html",
@@ -8477,12 +8508,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-stock-022902046.html",
        "date": "2026-07-28"
-      },
-      {
-       "h": "2 of Wall Street\u2019s Favorite Stocks Worth Your Attention and 1 We Question",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/2-wall-street-favorite-stocks-230102845.html",
-       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -8556,12 +8581,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 318,
-      "up": 6
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8743,8 +8763,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 496,
-      "up": 2
+      "rk": 603,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -9008,8 +9028,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 600,
+      "m0": 1,
+      "rk": 723,
       "up": 0
      },
      "news": [
@@ -9160,12 +9180,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 522,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9345,8 +9360,8 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 531,
+      "m0": 1,
+      "rk": 641,
       "up": 1
      },
      "news": [
@@ -9510,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 7,
-      "rk": 10,
-      "up": 95
+      "m": 30,
+      "m0": 28,
+      "rk": 22,
+      "up": 107
      },
      "thesis": {
       "bull": [
@@ -9696,6 +9711,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Breaks 3-Day Slide: Vodafone Says AST Partnership Is \u2018Definitely\u2019 Worth It, Sets Early-2027 Beta Launch",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-breaks-3-day-062513748.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Amazon Leo Plans 5,105-Satellite Network for Direct-to-Phone Service",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/articles/amazon-leo-plans-5-105-182439582.html",
@@ -9705,12 +9726,6 @@
        "h": "Despite Challenges, AST SpaceMobile Stock Could Make a Compelling Options Trade for Contrarians Here",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/options/articles/despite-challenges-ast-spacemobile-stock-142525095.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Vodafone AGM Highlights Three UK Integration, Dividend Growth and Cash Flow Ambitions",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vodafone-agm-highlights-three-uk-110156210.html",
        "date": "2026-07-27"
       }
      ]
@@ -9833,7 +9848,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 365,
+      "up": -3
+     },
      "news": [
       {
        "h": "Iridium Communications (IRDM) Could Be 38% Below Fair Value On Earnings And PNT Launch",
@@ -10393,10 +10413,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 558,
-      "up": 1
+      "rk": 155,
+      "up": 13
      },
      "news": [
       {
@@ -10547,10 +10567,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 2,
-      "rk": 41,
-      "up": 5
+      "m": 1,
+      "m0": 6,
+      "rk": 217,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10659,7 +10679,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 180,
+      "rk": 262,
       "up": 1
      },
      "streetNotes": [
@@ -10766,10 +10786,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 119,
-      "up": 1
+      "rk": 132,
+      "up": 5
      },
      "news": [
       {
@@ -10785,10 +10805,10 @@
        "date": "2026-07-27"
       },
       {
-       "h": "The Gap Between GE Stock And Its Own Numbers",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/gap-between-ge-stock-own-214710211.html",
-       "date": "2026-07-27"
+       "h": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-28"
       }
      ],
      "awards": [
@@ -10854,10 +10874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 89,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 390,
+      "up": 3
      },
      "news": [
       {
@@ -11139,8 +11159,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 304,
+      "m0": 1,
+      "rk": 389,
       "up": 1
      },
      "news": [
@@ -11226,10 +11246,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 62,
-      "up": 6
+      "m": 21,
+      "m0": 4,
+      "rk": 30,
+      "up": 4162
      },
      "news": [
       {
@@ -11316,9 +11336,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 367,
-      "up": 1
+      "m0": 1,
+      "rk": 453,
+      "up": 0
      },
      "news": [
       {
@@ -12417,7 +12437,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 480,
+      "rk": 586,
       "up": 1
      },
      "news": [
@@ -12668,8 +12688,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 288,
-      "up": 1
+      "rk": 373,
+      "up": 3
      },
      "news": [
       {
@@ -12749,10 +12769,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 46,
-      "rk": 23,
-      "up": 25
+      "m": 17,
+      "m0": 11,
+      "rk": 41,
+      "up": 33
      },
      "news": [
       {
@@ -13343,10 +13363,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 569,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 127,
+      "up": 20
      },
      "thesis": {
       "bull": [
@@ -13586,8 +13606,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 536,
-      "up": 1
+      "rk": 650,
+      "up": 7
      },
      "news": [
       {
@@ -13646,7 +13666,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 686,
+      "up": 1
+     },
      "news": [
       {
        "h": "NANO Nuclear Energy shares gain after securing U.S. Air Force contract",
@@ -14066,10 +14091,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 579,
-      "up": 2
+      "m": 3,
+      "m0": 1,
+      "rk": 156,
+      "up": 5
      },
      "news": [
       {
@@ -14530,8 +14555,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 521,
-      "up": 2
+      "rk": 631,
+      "up": 1
      },
      "news": [
       {
@@ -14930,10 +14955,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 188,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 112,
+      "up": 24
      },
      "news": [
       {
@@ -15102,9 +15127,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 208,
-      "up": 1
+      "m0": 0,
+      "rk": 283,
+      "up": 2
      },
      "news": [
       {
@@ -17517,7 +17542,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-27",
+ "social_asof": "2026-07-28",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17798,9 +17823,65 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "AI anxiety sparks tech rout, broad selloff in Asian markets",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
+   "h": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-fallen-58-high-075200126.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-fallen-58-high-075200126.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia invests $5bn in researcher who plotted OpenAI coup",
+   "pub": "The Telegraph",
+   "link": "https://finance.yahoo.com/news/nvidia-invests-5bn-researcher-plotted-074813072.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "BA",
+   "h": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Tech Earnings, Fed Rate Decision: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/tech-earnings-fed-rate-decision-what-to-watch-this-week-vAmRtjs9MVjLnKiNblP5?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "AVAV",
+   "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "RCAT",
+   "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "UMAC",
+   "h": "ONDS, RCAT, AVAV, UMAC Stocks Slide Overnight: Pentagon\u2019s Drone Push Is Reportedly Facing Major Production Gap",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/onds-rcat-avav-umac-stocks-062608370.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Breaks 3-Day Slide: Vodafone Says AST Partnership Is \u2018Definitely\u2019 Worth It, Sets Early-2027 Beta Launch",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-breaks-3-day-062513748.html",
    "date": "2026-07-28"
   },
   {
@@ -17808,13 +17889,6 @@
    "h": "Planet Labs PBC (PL) Could Be 48% Undervalued Following Its Recent Pullback",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pbc-pl-could-061007717.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Tesla Is Down 30% This Year. Here's Why I'm Still Waiting on the Sidelines.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-down-30-heres-why-055000716.html",
    "date": "2026-07-28"
   },
   {
@@ -17836,13 +17910,6 @@
    "h": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Radar",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/technology/articles/rocket-lab-debuts-breakthrough-technology-045000691.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Is Tesla a Buy After Its Latest Earnings Report?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-buy-latest-earnings-report-041640837.html",
    "date": "2026-07-28"
   },
   {
@@ -17986,13 +18053,6 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "BA",
-   "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wavers-oil-slides-204759546.html",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "QCOM",
    "h": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
    "pub": "MT Newswires",
@@ -18028,13 +18088,6 @@
    "date": "2026-07-27"
   },
   {
-   "tk": "RKLB",
-   "h": "Can a $266 Million Defense Deal Help Rocket Lab Escape SpaceX\u2019s Shadow?",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/rocket-lab-stock-price-defense-deal-spacex-1feaaac9?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-27"
-  },
-  {
    "tk": "TDY",
    "h": "Top Stock Reports for Bank of America, Netflix & TotalEnergies",
    "pub": "Zacks",
@@ -18047,35 +18100,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/technology/articles/amazon-leo-could-connect-smartphones-201126340.html",
    "date": "2026-07-27"
-  },
-  {
-   "tk": "BWXT",
-   "h": "BWX Technologies vs. Archer Aviation: What Do the Revenue Trends of These Aerospace and Defense Companies Tell Investors?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-vs-archer-aviation-200601607.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "PL",
-   "h": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-vs-planet-labs-200101531.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "GSAT",
-   "h": "Amazon plans to deploy more than 5,000 satellites for new telecom service",
-   "pub": "CBS News",
-   "link": "https://finance.yahoo.com/technology/articles/amazon-plans-deploy-more-5-195456597.html",
-   "date": "2026-07-27"
-  },
-  {
-   "tk": "MIR",
-   "h": "Is the Options Market Predicting a Spike in Mirion Technologies Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-mirion-195000750.html",
-   "date": "2026-07-27"
   }
  ],
- "prices_asof": "2026-07-28 06:30 UTC"
+ "prices_asof": "2026-07-28 08:13 UTC"
 }
