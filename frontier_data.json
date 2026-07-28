@@ -1137,9 +1137,9 @@
      },
      "news": [
       {
-       "h": "Stock market today: Nasdaq bounces back, S&P 500 and Dow rise as earnings, falling oil prices offset chip weakness",
+       "h": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html",
+       "link": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
        "date": "2026-07-28"
       },
       {
@@ -1149,10 +1149,10 @@
        "date": "2026-07-28"
       },
       {
-       "h": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/nvidia-reportedly-in-talks-to-finance-openais-massive-ohio-data-center-204640730.html",
-       "date": "2026-07-27"
+       "h": "Why Did Palantir Technologies Stock Drop Again?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
+       "date": "2026-07-28"
       }
      ]
     },
@@ -1783,21 +1783,21 @@
      },
      "news": [
       {
+       "h": "Why Did Palantir Technologies Stock Drop Again?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
+       "date": "2026-07-28"
+      },
+      {
+       "h": "Palantir Stock Slumps Ahead of Q2 Earnings",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slumps-ahead-q2-201552124.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "AI Revenue Just Hit $100 Billion From Zero Two Years Ago. Wall Street Warns of a Massive SaaS Trap.",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/ai-revenue-just-hit-100-191529473.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Can PLTR Stock Live Up To Its Multiple?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-live-multiple-143040571.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) Just Overtook the 20-Day Moving Average",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-just-133502959.html",
        "date": "2026-07-28"
       }
      ],
@@ -5891,21 +5891,21 @@
      },
      "news": [
       {
-       "h": "CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron",
+       "h": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/cme-launches-23-hour-single-163000931.html",
+       "link": "https://finance.yahoo.com/video/mag-7-earnings-alphabet-really-set-the-tone-strategist-says-194621871.html",
        "date": "2026-07-28"
       },
       {
-       "h": "SpaceX and Tesla shed $1.2 trillion in July as Apple keeps the megacaps afloat: Chart of the Day",
+       "h": "Tesla stock hasn't been this oversold in more than a year",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/spacex-and-tesla-shed-12-trillion-in-july-as-apple-keeps-the-megacaps-afloat-chart-of-the-day-172709478.html",
-       "date": "2026-07-27"
+       "link": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html",
+       "date": "2026-07-28"
       },
       {
-       "h": "Move Over Tesla, This EV Stock Will Be the Hottest Trade Over the Next 3 Years",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/move-over-tesla-ev-stock-192500418.html",
+       "h": "US stocks mixed ahead key tech earnings, Fed",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
        "date": "2026-07-28"
       }
      ],
@@ -7065,6 +7065,12 @@
      "social": null,
      "news": [
       {
+       "h": "Assessing the chip sector's damage: Chart of the Day",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/assessing-the-chip-sectors-damage-chart-of-the-day-195557807.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls",
        "pub": "The Fly",
        "link": "https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
@@ -7075,12 +7081,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-tesla-2-earnings-reports-132000550.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "Mobileye Stock Is Down Despite Strong Results as Its Founder Steps Down. View the CEO Switch as a Reset, Not a Red Flag.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-stock-down-despite-strong-140002566.html",
-       "date": "2026-07-26"
       }
      ]
     },
@@ -7133,15 +7133,15 @@
        "date": "2026-07-28"
       },
       {
-       "h": "Qualcomm (QCOM) Reports Earnings Tomorrow: What To Expect",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-reports-earnings-tomorrow-171702031.html",
+       "h": "Qualcomm\u2019s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-samsung-expansion-ai-201124878.html",
        "date": "2026-07-28"
       },
       {
-       "h": "Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/intels-advanced-packaging-tie-lens-163300722.html",
+       "h": "Qualcomm faces crucial test after brutal 35% slide",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-crucial-test-brutal-194700071.html",
        "date": "2026-07-28"
       }
      ],
@@ -8492,6 +8492,12 @@
      ],
      "news": [
       {
+       "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/space-race-trump-dot-faa-environmental-rules-regulations-commercial-space-operations-spacex/?src=A00220&yptr=yahoo",
+       "date": "2026-07-28"
+      },
+      {
        "h": "3 Space Stocks Down More Than 50% From Their Highs",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-space-stocks-down-more-180805883.html",
@@ -8501,12 +8507,6 @@
        "h": "SpaceX Slips 3%, Rocket Lab Sinks 9%, AST SpaceMobile Drops 7% Even as Six Members of Congress Buy SPCX Stock",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-slips-3-rocket-lab-143753736.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "SpaceX Cratering Below IPO Price, But 1 Wall Street Pro Thinks It Could 8X From Here",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-cratering-below-ipo-price-134911911.html",
        "date": "2026-07-28"
       }
      ],
@@ -8946,6 +8946,12 @@
      },
      "news": [
       {
+       "h": "Archer Aviation vs. Redwire: Which Aerospace Stock Is a Better Buy in 2026?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-redwire-aerospace-193501982.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "SpaceX stock got cut in half after joining an industry sell-off already underway: Chart of the Day",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/spacex-stock-got-cut-in-half-after-joining-an-industry-sell-off-already-underway-chart-of-the-day-100000924.html",
@@ -8956,12 +8962,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-rdw-1-002831943.html",
        "date": "2026-07-24"
-      },
-      {
-       "h": "Redwire Stock Is Down 42% Over the Last Year. Trading Under $10, Is Now the Time to Buy the Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-stock-down-42-over-102500584.html",
-       "date": "2026-07-23"
       }
      ],
      "awards": [
@@ -9443,6 +9443,12 @@
      "social": null,
      "news": [
       {
+       "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/space-race-trump-dot-faa-environmental-rules-regulations-commercial-space-operations-spacex/?src=A00220&yptr=yahoo",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Spire Global Hits Major Milestone With Successful 10-Satellite Launch. How You Should Play SPIR Stock Here.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spire-global-hits-major-milestone-140002541.html",
@@ -9453,12 +9459,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-outperforming-other-134006035.html",
        "date": "2026-07-09"
-      },
-      {
-       "h": "Spire (SPIR) Upgraded to Buy: Here's What You Should Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spire-spir-upgraded-buy-heres-160004889.html",
-       "date": "2026-07-06"
       }
      ],
      "awards": [
@@ -9856,6 +9856,12 @@
      },
      "news": [
       {
+       "h": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar",
+       "pub": "The Daily Upside",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rival-rocket-lab-scores-040100449.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Iridium Communications (IRDM) Could Be 38% Below Fair Value On Earnings And PNT Launch",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-communications-irdm-could-38-031649501.html",
@@ -9865,12 +9871,6 @@
        "h": "How Iridium\u2019s New Anti-Jamming PNT Chip And Mixed Q2 Results At Iridium Communications (IRDM) Has Changed Its Investment Story",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-anti-jamming-pnt-chip-190830905.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Rocket Lab Stock Jumps After Securing Largest Launch Contract With Pentagon",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/space-x-rocket-lab-pentagon-space-force-satellites/?src=A00220&yptr=yahoo",
        "date": "2026-07-27"
       }
      ],
@@ -10805,9 +10805,9 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Boeing posts larger loss than expected as Air Force One costs rise",
-       "pub": "Reuters Videos",
-       "link": "https://finance.yahoo.com/video/boeing-posts-larger-loss-expected-181407046.html",
+       "h": "The Boeing Company Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-q2-2026-earnings-204932494.html",
        "date": "2026-07-28"
       }
      ],
@@ -11253,21 +11253,21 @@
      },
      "news": [
       {
+       "h": "Why Did Palantir Technologies Stock Drop Again?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
+       "date": "2026-07-28"
+      },
+      {
+       "h": "Palantir Stock Slumps Ahead of Q2 Earnings",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slumps-ahead-q2-201552124.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "AI Revenue Just Hit $100 Billion From Zero Two Years Ago. Wall Street Warns of a Massive SaaS Trap.",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/ai-revenue-just-hit-100-191529473.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Can PLTR Stock Live Up To Its Multiple?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-live-multiple-143040571.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) Just Overtook the 20-Day Moving Average",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-just-133502959.html",
        "date": "2026-07-28"
       }
      ],
@@ -14181,6 +14181,12 @@
      "social": null,
      "news": [
       {
+       "h": "Mirion (NYSE:MIR) Misses Q2 CY2026 Sales Expectations",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-nyse-mir-misses-q2-205100104.html",
+       "date": "2026-07-28"
+      },
+      {
        "h": "Is the Options Market Predicting a Spike in Mirion Technologies Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-mirion-195000750.html",
@@ -14191,12 +14197,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-mirion-mir-reports-050102845.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "Mirion Technologies (MIR) Nuclear Growth Story Meets Questions Over Fair Value",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-mir-nuclear-growth-001951059.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -17823,16 +17823,121 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-signs-50-billion-192803623.html",
+   "h": "Why Did Palantir Technologies Stock Drop Again?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Why Did Palantir Technologies Stock Drop Again?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Itron Stock Soared 26% Higher Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-itron-stock-soared-26-205306592.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "MIR",
+   "h": "Mirion (NYSE:MIR) Misses Q2 CY2026 Sales Expectations",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-nyse-mir-misses-q2-205100104.html",
    "date": "2026-07-28"
   },
   {
    "tk": "TSLA",
-   "h": "Move Over Tesla, This EV Stock Will Be the Hottest Trade Over the Next 3 Years",
+   "h": "US stocks mixed ahead key tech earnings, Fed",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/news/ai-anxiety-sparks-tech-rout-023132715.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "BA",
+   "h": "The Boeing Company Q2 2026 Earnings Call Summary",
+   "pub": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-company-q2-2026-earnings-204932494.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing Shares Surge To Regain Support After Q2 Results",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/boeing-stock-earnings-q2-2026-supply-chain-deliveries-certification-dow-jones/?src=A00220&yptr=yahoo",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/space-race-trump-dot-faa-environmental-rules-regulations-commercial-space-operations-spacex/?src=A00220&yptr=yahoo",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "SPIR",
+   "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/space-race-trump-dot-faa-environmental-rules-regulations-commercial-space-operations-spacex/?src=A00220&yptr=yahoo",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Stock Slumps Ahead of Q2 Earnings",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slumps-ahead-q2-201552124.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX Erased Tesla\u2019s Marketcap in Little Over a Month",
+   "pub": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-erased-tesla-marketcap-little-201339199.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm\u2019s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-samsung-expansion-ai-201124878.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "MBLY",
+   "h": "Assessing the chip sector's damage: Chart of the Day",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/assessing-the-chip-sectors-damage-chart-of-the-day-195557807.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm faces crucial test after brutal 35% slide",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-crucial-test-brutal-194700071.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/mag-7-earnings-alphabet-really-set-the-tone-strategist-says-194621871.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-posted-big-beat-still-194452473.html",
+   "date": "2026-07-28"
+  },
+  {
+   "tk": "RDW",
+   "h": "Archer Aviation vs. Redwire: Which Aerospace Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/move-over-tesla-ev-stock-192500418.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-redwire-aerospace-193501982.html",
    "date": "2026-07-28"
   },
   {
@@ -17864,13 +17969,6 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "TSLA",
-   "h": "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-now-33-month-easily-190704567.html",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "UBER",
    "h": "Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10?",
    "pub": "24/7 Wall St.",
@@ -17885,10 +17983,10 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "BA",
-   "h": "Boeing posts larger loss than expected as Air Force One costs rise",
-   "pub": "Reuters Videos",
-   "link": "https://finance.yahoo.com/video/boeing-posts-larger-loss-expected-181407046.html",
+   "tk": "PLTR",
+   "h": "Nvidia CEO Jensen Huang Urges Support for Open-Weight AI Models",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-urges-185108422.html",
    "date": "2026-07-28"
   },
   {
@@ -17941,13 +18039,6 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "BA",
-   "h": "Update: Equities Mostly Rise Intraday as Fed Meeting Begins",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/equities-mostly-rise-intraday-fed-180716520.html",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "TXT",
    "h": "Textron Inc. Q2 2026 Earnings Call Summary",
    "pub": "Moby",
@@ -17959,13 +18050,6 @@
    "h": "Uber Eats is sued over priority delivery fees",
    "pub": "Nation's Restaurant News",
    "link": "https://finance.yahoo.com/small-business/articles/uber-eats-sued-over-priority-172800927.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm (QCOM) Reports Earnings Tomorrow: What To Expect",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-reports-earnings-tomorrow-171702031.html",
    "date": "2026-07-28"
   },
   {
@@ -18011,96 +18095,12 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "QCOM",
-   "h": "Can Intel's Advanced Packaging Tie-Up With Lens Technology Aid Shares?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/articles/intels-advanced-packaging-tie-lens-163300722.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/cme-launches-23-hour-single-163000931.html",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "MP",
    "h": "Is MP Materials (MP) Undervalued As The U.S. Takes A $400 Million Stake?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-undervalued-u-161106482.html",
    "date": "2026-07-28"
-  },
-  {
-   "tk": "SERV",
-   "h": "NVIDIA CEO Jensen Huang Says the \u2018ChatGPT Moment\u2019 Has Already Happened for the Next $50 Trillion Trend",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-161058898.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX (RTX) Stock May Be Below Fair Value On Cash Flow Yet Full On Earnings",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-may-below-161038738.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Will Qualcomm (QCOM) Beat Estimates Again in Its Next Earnings Report?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-beat-estimates-again-161001081.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile (ASTS) Sets August 5 Launch For Three BlueBird Satellites",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-sets-august-160915038.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "D",
-   "h": "Dominion Energy to Report Q2 Earnings: What to Expect From the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-report-q2-earnings-160900346.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "NVDA",
-   "h": "CLARITY Act hits summer roadblock",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/clarity-act-hits-summer-roadblock-155743444.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "LHX",
-   "h": "Can These 3 Aerospace & Defense Stocks Hit Q2 Earnings Targets?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-aerospace-defense-stocks-hit-155000081.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "DUK",
-   "h": "CenterPoint Energy Q2 Earnings Beat Estimates, Revenues Improve Y/Y",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-q2-earnings-beat-154600846.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "DUK",
-   "h": "DTE Energy's Q2 Earnings Beat Estimates, Decrease Year Over Year",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/energy/articles/dte-energys-q2-earnings-beat-154300195.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "PEG",
-   "h": "CMS Energy Q2 Earnings Match Estimates, Revenues Decrease Y/Y",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-q2-earnings-match-153800833.html",
-   "date": "2026-07-28"
   }
  ],
- "prices_asof": "2026-07-28 19:39 UTC"
+ "prices_asof": "2026-07-28 21:12 UTC"
 }
