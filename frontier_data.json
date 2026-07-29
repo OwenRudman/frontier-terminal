@@ -1143,15 +1143,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nextera-brookfield-building-100-billion-205501515.html",
+       "h": "OneMain Holdings, Inc. Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/onemain-holdings-inc-q2-2026-225031010.html",
        "date": "2026-07-29"
       },
       {
-       "h": "3 Beaten-Down Stocks With GLP-1 Exposure to Buy and Hold",
+       "h": "Why Garmin Stock Soared Today",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/3-beaten-down-stocks-glp-205400021.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-garmin-stock-soared-today-223847584.html",
        "date": "2026-07-29"
       }
      ]
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Smart Money Shifts: Palantir (PLTR) Gains Hedge Fund Backing as Snowflake (SNOW) Sees Trims",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/smart-money-shifts-palantir-pltr-220224389.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "The Playbook for Palantir Ahead of Q3 Earnings",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/playbook-palantir-ahead-q3-earnings-174216479.html",
@@ -1787,12 +1793,6 @@
        "h": "PLTR vs. ACN: Which Leading Tech Stock Should You Consider?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-acn-leading-tech-170200003.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "Decoding PLTR Stock's Premium Valuation",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/decoding-pltr-stocks-premium-valuation-154148921.html",
        "date": "2026-07-29"
       }
      ],
@@ -2356,21 +2356,21 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
+      },
+      {
+       "h": "General Dynamics Stock Drops Following Earnings Beat",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Here\u2019s What Rising Defense Spending Means for Northrop Grumman (NOC)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rising-defense-spending-means-northrop-193908379.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "General Dynamics' Q2 Earnings Surpass Estimates, Revenues Improve Y/Y",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-q2-earnings-surpass-142700138.html",
        "date": "2026-07-29"
       }
      ],
@@ -4733,12 +4733,6 @@
      },
      "news": [
       {
-       "h": "Tesla is Betting Robots Are The Next Nvidia. This Could Be the Biggest Shift Since the AI Boom.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-betting-robots-next-nvidia-144025887.html",
-       "date": "2026-07-29"
-      },
-      {
        "h": "Ouster, Inc. (OUST) Stock Drops Despite Market Gains: Important Facts to Note",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-stock-drops-221502252.html",
@@ -4749,6 +4743,12 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/these-high-flying-tech-stocks-are-down-65--heres-how-to-shop-the-sell-off-one-big-investment-idea-131623103.html",
        "date": "2026-07-23"
+      },
+      {
+       "h": "Kalanick\u2019s Atoms raises $1.7B in a16z-led round for industrial AI",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
+       "date": "2026-07-22"
       }
      ],
      "awards": [
@@ -5118,6 +5118,12 @@
      "social": null,
      "news": [
       {
+       "h": "L3Harris (LHX) Q2 Earnings and Revenues Top Estimates",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-q2-earnings-revenues-212505681.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Huntington Ingalls to Post Q2 Earnings: What's in the Cards?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-post-q2-earnings-143100747.html",
@@ -5128,12 +5134,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-hii-report-earnings-135702075.html",
        "date": "2026-07-29"
-      },
-      {
-       "h": "Elon Musk\u2019s Tunneling Firm Is Worth More Than About 100 S&P Companies",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/elon-musk-the-boring-company-valuation-17dcd043?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -5882,15 +5882,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-space-stocks-rocket-lab-kratos-intuitive-machines-tesla-space-force/?src=A00220&yptr=yahoo",
+       "h": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-closed-tuesday-3-above-211300180.html",
        "date": "2026-07-29"
       },
       {
-       "h": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-falls-again-1-183437913.html",
+       "h": "An economist dared Elon Musk to give away his $1t fortune in the next decade \u2013 Musk says he\u2019s planning something similar",
+       "pub": "Moneywise",
+       "link": "https://finance.yahoo.com/economy/policy/articles/economist-dared-elon-musk-away-210000852.html",
        "date": "2026-07-29"
       }
      ],
@@ -7134,9 +7134,9 @@
        "date": "2026-07-29"
       },
       {
-       "h": "Qualcomm falls on weak fourth quarter earnings guidance",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-falls-weak-fourth-quarter-204023703.html",
+       "h": "Qualcomm Profit Declines, Dented by Higher Costs",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/earnings/qualcomm-profit-declines-dented-by-higher-costs-0e113f77?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
       }
      ],
@@ -7205,12 +7205,6 @@
      "social": null,
      "news": [
       {
-       "h": "Tesla is Betting Robots Are The Next Nvidia. This Could Be the Biggest Shift Since the AI Boom.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-betting-robots-next-nvidia-144025887.html",
-       "date": "2026-07-29"
-      },
-      {
        "h": "Microchip's Hailo Buyout Strengthens Edge AI Ambitions: What's Ahead?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/microchips-hailo-buyout-strengthens-edge-165200336.html",
@@ -7221,6 +7215,12 @@
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
        "date": "2026-07-22"
+      },
+      {
+       "h": "Ambarella (AMBA) Upgraded to Buy: What Does It Mean for the Stock?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ambarella-amba-upgraded-buy-does-160002994.html",
+       "date": "2026-07-21"
       }
      ]
     },
@@ -8497,6 +8497,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab (RKLB) Is Down 7.6% After Record US$266M U.S. Space Force Launch Deal - What's Changed",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-down-7-211003917.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-space-stocks-rocket-lab-kratos-intuitive-machines-tesla-space-force/?src=A00220&yptr=yahoo",
@@ -8506,12 +8512,6 @@
        "h": "Rocket Lab, SpaceX fall despite historic FAA deregulation",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/economy/policy/articles/rocket-lab-spacex-fall-despite-200700714.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "RKLB Stock Eyes Worst Month Ever, But Cathie Wood Keeps Buying \u2014 ARK Adds Rocket Lab, Cuts Exposure To $8B Takeover Target",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-eyes-worst-month-055916008.html",
        "date": "2026-07-29"
       }
      ],
@@ -10587,19 +10587,19 @@
      ],
      "news": [
       {
-       "h": "Here\u2019s What Rising Defense Spending Means for Northrop Grumman (NOC)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rising-defense-spending-means-northrop-193908379.html",
+       "h": "Pentagon Widens Patriot Missile Order to Nearly $59 Billion",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
       },
       {
-       "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
+       "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
       },
       {
-       "h": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat",
+       "h": "General Dynamics Stock Drops Following Earnings Beat",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
@@ -10705,21 +10705,21 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
+      },
+      {
+       "h": "General Dynamics Stock Drops Following Earnings Beat",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Here\u2019s What Rising Defense Spending Means for Northrop Grumman (NOC)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rising-defense-spending-means-northrop-193908379.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "General Dynamics' Q2 Earnings Surpass Estimates, Revenues Improve Y/Y",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-q2-earnings-surpass-142700138.html",
        "date": "2026-07-29"
       }
      ],
@@ -10972,22 +10972,22 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "L3Harris (LHX) Q2 Earnings and Revenues Top Estimates",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-q2-earnings-revenues-212505681.html",
+       "date": "2026-07-29"
+      },
+      {
+       "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
+      },
+      {
        "h": "L3Harris Raises Guidance on Higher Profit, Revenue",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/business/earnings/l3harris-raises-guidance-on-higher-profit-revenue-99245ed2?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
-      },
-      {
-       "h": "Can These 3 Aerospace & Defense Stocks Hit Q2 Earnings Targets?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-aerospace-defense-stocks-hit-155000081.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Boeing (BA) Reports Q2 Loss, Beats Revenue Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-reports-q2-loss-125001606.html",
-       "date": "2026-07-28"
       }
      ],
      "awards": [
@@ -11077,6 +11077,12 @@
      ],
      "news": [
       {
+       "h": "Leidos (LDOS) Dips More Than Broader Market: What You Should Know",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-dips-more-broader-214504001.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Amdocs (DOX) Earnings Expected to Grow: Should You Buy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/amdocs-dox-earnings-expected-grow-140023849.html",
@@ -11087,12 +11093,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-expected-beat-earnings-140029253.html",
        "date": "2026-07-28"
-      },
-      {
-       "h": "Leidos (LDOS) Beats Stock Market Upswing: What Investors Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-beats-stock-market-215005220.html",
-       "date": "2026-07-27"
       }
      ],
      "awards": [
@@ -11248,6 +11248,12 @@
      },
      "news": [
       {
+       "h": "Smart Money Shifts: Palantir (PLTR) Gains Hedge Fund Backing as Snowflake (SNOW) Sees Trims",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/smart-money-shifts-palantir-pltr-220224389.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "The Playbook for Palantir Ahead of Q3 Earnings",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/playbook-palantir-ahead-q3-earnings-174216479.html",
@@ -11257,12 +11263,6 @@
        "h": "PLTR vs. ACN: Which Leading Tech Stock Should You Consider?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-acn-leading-tech-170200003.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "Decoding PLTR Stock's Premium Valuation",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/decoding-pltr-stocks-premium-valuation-154148921.html",
        "date": "2026-07-29"
       }
      ],
@@ -13530,6 +13530,12 @@
      },
      "news": [
       {
+       "h": "Oklo vs. Plug Power: Which Utilities Stock Is a Better Buy in 2026?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/oklo-vs-plug-power-utilities-213718572.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Oklo Is Down Over 75% From Its High. It's Still Not the Best Nuclear Stock to Buy.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/oklo-down-over-75-high-170500956.html",
@@ -13539,12 +13545,6 @@
        "h": "US-Saudi Sign Landmark Atomic Deal: A Game Changer for Nuclear ETFs?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/us-saudi-sign-landmark-atomic-130300036.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "Oklo (OKLO) Wins DOE Startup Approval For Its Groves Test Reactor",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-wins-doe-startup-120743224.html",
        "date": "2026-07-29"
       }
      ],
@@ -14084,9 +14084,9 @@
        "date": "2026-07-29"
       },
       {
-       "h": "GE (NYSE:GE) Is Finding A New Role Powering The AI Data Center Boom",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/ge-nyse-ge-finding-role-190946463.html",
+       "h": "GE HealthCare Stock Soars After Earnings\u2014and It\u2019s Suddenly the Best Performing GE",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/ge-healthcare-earnings-stock-price-vernova-aerospace-ce5fd821?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
       },
       {
@@ -14166,21 +14166,21 @@
      },
      "news": [
       {
+       "h": "Mirion Technologies Inc (MIR) Q2 2026 Earnings Call Highlights: Robust Revenue Growth and ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-inc-mir-q2-210410483.html",
+       "date": "2026-07-29"
+      },
+      {
+       "h": "Mirion Technologies, Inc. Q2 2026 Earnings Call Summary",
+       "pub": "Moby",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-inc-q2-2026-123000516.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Here's What Key Metrics Tell Us About Mirion Technologies (MIR) Q2 Earnings",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-key-metrics-tell-us-223001316.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Mirion Technologies, Inc. (MIR) Q2 Earnings Beat Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-inc-mir-q2-220009121.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Mirion (NYSE:MIR) Misses Q2 CY2026 Sales Expectations",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-nyse-mir-misses-q2-205100104.html",
        "date": "2026-07-28"
       }
      ],
@@ -14628,6 +14628,12 @@
      "social": null,
      "news": [
       {
+       "h": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-220839951.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Edison International to Release Q2 Earnings: What's in Store?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/edison-international-release-q2-earnings-142800056.html",
@@ -14637,12 +14643,6 @@
        "h": "Vistra Corp. (VST) Stock Declines While Market Improves: Some Information for Investors",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-stock-declines-214506456.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Can CEG's Capital Allocation Strategy Enhance Shareholder Value?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cegs-capital-allocation-strategy-enhance-165800869.html",
        "date": "2026-07-28"
       }
      ],
@@ -14947,22 +14947,22 @@
      },
      "news": [
       {
+       "h": "Southern Company (SO): A New AI Data Center Play For Long-Term Investors?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/southern-company-ai-data-center-220221162.html",
+       "date": "2026-07-29"
+      },
+      {
+       "h": "Southern (SO) Completes Moody Battery Project As Georgia Storage Buildout Expands",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/southern-completes-moody-battery-project-211030517.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Edison International to Release Q2 Earnings: What's in Store?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/edison-international-release-q2-earnings-142800056.html",
        "date": "2026-07-29"
-      },
-      {
-       "h": "Is Southern (SO) Fully Priced As Earnings And Battery Storage Hopes Build?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-fully-priced-earnings-battery-091014550.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "Xcel Energy to Post Q2 Earnings: What's in Store for the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-post-q2-earnings-170300042.html",
-       "date": "2026-07-28"
       }
      ],
      "awards": [
@@ -15258,6 +15258,12 @@
      "social": null,
      "news": [
       {
+       "h": "Entergy Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/entergy-q2-earnings-call-highlights-210404655.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Entergy Q2 Earnings Beat Estimates, Sales Improve Year Over Year",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-q2-earnings-beat-estimates-131000159.html",
@@ -15268,12 +15274,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-q2-earnings-top-122506176.html",
        "date": "2026-07-29"
-      },
-      {
-       "h": "CMS Energy (CMS) Meets Q2 Earnings Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-cms-meets-q2-114001772.html",
-       "date": "2026-07-28"
       }
      ],
      "awards": [
@@ -17807,45 +17807,24 @@
  ],
  "news": [
   {
-   "tk": "NEE",
-   "h": "NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-brookfield-building-100-billion-205501515.html",
+   "tk": "NVDA",
+   "h": "OneMain Holdings, Inc. Q2 2026 Earnings Call Summary",
+   "pub": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/onemain-holdings-inc-q2-2026-225031010.html",
    "date": "2026-07-29"
   },
   {
    "tk": "NVDA",
-   "h": "NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know.",
+   "h": "Why Garmin Stock Soared Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-brookfield-building-100-billion-205501515.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-garmin-stock-soared-today-223847584.html",
    "date": "2026-07-29"
   },
   {
    "tk": "NVDA",
-   "h": "3 Beaten-Down Stocks With GLP-1 Exposure to Buy and Hold",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/3-beaten-down-stocks-glp-205400021.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Cracker Barrel Is Up 104%. Here's Why the CEO Is Stepping Down Anyway.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-104-heres-why-205300044.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile vs. QuantumScape: Which Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-quantumscape-stock-205042053.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm falls on weak fourth quarter earnings guidance",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-falls-weak-fourth-quarter-204023703.html",
+   "h": "SoFi Technologies, Inc. Q2 2026 Earnings Call Summary",
+   "pub": "Moby",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-inc-q2-2026-223421473.html",
    "date": "2026-07-29"
   },
   {
@@ -17856,10 +17835,178 @@
    "date": "2026-07-29"
   },
   {
+   "tk": "VST",
+   "h": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-220839951.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Smart Money Shifts: Palantir (PLTR) Gains Hedge Fund Backing as Snowflake (SNOW) Sees Trims",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/smart-money-shifts-palantir-pltr-220224389.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "SO",
+   "h": "Southern Company (SO): A New AI Data Center Play For Long-Term Investors?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/southern-company-ai-data-center-220221162.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LMT",
+   "h": "Pentagon Widens Patriot Missile Order to Nearly $59 Billion",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm and Arm Forecasts Fail to Impress Investors",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/video/qualcomm-arm-forecasts-fail-impress-214831866.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LDOS",
+   "h": "Leidos (LDOS) Dips More Than Broader Market: What You Should Know",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-dips-more-broader-214504001.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Oklo vs. Plug Power: Which Utilities Stock Is a Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/oklo-vs-plug-power-utilities-213718572.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "HII",
+   "h": "L3Harris (LHX) Q2 Earnings and Revenues Top Estimates",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-q2-earnings-revenues-212505681.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris (LHX) Q2 Earnings and Revenues Top Estimates",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-q2-earnings-revenues-212505681.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Closed Tuesday 3% Above Its 52-Week Low. Here's What Happened the Last 3 Times It Got This Close.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-closed-tuesday-3-above-211300180.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "SO",
+   "h": "Southern (SO) Completes Moody Battery Project As Georgia Storage Buildout Expands",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/southern-completes-moody-battery-project-211030517.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Is Down 7.6% After Record US$266M U.S. Space Force Launch Deal - What's Changed",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-down-7-211003917.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LMT",
+   "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "NOC",
+   "h": "L3Harris Stock Jumps on Earnings Beat. The Defense Business Is Growing.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "MIR",
+   "h": "Mirion Technologies Inc (MIR) Q2 2026 Earnings Call Highlights: Robust Revenue Growth and ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-inc-mir-q2-210410483.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "ETR",
+   "h": "Entergy Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/entergy-q2-earnings-call-highlights-210404655.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "TSLA",
+   "h": "An economist dared Elon Musk to give away his $1t fortune in the next decade \u2013 Musk says he\u2019s planning something similar",
+   "pub": "Moneywise",
+   "link": "https://finance.yahoo.com/economy/policy/articles/economist-dared-elon-musk-away-210000852.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra and Brookfield Are Building a $100 Billion Data Center Campus in Kentucky. Here's What Investors Need to Know.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-brookfield-building-100-billion-205501515.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST SpaceMobile vs. QuantumScape: Which Stock Is a Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-quantumscape-stock-205042053.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "LMT",
+   "h": "General Dynamics Stock Drops Following Earnings Beat",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "NOC",
+   "h": "General Dynamics Stock Drops Following Earnings Beat",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Breaks $300. How Far It Needs to Fall to Lose Trillion-Dollar Status.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
    "tk": "LHX",
    "h": "L3Harris Raises Guidance on Higher Profit, Revenue",
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/business/earnings/l3harris-raises-guidance-on-higher-profit-revenue-99245ed2?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "GEV",
+   "h": "GE HealthCare Stock Soars After Earnings\u2014and It\u2019s Suddenly the Best Performing GE",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ge-healthcare-earnings-stock-price-vernova-aerospace-ce5fd821?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-29"
   },
   {
@@ -17884,10 +18031,10 @@
    "date": "2026-07-29"
   },
   {
-   "tk": "TSLA",
-   "h": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-space-stocks-rocket-lab-kratos-intuitive-machines-tesla-space-force/?src=A00220&yptr=yahoo",
+   "tk": "GEV",
+   "h": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/vertiv-earnings-stock-price-8631d669?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-29"
   },
   {
@@ -17926,31 +18073,10 @@
    "date": "2026-07-29"
   },
   {
-   "tk": "GEV",
-   "h": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/vertiv-earnings-stock-price-8631d669?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock Falls Again as $1 Trillion Status Comes Under Pressure",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-falls-again-1-183437913.html",
-   "date": "2026-07-29"
-  },
-  {
    "tk": "NEE",
    "h": "$100 Billion AI Campus Fails to Lift NextEra Stock",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/energy/articles/100-billion-ai-campus-fails-183343735.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-suffered-worst-week-182500368.html",
    "date": "2026-07-29"
   },
   {
@@ -17959,133 +18085,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/uber-agrees-invest-1-2-180500386.html",
    "date": "2026-07-29"
-  },
-  {
-   "tk": "BA",
-   "h": "Aercap Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aercap-q2-earnings-call-highlights-180407744.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "LMT",
-   "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "NOC",
-   "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "RTX",
-   "h": "General Dynamics Raises Earnings Outlook Following Second-Quarter Beat",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-raises-earnings-outlook-180126523.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "NEE",
-   "h": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-175045250.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "PLTR",
-   "h": "The Playbook for Palantir Ahead of Q3 Earnings",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/playbook-palantir-ahead-q3-earnings-174216479.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "DUK",
-   "h": "FirstEnergy Q2 Earnings Beat Estimates on Strong Transmission Growth",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firstenergy-q2-earnings-beat-estimates-173400666.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "UBER",
-   "h": "Should You Buy Uber Stock Before Aug. 5?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-uber-stock-aug-5-172714593.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "DUK",
-   "h": "Eversource to Report Q2 Earnings: What to Expect From the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/eversource-report-q2-earnings-expect-172300529.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "UBER",
-   "h": "Would You Rather Own Your Car Or Uber Every Day? Your Answer May Depend On Where You Live",
-   "pub": "Investopedia",
-   "link": "https://finance.yahoo.com/real-estate/articles/rather-own-car-uber-every-171839446.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "D",
-   "h": "NextEra Energy (NEE) Joins Paducah AI Power Hub, Is It Still Undervalued?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-joins-paducah-171045398.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy (NEE) Joins Paducah AI Power Hub, Is It Still Undervalued?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-joins-paducah-171045398.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Oklo Is Down Over 75% From Its High. It's Still Not the Best Nuclear Stock to Buy.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/oklo-down-over-75-high-170500956.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "BA",
-   "h": "Fast Money Host Warns Hyperscaler CapEx Binge Is \u2018Issuing Near Junk\u2019 as Data Center Buildout Shows Cracks",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fast-money-host-warns-hyperscaler-170207593.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "PLTR",
-   "h": "PLTR vs. ACN: Which Leading Tech Stock Should You Consider?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-acn-leading-tech-170200003.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "BA",
-   "h": "Is Southwest Airlines Stock Attractive After Its Earnings Rebound?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/southwest-airlines-stock-attractive-earnings-164000172.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing to Gain From Higher Output, Certifications, Cash Flow, RBC Says",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-gain-higher-output-certifications-163739024.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm Q3 earnings top revenue expectations as smartphone market slows",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/article/qualcomm-q3-earnings-top-revenue-expectations-as-smartphone-market-slows-160509349.html",
-   "date": "2026-07-29"
   }
  ],
- "prices_asof": "2026-07-29 21:00 UTC"
+ "prices_asof": "2026-07-29 23:01 UTC"
 }
