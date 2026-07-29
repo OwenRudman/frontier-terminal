@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 189,
-      "up": 8
+      "m0": 2,
+      "rk": 219,
+      "up": 4
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 252,
+      "up": 1
+     },
      "news": [
       {
        "h": "The U.S. Army Just Called China\u2019s Bluff in the Rare Earth War",
@@ -813,12 +818,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 652,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 324,
-      "m0": 38,
-      "rk": 3,
-      "up": 3918
+      "m": 173,
+      "m0": 323,
+      "rk": 7,
+      "up": 442
      },
      "thesis": {
       "bull": [
@@ -1312,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 667,
-      "up": 5
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 4,
+      "m": 32,
+      "m0": 21,
       "rk": 30,
-      "up": 4162
+      "up": 53
      },
      "thesis": {
       "bull": [
@@ -1783,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-huge-move-071200932.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Anthropic clarifies stance on open-weight AI models",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-clarifies-stance-open-weight-023300691.html",
@@ -1792,12 +1793,6 @@
        "h": "Palantir Technologies Inc. (PLTR) Stock Dips While Market Gains: Key Facts",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-stock-214504491.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Why Did Palantir Technologies Stock Drop Again?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
        "date": "2026-07-28"
       }
      ],
@@ -1863,12 +1858,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 700,
-      "up": 2
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2045,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 318,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 191,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2340,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 262,
+      "rk": 302,
       "up": 1
      },
      "streetNotes": [
@@ -2495,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 171,
-      "up": 5
+      "m": 3,
+      "m0": 2,
+      "rk": 157,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -2847,8 +2837,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 633,
-      "up": 6
+      "rk": 779,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -3161,12 +3151,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 198,
-      "up": 10
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3750,7 +3735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 683,
+      "up": 0
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4053,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 676,
-      "up": 6
+      "m": 2,
+      "m0": 1,
+      "rk": 229,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -4403,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 390,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 141,
+      "up": 7
      },
      "news": [
       {
@@ -4496,6 +4486,12 @@
        "date": "2026-04-01"
       },
       {
+       "amt": 169920.0,
+       "ag": "Department of Defense",
+       "desc": "DRONE JAMMER",
+       "date": "2026-03-20"
+      },
+      {
        "amt": 159915.0,
        "ag": "Department of Justice",
        "desc": "MISSION CRITICAL - APPREHENDING FUGITIVES FY25-JSD: DRONEGUN TACTICAL  CF: APC-FY25-000458",
@@ -4506,12 +4502,6 @@
        "ag": "Department of Defense",
        "desc": "DRONE DETECTION DEVICES",
        "date": "2026-03-27"
-      },
-      {
-       "amt": 111524.14,
-       "ag": "Department of State",
-       "desc": "RPSO: INL/KOSOVO POLICE ANTI DRONES",
-       "date": "2021-08-17"
       }
      ]
     },
@@ -4738,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 588,
-      "up": 2
+      "rk": 718,
+      "up": 1
      },
      "news": [
       {
@@ -5764,12 +5754,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 705,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "China Resumes Issuing Robotaxi Licenses After Long Freeze",
@@ -5884,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 98,
-      "m0": 36,
-      "rk": 9,
-      "up": 534
+      "m": 72,
+      "m0": 98,
+      "rk": 12,
+      "up": 150
      },
      "news": [
       {
@@ -5903,9 +5888,9 @@
        "date": "2026-07-28"
       },
       {
-       "h": "Cathie Wood\u2019s ARK Loads Up On Musk\u2019s SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ark-loads-musk-052438863.html",
+       "h": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/binance-adds-10-more-tokenized-072709446.html",
        "date": "2026-07-29"
       }
      ],
@@ -5973,8 +5958,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 376,
+      "m0": 1,
+      "rk": 471,
       "up": 2
      },
      "news": [
@@ -6061,8 +6046,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 371,
+      "m0": 1,
+      "rk": 464,
       "up": 1
      },
      "news": [
@@ -6291,7 +6276,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 170,
+      "up": 6
+     },
      "thesis": {
       "bull": [
        {
@@ -7005,7 +6995,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 672,
+      "up": 1
+     },
      "news": [
       {
        "h": "MicroVision Pitches \u2018Lidar 2.0\u2019 Strategy, Keeps 2026 Revenue Outlook Intact",
@@ -7120,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 111,
-      "up": 16
+      "m": 3,
+      "m0": 4,
+      "rk": 154,
+      "up": 8
      },
      "news": [
       {
@@ -7133,16 +7128,16 @@
        "date": "2026-07-28"
       },
       {
-       "h": "Qualcomm Is Down 37% From Its High and Reports Wednesday. Is the Stock a Buy?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-down-37-high-reports-040700966.html",
+       "h": "Tech Earnings, Fed Meeting: What to Watch the Rest of the Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/tech-earnings-fed-meeting-what-to-watch-the-rest-of-the-week-lEPNRLP2QjYE0urxpK7M?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-29"
       },
       {
-       "h": "Qualcomm is set to ratchet up chip prices in September, and your next gadget upgrade could bear the brunt",
-       "pub": "Digital Trends",
-       "link": "https://finance.yahoo.com/technology/articles/qualcomm-set-ratchet-chip-prices-223848048.html",
-       "date": "2026-07-28"
+       "h": "Qualcomm\u2019s AI Ambitions Face an Earnings Test",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/qualcomm-earnings-stock-price-dc4f1fb9?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-07-29"
       }
      ],
      "awards": [
@@ -7264,7 +7259,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 786,
+      "up": 1
+     },
      "news": [
       {
        "h": "What Makes Indie Semiconductor (INDI) a Compelling Bet?",
@@ -7389,7 +7389,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 485,
+      "up": 1
+     },
      "news": [
       {
        "h": "NVIDIA CEO Jensen Huang Says the \u2018ChatGPT Moment\u2019 Has Already Happened for the Next $50 Trillion Trend",
@@ -7772,10 +7777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 6,
-      "rk": 28,
-      "up": 83
+      "m": 10,
+      "m0": 22,
+      "rk": 81,
+      "up": 12
      },
      "news": [
       {
@@ -8281,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 17,
-      "rk": 17,
-      "up": 250
+      "m": 61,
+      "m0": 43,
+      "rk": 15,
+      "up": 478
      },
      "thesis": {
       "bull": [
@@ -8492,6 +8497,12 @@
      ],
      "news": [
       {
+       "h": "RKLB Stock Eyes Worst Month Ever, But Cathie Wood Keeps Buying \u2014 ARK Adds Rocket Lab, Cuts Exposure To $8B Takeover Target",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-eyes-worst-month-055916008.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Stocks making big moves yesterday: Zoom, TransDigm, Elastic, Rocket Lab, and Tyson Foods",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-041302750.html",
@@ -8501,12 +8512,6 @@
        "h": "Rocket Lab Corporation (RKLB) Stock Dips While Market Gains: Key Facts",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-stock-221504187.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "SPCX, RKLB, ASTS, LUNR In Focus \u2014 Trump Administration To Expedite Approvals For Commercial Rocket Launches",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-rklb-asts-lunr-focus-205308054.html",
        "date": "2026-07-28"
       }
      ],
@@ -8763,8 +8768,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 603,
-      "up": 6
+      "rk": 737,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -9026,12 +9031,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 723,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "MDA Space Receives Notice to Proceed Contract From the European Space Company",
@@ -9180,7 +9180,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 775,
+      "up": 101
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9358,12 +9363,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 641,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) Stock Gets Fair Value Boost After Defense Contract Driven Analyst Revisions",
@@ -9525,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 28,
+      "m": 44,
+      "m0": 29,
       "rk": 22,
-      "up": 107
+      "up": 161
      },
      "thesis": {
       "bull": [
@@ -9850,9 +9850,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 365,
-      "up": -3
+      "m0": 1,
+      "rk": 455,
+      "up": 2
      },
      "news": [
       {
@@ -10413,10 +10413,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 155,
-      "up": 13
+      "m": 6,
+      "m0": 3,
+      "rk": 114,
+      "up": 22
      },
      "news": [
       {
@@ -10567,10 +10567,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 217,
-      "up": 2
+      "m": 3,
+      "m0": 1,
+      "rk": 150,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -10679,7 +10679,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 262,
+      "rk": 302,
       "up": 1
      },
      "streetNotes": [
@@ -10786,10 +10786,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 132,
-      "up": 5
+      "m": 5,
+      "m0": 3,
+      "rk": 117,
+      "up": 8
      },
      "news": [
       {
@@ -10874,10 +10874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 390,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 141,
+      "up": 7
      },
      "news": [
       {
@@ -11157,12 +11157,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 389,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Booz Allen Soared On A Beat, Not A Boom",
@@ -11246,12 +11241,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 4,
+      "m": 32,
+      "m0": 21,
       "rk": 30,
-      "up": 4162
+      "up": 53
      },
      "news": [
+      {
+       "h": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-huge-move-071200932.html",
+       "date": "2026-07-29"
+      },
       {
        "h": "Anthropic clarifies stance on open-weight AI models",
        "pub": "TheStreet",
@@ -11262,12 +11263,6 @@
        "h": "Palantir Technologies Inc. (PLTR) Stock Dips While Market Gains: Key Facts",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-stock-214504491.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Why Did Palantir Technologies Stock Drop Again?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-palantir-technologies-stock-210106895.html",
        "date": "2026-07-28"
       }
      ],
@@ -11337,7 +11332,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 453,
+      "rk": 565,
       "up": 0
      },
      "news": [
@@ -12434,12 +12429,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 586,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Should Cameco Stock be in Your Portfolio Before Q2 Earnings?",
@@ -12686,10 +12676,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 373,
-      "up": 3
+      "rk": 124,
+      "up": 12
      },
      "news": [
       {
@@ -12769,10 +12759,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 11,
-      "rk": 41,
-      "up": 33
+      "m": 13,
+      "m0": 17,
+      "rk": 56,
+      "up": 84
      },
      "news": [
       {
@@ -13363,10 +13353,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 127,
-      "up": 20
+      "m": 8,
+      "m0": 4,
+      "rk": 91,
+      "up": 21
      },
      "thesis": {
       "bull": [
@@ -13606,8 +13596,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 650,
-      "up": 7
+      "rk": 798,
+      "up": 5
      },
      "news": [
       {
@@ -13666,12 +13656,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 686,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NANO Nuclear Energy shares gain after securing U.S. Air Force contract",
@@ -14090,12 +14075,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 156,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Vernova (GEV) Deploys AirJoule Water System At Frontier Campus",
@@ -14178,7 +14158,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 768,
+      "up": 3
+     },
      "news": [
       {
        "h": "Here's What Key Metrics Tell Us About Mirion Technologies (MIR) Q2 Earnings",
@@ -14555,7 +14540,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 631,
+      "rk": 774,
       "up": 1
      },
      "news": [
@@ -14955,10 +14940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 112,
-      "up": 24
+      "m": 8,
+      "m0": 4,
+      "rk": 89,
+      "up": 19
      },
      "news": [
       {
@@ -15126,10 +15111,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 283,
-      "up": 2
+      "m": 5,
+      "m0": 1,
+      "rk": 121,
+      "up": 13
      },
      "news": [
       {
@@ -17542,7 +17527,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-28",
+ "social_asof": "2026-07-29",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17822,24 +17807,52 @@
  ],
  "news": [
   {
+   "tk": "QCOM",
+   "h": "Tech Earnings, Fed Meeting: What to Watch the Rest of the Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-07-29-2026/card/tech-earnings-fed-meeting-what-to-watch-the-rest-of-the-week-lEPNRLP2QjYE0urxpK7M?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-29"
+  },
+  {
    "tk": "NVDA",
-   "h": "This Stock Market Valuation Metric Just Hit a Two-Decade High. Here's What History Says the S&P 500 Does Next.",
+   "h": "Experts Are Sounding the Alarm Over an AI Bubble. Here's What History Says Investors Should Do Right Now.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-valuation-metric-just-062000657.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/experts-sounding-alarm-over-ai-075000670.html",
    "date": "2026-07-29"
   },
   {
    "tk": "TSLA",
-   "h": "Cathie Wood\u2019s ARK Loads Up On Musk\u2019s SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",
+   "h": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/binance-adds-10-more-tokenized-072709446.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "TSLA",
+   "h": "A Potential Tesla-SpaceX Merger Could Create \u2018Orbit-To-Ground\u2019 AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
    "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ark-loads-musk-052438863.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/potential-tesla-spacex-merger-could-071753705.html",
    "date": "2026-07-29"
   },
   {
-   "tk": "TSLA",
-   "h": "Asian stock rout deepens as AI worries grip markets",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html",
+   "tk": "PLTR",
+   "h": "Prediction: Palantir's Stock Will Make a Huge Move on Aug. 3",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-huge-move-071200932.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "RKLB",
+   "h": "RKLB Stock Eyes Worst Month Ever, But Cathie Wood Keeps Buying \u2014 ARK Adds Rocket Lab, Cuts Exposure To $8B Takeover Target",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-eyes-worst-month-055916008.html",
+   "date": "2026-07-29"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm\u2019s AI Ambitions Face an Earnings Test",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/qualcomm-earnings-stock-price-dc4f1fb9?siteid=yhoof2&yptr=yahoo",
    "date": "2026-07-29"
   },
   {
@@ -17920,13 +17933,6 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "QCOM",
-   "h": "Qualcomm is set to ratchet up chip prices in September, and your next gadget upgrade could bear the brunt",
-   "pub": "Digital Trends",
-   "link": "https://finance.yahoo.com/technology/articles/qualcomm-set-ratchet-chip-prices-223848048.html",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "MIR",
    "h": "Here's What Key Metrics Tell Us About Mirion Technologies (MIR) Q2 Earnings",
    "pub": "Zacks",
@@ -17997,13 +18003,6 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "QCOM",
-   "h": "How Far Could Marvell Technology Stock Actually Fall From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/far-could-marvell-technology-stock-213205932.html",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "DUK",
    "h": "A $1.2 Million Portfolio That Pays $7,000 a Month and Stays Below the IRMAA Surcharge Line",
    "pub": "24/7 Wall St.",
@@ -18053,13 +18052,6 @@
    "date": "2026-07-28"
   },
   {
-   "tk": "RKLB",
-   "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/space-race-trump-dot-faa-environmental-rules-regulations-commercial-space-operations-spacex/?src=A00220&yptr=yahoo",
-   "date": "2026-07-28"
-  },
-  {
    "tk": "SPIR",
    "h": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
    "pub": "Investor's Business Daily",
@@ -18071,13 +18063,6 @@
    "h": "Recession-Proof Stocks: The Best Stocks to Buy for a Recession",
    "pub": "Kiplinger",
    "link": "https://finance.yahoo.com/markets/stocks/articles/recession-proof-stocks-best-stocks-203657182.html",
-   "date": "2026-07-28"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Stock Slumps Ahead of Q2 Earnings",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-slumps-ahead-q2-201552124.html",
    "date": "2026-07-28"
   },
   {
@@ -18102,5 +18087,5 @@
    "date": "2026-07-28"
   }
  ],
- "prices_asof": "2026-07-29 06:35 UTC"
+ "prices_asof": "2026-07-29 08:19 UTC"
 }
