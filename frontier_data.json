@@ -612,8 +612,8 @@
      "social": {
       "m": 2,
       "m0": 2,
-      "rk": 219,
-      "up": 4
+      "rk": 232,
+      "up": 3
      },
      "news": [
       {
@@ -686,8 +686,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 252,
+      "m0": 1,
+      "rk": 273,
       "up": 1
      },
      "news": [
@@ -940,8 +940,8 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 173,
-      "m0": 323,
+      "m": 164,
+      "m0": 176,
       "rk": 7,
       "up": 442
      },
@@ -1143,15 +1143,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "This Investment Could Turn $1,000 Into $6,700 Without Picking a Single Stock. Here's the Math. (Keep Adding Money, and It Could Grow to $687,000.)",
+       "h": "Rivian Reports Earnings on July 30, Followed by Lucid on Aug. 4. Here's the Better Buy Now.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/investment-could-turn-1-000-052000011.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-reports-earnings-july-30-072500132.html",
        "date": "2026-07-30"
       },
       {
-       "h": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
+       "h": "I Was Wrong About Meta Earnings, But the Stock Is Still a Buy",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-bullish-call-ai-042000392.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wrong-meta-earnings-stock-still-070500719.html",
        "date": "2026-07-30"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 21,
-      "rk": 30,
-      "up": 53
+      "m": 5,
+      "m0": 33,
+      "rk": 129,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -2035,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 191,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 426,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2330,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 302,
+      "rk": 326,
       "up": 1
      },
      "streetNotes": [
@@ -2376,7 +2376,7 @@
      ],
      "awards": [
       {
-       "amt": 13396478923.19,
+       "amt": 13720293923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -2485,9 +2485,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 157,
+      "m": 1,
+      "m0": 3,
+      "rk": 445,
       "up": 6
      },
      "thesis": {
@@ -2835,9 +2835,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 779,
+      "rk": 237,
       "up": 7
      },
      "thesis": {
@@ -3737,8 +3737,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 683,
+      "m0": 1,
+      "rk": 765,
       "up": 0
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4044,9 +4044,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 229,
-      "up": 5
+      "m0": 2,
+      "rk": 244,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 141,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 533,
+      "up": 2
      },
      "news": [
       {
@@ -4725,12 +4725,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 718,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster, Inc. (OUST) Stock Drops Despite Market Gains: Important Facts to Note",
@@ -5115,7 +5110,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 310,
+      "up": 1
+     },
      "news": [
       {
        "h": "Pentagon Awards Mega Contracts to Firms Amid Iran War Strains",
@@ -5138,7 +5138,7 @@
      ],
      "awards": [
       {
-       "amt": 12742005737.85,
+       "amt": 12745883511.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5869,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 72,
-      "m0": 98,
-      "rk": 12,
-      "up": 150
+      "m": 96,
+      "m0": 73,
+      "rk": 10,
+      "up": 295
      },
      "news": [
       {
@@ -5882,15 +5882,15 @@
        "date": "2026-07-27"
       },
       {
-       "h": "Cathie Wood Bought $53.5 Million of Tesla Stock Right After Elon Musk's Post-Earnings Sell-Off. Is a Rebound Coming?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-bought-53-5-055000886.html",
+       "h": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-pegs-tslas-fair-064456670.html",
        "date": "2026-07-30"
       },
       {
-       "h": "Tesla Stock Eyes Mag 7\u2019s Worst July \u2014 Gordon Johnson Says Q2 Numbers Expose FSD\u2019s \u2018Ridiculous\u2019 Valuation",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-eyes-mag-7-052608367.html",
+       "h": "Cathie Wood Bought $53.5 Million of Tesla Stock Right After Elon Musk's Post-Earnings Sell-Off. Is a Rebound Coming?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-bought-53-5-055000886.html",
        "date": "2026-07-30"
       }
      ],
@@ -5957,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 471,
-      "up": 2
+      "rk": 167,
+      "up": 5
      },
      "news": [
       {
@@ -6044,12 +6044,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 464,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Baidu, Inc. (BIDU) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -6276,12 +6271,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 170,
-      "up": 6
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -6997,8 +6987,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 672,
+      "m0": 1,
+      "rk": 750,
       "up": 1
      },
      "news": [
@@ -7115,10 +7105,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 154,
-      "up": 8
+      "m": 20,
+      "m0": 3,
+      "rk": 42,
+      "up": 53
      },
      "news": [
       {
@@ -7259,12 +7249,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 786,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What Makes Indie Semiconductor (INDI) a Compelling Bet?",
@@ -7391,8 +7376,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 485,
+      "m0": 1,
+      "rk": 527,
       "up": 1
      },
      "news": [
@@ -7777,12 +7762,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 22,
-      "rk": 81,
-      "up": 12
+      "m": 4,
+      "m0": 10,
+      "rk": 146,
+      "up": 8
      },
      "news": [
+      {
+       "h": "SLS Stock Turns Green After 3-Day Rout: Five Investors Add Shares As Key AML Trial Nears Final Trigger",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-turns-green-3-065303470.html",
+       "date": "2026-07-30"
+      },
       {
        "h": "SLS Stock Heads For Worst Month In Over 2 Years \u2014 But Retail Bulls \u2018Hold\u2019 For AML Readout And Buyout Hopes",
        "pub": "Stocktwits",
@@ -7794,12 +7785,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-hits-1-month-050609182.html",
        "date": "2026-07-28"
-      },
-      {
-       "h": "SLS Stock Climbs Premarket: Here\u2019s What Smart Money Is Doing As Sellas Nears Critical Phase 3 AML Readout",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-climbs-premarket-smart-081751159.html",
-       "date": "2026-07-27"
       }
      ]
     }
@@ -8286,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 61,
-      "m0": 43,
-      "rk": 15,
-      "up": 478
+      "m": 37,
+      "m0": 62,
+      "rk": 29,
+      "up": 423
      },
      "thesis": {
       "bull": [
@@ -8765,12 +8750,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 737,
-      "up": 8
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9181,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 775,
-      "up": 101
+      "m": 3,
+      "m0": 1,
+      "rk": 180,
+      "up": 19
      },
      "streetNotes": [
       {
@@ -9525,10 +9505,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 29,
-      "rk": 22,
-      "up": 161
+      "m": 38,
+      "m0": 45,
+      "rk": 27,
+      "up": 157
      },
      "thesis": {
       "bull": [
@@ -9851,8 +9831,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 455,
-      "up": 2
+      "rk": 492,
+      "up": 1
      },
      "news": [
       {
@@ -10413,10 +10393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 114,
-      "up": 22
+      "m": 3,
+      "m0": 6,
+      "rk": 185,
+      "up": 7
      },
      "news": [
       {
@@ -10567,10 +10547,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 150,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 270,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10679,7 +10659,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 302,
+      "rk": 326,
       "up": 1
      },
      "streetNotes": [
@@ -10725,7 +10705,7 @@
      ],
      "awards": [
       {
-       "amt": 13396478923.19,
+       "amt": 13720293923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -10786,10 +10766,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 117,
-      "up": 8
+      "m": 1,
+      "m0": 5,
+      "rk": 259,
+      "up": 2
      },
      "news": [
       {
@@ -10874,10 +10854,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 141,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 533,
+      "up": 2
      },
      "news": [
       {
@@ -11004,7 +10984,7 @@
        "date": "2009-05-27"
       },
       {
-       "amt": 1321438804.7,
+       "amt": 1331469254.7,
        "ag": "Department of Defense",
        "desc": "AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT",
        "date": "2020-02-25"
@@ -11241,10 +11221,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 21,
-      "rk": 30,
-      "up": 53
+      "m": 5,
+      "m0": 33,
+      "rk": 129,
+      "up": 12
      },
      "news": [
       {
@@ -11332,8 +11312,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 565,
-      "up": 0
+      "rk": 629,
+      "up": 5
      },
      "news": [
       {
@@ -12432,6 +12412,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy Is Down Sharply in 2026. Here's What the Next 10 Years Could Realistically Look Like.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-down-sharply-2026-063500618.html",
+       "date": "2026-07-30"
+      },
+      {
        "h": "The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman",
        "pub": "IPO-Edge.com",
        "link": "https://finance.yahoo.com/energy/articles/the-next-ai-trade-fireside-chat-with-noble-plains-uranium-ceo-drew-zimmerman-123130776.html",
@@ -12442,12 +12428,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-stock-portfolio-q2-earnings-180800648.html",
        "date": "2026-07-28"
-      },
-      {
-       "h": "OKLO, XE, SMR, NNE, UEC Stocks Tumble On Thursday: AI Made Nuclear Stocks Market Darlings \u2013 Now Investors Want Proof",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/energy/articles/oklo-xe-smr-nne-uec-054027786.html",
-       "date": "2026-07-17"
       }
      ]
     },
@@ -12676,10 +12656,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 124,
-      "up": 12
+      "m": 1,
+      "m0": 5,
+      "rk": 505,
+      "up": 1
      },
      "news": [
       {
@@ -12759,10 +12739,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 17,
+      "m": 16,
+      "m0": 12,
       "rk": 56,
-      "up": 84
+      "up": 35
      },
      "news": [
       {
@@ -13354,9 +13334,9 @@
      "geo": "US",
      "social": {
       "m": 8,
-      "m0": 4,
-      "rk": 91,
-      "up": 21
+      "m0": 8,
+      "rk": 102,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -13594,10 +13574,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 798,
-      "up": 5
+      "rk": 121,
+      "up": 9
      },
      "news": [
       {
@@ -14158,12 +14138,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 768,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Mirion Technologies Q2 Earnings Call Highlights",
@@ -14246,7 +14221,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 569,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14537,12 +14517,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 774,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "China Shock Just Came for Your Portfolio",
@@ -14625,7 +14600,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 453,
+      "up": 1
+     },
      "news": [
       {
        "h": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
@@ -14940,10 +14920,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 4,
-      "rk": 89,
-      "up": 19
+      "m": 9,
+      "m0": 8,
+      "rk": 84,
+      "up": 153
      },
      "news": [
       {
@@ -15027,7 +15007,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 355,
+      "up": 1
+     },
      "news": [
       {
        "h": "One Sign the AI Power Trade Is Running Out of Juice",
@@ -15111,10 +15096,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 121,
-      "up": 13
+      "m": 9,
+      "m0": 5,
+      "rk": 85,
+      "up": 23
      },
      "news": [
       {
@@ -15278,7 +15263,7 @@
      ],
      "awards": [
       {
-       "amt": 56484754.39,
+       "amt": 58007744.72,
        "ag": "Department of Defense",
        "desc": "PRIVATIZATION OF THE ELECTRICAL DISTRIBUTION SYSTEM AT FORT POLK, LOUISIANA",
        "date": "2010-09-30"
@@ -17527,7 +17512,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-29",
+ "social_asof": "2026-07-30",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17807,6 +17792,48 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Rivian Reports Earnings on July 30, Followed by Lucid on Aug. 4. Here's the Better Buy Now.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-reports-earnings-july-30-072500132.html",
+   "date": "2026-07-30"
+  },
+  {
+   "tk": "NVDA",
+   "h": "I Was Wrong About Meta Earnings, But the Stock Is Still a Buy",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wrong-meta-earnings-stock-still-070500719.html",
+   "date": "2026-07-30"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Turns Green After 3-Day Rout: Five Investors Add Shares As Key AML Trial Nears Final Trigger",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-turns-green-3-065303470.html",
+   "date": "2026-07-30"
+  },
+  {
+   "tk": "NVDA",
+   "h": "2 Cash-Producing Stocks Worth Investigating and 1 We Brush Off",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-worth-065302068.html",
+   "date": "2026-07-30"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Gary Black Pegs TSLA's Fair Value at $312, Says 'Don't Fall in Love With the Stock'",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-pegs-tslas-fair-064456670.html",
+   "date": "2026-07-30"
+  },
+  {
+   "tk": "UEC",
+   "h": "Uranium Energy Is Down Sharply in 2026. Here's What the Next 10 Years Could Realistically Look Like.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-energy-down-sharply-2026-063500618.html",
+   "date": "2026-07-30"
+  },
+  {
    "tk": "TSLA",
    "h": "Cathie Wood Bought $53.5 Million of Tesla Stock Right After Elon Musk's Post-Earnings Sell-Off. Is a Rebound Coming?",
    "pub": "Motley Fool",
@@ -17818,13 +17845,6 @@
    "h": "Tesla Stock Eyes Mag 7\u2019s Worst July \u2014 Gordon Johnson Says Q2 Numbers Expose FSD\u2019s \u2018Ridiculous\u2019 Valuation",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-eyes-mag-7-052608367.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "NVDA",
-   "h": "This Investment Could Turn $1,000 Into $6,700 Without Picking a Single Stock. Here's the Math. (Keep Adding Money, and It Could Grow to $687,000.)",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investment-could-turn-1-000-052000011.html",
    "date": "2026-07-30"
   },
   {
@@ -17874,27 +17894,6 @@
    "h": "ONDS Stock Gains Overnight: BlackRock Reveals 7.2% Ondas Stake, High Short Interest Keeps Traders Watching",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-gains-overnight-blackrock-044749079.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Jensen Huang's Bullish Call on the AI Market Can Make Nvidia a $5 Trillion Company Again",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-bullish-call-ai-042000392.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Starbucks Just Raised Starbucks' Full-Year Profit Guidance by About 10%. Here's the Number Behind It.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-just-raised-starbucks-full-041100252.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Trump FCC gives Tesla a leg up in critical technology race",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/trump-fcc-gives-tesla-leg-033300113.html",
    "date": "2026-07-30"
   },
   {
@@ -18071,21 +18070,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-q2-earnings-revenues-212505681.html",
    "date": "2026-07-29"
-  },
-  {
-   "tk": "SO",
-   "h": "Southern (SO) Completes Moody Battery Project As Georgia Storage Buildout Expands",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/southern-completes-moody-battery-project-211030517.html",
-   "date": "2026-07-29"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab (RKLB) Is Down 7.6% After Record US$266M U.S. Space Force Launch Deal - What's Changed",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-down-7-211003917.html",
-   "date": "2026-07-29"
   }
  ],
- "prices_asof": "2026-07-30 06:32 UTC"
+ "prices_asof": "2026-07-30 08:07 UTC"
 }
