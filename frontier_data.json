@@ -682,6 +682,12 @@
      "social": null,
      "news": [
       {
+       "h": "Do Options Traders Know Something About Albemarle Stock We Don't?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/options/articles/options-traders-know-something-albemarle-142000950.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Nucor Outshines Albemarle in Charlotte Stock Duel",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nucor-outshines-albemarle-charlotte-stock-112005567.html",
@@ -691,12 +697,6 @@
        "h": "Albemarle (ALB) Earnings Expected to Grow: Should You Buy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-earnings-expected-grow-140017648.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "ALB vs. RIO: Which Lithium Producer Deserves a Spot in Your Portfolio?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/alb-vs-rio-lithium-producer-130700830.html",
        "date": "2026-07-29"
       }
      ],
@@ -1127,22 +1127,22 @@
      },
      "news": [
       {
-       "h": "Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon",
+       "h": "Amazon's AWS business has taken on a life of its own: Earnings call takeaways",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/amazons-aws-business-taken-life-143824372.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Microsoft's $41 billion AI bet just cleared a major test: Chart of the Day",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html",
-       "date": "2026-07-31"
+       "link": "https://finance.yahoo.com/markets/article/microsofts-41-billion-ai-bet-just-cleared-a-major-test-chart-of-the-day-100000116.html",
+       "date": "2026-07-30"
       },
       {
-       "h": "Study Finds That A $1.2 Million Retirement and a $4 Million Retirement Look Almost Identical In Terms Of Spending",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/articles/study-finds-1-2-million-141313883.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "What Meta Now Has to Prove Following Its Earnings Release",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/meta-now-prove-following-earnings-140851778.html",
-       "date": "2026-07-31"
+       "h": "Qualcomm's automotive segment is the highlight of Q3: CFO",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
+       "date": "2026-07-30"
       }
      ]
     },
@@ -1768,21 +1768,21 @@
      },
      "news": [
       {
-       "h": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+       "h": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
+       "pub": "IPO-Edge.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mega-ipos-icr-capital-171237618.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Palantir Reports Earnings Soon; This Options Trade Capitalizes On The High Volatility",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+       "link": "https://www.investors.com/research/options/palantir-pltr-stock-reports-earnings-options-trade-volatility/?src=A00220&yptr=yahoo",
        "date": "2026-07-31"
       },
       {
-       "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "EMCOR Group Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
+       "h": "Michael Burry Sends Fresh Warning on Nvidia and Micron Stocks",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-fresh-warning-162112665.html",
        "date": "2026-07-31"
       }
      ],
@@ -5103,6 +5103,12 @@
      },
      "news": [
       {
+       "h": "Compared to Estimates, Huntington Ingalls (HII) Q2 Earnings: A Look at Key Metrics",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-huntington-ingalls-hii-133003475.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Huntington Ingalls Industries Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-q2-earnings-110406860.html",
@@ -5113,12 +5119,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-hii-q2-2026-031528061.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Huntington Ingalls Industries, Inc. Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-inc-q2-223533628.html",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -5861,21 +5861,21 @@
      },
      "news": [
       {
-       "h": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html",
-       "date": "2026-07-27"
-      },
-      {
-       "h": "Tesla Stock in Focus -- Musk Dismisses Report on China Business Sale",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-focus-musk-dismisses-123011788.html",
+       "h": "Tesla reportedly considering a spin off of its China business",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/tesla-reportedly-considering-a-spin-off-of-its-china-business-145947803.html",
        "date": "2026-07-31"
       },
       {
-       "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
+       "h": "Elon Musk Responds to Major Tesla Report",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-responds-major-tesla-164927929.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/rivian-earnings-stock-price-ba825004?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-31"
       }
      ],
@@ -5955,16 +5955,16 @@
        "date": "2026-07-30"
       },
       {
-       "h": "Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note",
+       "h": "UBER Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-stock-drops-214503507.html",
-       "date": "2026-07-30"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-set-report-q2-earnings-150700102.html",
+       "date": "2026-07-31"
       },
       {
-       "h": "Uber (UBER) Stock Looks Cheap On Earnings While Risks Stay Pricey",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-stock-looks-cheap-190753546.html",
-       "date": "2026-07-30"
+       "h": "What Analyst Projections for Key Metrics Reveal About Uber (UBER) Q2 Earnings",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131504728.html",
+       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -6745,6 +6745,12 @@
      "social": null,
      "news": [
       {
+       "h": "CYD vs. HSAI: Which Stock Should Value Investors Buy Now?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cyd-vs-hsai-stock-value-154004528.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Zacks Industry Outlook Highlights Lear, Gentex and Hesai Group",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-lear-084500000.html",
@@ -6755,12 +6761,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-automotive-equipment-stocks-buy-151200154.html",
        "date": "2026-07-28"
-      },
-      {
-       "h": "Ouster Vs. Hesai: Which Physical AI Stock is a Better Bet Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-vs-hesai-physical-ai-141000700.html",
-       "date": "2026-07-21"
       }
      ]
     },
@@ -7103,15 +7103,15 @@
        "date": "2026-07-30"
       },
       {
-       "h": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-operating-margin-turned-135001949.html",
-       "date": "2026-07-31"
+       "h": "Qualcomm's automotive segment is the highlight of Q3: CFO",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/qualcomms-automotive-segment-highlight-q3-194042582.html",
+       "date": "2026-07-30"
       },
       {
-       "h": "QCOM Q2 Deep Dive: Data Center and Automotive Growth Offset Smartphone Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-q2-deep-dive-data-095135497.html",
+       "h": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-betting-more-revenue-170929913.html",
        "date": "2026-07-31"
       }
      ],
@@ -7180,6 +7180,12 @@
      "social": null,
      "news": [
       {
+       "h": "NXP in talks to buy chip developer Ambarella, FT reports",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/technology/articles/nxp-talks-buy-chip-developer-170639271.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Microchip's Hailo Buyout Strengthens Edge AI Ambitions: What's Ahead?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/microchips-hailo-buyout-strengthens-edge-165200336.html",
@@ -7190,12 +7196,6 @@
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/kalanick-atoms-raises-1-7b-212701007.html",
        "date": "2026-07-22"
-      },
-      {
-       "h": "Ambarella (AMBA) Upgraded to Buy: What Does It Mean for the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ambarella-amba-upgraded-buy-does-160002994.html",
-       "date": "2026-07-21"
       }
      ]
     },
@@ -8467,21 +8467,21 @@
      ],
      "news": [
       {
+       "h": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
+       "pub": "IPO-Edge.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mega-ipos-icr-capital-171237618.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Rocket Lab (RKLB) Just Won Its Biggest-Ever Contract. The Stock Barely Noticed",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-just-won-143859595.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/rocket-lab-stock-launch-contract-electron-space-force-15-awards-981m/?src=A00220&yptr=yahoo",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Rocket Lab\u2019s Rally Isn\u2019t Random: 3 Catalysts Driving The Stock Higher",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rally-isn-t-130527437.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Rocket Lab (RKLB) Signs Three More iQPS Launches As Planned Missions Reach 18",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-signs-three-110850550.html",
        "date": "2026-07-31"
       }
      ],
@@ -9887,6 +9887,12 @@
      "social": null,
      "news": [
       {
+       "h": "Strength Seen in Aviat Networks (AVNW): Can Its 7.3% Jump Turn into More Strength?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-aviat-networks-avnw-145500618.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "RKLB, RDW, FLY, VSAT Climb Overnight: $981M Space Force IDIQ Contract Opens Fresh Pentagon Opportunity",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-rdw-fly-vsat-climb-051831992.html",
@@ -9897,12 +9903,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-walking-193302454.html",
        "date": "2026-07-27"
-      },
-      {
-       "h": "1 of Wall Street\u2019s Favorite Stocks with Impressive Fundamentals and 2 We Ignore",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-173708897.html",
-       "date": "2026-07-24"
       }
      ],
      "awards": [
@@ -10754,6 +10754,12 @@
      },
      "news": [
       {
+       "h": "Boeing\u2019s $21 billion B-52 upgrade faces cost overruns, delays, GAO says",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/boeing-21-billion-b-52-145820826.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/rocket-lab-stock-launch-contract-electron-space-force-15-awards-981m/?src=A00220&yptr=yahoo",
@@ -10763,12 +10769,6 @@
        "h": "Hexcel Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/hexcel-q2-earnings-call-highlights-110408884.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
-       "pub": "Oilprice.com",
-       "link": "https://finance.yahoo.com/energy/articles/u-just-took-big-step-000000238.html",
        "date": "2026-07-31"
       }
      ],
@@ -11219,21 +11219,21 @@
      },
      "news": [
       {
-       "h": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+       "h": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
+       "pub": "IPO-Edge.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mega-ipos-icr-capital-171237618.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Palantir Reports Earnings Soon; This Options Trade Capitalizes On The High Volatility",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+       "link": "https://www.investors.com/research/options/palantir-pltr-stock-reports-earnings-options-trade-volatility/?src=A00220&yptr=yahoo",
        "date": "2026-07-31"
       },
       {
-       "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "EMCOR Group Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
+       "h": "Michael Burry Sends Fresh Warning on Nvidia and Micron Stocks",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-fresh-warning-162112665.html",
        "date": "2026-07-31"
       }
      ],
@@ -12350,21 +12350,21 @@
      },
      "news": [
       {
-       "h": "Purecore, Skyharbour sign agreement on Yurchison uranium project",
-       "pub": "Mining Technology",
-       "link": "https://finance.yahoo.com/energy/articles/purecore-skyharbour-sign-agreement-yurchison-132911556.html",
+       "h": "Cameco Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/cameco-q2-earnings-call-highlights-170424728.html",
        "date": "2026-07-31"
       },
       {
-       "h": "Cameco (CCJ) Q2 Earnings Miss Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-q2-earnings-miss-114501344.html",
+       "h": "Top nuclear power firm files for US IPO",
+       "pub": "InvestorsHub",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-nuclear-power-firm-files-155100823.html",
        "date": "2026-07-31"
       },
       {
-       "h": "Cameco shares gain on revenue beat despite earnings miss",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-shares-gain-revenue-beat-111601624.html",
+       "h": "Westinghouse Electric Files Confidentially for IPO",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/deals/westinghouse-electric-files-confidentially-for-ipo-3f5c488e?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-31"
       }
      ]
@@ -13587,6 +13587,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Buying NuScale Right Now Could Make You Richer by 2036",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/prediction-buying-nuscale-now-could-165000353.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
@@ -13596,12 +13602,6 @@
        "h": "GE Vernova vs. NuScale Power: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nuscale-power-201117081.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Why NuScale Power Stock Is Soaring Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-nuscale-power-stock-soaring-182539652.html",
        "date": "2026-07-30"
       }
      ]
@@ -14261,6 +14261,12 @@
      ],
      "news": [
       {
+       "h": "How to Approach Kratos Defense Stock Ahead of Q2 Earnings Release?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/approach-kratos-defense-stock-ahead-133300099.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "ATI (ATI) Reports Next Week: Wall Street Expects Earnings Growth",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ati-ati-reports-next-week-140012066.html",
@@ -14271,12 +14277,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/hexcel-hxl-q2-earnings-revenues-003504913.html",
        "date": "2026-07-30"
-      },
-      {
-       "h": "Huntington Ingalls to Post Q2 Earnings: What's in the Cards?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-post-q2-earnings-143100747.html",
-       "date": "2026-07-29"
       }
      ]
     },
@@ -14401,6 +14401,12 @@
      "social": null,
      "news": [
       {
+       "h": "Jacobs to Report Q3 Earnings: What to Expect From the Stock?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-report-q3-earnings-expect-145100606.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Titan America (TTAM) Q2 Earnings Miss Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/titan-america-ttam-q2-earnings-220013711.html",
@@ -14411,12 +14417,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stocks-invest-global-building-boom-e0a62b60?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-23"
-      },
-      {
-       "h": "J vs. WMS: Which Stock Is the Better Value Option?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/j-vs-wms-stock-better-154003807.html",
-       "date": "2026-07-22"
       }
      ]
     },
@@ -14614,6 +14614,12 @@
      },
      "news": [
       {
+       "h": "Vistra Corp. (VST) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-earnings-expected-140004358.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Duke Energy to Release Q2 Earnings: What's in Store for the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-release-q2-earnings-163700654.html",
@@ -14624,12 +14630,6 @@
        "pub": "Blockspace",
        "link": "https://finance.yahoo.com/energy/articles/morgan-stanley-sees-cifr-glxy-144755704.html",
        "date": "2026-07-30"
-      },
-      {
-       "h": "Vistra (VST) Stock Looks Reasonable Following New York Data Center Limits",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-stock-looks-reasonable-220839951.html",
-       "date": "2026-07-29"
       }
      ],
      "awards": [
@@ -14762,6 +14762,12 @@
      "social": null,
      "news": [
       {
+       "h": "Dominion's Q2 Earnings Beat Estimates on Virginia Utility Strength",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/energy/articles/dominions-q2-earnings-beat-estimates-150700258.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Dominion Energy (D) Q2 Earnings and Revenues Beat Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-q2-earnings-124502657.html",
@@ -14772,12 +14778,6 @@
        "pub": "Moneywise",
        "link": "https://finance.yahoo.com/energy/articles/aging-va-power-grid-flashes-104500863.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Tech Earnings, Central Bank Decisions: What to Watch the Rest of the Week",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026/card/tech-earnings-central-bank-decisions-what-to-watch-the-rest-of-the-week-jkayOxvccvNH6C3xaHxp?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -14845,22 +14845,22 @@
      "social": null,
      "news": [
       {
-       "h": "Alliant Energy (LNT) Misses Q2 Earnings and Revenue Estimates",
+       "h": "Public Service Enterprise Stock to Post Q2 Earnings: What's in Store?",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/alliant-energy-lnt-misses-q2-233006384.html",
-       "date": "2026-07-30"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-post-q2-140700237.html",
+       "date": "2026-07-31"
       },
       {
-       "h": "Duke Energy (DUK) Stock Dips While Market Gains: Key Facts",
+       "h": "NRG Energy Gears Up to Report Q2 Earnings: Here's What to Expect",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-dips-215005167.html",
-       "date": "2026-07-30"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-gears-report-q2-134800723.html",
+       "date": "2026-07-31"
       },
       {
-       "h": "Exelon's Q2 Earnings In Line With Estimates, Revenues Rise Y/Y",
+       "h": "NiSource to Release Q2 Earnings: Here's What You Need to Know",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exelons-q2-earnings-line-estimates-183000399.html",
-       "date": "2026-07-30"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nisource-release-q2-earnings-heres-132900002.html",
+       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -15021,22 +15021,22 @@
      },
      "news": [
       {
-       "h": "Xcel Q2 Earnings Beat Estimates on Infrastructure Investment Recovery",
+       "h": "NextEra Just Raised Its Large-Load Forecast to 8 Gigawatts. Here's Why That Matters.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-just-raised-large-load-172500952.html",
+       "date": "2026-07-31"
+      },
+      {
+       "h": "Dominion's Q2 Earnings Beat Estimates on Virginia Utility Strength",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/xcel-q2-earnings-beat-estimates-172700804.html",
-       "date": "2026-07-30"
+       "link": "https://finance.yahoo.com/energy/articles/dominions-q2-earnings-beat-estimates-150700258.html",
+       "date": "2026-07-31"
       },
       {
-       "h": "DOE Is Converting Its Own Cold War Uranium Sites Into $100 Billion AI Data Centers",
-       "pub": "Forkast News",
-       "link": "https://finance.yahoo.com/technology/ai/articles/doe-converting-own-cold-war-051140898.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "One Sign the AI Power Trade Is Running Out of Juice",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/nextera-data-center-power-ai-juice-6652f265?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-29"
+       "h": "Ameren Q2 Earnings Surpass Estimates, Revenues Decline Y/Y",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ameren-q2-earnings-surpass-estimates-133500570.html",
+       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -15109,6 +15109,12 @@
      },
      "news": [
       {
+       "h": "Public Service Enterprise Stock to Post Q2 Earnings: What's in Store?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-post-q2-140700237.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Analysts Estimate NiSource (NI) to Report a Decline in Earnings: What to Look Out for",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-estimate-nisource-ni-report-140015953.html",
@@ -15118,12 +15124,6 @@
        "h": "CMS Energy Q2 Earnings Match Estimates, Revenues Decrease Y/Y",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-q2-earnings-match-153800833.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "PSEG (PEG) Reports Next Week: Wall Street Expects Earnings Growth",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-reports-next-week-140017638.html",
        "date": "2026-07-28"
       }
      ]
@@ -15166,6 +15166,12 @@
      "social": null,
      "news": [
       {
+       "h": "Exelon \u2018high probability\u2019 data center load falls 40%",
+       "pub": "Utility Dive",
+       "link": "https://finance.yahoo.com/energy/articles/exelon-high-probability-data-center-075709661.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Exelon (EXC) Q2 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-q2-2026-earnings-032234726.html",
@@ -15175,12 +15181,6 @@
        "h": "Exelon Corp (EXC) (Q2 2026) Earnings Call Highlights: Navigating Regulatory Hurdles and Data ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/energy/articles/exelon-corp-exc-q2-2026-230443789.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Exelon Corporation Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-corporation-q2-2026-earnings-221047942.html",
        "date": "2026-07-30"
       }
      ],
@@ -15249,6 +15249,12 @@
      "social": null,
      "news": [
       {
+       "h": "Edison International Q2 Earnings Surpass Estimates, Revenues Miss",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/edison-international-q2-earnings-surpass-132500317.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "IDACORP Q2 Earnings Outpace Estimates, Revenues Increase Y/Y",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/idacorp-q2-earnings-outpace-estimates-160300802.html",
@@ -15258,12 +15264,6 @@
        "h": "American Electric's Q2 Earnings Lag Estimates, Revenues Increase Y/Y",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/american-electrics-q2-earnings-lag-152000883.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Under pressure, Entergy looks to mitigate cost of $1.8B Texas gas plant purchase",
-       "pub": "Utility Dive",
-       "link": "https://finance.yahoo.com/energy/articles/under-pressure-entergy-looks-mitigate-085357028.html",
        "date": "2026-07-30"
       }
      ],
@@ -17799,23 +17799,205 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Study Finds That A $1.2 Million Retirement and a $4 Million Retirement Look Almost Identical In Terms Of Spending",
+   "h": "Amazon's 14.9% Jump Lifts the Dow While Apple Drags It Back",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amazons-14-9-jump-lifts-173130216.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra Just Raised Its Large-Load Forecast to 8 Gigawatts. Here's Why That Matters.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-just-raised-large-load-172500952.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
+   "pub": "IPO-Edge.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mega-ipos-icr-capital-171237618.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Beyond Mega IPOs: ICR Capital President & Chairman Don Duffy, Live from NYSE",
+   "pub": "IPO-Edge.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mega-ipos-icr-capital-171237618.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-betting-more-revenue-170929913.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "AMBA",
+   "h": "NXP in talks to buy chip developer Ambarella, FT reports",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/articles/nxp-talks-buy-chip-developer-170639271.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Cameco Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/cameco-q2-earnings-call-highlights-170424728.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Reports Earnings Soon; This Options Trade Capitalizes On The High Volatility",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/research/options/palantir-pltr-stock-reports-earnings-options-trade-volatility/?src=A00220&yptr=yahoo",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "SMR",
+   "h": "Prediction: Buying NuScale Right Now Could Make You Richer by 2036",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/prediction-buying-nuscale-now-could-165000353.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk Responds to Major Tesla Report",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-responds-major-tesla-164927929.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/rivian-earnings-stock-price-ba825004?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Is This EV Stock The Next Tesla?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ev-stock-next-tesla-164113385.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Michael Burry Sends Fresh Warning on Nvidia and Micron Stocks",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-fresh-warning-162112665.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm\u2019s Next Growth Engine Could Send Shares Much Higher",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/articles/study-finds-1-2-million-141313883.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-next-growth-engine-could-160013428.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Top nuclear power firm files for US IPO",
+   "pub": "InvestorsHub",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-nuclear-power-firm-files-155100823.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "HSAI",
+   "h": "CYD vs. HSAI: Which Stock Should Value Investors Buy Now?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cyd-vs-hsai-stock-value-154004528.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "D",
+   "h": "Dominion's Q2 Earnings Beat Estimates on Virginia Utility Strength",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/energy/articles/dominions-q2-earnings-beat-estimates-150700258.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "NEE",
+   "h": "Dominion's Q2 Earnings Beat Estimates on Virginia Utility Strength",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/energy/articles/dominions-q2-earnings-beat-estimates-150700258.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "UBER",
+   "h": "UBER Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-set-report-q2-earnings-150700102.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla reportedly considering a spin off of its China business",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/tesla-reportedly-considering-a-spin-off-of-its-china-business-145947803.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing\u2019s $21 billion B-52 upgrade faces cost overruns, delays, GAO says",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/boeing-21-billion-b-52-145820826.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "VSAT",
+   "h": "Strength Seen in Aviat Networks (AVNW): Can Its 7.3% Jump Turn into More Strength?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-aviat-networks-avnw-145500618.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "J",
+   "h": "Jacobs to Report Q3 Earnings: What to Expect From the Stock?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-report-q3-earnings-expect-145100606.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Just Won Its Biggest-Ever Contract. The Stock Barely Noticed",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-just-won-143859595.html",
    "date": "2026-07-31"
   },
   {
    "tk": "NVDA",
-   "h": "What Meta Now Has to Prove Following Its Earnings Release",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-now-prove-following-earnings-140851778.html",
+   "h": "Amazon's AWS business has taken on a life of its own: Earnings call takeaways",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/amazons-aws-business-taken-life-143824372.html",
    "date": "2026-07-31"
   },
   {
-   "tk": "NVDA",
-   "h": "Marvell Down Huge This Month: The Pros See 120% Returns in 12 Months",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-down-huge-month-pros-140739749.html",
+   "tk": "ALB",
+   "h": "Do Options Traders Know Something About Albemarle Stock We Don't?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/options/articles/options-traders-know-something-albemarle-142000950.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "DUK",
+   "h": "Public Service Enterprise Stock to Post Q2 Earnings: What's in Store?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-post-q2-140700237.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PEG",
+   "h": "Public Service Enterprise Stock to Post Q2 Earnings: What's in Store?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/public-enterprise-stock-post-q2-140700237.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "VST",
+   "h": "Vistra Corp. (VST) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-earnings-expected-140004358.html",
    "date": "2026-07-31"
   },
   {
@@ -17840,10 +18022,10 @@
    "date": "2026-07-31"
   },
   {
-   "tk": "QCOM",
-   "h": "Intel Stock's Operating Margin Turned Positive While Its Foundry Kept Losing Money",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-operating-margin-turned-135001949.html",
+   "tk": "DUK",
+   "h": "NRG Energy Gears Up to Report Q2 Earnings: Here's What to Expect",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-gears-report-q2-134800723.html",
    "date": "2026-07-31"
   },
   {
@@ -17861,222 +18043,40 @@
    "date": "2026-07-31"
   },
   {
+   "tk": "NEE",
+   "h": "Ameren Q2 Earnings Surpass Estimates, Revenues Decline Y/Y",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ameren-q2-earnings-surpass-estimates-133500570.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "CW",
+   "h": "How to Approach Kratos Defense Stock Ahead of Q2 Earnings Release?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/approach-kratos-defense-stock-ahead-133300099.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "HII",
+   "h": "Compared to Estimates, Huntington Ingalls (HII) Q2 Earnings: A Look at Key Metrics",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-huntington-ingalls-hii-133003475.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Westinghouse Electric Files Confidentially for IPO",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/deals/westinghouse-electric-files-confidentially-for-ipo-3f5c488e?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-07-31"
+  },
+  {
    "tk": "CCJ",
    "h": "Purecore, Skyharbour sign agreement on Yurchison uranium project",
    "pub": "Mining Technology",
    "link": "https://finance.yahoo.com/energy/articles/purecore-skyharbour-sign-agreement-yurchison-132911556.html",
    "date": "2026-07-31"
-  },
-  {
-   "tk": "ASTS",
-   "h": "Rocket Lab\u2019s Rally Isn\u2019t Random: 3 Catalysts Driving The Stock Higher",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rally-isn-t-130527437.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Rocket Lab\u2019s Rally Isn\u2019t Random: 3 Catalysts Driving The Stock Higher",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rally-isn-t-130527437.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab\u2019s Rally Isn\u2019t Random: 3 Catalysts Driving The Stock Higher",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rally-isn-t-130527437.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Leidos Holdings, Inc. (LDOS) is Attracting Investor Attention: Here is What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-inc-ldos-attracting-130006663.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Is Trending Stock Energy Fuels Inc (UUUU) a Buy Now?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-energy-fuels-inc-130002275.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "D",
-   "h": "Dominion Energy (D) Q2 Earnings and Revenues Beat Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-q2-earnings-124502657.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock in Focus -- Musk Dismisses Report on China Business Sale",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-focus-musk-dismisses-123011788.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "TDY",
-   "h": "2 Large-Cap Stocks for Long-Term Investors and 1 Facing Challenges",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-long-122335600.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Apple CEO Tim Cook says this '100-year flood' won't be receding anytime soon",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "UEC",
-   "h": "Uranium Energy (UEC) Stock Looks Stretched Despite Its 353% Five Year Run",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-stock-looks-120735779.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "OKLO",
-   "h": "OKLO vs. Bloom Energy: Only One Clean Energy Stock Is a Buy",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/energy/articles/oklo-vs-bloom-energy-only-120700868.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Rivian Stock Got a Boost From Earnings. The R2 Rollout Is Paying Off.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/rivian-earnings-stock-price-ba825004?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Cameco (CCJ) Q2 Earnings Miss Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-q2-earnings-miss-114501344.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "ALB",
-   "h": "Nucor Outshines Albemarle in Charlotte Stock Duel",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nucor-outshines-albemarle-charlotte-stock-112005567.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Cameco shares gain on revenue beat despite earnings miss",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-shares-gain-revenue-beat-111601624.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab (RKLB) Signs Three More iQPS Launches As Planned Missions Reach 18",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-signs-three-110850550.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "BA",
-   "h": "Hexcel Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hexcel-q2-earnings-call-highlights-110408884.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "HII",
-   "h": "Huntington Ingalls Industries Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-q2-earnings-110406860.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Nuclear power giant Westinghouse confidentially files for US IPO",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-power-giant-westinghouse-confidentially-105623409.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "D",
-   "h": "Aging VA power grid flashes warning with flickering across 50% of US triggered by data centers. Protect yourself now",
-   "pub": "Moneywise",
-   "link": "https://finance.yahoo.com/energy/articles/aging-va-power-grid-flashes-104500863.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "DRS",
-   "h": "Leonardo DRS (DRS) Beat Expectations And Lifted Guidance, Is The Upside Already Priced In?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-beat-expectations-100604911.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "QCOM",
-   "h": "QCOM Q2 Deep Dive: Data Center and Automotive Growth Offset Smartphone Headwinds",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-q2-deep-dive-data-095135497.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "MP",
-   "h": "MP, CRML, TMC, UAMY Stocks In Focus: sell-side Sachs Sees AI Driving A Global \u2018Mine-To-Magnet\u2019 Investment Cycle",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-crml-tmc-uamy-stocks-084444308.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "AMPX",
-   "h": "Amprius Technologies (AMPX) Stock Looks Above Fair Value Despite A 37% Return",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-ampx-stock-looks-070917343.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "DRS",
-   "h": "Leonardo DRS (DRS) Stock Looks Above Fair Value Following Its 171% Run",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-070805588.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "SAIC",
-   "h": "How Investors May Respond To SAIC\u2019s New $70 Million Multi\u2011Year U.S. Navy Radar Support Contract",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-saic-70-070804617.html",
-   "date": "2026-07-31"
   }
  ],
- "prices_asof": "2026-07-31 14:19 UTC"
+ "prices_asof": "2026-07-31 17:43 UTC"
 }
