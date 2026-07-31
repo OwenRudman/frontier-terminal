@@ -612,6 +612,12 @@
      "social": null,
      "news": [
       {
+       "h": "MP, CRML, TMC, UAMY Stocks In Focus: sell-side Sachs Sees AI Driving A Global \u2018Mine-To-Magnet\u2019 Investment Cycle",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-crml-tmc-uamy-stocks-084444308.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Archer Aviation vs. MP Materials: Which Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-mp-materials-004255080.html",
@@ -621,12 +627,6 @@
        "h": "MP Materials Corp. (MP) Earnings Expected to Grow: Should You Buy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-corp-mp-earnings-140010485.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Investors Are Racing to Find America's Next Rare Earth Winner",
-       "pub": "Oilprice.com",
-       "link": "https://finance.yahoo.com/energy/articles/investors-racing-americas-next-rare-000000036.html",
        "date": "2026-07-30"
       }
      ],
@@ -1139,9 +1139,9 @@
        "date": "2026-07-30"
       },
       {
-       "h": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
+       "h": "The Energy IPO Boom Is Just Getting Started. Here Are the Companies to Watch.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-latest-interest-rate-082600975.html",
+       "link": "https://finance.yahoo.com/energy/articles/energy-ipo-boom-just-getting-103000678.html",
        "date": "2026-07-31"
       }
      ]
@@ -1329,6 +1329,12 @@
      ],
      "news": [
       {
+       "h": "Leonardo DRS (DRS) Beat Expectations And Lifted Guidance, Is The Upside Already Priced In?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-beat-expectations-100604911.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Leonardo DRS (DRS) Stock Looks Above Fair Value Following Its 171% Run",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-070805588.html",
@@ -1339,12 +1345,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-q2-2026-033033688.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Leonardo DRS Inc (DRS) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-inc-drs-q2-230450502.html",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -1768,6 +1768,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "EMCOR Group Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
@@ -1777,12 +1783,6 @@
        "h": "Analyst compares SpaceX, Palantir to Bitcoin",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-compares-spacex-palantir-bitcoin-220000073.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Michael Burry Adds To His NVDA And MU Shorts \u2014 And Makes More Moves In These Stocks",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvda-mu-213856035.html",
        "date": "2026-07-30"
       }
      ],
@@ -5861,21 +5861,21 @@
      },
      "news": [
       {
+       "h": "Rivian stock rises after it reports strong Q2 results; R2 launch edition conversions stronger than expected, CEO says",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/rivian-stock-rises-after-it-reports-strong-q2-results-r2-launch-edition-conversions-stronger-than-expected-ceo-says-185442823.html",
+       "date": "2026-07-29"
+      },
+      {
        "h": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html",
        "date": "2026-07-27"
       },
       {
-       "h": "Rivian reports strong Q2 results; R2 launch edition conversions stronger than expected, CEO says",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/rivian-reports-strong-q2-results-r2-launch-edition-conversions-stronger-than-expected-ceo-says-185442823.html",
-       "date": "2026-07-29"
-      },
-      {
-       "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
+       "h": "Tesla \u2018considers quitting China\u2019",
+       "pub": "The Telegraph",
+       "link": "https://finance.yahoo.com/news/tesla-considers-quitting-china-100822038.html",
        "date": "2026-07-31"
       }
      ],
@@ -7109,9 +7109,9 @@
        "date": "2026-07-30"
       },
       {
-       "h": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
+       "h": "QCOM Q2 Deep Dive: Data Center and Automotive Growth Offset Smartphone Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-q2-deep-dive-data-095135497.html",
        "date": "2026-07-31"
       }
      ],
@@ -8467,6 +8467,12 @@
      ],
      "news": [
       {
+       "h": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "RKLB, RDW, FLY, VSAT Climb Overnight: $981M Space Force IDIQ Contract Opens Fresh Pentagon Opportunity",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-rdw-fly-vsat-climb-051831992.html",
@@ -8477,12 +8483,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-overnight-rocket-031736733.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Space Investors Take Note: Rocket Lab or SpaceX Before 2026 Runs Out",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/space-investors-note-rocket-lab-192000222.html",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -11219,6 +11219,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "EMCOR Group Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
@@ -11228,12 +11234,6 @@
        "h": "Analyst compares SpaceX, Palantir to Bitcoin",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-compares-spacex-palantir-bitcoin-220000073.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Michael Burry Adds To His NVDA And MU Shorts \u2014 And Makes More Moves In These Stocks",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvda-mu-213856035.html",
        "date": "2026-07-30"
       }
      ],
@@ -17799,23 +17799,65 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
+   "h": "The Energy IPO Boom Is Just Getting Started. Here Are the Companies to Watch.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-latest-interest-rate-082600975.html",
+   "link": "https://finance.yahoo.com/energy/articles/energy-ipo-boom-just-getting-103000678.html",
    "date": "2026-07-31"
   },
   {
    "tk": "NVDA",
-   "h": "Should You Buy Lucid Stock Before Aug. 4?",
+   "h": "Should You Buy Disney Stock Before Aug. 5?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-lucid-stock-aug-4-082200074.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-disney-stock-aug-5-102800550.html",
    "date": "2026-07-31"
   },
   {
    "tk": "TSLA",
-   "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
+   "h": "Tesla \u2018considers quitting China\u2019",
+   "pub": "The Telegraph",
+   "link": "https://finance.yahoo.com/news/tesla-considers-quitting-china-100822038.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "DRS",
+   "h": "Leonardo DRS (DRS) Beat Expectations And Lifted Guidance, Is The Upside Already Priced In?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-beat-expectations-100604911.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "QCOM",
+   "h": "QCOM Q2 Deep Dive: Data Center and Automotive Growth Offset Smartphone Headwinds",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-q2-deep-dive-data-095135497.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Global equity fund inflows surge to three week highs",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/global-equity-fund-inflows-surge-094352631.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Prediction: Palantir Stock Is Going to Plunge on Aug. 4",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-stock-going-plunge-092600719.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "MP",
+   "h": "MP, CRML, TMC, UAMY Stocks In Focus: sell-side Sachs Sees AI Driving A Global \u2018Mine-To-Magnet\u2019 Investment Cycle",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-crml-tmc-uamy-stocks-084444308.html",
    "date": "2026-07-31"
   },
   {
@@ -17844,13 +17886,6 @@
    "h": "EMCOR Group Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "TSLA",
-   "h": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff \u2014 Analyst Says Shares Are \u2018Attractively Priced\u2019 Now",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-outperformed-goog-tsla-063910254.html",
    "date": "2026-07-31"
   },
   {
@@ -17980,13 +18015,6 @@
    "date": "2026-07-31"
   },
   {
-   "tk": "QCOM",
-   "h": "The AI secret behind Qualcomm's price hike",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ai-secret-behind-qualcomms-price-000300448.html",
-   "date": "2026-07-31"
-  },
-  {
    "tk": "AVAV",
    "h": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
    "pub": "Oilprice.com",
@@ -18048,35 +18076,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
    "date": "2026-07-30"
-  },
-  {
-   "tk": "SMR",
-   "h": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "LMT",
-   "h": "Pentagon Commits Over $120 Billion for Patriot Missiles, Submarines",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/politics/national-security/pentagon-widens-patriot-missile-order-to-nearly-59-billion-b3da2e01?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "BWXT",
-   "h": "Vertiv vs. BWX Technologies: What Revenue Trends Tell Investors About the Impact of Artificial Intelligence on These Companies",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vs-bwx-technologies-revenue-221601146.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "EXC",
-   "h": "Exelon Corporation Q2 2026 Earnings Call Summary",
-   "pub": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-corporation-q2-2026-earnings-221047942.html",
-   "date": "2026-07-30"
   }
  ],
- "prices_asof": "2026-07-31 08:32 UTC"
+ "prices_asof": "2026-07-31 10:43 UTC"
 }
