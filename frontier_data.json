@@ -609,12 +609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 2,
-      "rk": 232,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Archer Aviation vs. MP Materials: Which Stock Is a Better Buy in 2026?",
@@ -684,12 +679,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 273,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Albemarle (ALB) Earnings Expected to Grow: Should You Buy?",
@@ -844,6 +834,12 @@
      ],
      "news": [
       {
+       "h": "Amprius Technologies (AMPX) Stock Looks Above Fair Value Despite A 37% Return",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-ampx-stock-looks-070917343.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Factorial Inks a Deal, and Its Stock Gets Demolished",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/factorial-inks-deal-stock-gets-130601158.html",
@@ -854,12 +850,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-amprius-technologies-good-120134227.html",
        "date": "2026-07-10"
-      },
-      {
-       "h": "New Strong Sell Stocks for July 7th",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-july-7th-123100568.html",
-       "date": "2026-07-07"
       }
      ],
      "awards": [
@@ -940,10 +930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 164,
-      "m0": 176,
-      "rk": 7,
-      "up": 442
+      "m": 166,
+      "m0": 164,
+      "rk": 10,
+      "up": 447
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1139,9 @@
        "date": "2026-07-30"
       },
       {
-       "h": "How to Earn $1,000 a Month From Enterprise Products Partners Stock",
+       "h": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/earn-1-000-month-enterprise-062500155.html",
+       "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-latest-interest-rate-082600975.html",
        "date": "2026-07-31"
       }
      ]
@@ -1339,6 +1329,12 @@
      ],
      "news": [
       {
+       "h": "Leonardo DRS (DRS) Stock Looks Above Fair Value Following Its 171% Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-070805588.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Leonardo DRS (DRS) Q2 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-q2-2026-033033688.html",
@@ -1348,12 +1344,6 @@
        "h": "Leonardo DRS Inc (DRS) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-inc-drs-q2-230450502.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Leonardo DRS, Inc. Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-inc-q2-2026-215621493.html",
        "date": "2026-07-30"
       }
      ],
@@ -1590,10 +1580,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 33,
-      "rk": 129,
-      "up": 12
+      "m": 13,
+      "m0": 5,
+      "rk": 56,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1768,12 @@
      },
      "news": [
       {
+       "h": "EMCOR Group Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Analyst compares SpaceX, Palantir to Bitcoin",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-compares-spacex-palantir-bitcoin-220000073.html",
@@ -1787,12 +1783,6 @@
        "h": "Michael Burry Adds To His NVDA And MU Shorts \u2014 And Makes More Moves In These Stocks",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvda-mu-213856035.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Palantir Holds the Edge Ahead of Earnings",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-holds-edge-ahead-earnings-200321010.html",
        "date": "2026-07-30"
       }
      ],
@@ -2036,9 +2026,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 426,
-      "up": 2
+      "m0": 1,
+      "rk": 393,
+      "up": -7
      },
      "thesis": {
       "bull": [
@@ -2327,12 +2317,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 326,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2486,9 +2471,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 445,
-      "up": 6
+      "m0": 1,
+      "rk": 415,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2834,12 +2819,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 237,
-      "up": 7
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3738,7 +3718,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 765,
+      "rk": 753,
       "up": 0
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4043,10 +4023,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 8,
       "m0": 2,
-      "rk": 244,
-      "up": 11
+      "rk": 77,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -4394,8 +4374,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 533,
+      "m0": 1,
+      "rk": 498,
       "up": 2
      },
      "news": [
@@ -4725,7 +4705,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 792,
+      "up": 1
+     },
      "news": [
       {
        "h": "Ouster, Inc. (OUST) Stock Drops Despite Market Gains: Important Facts to Note",
@@ -5112,8 +5097,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 310,
+      "m0": 1,
+      "rk": 275,
       "up": 1
      },
      "news": [
@@ -5138,7 +5123,7 @@
      ],
      "awards": [
       {
-       "amt": 12745883511.85,
+       "amt": 12747122070.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5869,10 +5854,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 96,
-      "m0": 73,
-      "rk": 10,
-      "up": 295
+      "m": 93,
+      "m0": 96,
+      "rk": 14,
+      "up": 605
      },
      "news": [
       {
@@ -5888,9 +5873,9 @@
        "date": "2026-07-29"
       },
       {
-       "h": "BREAKING: Elon Musk Denies Tesla\u2019s China Unit Sale for Potential SpaceX Merger",
-       "pub": "CoinGape",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/breaking-elon-musk-denies-tesla-054902658.html",
+       "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
        "date": "2026-07-31"
       }
      ],
@@ -5957,10 +5942,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 167,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 482,
+      "up": 1
      },
      "news": [
       {
@@ -6988,7 +6973,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 750,
+      "rk": 731,
       "up": 1
      },
      "news": [
@@ -7105,10 +7090,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 3,
-      "rk": 42,
-      "up": 53
+      "m": 3,
+      "m0": 20,
+      "rk": 145,
+      "up": 13
      },
      "news": [
       {
@@ -7124,9 +7109,9 @@
        "date": "2026-07-30"
       },
       {
-       "h": "The AI secret behind Qualcomm's price hike",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/ai-secret-behind-qualcomms-price-000300448.html",
+       "h": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
        "date": "2026-07-31"
       }
      ],
@@ -7377,7 +7362,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 527,
+      "rk": 492,
       "up": 1
      },
      "news": [
@@ -7762,10 +7747,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 10,
-      "rk": 146,
-      "up": 8
+      "m": 1,
+      "m0": 4,
+      "rk": 719,
+      "up": -2
      },
      "news": [
       {
@@ -8271,10 +8256,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 62,
-      "rk": 29,
-      "up": 423
+      "m": 29,
+      "m0": 37,
+      "rk": 27,
+      "up": 84
      },
      "thesis": {
       "bull": [
@@ -9161,10 +9146,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 180,
-      "up": 19
+      "m": 4,
+      "m0": 3,
+      "rk": 135,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9505,10 +9490,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 45,
-      "rk": 27,
-      "up": 157
+      "m": 27,
+      "m0": 38,
+      "rk": 29,
+      "up": 83
      },
      "thesis": {
       "bull": [
@@ -9691,6 +9676,12 @@
      },
      "news": [
       {
+       "h": "ASTS Stock Eyes Worst Month In Over 2 Years \u2014 But Big Money Is Loading Up Ahead Of Next BlueBird Launch",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-eyes-worst-month-063217515.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "AST SpaceMobile vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-lockheed-martin-190642737.html",
@@ -9701,12 +9692,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-asts-rklb-floor-brutal-080737850.html",
        "date": "2026-07-30"
-      },
-      {
-       "h": "AST SpaceMobile vs. QuantumScape: Which Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-quantumscape-stock-205042053.html",
-       "date": "2026-07-29"
       }
      ]
     },
@@ -9828,12 +9813,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 492,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar",
@@ -9860,6 +9840,12 @@
        "ag": "Department of Defense",
        "desc": "ENGINEERING AND MAINTENANCE SERVICES",
        "date": "2025-08-25"
+      },
+      {
+       "amt": 420960.0,
+       "ag": "Department of Defense",
+       "desc": "BASE PERIOD CPFF HOLDING CLIN",
+       "date": "2023-05-11"
       }
      ]
     },
@@ -10065,7 +10051,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 397,
+      "up": 1
+     },
      "news": [
       {
        "h": "KVHI vs. GILT: Which Satellite Communications Stock Is the Better Buy?",
@@ -10392,12 +10383,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 185,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
@@ -10548,9 +10534,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 270,
-      "up": 2
+      "m0": 1,
+      "rk": 229,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10656,12 +10642,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 326,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10767,8 +10748,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 259,
+      "m0": 1,
+      "rk": 217,
       "up": 2
      },
      "news": [
@@ -10855,8 +10836,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 533,
+      "m0": 1,
+      "rk": 498,
       "up": 2
      },
      "news": [
@@ -10941,7 +10922,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 328,
+      "up": 7
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11041,7 +11027,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 283,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11140,6 +11131,12 @@
      "social": null,
      "news": [
       {
+       "h": "How Investors May Respond To SAIC\u2019s New $70 Million Multi\u2011Year U.S. Navy Radar Support Contract",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-saic-70-070804617.html",
+       "date": "2026-07-31"
+      },
+      {
        "h": "Booz Allen Soared On A Beat, Not A Boom",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-soared-beat-not-091419094.html",
@@ -11150,12 +11147,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-science-applications-134004944.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "IT Keeps Buying What The Market Keeps Selling",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/keeps-buying-market-keeps-selling-204910825.html",
-       "date": "2026-07-10"
       }
      ],
      "awards": [
@@ -11221,12 +11212,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 33,
-      "rk": 129,
-      "up": 12
+      "m": 13,
+      "m0": 5,
+      "rk": 56,
+      "up": 31
      },
      "news": [
+      {
+       "h": "EMCOR Group Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
+       "date": "2026-07-31"
+      },
       {
        "h": "Analyst compares SpaceX, Palantir to Bitcoin",
        "pub": "TheStreet",
@@ -11237,12 +11234,6 @@
        "h": "Michael Burry Adds To His NVDA And MU Shorts \u2014 And Makes More Moves In These Stocks",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvda-mu-213856035.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Palantir Holds the Edge Ahead of Earnings",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-holds-edge-ahead-earnings-200321010.html",
        "date": "2026-07-30"
       }
      ],
@@ -11312,7 +11303,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 629,
+      "rk": 606,
       "up": 5
      },
      "news": [
@@ -12351,7 +12342,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 550,
+      "up": 2
+     },
      "news": [
       {
        "h": "The Bull Case For Cameco (TSX:CCO) Could Change Following U.S.-Saudi Nuclear Deal Prospects Via Westinghouse",
@@ -12409,7 +12405,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 790,
+      "up": 2
+     },
      "news": [
       {
        "h": "Uranium Energy Is Down Sharply in 2026. Here's What the Next 10 Years Could Realistically Look Like.",
@@ -12657,9 +12658,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 505,
-      "up": 1
+      "m0": 1,
+      "rk": 474,
+      "up": 7
      },
      "news": [
       {
@@ -12739,10 +12740,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 12,
-      "rk": 56,
-      "up": 35
+      "m": 18,
+      "m0": 16,
+      "rk": 39,
+      "up": 34
      },
      "news": [
       {
@@ -13012,7 +13013,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 795,
+      "up": 2
+     },
      "news": [
       {
        "h": "Centrus Energy (LEU) Stock Looks Fully Priced After a 7x Run",
@@ -13333,10 +13339,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
+      "m": 5,
       "m0": 8,
-      "rk": 102,
-      "up": 11
+      "rk": 112,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -13574,10 +13580,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 121,
-      "up": 9
+      "m": 2,
+      "m0": 6,
+      "rk": 199,
+      "up": 4
      },
      "news": [
       {
@@ -14223,8 +14229,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 569,
+      "m0": 1,
+      "rk": 536,
       "up": 2
      },
      "awards": [
@@ -14602,9 +14608,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 453,
-      "up": 1
+      "m0": 1,
+      "rk": 421,
+      "up": 2
      },
      "news": [
       {
@@ -14776,7 +14782,7 @@
      ],
      "awards": [
       {
-       "amt": 20224506.84,
+       "amt": 20655472.17,
        "ag": "Department of Defense",
        "desc": "ERCIP P-505",
        "date": "2023-09-13"
@@ -14920,10 +14926,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 8,
-      "rk": 84,
-      "up": 153
+      "m": 16,
+      "m0": 9,
+      "rk": 43,
+      "up": 42
      },
      "news": [
       {
@@ -15009,8 +15015,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 355,
+      "m0": 1,
+      "rk": 315,
       "up": 1
      },
      "news": [
@@ -15096,10 +15102,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 5,
-      "rk": 85,
-      "up": 23
+      "m": 4,
+      "m0": 9,
+      "rk": 120,
+      "up": 50
      },
      "news": [
       {
@@ -17512,7 +17518,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-30",
+ "social_asof": "2026-07-31",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17793,30 +17799,72 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "How to Earn $1,000 a Month From Enterprise Products Partners Stock",
+   "h": "The Federal Reserve's Latest Interest Rate Decision Featured Something We Haven't Seen in 10 Years, and It Should Rightly Worry Wall Street",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/earn-1-000-month-enterprise-062500155.html",
+   "link": "https://finance.yahoo.com/economy/policy/articles/federal-reserves-latest-interest-rate-082600975.html",
    "date": "2026-07-31"
   },
   {
    "tk": "NVDA",
-   "h": "The Stock Market Just Did Something for the 2nd Time in 100 Years, and History Says What Comes Next",
+   "h": "Should You Buy Lucid Stock Before Aug. 4?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-did-something-062000595.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-lucid-stock-aug-4-082200074.html",
    "date": "2026-07-31"
   },
   {
    "tk": "TSLA",
-   "h": "BREAKING: Elon Musk Denies Tesla\u2019s China Unit Sale for Potential SpaceX Merger",
-   "pub": "CoinGape",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/breaking-elon-musk-denies-tesla-054902658.html",
+   "h": "Elon Musk Dismisses Tesla China Unit Sale Report As 'Fake News'",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/elon-musk-mulls-selling-tesla-china-unit-to-smooth-spacex-merger/?src=A00220&yptr=yahoo",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "AMPX",
+   "h": "Amprius Technologies (AMPX) Stock Looks Above Fair Value Despite A 37% Return",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-ampx-stock-looks-070917343.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "DRS",
+   "h": "Leonardo DRS (DRS) Stock Looks Above Fair Value Following Its 171% Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-070805588.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "SAIC",
+   "h": "How Investors May Respond To SAIC\u2019s New $70 Million Multi\u2011Year U.S. Navy Radar Support Contract",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-saic-70-070804617.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "EMCOR Group Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/emcor-group-q2-earnings-call-070354852.html",
    "date": "2026-07-31"
   },
   {
    "tk": "TSLA",
-   "h": "TSLA Stock Jumps Overnight: Musk Calls Tesla China-SpaceX Merger Report \u2018Absurdly Fake News\u2019 \u2014 Says Its \u2018Never Even Come Up In A Discussion\u2019",
+   "h": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff \u2014 Analyst Says Shares Are \u2018Attractively Priced\u2019 Now",
    "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-jumps-overnight-musk-053840521.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-outperformed-goog-tsla-063910254.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "QCOM",
+   "h": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
+   "date": "2026-07-31"
+  },
+  {
+   "tk": "ASTS",
+   "h": "ASTS Stock Eyes Worst Month In Over 2 Years \u2014 But Big Money Is Loading Up Ahead Of Next BlueBird Launch",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-eyes-worst-month-063217515.html",
    "date": "2026-07-31"
   },
   {
@@ -18028,49 +18076,7 @@
    "pub": "Moby",
    "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-corporation-q2-2026-earnings-221047942.html",
    "date": "2026-07-30"
-  },
-  {
-   "tk": "RTX",
-   "h": "How RTX\u2019s Q2 Beat, Raised Outlook and Record Backlog Will Impact RTX (RTX) Investors",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-q2-beat-raised-outlook-220854563.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Analyst compares SpaceX, Palantir to Bitcoin",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/analyst-compares-spacex-palantir-bitcoin-220000073.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "DRS",
-   "h": "Leonardo DRS, Inc. Q2 2026 Earnings Call Summary",
-   "pub": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-inc-q2-2026-215621493.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "DUK",
-   "h": "Duke Energy (DUK) Stock Dips While Market Gains: Key Facts",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-dips-215005167.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-outpaces-stock-214504151.html",
-   "date": "2026-07-30"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber Technologies (UBER) Stock Drops Despite Market Gains: Important Facts to Note",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-stock-drops-214503507.html",
-   "date": "2026-07-30"
   }
  ],
- "prices_asof": "2026-07-31 06:49 UTC"
+ "prices_asof": "2026-07-31 08:32 UTC"
 }
