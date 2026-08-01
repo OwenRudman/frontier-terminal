@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "AI trade is a combination of 'perception and reality': Bradley Tusk",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/ai-trade-combination-perception-reality-212136645.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
+       "h": "Why IMAX Stock Keeps Rising",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/prediction-eli-lilly-worth-2-203700691.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-imax-stock-keeps-rising-224608387.html",
        "date": "2026-08-01"
       },
       {
-       "h": "Nvidia's CEO just pointed at the part of AI that worries him most",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-just-pointed-part-203300693.html",
+       "h": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+       "date": "2026-08-01"
+      },
+      {
+       "h": "McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-sits-21-below-high-205800560.html",
        "date": "2026-08-01"
       }
      ]
@@ -7092,6 +7092,12 @@
      },
      "news": [
       {
+       "h": "Why Investors Shouldn\u2019t Sweat the Dip in Qualcomm\u2019s Handset Revenue, According to Experts",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-shouldn-t-sweat-150002057.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "Marvell Technology Is Betting More Of Its Revenue On One End Market",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-betting-more-revenue-170929913.html",
@@ -7101,12 +7107,6 @@
        "h": "Qualcomm\u2019s Next Growth Engine Could Send Shares Much Higher",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-next-growth-engine-could-160013428.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Rivian Sinks 8% Despite Q2 Beat and Raised Guidance; Lucid Falls 6%",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-sinks-8-despite-q2-151429091.html",
        "date": "2026-07-31"
       }
      ],
@@ -8572,6 +8572,12 @@
      ],
      "news": [
       {
+       "h": "Firefly Aerospace (FLY) Faces A Valuation Test, Is It Still Below Fair Value?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-faces-valuation-210946603.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "Firefly Aerospace (FLY) Stock Could Be Overvalued Even After A 28% Drop",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-stock-could-161033126.html",
@@ -8581,12 +8587,6 @@
        "h": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/rocket-lab-stock-launch-contract-electron-space-force-15-awards-981m/?src=A00220&yptr=yahoo",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "RKLB, RDW, FLY, VSAT Climb Overnight: $981M Space Force IDIQ Contract Opens Fresh Pentagon Opportunity",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-rdw-fly-vsat-climb-051831992.html",
        "date": "2026-07-31"
       }
      ],
@@ -17809,23 +17809,37 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Why IMAX Stock Keeps Rising",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-imax-stock-keeps-rising-224608387.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Warren Buffett's Berkshire Could Buy Almost Any S&P 500 Company With Its $397 Billion Cash Pile, but Keeps Waiting for a Better Price",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-berkshire-could-buy-220500371.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "FLY",
+   "h": "Firefly Aerospace (FLY) Faces A Valuation Test, Is It Still Below Fair Value?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-faces-valuation-210946603.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "NVDA",
+   "h": "McDonald's Sits 21% Below Its High and 4% Above Its 52-Week Low. The Dividend Yields 2.7%.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-sits-21-below-high-205800560.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "NVDA",
    "h": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/healthcare/articles/prediction-eli-lilly-worth-2-203700691.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia's CEO just pointed at the part of AI that worries him most",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-ceo-just-pointed-part-203300693.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Could Buying This Financial Stock Today Set You Up for Life?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-buying-financial-stock-today-202500165.html",
    "date": "2026-08-01"
   },
   {
@@ -17910,6 +17924,13 @@
    "h": "Uber is building an autonomous vehicle empire, and here\u2019s every company it\u2019s using to do it",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/ai/articles/uber-building-autonomous-vehicle-empire-150500324.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Why Investors Shouldn\u2019t Sweat the Dip in Qualcomm\u2019s Handset Revenue, According to Experts",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-shouldn-t-sweat-150002057.html",
    "date": "2026-08-01"
   },
   {
@@ -18065,28 +18086,7 @@
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/brunswick-q2-earnings-call-highlights-040245864.html",
    "date": "2026-08-01"
-  },
-  {
-   "tk": "SMR",
-   "h": "NuScale Power (SMR) Gains Fresh SMR Backing, Is A $100 Fair Value Credible?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-gains-fresh-031803692.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "DRS",
-   "h": "DRS Q2 Deep Dive: Strong Execution and AI Expansion Amid Market Caution",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/drs-q2-deep-dive-strong-025957065.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "PONY",
-   "h": "Stellantis Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stellantis-q2-earnings-call-highlights-020343861.html",
-   "date": "2026-08-01"
   }
  ],
- "prices_asof": "2026-08-01 20:58 UTC"
+ "prices_asof": "2026-08-01 22:58 UTC"
 }
