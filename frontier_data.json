@@ -609,7 +609,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 751,
+      "up": 2
+     },
      "news": [
       {
        "h": "MP, CRML, TMC, UAMY Stocks In Focus: sell-side Sachs Sees AI Driving A Global \u2018Mine-To-Magnet\u2019 Investment Cycle",
@@ -930,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 166,
-      "m0": 164,
-      "rk": 10,
-      "up": 447
+      "m": 130,
+      "m0": 160,
+      "rk": 8,
+      "up": 899
      },
      "thesis": {
       "bull": [
@@ -1139,9 +1144,9 @@
        "date": "2026-07-31"
       },
       {
-       "h": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
+       "h": "Kevin Warsh Did Not Impress the Bond Market -- 30-Year Yields Are Up to 5.2%. Here's What This Might Mean for Investors in These 2 ETFs.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-both-restaurants-062500903.html",
+       "link": "https://finance.yahoo.com/markets/options/articles/kevin-warsh-did-not-impress-075000517.html",
        "date": "2026-08-01"
       }
      ]
@@ -1580,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 5,
-      "rk": 56,
-      "up": 31
+      "m": 19,
+      "m0": 13,
+      "rk": 25,
+      "up": 66
      },
      "thesis": {
       "bull": [
@@ -2027,8 +2032,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 393,
-      "up": -7
+      "rk": 359,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2472,8 +2477,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 415,
-      "up": 5
+      "rk": 380,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3715,12 +3720,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 753,
-      "up": 0
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4022,12 +4022,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 77,
-      "up": 16
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4373,10 +4368,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 498,
-      "up": 2
+      "rk": 97,
+      "up": 15
      },
      "news": [
       {
@@ -4706,10 +4701,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 792,
-      "up": 1
+      "rk": 173,
+      "up": 8
      },
      "news": [
       {
@@ -5098,7 +5093,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 275,
+      "rk": 244,
       "up": 1
      },
      "news": [
@@ -5123,7 +5118,7 @@
      ],
      "awards": [
       {
-       "amt": 12747122070.85,
+       "amt": 12747437070.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5135,7 +5130,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6891031570.74,
+       "amt": 6944031570.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5854,10 +5849,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 93,
-      "m0": 96,
+      "m": 65,
+      "m0": 93,
       "rk": 14,
-      "up": 605
+      "up": 177
      },
      "news": [
       {
@@ -5943,9 +5938,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 482,
-      "up": 1
+      "m0": 1,
+      "rk": 449,
+      "up": 4
      },
      "news": [
       {
@@ -6029,7 +6024,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 438,
+      "up": -3
+     },
      "news": [
       {
        "h": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
@@ -6970,12 +6970,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 731,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "MicroVision Pitches \u2018Lidar 2.0\u2019 Strategy, Keeps 2026 Revenue Outlook Intact",
@@ -7090,10 +7085,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 20,
-      "rk": 145,
-      "up": 13
+      "m": 1,
+      "m0": 3,
+      "rk": 272,
+      "up": 2
      },
      "news": [
       {
@@ -7177,7 +7172,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 377,
+      "up": 1
+     },
      "news": [
       {
        "h": "AMBA Stock Rockets 18% On NXP Buyout Talks For Self-Driving Chip Maker",
@@ -7362,8 +7362,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 492,
-      "up": 1
+      "rk": 461,
+      "up": 2
      },
      "news": [
       {
@@ -7747,10 +7747,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 719,
-      "up": -2
+      "m": 2,
+      "m0": 1,
+      "rk": 169,
+      "up": 3
      },
      "news": [
       {
@@ -8256,10 +8256,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 37,
-      "rk": 27,
-      "up": 84
+      "m": 14,
+      "m0": 29,
+      "rk": 40,
+      "up": 35
      },
      "thesis": {
       "bull": [
@@ -8735,7 +8735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 759,
+      "up": -7
+     },
      "thesis": {
       "bull": [
        {
@@ -9145,12 +9150,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 135,
-      "up": 6
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9490,10 +9490,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 38,
-      "rk": 29,
-      "up": 83
+      "m": 24,
+      "m0": 28,
+      "rk": 22,
+      "up": 37
      },
      "thesis": {
       "bull": [
@@ -9919,7 +9919,7 @@
        "date": "2018-06-29"
       },
       {
-       "amt": 66711502.51,
+       "amt": 72467880.09,
        "ag": "General Services Administration",
        "desc": "VIASAT TO16",
        "date": "2025-05-28"
@@ -9968,7 +9968,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 429,
+      "up": 0
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10053,8 +10058,8 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 397,
+      "m0": 1,
+      "rk": 364,
       "up": 1
      },
      "news": [
@@ -10535,8 +10540,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 229,
-      "up": 1
+      "rk": 202,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10553,6 +10558,12 @@
      ],
      "news": [
       {
+       "h": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "Houthis deny Red Sea fee plan as Trump prepares new Iran strikes",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/politics/articles/trump-approves-iran-strikes-could-231200408.html",
@@ -10562,12 +10573,6 @@
        "h": "Lockheed Martin\u2019s Missile Contract Brings More Jobs, Higher Production",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-missile-contract-brings-133031190.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iran-tensions-illustrate-defense-supply-015000071.html",
        "date": "2026-07-31"
       }
      ],
@@ -10747,10 +10752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 217,
-      "up": 2
+      "rk": 142,
+      "up": 3
      },
      "news": [
       {
@@ -10835,10 +10840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 498,
-      "up": 2
+      "rk": 97,
+      "up": 15
      },
      "news": [
       {
@@ -10924,9 +10929,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 328,
-      "up": 7
+      "m0": 1,
+      "rk": 302,
+      "up": 2
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -10938,6 +10943,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/iran-tensions-illustrate-defense-supply-015000071.html",
@@ -10947,12 +10958,6 @@
        "h": "L3Harris Missile Business Is Booming. So Why Is the Stock Tanking?",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/l3harris-technologies-earnings-stock-price-9a17bfc3?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Lockheed Martin Gets a \u2018Mega\u2019 Missile Contract. War Spending Hasn\u2019t Peaked.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/lockheed-martin-stock-missile-deal-d1d14756?siteid=yhoof2&yptr=yahoo",
        "date": "2026-07-30"
       }
      ],
@@ -11029,8 +11034,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 283,
+      "m0": 1,
+      "rk": 253,
       "up": 0
      },
      "streetNotes": [
@@ -11212,10 +11217,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 5,
-      "rk": 56,
-      "up": 31
+      "m": 19,
+      "m0": 13,
+      "rk": 25,
+      "up": 66
      },
      "news": [
       {
@@ -11303,8 +11308,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 606,
-      "up": 5
+      "rk": 559,
+      "up": 13
      },
      "news": [
       {
@@ -12344,8 +12349,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 550,
+      "m0": 1,
+      "rk": 513,
       "up": 2
      },
      "news": [
@@ -12407,9 +12412,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 790,
-      "up": 2
+      "m0": 1,
+      "rk": 736,
+      "up": 1
      },
      "news": [
       {
@@ -12659,8 +12664,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 474,
-      "up": 7
+      "rk": 441,
+      "up": 1
      },
      "news": [
       {
@@ -12740,10 +12745,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 16,
-      "rk": 39,
-      "up": 34
+      "m": 15,
+      "m0": 20,
+      "rk": 36,
+      "up": 22
      },
      "news": [
       {
@@ -13015,8 +13020,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 795,
+      "m0": 1,
+      "rk": 741,
       "up": 2
      },
      "news": [
@@ -13339,10 +13344,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 8,
+      "m": 4,
+      "m0": 5,
       "rk": 112,
-      "up": 9
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -13579,12 +13584,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 199,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power (SMR) Gains Fresh SMR Backing, Is A $100 Fair Value Credible?",
@@ -13992,7 +13992,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 393,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14064,6 +14069,12 @@
      "social": null,
      "news": [
       {
+       "h": "Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/scott-straziks-ge-vernova-176-072500553.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "3 Cash-Heavy Stocks Worth Your Attention",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-worth-133949451.html",
@@ -14073,12 +14084,6 @@
        "h": "GE Vernova vs. NuScale Power: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nuscale-power-201117081.html",
-       "date": "2026-07-30"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Higher Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-afternoon-195823676.html",
        "date": "2026-07-30"
       }
      ],
@@ -14227,12 +14232,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 536,
-      "up": 2
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14338,7 +14338,7 @@
      ],
      "awards": [
       {
-       "amt": 14785385287.21,
+       "amt": 14752575287.21,
        "ag": "Department of Energy",
        "desc": "MANAGEMENT AND OPERATION OF THE NAVAL NUCLEAR LABORATORY AND NAVAL NUCLEAR PROPULSION PROGRAM SUPPORT",
        "date": "2018-07-12"
@@ -14523,7 +14523,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 177,
+      "up": 5
+     },
      "news": [
       {
        "h": "El Ni\u00f1o Hits the Panama Canal",
@@ -14609,7 +14614,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 421,
+      "rk": 385,
       "up": 2
      },
      "news": [
@@ -14794,7 +14799,7 @@
        "date": "2022-10-01"
       },
       {
-       "amt": 6394263.3,
+       "amt": 6655769.3,
        "ag": "Department of Defense",
        "desc": "IGF::OT::IGF THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION, AND MAINTENANCE OF THE NATURAL GAS DISTRIBUTION SYSTEM AT FORT JACKSON, SOUTH CAROLINA",
        "date": "2019-11-19"
@@ -14926,10 +14931,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 9,
-      "rk": 43,
-      "up": 42
+      "m": 1,
+      "m0": 16,
+      "rk": 277,
+      "up": 1
      },
      "news": [
       {
@@ -15016,7 +15021,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 315,
+      "rk": 291,
       "up": 1
      },
      "news": [
@@ -15041,7 +15046,7 @@
      ],
      "awards": [
       {
-       "amt": 15688734.68,
+       "amt": 16188734.68,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15102,10 +15107,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 9,
-      "rk": 120,
-      "up": 50
+      "m": 7,
+      "m0": 4,
+      "rk": 62,
+      "up": 57
      },
      "news": [
       {
@@ -15330,7 +15335,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 605,
+      "up": 1
+     },
      "news": [
       {
        "h": "US-Saudi Sign Landmark Atomic Deal: A Game Changer for Nuclear ETFs?",
@@ -17518,7 +17528,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-07-31",
+ "social_asof": "2026-08-01",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17799,16 +17809,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
+   "h": "Kevin Warsh Did Not Impress the Bond Market -- 30-Year Yields Are Up to 5.2%. Here's What This Might Mean for Investors in These 2 ETFs.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-both-restaurants-062500903.html",
+   "link": "https://finance.yahoo.com/markets/options/articles/kevin-warsh-did-not-impress-075000517.html",
    "date": "2026-08-01"
   },
   {
    "tk": "NVDA",
-   "h": "Here's What Billionaire Bill Ackman Would Buy if He Were Just Getting Started With $1,000",
+   "h": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-billionaire-bill-ackman-buy-055000687.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-43-below-52-week-073100507.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "GEV",
+   "h": "Scott Strazik's GE Vernova Has a $176 Billion Backlog. So Why Did Wall Street Sell the Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scott-straziks-ge-vernova-176-072500553.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "LMT",
+   "h": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
    "date": "2026-08-01"
   },
   {
@@ -18055,28 +18086,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-takes-fresh-shot-200152456.html",
    "date": "2026-07-31"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Q2 Earnings Preview Ahead of Results",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-q2-earnings-preview-ahead-195313903.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "AMBA",
-   "h": "Sector Update: Tech Stocks Mixed Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194133265.html",
-   "date": "2026-07-31"
-  },
-  {
-   "tk": "LUNR",
-   "h": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-intuitive-machines-193026566.html",
-   "date": "2026-07-31"
   }
  ],
- "prices_asof": "2026-08-01 06:33 UTC"
+ "prices_asof": "2026-08-01 08:02 UTC"
 }
