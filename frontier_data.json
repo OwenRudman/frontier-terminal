@@ -1139,9 +1139,9 @@
        "date": "2026-07-31"
       },
       {
-       "h": "1 Chart Shows Why You Should Not Buy an IPO Stock on its IPO Date",
+       "h": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-chart-shows-why-not-030259535.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-both-restaurants-062500903.html",
        "date": "2026-08-01"
       }
      ]
@@ -5873,9 +5873,9 @@
        "date": "2026-07-31"
       },
       {
-       "h": "Believe In Elon Musk, Says Jim Cramer About Tesla, Inc. (NASDAQ:TSLA)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/believe-elon-musk-says-jim-024130381.html",
+       "h": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-99-month-fsd-plan-053500415.html",
        "date": "2026-08-01"
       }
      ],
@@ -9676,6 +9676,12 @@
      },
      "news": [
       {
+       "h": "Brunswick Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/brunswick-q2-earnings-call-highlights-040245864.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "How Investors May Respond To AST SpaceMobile (ASTS) Accelerating Its Next-Gen BlueBird Constellation Deployment",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-ast-spacemobile-210915204.html",
@@ -9685,12 +9691,6 @@
        "h": "AST SpaceMobile vs. Rocket Lab: Which Space-Based Network Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-rocket-lab-204801456.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "ASTS Stock Gains Nearly 2%: AST SpaceMobile Says BlueBird \u2018Production\u2019 Is Advancing \u2014 Retail Says \u2018Execution Is Becoming The Story\u2019",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-gains-nearly-2-201455152.html",
        "date": "2026-07-31"
       }
      ]
@@ -13587,6 +13587,12 @@
      },
      "news": [
       {
+       "h": "NuScale Power (SMR) Gains Fresh SMR Backing, Is A $100 Fair Value Credible?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-gains-fresh-031803692.html",
+       "date": "2026-08-01"
+      },
+      {
        "h": "This Historic 6-Gigawatt SMR Program Could Be a Game Changer for NuScale Stock",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/historic-6-gigawatt-smr-program-185000255.html",
@@ -13597,12 +13603,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/prediction-buying-nuscale-now-could-165000353.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/oklo-vs-nuscale-one-actually-222500998.html",
-       "date": "2026-07-30"
       }
      ]
     },
@@ -17799,9 +17799,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "1 Chart Shows Why You Should Not Buy an IPO Stock on its IPO Date",
+   "h": "Starbucks vs. Chipotle: Both Restaurants Are Seeing Turnarounds, but Which Stock Is the Better Buy Today?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-chart-shows-why-not-030259535.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-vs-chipotle-both-restaurants-062500903.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Here's What Billionaire Bill Ackman Would Buy if He Were Just Getting Started With $1,000",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-billionaire-bill-ackman-buy-055000687.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla's $99-a-Month FSD Plan Is on Pace to Generate $1.8 Billion a Year. Is This New Profit Lever a Signal to Buy the Elon Musk-Led Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-99-month-fsd-plan-053500415.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "ASTS",
+   "h": "Brunswick Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/brunswick-q2-earnings-call-highlights-040245864.html",
+   "date": "2026-08-01"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale Power (SMR) Gains Fresh SMR Backing, Is A $100 Fair Value Credible?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-gains-fresh-031803692.html",
    "date": "2026-08-01"
   },
   {
@@ -17812,24 +17840,10 @@
    "date": "2026-08-01"
   },
   {
-   "tk": "NVDA",
-   "h": "Jim Cramer Can\u2019t Help But Gloat At Apple Inc (NASDAQ:AAPL)\u2019s AI Developments",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-t-help-gloat-023735112.html",
-   "date": "2026-08-01"
-  },
-  {
    "tk": "TSLA",
    "h": "Believe In Elon Musk, Says Jim Cramer About Tesla, Inc. (NASDAQ:TSLA)",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/believe-elon-musk-says-jim-024130381.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Jim Cramer Admits Its Time To Talk About Space Exploration Technologies Corp (NASDAQ:SPCX)",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-admits-time-talk-024100958.html",
    "date": "2026-08-01"
   },
   {
@@ -18057,26 +18071,12 @@
    "date": "2026-07-31"
   },
   {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-intuitive-machines-193026566.html",
-   "date": "2026-07-31"
-  },
-  {
    "tk": "LUNR",
    "h": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-intuitive-machines-193026566.html",
    "date": "2026-07-31"
-  },
-  {
-   "tk": "NNE",
-   "h": "Nano Nuclear Energy Surges: What's Driving the Rally Today?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-energy-surges-whats-192500050.html",
-   "date": "2026-07-31"
   }
  ],
- "prices_asof": "2026-08-01 03:23 UTC"
+ "prices_asof": "2026-08-01 06:33 UTC"
 }
