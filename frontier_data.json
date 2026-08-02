@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Uber\u2019s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-1-trillion-opportunity-wall-145422411.html",
-       "date": "2026-08-02"
-      },
-      {
-       "h": "Warren Buffett Stepped Back From Berkshire Hathaway With a Bang; Its Investment in 1 AI Stock Now Tops $30 Billion",
+       "h": "3 Reasons Why Berkshire Hathaway Owns $29 Billion of Alphabet Stock",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-stepped-back-berkshire-144100533.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-berkshire-hathaway-165000908.html",
        "date": "2026-08-02"
       },
       {
-       "h": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
+       "h": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-revenue-soars-time-buy-163500803.html",
+       "date": "2026-08-02"
+      },
+      {
+       "h": "Prediction: Salesforce Will End The Year At This Price",
        "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-50-ytd-cisco-end-143022057.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-salesforce-end-price-163034721.html",
        "date": "2026-08-02"
       }
      ]
@@ -10794,6 +10794,12 @@
      },
      "news": [
       {
+       "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-02"
+      },
+      {
        "h": "Archer Aviation vs. Boeing: Is an Electric Plane Upstart a Better Buy Over an Aerospace Giant in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-boeing-electric-214501395.html",
@@ -10803,12 +10809,6 @@
        "h": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/rocket-lab-stock-launch-contract-electron-space-force-15-awards-981m/?src=A00220&yptr=yahoo",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Boeing\u2019s $21 billion B-52 upgrade faces cost overruns, delays, GAO says",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/economy/policy/articles/boeing-21-billion-b-52-145820826.html",
        "date": "2026-07-31"
       }
      ],
@@ -10973,6 +10973,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-02"
+      },
+      {
        "h": "This Is the Most Attractive Defense Stock Right Now",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/l3harris-technologies-defense-stock-buy-73a1d0ad?siteid=yhoof2&yptr=yahoo",
@@ -10983,12 +10989,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
        "date": "2026-08-01"
-      },
-      {
-       "h": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iran-tensions-illustrate-defense-supply-015000071.html",
-       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -17838,6 +17838,48 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "3 Reasons Why Berkshire Hathaway Owns $29 Billion of Alphabet Stock",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-why-berkshire-hathaway-165000908.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "As Cloud Revenue Soars, Is It Time to Buy Microsoft Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cloud-revenue-soars-time-buy-163500803.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: Salesforce Will End The Year At This Price",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-salesforce-end-price-163034721.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "ASML vs. TSMC: Which Semiconductor Supply Chain Stock Is the Better AI Play?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/asml-vs-tsmc-semiconductor-supply-162400523.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "BA",
+   "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "LHX",
+   "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-02"
+  },
+  {
    "tk": "TSLA",
    "h": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
    "pub": "Investor's Business Daily",
@@ -17845,38 +17887,10 @@
    "date": "2026-08-02"
   },
   {
-   "tk": "NVDA",
-   "h": "Uber\u2019s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-1-trillion-opportunity-wall-145422411.html",
-   "date": "2026-08-02"
-  },
-  {
    "tk": "UBER",
    "h": "Uber\u2019s $1 Trillion Opportunity That Wall Street Is Completely Ignoring",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/uber-1-trillion-opportunity-wall-145422411.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Warren Buffett Stepped Back From Berkshire Hathaway With a Bang; Its Investment in 1 AI Stock Now Tops $30 Billion",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-stepped-back-berkshire-144100533.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-50-ytd-cisco-end-143022057.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Should You Buy Billionaire Investor Stephen Mandel\u2019s Top 5 Stock Picks in August?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-stephen-mandel-143005631.html",
    "date": "2026-08-02"
   },
   {
@@ -18102,21 +18116,7 @@
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/ai/articles/uber-building-autonomous-vehicle-empire-150500324.html",
    "date": "2026-08-01"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Why Investors Shouldn\u2019t Sweat the Dip in Qualcomm\u2019s Handset Revenue, According to Experts",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-investors-shouldn-t-sweat-150002057.html",
-   "date": "2026-08-01"
-  },
-  {
-   "tk": "GEV",
-   "h": "$5,000 in GE Vernova at Its 2024 Low Would Be Worth This Much Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-ge-vernova-2024-144444397.html",
-   "date": "2026-08-01"
   }
  ],
- "prices_asof": "2026-08-02 15:06 UTC"
+ "prices_asof": "2026-08-02 17:05 UTC"
 }
