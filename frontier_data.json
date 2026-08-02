@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Where Will Mastercard Stock Be in 5 Years?",
+       "h": "3 AI Stocks to Buy as the Margin Unwind Calms Down",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/where-mastercard-stock-5-years-204200022.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-buy-margin-225000728.html",
        "date": "2026-08-02"
       },
       {
-       "h": "If I Were in My 20s, I'd Buy This Magnificent ETF and Hold It Until Retirement",
+       "h": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/were-20s-id-buy-magnificent-203500425.html",
+       "link": "https://finance.yahoo.com/markets/articles/wont-let-rmds-ruin-retirement-214700624.html",
        "date": "2026-08-02"
       },
       {
-       "h": "What Nvidia Could Be Worth on a $1,000 Investment if History Repeats Itself",
+       "h": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-worth-1-000-202000870.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html",
        "date": "2026-08-02"
       }
      ]
@@ -5867,15 +5867,15 @@
        "date": "2026-08-02"
       },
       {
-       "h": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-won-t-191300518.html",
+       "h": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html",
        "date": "2026-08-02"
       },
       {
-       "h": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
+       "h": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
        "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-2-trillion-ai-183300493.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-won-t-191300518.html",
        "date": "2026-08-02"
       }
      ],
@@ -13607,6 +13607,12 @@
      },
      "news": [
       {
+       "h": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-next-earnings-report-210901660.html",
+       "date": "2026-08-02"
+      },
+      {
        "h": "NuScale Power (SMR) Gains Fresh SMR Backing, Is A $100 Fair Value Credible?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-gains-fresh-031803692.html",
@@ -13616,12 +13622,6 @@
        "h": "This Historic 6-Gigawatt SMR Program Could Be a Game Changer for NuScale Stock",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/historic-6-gigawatt-smr-program-185000255.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Prediction: Buying NuScale Right Now Could Make You Richer by 2036",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/prediction-buying-nuscale-now-could-165000353.html",
        "date": "2026-07-31"
       }
      ]
@@ -17839,16 +17839,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Where Will Mastercard Stock Be in 5 Years?",
+   "h": "3 AI Stocks to Buy as the Margin Unwind Calms Down",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-mastercard-stock-5-years-204200022.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-buy-margin-225000728.html",
    "date": "2026-08-02"
   },
   {
    "tk": "NVDA",
-   "h": "If I Were in My 20s, I'd Buy This Magnificent ETF and Hold It Until Retirement",
+   "h": "I Won't Let RMDs Ruin My Retirement. Here's My Plan to Manage Them.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/were-20s-id-buy-magnificent-203500425.html",
+   "link": "https://finance.yahoo.com/markets/articles/wont-let-rmds-ruin-retirement-214700624.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SoundHound AI's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ais-next-earnings-report-214501723.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html",
+   "date": "2026-08-02"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale Power's Next Earnings Report on Aug. 5 Could Send the Stock Soaring. Here's Why.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-next-earnings-report-210901660.html",
    "date": "2026-08-02"
   },
   {
@@ -17856,20 +17884,6 @@
    "h": "What Does Planet Labs CFO Ashley Johnson's Sale of Shares Worth $2.4 Million Mean for Investors?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/does-planet-labs-cfo-ashley-203101301.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "What Nvidia Could Be Worth on a $1,000 Investment if History Repeats Itself",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-worth-1-000-202000870.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Billionaire Stanley Druckenmiller and Wall Street Analysts Love This Biotech Stock",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/why-billionaire-stanley-druckenmiller-wall-200500016.html",
    "date": "2026-08-02"
   },
   {
@@ -17947,13 +17961,6 @@
    "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Rival BYD Ramping Up Sales On Overseas Demand, Flash Charging",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/tesla-rival-byd-sales-overseas-demand-flash-charging/?src=A00220&yptr=yahoo",
    "date": "2026-08-02"
   },
   {
@@ -18109,14 +18116,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/top-nuclear-energy-dividend-stock-193500048.html",
    "date": "2026-08-01"
-  },
-  {
-   "tk": "NEE",
-   "h": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/top-nuclear-energy-dividend-stock-193500048.html",
-   "date": "2026-08-01"
   }
  ],
- "prices_asof": "2026-08-02 21:00 UTC"
+ "prices_asof": "2026-08-02 22:59 UTC"
 }
