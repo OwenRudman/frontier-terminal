@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 601,
-      "up": 2
+      "rk": 527,
+      "up": 9
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 578,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 132,
-      "rk": 8,
-      "up": 166
+      "m": 48,
+      "m0": 32,
+      "rk": 6,
+      "up": 481
      },
      "thesis": {
       "bull": [
@@ -1132,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
+       "h": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-earnings-38-elon-072500823.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
        "date": "2026-08-03"
       },
       {
-       "h": "SpaceX Reports Its First-Ever Earnings Tuesday. Here Are the 5 Numbers That Will Define Whether the $1.4 Trillion Valuation Makes Any Sense.",
+       "h": "3 Big Takeaways From Microsoft's Earnings",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-reports-first-ever-earnings-071500640.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-big-takeaways-microsofts-earnings-083500625.html",
        "date": "2026-08-03"
       },
       {
-       "h": "Here's 1 Big Clue About the Most Important Thing in the Next Crypto Bull Market",
+       "h": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/heres-1-big-clue-most-070500843.html",
+       "link": "https://finance.yahoo.com/economy/policy/articles/federal-just-did-something-no-082600912.html",
        "date": "2026-08-03"
       }
      ]
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 19,
-      "rk": 23,
-      "up": 52
+      "m": 21,
+      "m0": 14,
+      "rk": 17,
+      "up": 48
      },
      "thesis": {
       "bull": [
@@ -1773,22 +1778,22 @@
      },
      "news": [
       {
-       "h": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+       "h": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
        "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-065046260.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-083405659.html",
        "date": "2026-08-03"
       },
       {
-       "h": "PLTR Stock Is 40% Off Its Peak: Will Q2 Earnings Turn Things Around For Good?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-40-off-peak-023312468.html",
+       "h": "U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-rise-oil-falls-as-u-s-shifts-toward-diplomacy-with-iran-c88af013?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-03"
       },
       {
-       "h": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html",
-       "date": "2026-08-02"
+       "h": "Jobs Numbers, SpaceX Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/jobs-numbers-spacex-earnings-what-to-watch-this-week-QDZWSaJBtZb4Ueluwuim?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-03"
       }
      ],
      "awards": [
@@ -2032,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 270,
+      "rk": 252,
       "up": 2
      },
      "thesis": {
@@ -2234,6 +2239,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "Kratos (KTOS) Q2 Earnings Report Preview: What To Look For",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-q2-earnings-report-075722565.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/u-air-force-taps-rocket-092500164.html",
@@ -2244,12 +2255,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/l3harris-technologies-defense-stock-buy-73a1d0ad?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-02"
-      },
-      {
-       "h": "The U.S. Just Took A Big Step to Break China's Magnet Dominance",
-       "pub": "Oilprice.com",
-       "link": "https://finance.yahoo.com/energy/articles/u-just-took-big-step-000000238.html",
-       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -2474,12 +2479,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 285,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2827,8 +2827,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 651,
-      "up": 6
+      "rk": 562,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4030,8 +4030,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 698,
-      "up": 1
+      "rk": 602,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4378,10 +4378,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 360,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 100,
+      "up": 37
      },
      "news": [
       {
@@ -4712,9 +4712,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 594,
-      "up": 3
+      "m0": 1,
+      "rk": 521,
+      "up": 4
      },
      "news": [
       {
@@ -5855,9 +5855,9 @@
      "geo": "US",
      "social": {
       "m": 13,
-      "m0": 65,
-      "rk": 27,
-      "up": 32
+      "m0": 13,
+      "rk": 24,
+      "up": 95
      },
      "news": [
       {
@@ -5867,15 +5867,15 @@
        "date": "2026-08-02"
       },
       {
-       "h": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-earnings-38-elon-072500823.html",
+       "h": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-083405659.html",
        "date": "2026-08-03"
       },
       {
-       "h": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
+       "h": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-060500651.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-earnings-38-elon-072500823.html",
        "date": "2026-08-03"
       }
      ],
@@ -5942,12 +5942,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 347,
-      "up": 1
+      "rk": 97,
+      "up": 9
      },
      "news": [
+      {
+       "h": "Jobs Numbers, SpaceX Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/jobs-numbers-spacex-earnings-what-to-watch-this-week-QDZWSaJBtZb4Ueluwuim?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-03"
+      },
       {
        "h": "Uber (UBER) Faces Wrongful Death Lawsuit Over Fatal Uber Eats Delivery",
        "pub": "Simply Wall St.",
@@ -5958,12 +5964,6 @@
        "h": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-rewarding-ai-results-211926642.html",
-       "date": "2026-08-02"
-      },
-      {
-       "h": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/jobs-report-palantir-amd-spacex-eli-lilly-stocks-2348e94e?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-02"
       }
      ],
@@ -6032,7 +6032,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 340,
+      "rk": 310,
       "up": -2
      },
      "news": [
@@ -6261,12 +6261,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 649,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -6809,7 +6804,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 548,
+      "up": 4
+     },
      "news": [
       {
        "h": "Aeva Technologies, Inc. (AEVA) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
@@ -6980,7 +6980,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 474,
+      "up": 4
+     },
      "news": [
       {
        "h": "MicroVision Pitches \u2018Lidar 2.0\u2019 Strategy, Keeps 2026 Revenue Outlook Intact",
@@ -7097,8 +7102,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 199,
-      "up": 352
+      "rk": 184,
+      "up": 4
      },
      "news": [
       {
@@ -7182,12 +7187,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 284,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Strength Seen in Ambarella (AMBA): Can Its 16.1% Jump Turn into More Strength?",
@@ -7369,12 +7369,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 355,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NVIDIA CEO Jensen Huang Says the \u2018ChatGPT Moment\u2019 Has Already Happened for the Next $50 Trillion Trend",
@@ -7758,11 +7753,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 524,
-      "up": 2
+      "m0": 1,
+      "rk": 466,
+      "up": 4
      },
      "news": [
+      {
+       "h": "SLS Stock Eyes Green Start To August After Nearly $6M In Fresh Institutional Buying: Retail Stays Bearish",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-eyes-green-start-084646517.html",
+       "date": "2026-08-03"
+      },
       {
        "h": "SLS Stock In Spotlight After Vanguard Capital Discloses 5.19% Stake \u2013 Retail Calls It \u2018Huge Vote Of Conviction\u2019 As AML Trial Readout Nears",
        "pub": "Stocktwits",
@@ -7774,12 +7775,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-turns-green-3-065303470.html",
        "date": "2026-07-30"
-      },
-      {
-       "h": "SLS Stock Heads For Worst Month In Over 2 Years \u2014 But Retail Bulls \u2018Hold\u2019 For AML Readout And Buyout Hopes",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-heads-worst-month-033323365.html",
-       "date": "2026-07-29"
       }
      ]
     }
@@ -8266,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 14,
-      "rk": 4,
-      "up": 2652
+      "m": 7,
+      "m0": 54,
+      "rk": 39,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -8568,9 +8563,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 380,
-      "up": 19
+      "m0": 1,
+      "rk": 346,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -8750,12 +8745,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 609,
-      "up": -7
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9017,10 +9007,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 123,
-      "up": 21
+      "m": 1,
+      "m0": 2,
+      "rk": 641,
+      "up": 3
      },
      "news": [
       {
@@ -9080,9 +9070,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 624,
-      "up": 5
+      "m0": 1,
+      "rk": 544,
+      "up": 1
      },
      "news": [
       {
@@ -9178,8 +9168,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 647,
-      "up": 16
+      "rk": 559,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9520,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 24,
-      "rk": 15,
-      "up": 64
+      "m": 4,
+      "m0": 18,
+      "rk": 67,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -9845,8 +9835,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 330,
+      "m0": 1,
+      "rk": 304,
       "up": 0
      },
      "news": [
@@ -10003,12 +9993,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 333,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10419,10 +10404,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 1,
-      "rk": 31,
-      "up": 213
+      "m": 1,
+      "m0": 11,
+      "rk": 605,
+      "up": 13
      },
      "news": [
       {
@@ -10575,8 +10560,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 144,
-      "up": 4
+      "rk": 137,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10788,8 +10773,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 137,
+      "m0": 1,
+      "rk": 130,
       "up": 1
      },
      "news": [
@@ -10875,10 +10860,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 360,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 100,
+      "up": 37
      },
      "news": [
       {
@@ -11078,6 +11063,12 @@
      ],
      "news": [
       {
+       "h": "Leidos (LDOS) Q2 Earnings: What To Expect",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-q2-earnings-expect-074122855.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
@@ -11087,12 +11078,6 @@
        "h": "The Biggest Concern Hanging Over CoreWeave Stock Has Finally Eased",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-concern-hanging-over-coreweave-160117367.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Leidos Holdings, Inc. (LDOS) is Attracting Investor Attention: Here is What You Should Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-inc-ldos-attracting-130006663.html",
        "date": "2026-07-31"
       }
      ],
@@ -11242,29 +11227,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 19,
-      "rk": 23,
-      "up": 52
+      "m": 21,
+      "m0": 14,
+      "rk": 17,
+      "up": 48
      },
      "news": [
       {
-       "h": "Dow, S&P 500, Nasdaq Futures Climb As Markets Gear Up For Another Key Earnings Week: USO, PLTR, CRML, IONQ Stocks In Focus",
+       "h": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
        "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-065046260.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-083405659.html",
        "date": "2026-08-03"
       },
       {
-       "h": "PLTR Stock Is 40% Off Its Peak: Will Q2 Earnings Turn Things Around For Good?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-40-off-peak-023312468.html",
+       "h": "U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-rise-oil-falls-as-u-s-shifts-toward-diplomacy-with-iran-c88af013?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-03"
       },
       {
-       "h": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html",
-       "date": "2026-08-02"
+       "h": "Jobs Numbers, SpaceX Earnings: What to Watch This Week",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/jobs-numbers-spacex-earnings-what-to-watch-this-week-QDZWSaJBtZb4Ueluwuim?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-03"
       }
      ],
      "awards": [
@@ -11333,8 +11318,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 433,
-      "up": 13
+      "rk": 393,
+      "up": 1
      },
      "news": [
       {
@@ -12375,7 +12360,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 398,
+      "rk": 361,
       "up": 2
      },
      "news": [
@@ -12684,7 +12669,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 343,
+      "rk": 312,
       "up": 2
      },
      "news": [
@@ -12765,10 +12750,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 15,
-      "rk": 33,
-      "up": 38
+      "m": 19,
+      "m0": 10,
+      "rk": 19,
+      "up": 41
      },
      "news": [
       {
@@ -13359,10 +13344,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 1,
       "m0": 4,
-      "rk": 62,
-      "up": 8
+      "rk": 614,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13600,10 +13585,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 79,
-      "up": 11
+      "m": 2,
+      "m0": 3,
+      "rk": 118,
+      "up": 31
      },
      "news": [
       {
@@ -13664,8 +13649,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 713,
+      "m0": 1,
+      "rk": 613,
       "up": 5
      },
      "news": [
@@ -14020,8 +14005,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 297,
-      "up": 4
+      "rk": 271,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -14094,7 +14079,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 726,
+      "rk": 623,
       "up": 1
      },
      "news": [
@@ -14264,8 +14249,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 389,
+      "m0": 1,
+      "rk": 355,
       "up": 2
      },
      "awards": [
@@ -14560,8 +14545,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 646,
+      "m0": 1,
+      "rk": 558,
       "up": 1
      },
      "news": [
@@ -14649,8 +14634,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 290,
-      "up": 2
+      "rk": 266,
+      "up": 1
      },
      "news": [
       {
@@ -14734,12 +14719,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 728,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "All You Need to Know About Talen Energy Corporation (TLN) Rating Upgrade to Strong Buy",
@@ -14970,8 +14950,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 2,
+      "rk": 186,
+      "up": 3
+     },
      "news": [
+      {
+       "h": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen",
+       "pub": "Power Technology",
+       "link": "https://finance.yahoo.com/energy/articles/georgia-power-starts-construction-1-084750347.html",
+       "date": "2026-08-03"
+      },
       {
        "h": "Southern Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
@@ -14983,12 +14974,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/southern-company-q2-2026-earnings-004714910.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "The Southern Company Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-company-q2-2026-earnings-210203884.html",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -15053,7 +15038,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 198,
+      "up": 3
+     },
      "news": [
       {
        "h": "This Top Nuclear Energy Dividend Stock Could Turn $1,000 Into a Lifetime Income Stream",
@@ -15138,9 +15128,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 224,
-      "up": 3
+      "m0": 1,
+      "rk": 211,
+      "up": 1
      },
      "news": [
       {
@@ -15365,12 +15355,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 475,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Inside URA Decides This Dip's Fate",
@@ -17558,7 +17543,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-02",
+ "social_asof": "2026-08-03",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17839,9 +17824,93 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Tesla Missed Earnings by 38%, but Elon Musk Isn't Worried. Here's What Investors Should Make of That.",
+   "h": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-missed-earnings-38-elon-072500823.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "SO",
+   "h": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen",
+   "pub": "Power Technology",
+   "link": "https://finance.yahoo.com/energy/articles/georgia-power-starts-construction-1-084750347.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Eyes Green Start To August After Nearly $6M In Fresh Institutional Buying: Retail Stays Bearish",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-eyes-green-start-084646517.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "3 Big Takeaways From Microsoft's Earnings",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-big-takeaways-microsofts-earnings-083500625.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-083405659.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-083405659.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/federal-just-did-something-no-082600912.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "PLTR",
+   "h": "U.S. Stock Futures Rise, Oil Falls as U.S. Shifts Toward Diplomacy with Iran",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-rise-oil-falls-as-u-s-shifts-toward-diplomacy-with-iran-c88af013?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Up Just 2% and Still Dominant: Is Amazon the 1 Growth Stock Worth Buying Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/just-2-still-dominant-amazon-082200442.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "KTOS",
+   "h": "Kratos (KTOS) Q2 Earnings Report Preview: What To Look For",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-q2-earnings-report-075722565.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "LDOS",
+   "h": "Leidos (LDOS) Q2 Earnings: What To Expect",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-q2-earnings-expect-074122855.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Jobs Numbers, SpaceX Earnings: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/jobs-numbers-spacex-earnings-what-to-watch-this-week-QDZWSaJBtZb4Ueluwuim?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "UBER",
+   "h": "Jobs Numbers, SpaceX Earnings: What to Watch This Week",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/jobs-numbers-spacex-earnings-what-to-watch-this-week-QDZWSaJBtZb4Ueluwuim?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-03"
   },
   {
@@ -17852,17 +17921,10 @@
    "date": "2026-08-03"
   },
   {
-   "tk": "NVDA",
-   "h": "SpaceX Reports Its First-Ever Earnings Tuesday. Here Are the 5 Numbers That Will Define Whether the $1.4 Trillion Valuation Makes Any Sense.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-reports-first-ever-earnings-071500640.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Here's 1 Big Clue About the Most Important Thing in the Next Crypto Bull Market",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/heres-1-big-clue-most-070500843.html",
+   "tk": "TSLA",
+   "h": "SPCX Heads Into First Earnings: Musk Hints At Tesla-Sized Revenue, sell-side Downplays Governance Risks",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-heads-first-earnings-musk-065623132.html",
    "date": "2026-08-03"
   },
   {
@@ -17884,20 +17946,6 @@
    "h": "Strength Seen in Ambarella (AMBA): Can Its 16.1% Jump Turn into More Strength?",
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-ambarella-amba-16-060800443.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-060500651.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's $1 Trillion Pay Package Requires Tesla Stock to Grow Roughly Sixfold to an $8.5 Trillion Market Cap",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-060500651.html",
    "date": "2026-08-03"
   },
   {
@@ -17964,20 +18012,6 @@
    "date": "2026-08-03"
   },
   {
-   "tk": "PLTR",
-   "h": "PLTR Stock Is 40% Off Its Peak: Will Q2 Earnings Turn Things Around For Good?",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-40-off-peak-023312468.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020038446.html",
-   "date": "2026-08-03"
-  },
-  {
    "tk": "UBER",
    "h": "Uber (UBER) Faces Wrongful Death Lawsuit Over Fatal Uber Eats Delivery",
    "pub": "Simply Wall St.",
@@ -18010,20 +18044,6 @@
    "h": "What Does Planet Labs CFO Ashley Johnson's Sale of Shares Worth $2.4 Million Mean for Investors?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/does-planet-labs-cfo-ashley-203101301.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-set-deliver-strong-q2-193002334.html",
    "date": "2026-08-02"
   },
   {
@@ -18069,13 +18089,6 @@
    "date": "2026-08-02"
   },
   {
-   "tk": "UBER",
-   "h": "Earnings, PMI and Other Key Things to Watch this Week",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-pmi-other-key-things-170002166.html",
-   "date": "2026-08-02"
-  },
-  {
    "tk": "BA",
    "h": "How Does the Qatar-Donated Air Force One Compare With Other Presidential Jets?",
    "pub": "The Wall Street Journal",
@@ -18088,35 +18101,7 @@
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/politics/national-security/how-does-the-qatar-donated-air-force-one-compare-with-other-presidential-jets-048c5169?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-02"
-  },
-  {
-   "tk": "VST",
-   "h": "Should You Buy Billionaire Investor Stephen Mandel\u2019s Top 5 Stock Picks in August?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-billionaire-investor-stephen-mandel-143005631.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "LDOS",
-   "h": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-just-scored-leidos-partnership-141239028.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Peter Beck's Rocket Lab Reports Earnings on Aug. 10. Here's the One Number That Will Move the Stock.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/peter-becks-rocket-lab-reports-130500464.html",
-   "date": "2026-08-02"
-  },
-  {
-   "tk": "KTOS",
-   "h": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/u-air-force-taps-rocket-092500164.html",
-   "date": "2026-08-02"
   }
  ],
- "prices_asof": "2026-08-03 07:32 UTC"
+ "prices_asof": "2026-08-03 09:20 UTC"
 }
