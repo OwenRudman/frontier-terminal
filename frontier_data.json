@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Tech stocks today: Microsoft, Amazon jump after last week's strong earnings",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-microsoft-amazon-jump-after-last-weeks-strong-earnings-140419479.html",
+       "h": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+       "date": "2026-08-03"
+      },
+      {
+       "h": "AMD vs. Sandisk: Which company will get some post-earnings market love?",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/amd-vs-sandisk-company-post-160000399.html",
        "date": "2026-08-03"
       },
       {
        "h": "This valuation signal shows how investors are rethinking tech stocks",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-cuts-spending-250-million-210500752.html",
        "date": "2026-08-03"
       }
      ]
@@ -1790,9 +1790,9 @@
        "date": "2026-08-03"
       },
       {
-       "h": "Palantir Raises Sales Guidance as US Commercial Growth Drives Second-Quarter Beat",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-raises-sales-guidance-us-205413693.html",
+       "h": "Palantir Technologies Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-q2-earnings-call-220350263.html",
        "date": "2026-08-03"
       }
      ],
@@ -2351,6 +2351,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Northrop Grumman (NOC) Lands Over $3 Billion In Missile Defense Deals",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-lands-over-220948859.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/research/ibd-stock-of-the-day/cybersecurity-stocks-ai-competition-fears-hack-etf/?src=A00220&yptr=yahoo",
@@ -2360,12 +2366,6 @@
        "h": "Northrop Grumman To Boost Missile Component Production For \u2018Arsenal of Freedom\u2019 \u2013 Retail Views Steady Execution To Be Key For Growth",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-boost-missile-component-165610448.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "The Production Ramp That Could Repower Boeing Stock",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/production-ramp-could-repower-boeing-150030824.html",
        "date": "2026-08-03"
       }
      ],
@@ -5867,15 +5867,15 @@
        "date": "2026-08-03"
       },
       {
-       "h": "BYD Sets Export Record. Nio, XPeng, and Li Auto Stocks Suffer",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/byd-stock-china-ev-sales-li-nio-xpeng-4c581332?siteid=yhoof2&yptr=yahoo",
+       "h": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investing-magnificent-seven-pick-poison-222600921.html",
        "date": "2026-08-03"
       },
       {
-       "h": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html",
+       "h": "The Magnificent Seven Start Burning Cash (for Real)",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-start-burning-cash-214834773.html",
        "date": "2026-08-03"
       }
      ],
@@ -5949,6 +5949,12 @@
      },
      "news": [
       {
+       "h": "Is LYFT Broken, Or Just Violently Marked Down?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-broken-just-violently-marked-214918484.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-high-oil-203727254.html",
@@ -5958,12 +5964,6 @@
        "h": "Suze Orman: SpaceX IPO Buyers Are Down 44% in 7 Weeks and the Lesson Has Nothing to Do With Elon Musk",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/suze-orman-spacex-ipo-buyers-184726537.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "Update: Equities Rise Intraday, Oil Slides Amid Middle East Deal Optimism",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-slides-173112682.html",
        "date": "2026-08-03"
       }
      ],
@@ -6926,6 +6926,12 @@
      "social": null,
      "news": [
       {
+       "h": "Photonics: The Next Big AI Investment Opportunity?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/ai/articles/photonics-next-big-ai-investment-204400941.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Anthropic Is the New SpaceX for ETF Issuers",
        "pub": "etf.com",
        "link": "https://finance.yahoo.com/markets/options/articles/anthropic-spacex-etf-issuers-234923889.html",
@@ -6936,12 +6942,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/news/microvision-luminar-deal-reshapes-lidar-140933550.html",
        "date": "2026-01-28"
-      },
-      {
-       "h": "From $5.38 to 17 Cents: Inside Senator McConnell's 97% Stock Wipeout",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/news/5-38-17-cents-inside-163139414.html",
-       "date": "2026-01-17"
       }
      ]
     },
@@ -7190,6 +7190,12 @@
      "social": null,
      "news": [
       {
+       "h": "Ichor Holdings (ICHR) Q2 Earnings Top Estimates",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ichor-holdings-ichr-q2-earnings-214503231.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo",
@@ -7200,12 +7206,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/strength-seen-ambarella-amba-16-060800443.html",
        "date": "2026-08-03"
-      },
-      {
-       "h": "Is Ambarella (AMBA) Cheap After Rumored NXP Takeover Talks?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ambarella-amba-cheap-rumored-nxp-002002501.html",
-       "date": "2026-08-02"
       }
      ]
     },
@@ -8472,22 +8472,22 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab vs. Caterpillar: Is a Space Industrials Stock a Better Buy in 2026 Than a Revered Earth-Bound Equipment Maker?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-vs-caterpillar-space-221901021.html",
+       "date": "2026-08-03"
+      },
+      {
+       "h": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-faces-2-massive-212853835.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Redwire vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-vs-rocket-lab-space-195601782.html",
        "date": "2026-08-03"
-      },
-      {
-       "h": "One Space Stock Defied July\u2019s Rout \u2013 Here\u2019s Why It Outperformed ASTS, RKLB, And SPCX",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/one-space-stock-defied-july-085254170.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "Peter Beck's Rocket Lab Reports Earnings on Aug. 10. Here's the One Number That Will Move the Stock.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-becks-rocket-lab-reports-130500464.html",
-       "date": "2026-08-02"
       }
      ],
      "awards": [
@@ -8926,6 +8926,12 @@
      },
      "news": [
       {
+       "h": "Redwire (RDW) Stock Looks Stretched On Its 154% Three Year Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-stock-looks-stretched-221003615.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Redwire vs. Advance Auto Parts: Should Investors Be Looking to Space or Down the Street for Profits in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-vs-advance-auto-parts-202501280.html",
@@ -8936,12 +8942,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-vs-rocket-lab-space-195601782.html",
        "date": "2026-08-03"
-      },
-      {
-       "h": "RTX vs. Redwire: Which Aerospace & Defense Stock Offers More Upside?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-vs-redwire-aerospace-defense-181800681.html",
-       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -9841,6 +9841,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab\u2019s $8 Billion Iridium Acquisition Creates a Powerful, Profitable Space Stock in 2027",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-8-billion-iridium-165126898.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Prediction: Rocket Lab Will Turn Profitable and Free-Cash-Flow-Positive in 2027 -- Thanks to Iridium",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-rocket-lab-turn-profitable-102600468.html",
@@ -9850,12 +9856,6 @@
        "h": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar",
        "pub": "The Daily Upside",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rival-rocket-lab-scores-040100449.html",
-       "date": "2026-07-28"
-      },
-      {
-       "h": "Iridium Communications (IRDM) Could Be 38% Below Fair Value On Earnings And PNT Launch",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-communications-irdm-could-38-031649501.html",
        "date": "2026-07-28"
       }
      ],
@@ -10691,6 +10691,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Northrop Grumman (NOC) Lands Over $3 Billion In Missile Defense Deals",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-lands-over-220948859.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/research/ibd-stock-of-the-day/cybersecurity-stocks-ai-competition-fears-hack-etf/?src=A00220&yptr=yahoo",
@@ -10700,12 +10706,6 @@
        "h": "Northrop Grumman To Boost Missile Component Production For \u2018Arsenal of Freedom\u2019 \u2013 Retail Views Steady Execution To Be Key For Growth",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-boost-missile-component-165610448.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "The Production Ramp That Could Repower Boeing Stock",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/production-ramp-could-repower-boeing-150030824.html",
        "date": "2026-08-03"
       }
      ],
@@ -10779,21 +10779,21 @@
      },
      "news": [
       {
-       "h": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today\u2019s Market",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/stock-movers-6c620aae?siteid=yhoof2&yptr=yahoo",
+       "h": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/p500-nasdaq-end-higher-dow-213310919.html",
        "date": "2026-08-03"
       },
       {
-       "h": "Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-high-oil-203727254.html",
+       "h": "US regulators grant long-awaited Boeing 737 MAX 7 certificate",
+       "pub": "AFP",
+       "link": "https://finance.yahoo.com/technology/articles/us-regulators-grant-long-awaited-171655533.html",
        "date": "2026-08-03"
       },
       {
-       "h": "Boeing Stock Gets 2 Big Boosts. How Shares Can Get to $450.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/boeing-stock-price-double-upgrade-4341f137?siteid=yhoof2&yptr=yahoo",
+       "h": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
        "date": "2026-08-03"
       }
      ],
@@ -11246,9 +11246,9 @@
        "date": "2026-08-03"
       },
       {
-       "h": "Palantir Raises Sales Guidance as US Commercial Growth Drives Second-Quarter Beat",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-raises-sales-guidance-us-205413693.html",
+       "h": "Palantir Technologies Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-q2-earnings-call-220350263.html",
        "date": "2026-08-03"
       }
      ],
@@ -14022,22 +14022,22 @@
      ],
      "news": [
       {
+       "h": "BWX Technologies (BWXT) Tops Q2 Earnings and Revenue Estimates",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-tops-q2-214502222.html",
+       "date": "2026-08-03"
+      },
+      {
+       "h": "BWX\u2019s (NYSE:BWXT) Q2 CY2026 Earnings Results: Revenue In Line With Expectations",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-nyse-bwxt-q2-cy2026-211738382.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Earnings To Watch: BWX (BWXT) Reports Q2 Results Tomorrow",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-bwx-bwxt-reports-065257479.html",
        "date": "2026-08-02"
-      },
-      {
-       "h": "3 Market-Beating Stocks to Target This Week",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-target-204357375.html",
-       "date": "2026-07-31"
-      },
-      {
-       "h": "Westinghouse IPO Could Be America\u2019s Biggest Nuclear Offering Yet",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/westinghouse-electric-ipo-nuclear-energy-e2701244?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-07-31"
       }
      ]
     },
@@ -14338,6 +14338,12 @@
      "social": null,
      "news": [
       {
+       "h": "Sterling Infrastructure (STRL) Beats Q2 Earnings and Revenue Estimates",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sterling-infrastructure-strl-beats-q2-214505769.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Billionaire Investor David Einhorn\u2019s Top 5 Bets: Buy Alongside the Skeptic?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-david-einhorn-top-153634202.html",
@@ -14348,12 +14354,6 @@
        "pub": "Offshore Technology",
        "link": "https://finance.yahoo.com/energy/articles/fluor-selected-feed-gpic-aromatics-110559405.html",
        "date": "2026-07-22"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Rise Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195659469.html",
-       "date": "2026-07-21"
       }
      ],
      "awards": [
@@ -15274,6 +15274,12 @@
      "social": null,
      "news": [
       {
+       "h": "Top Research Reports for Amazon, Marvell & Starbucks",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amazon-marvell-205100607.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Entergy (ETR) Dividend Reaffirmed As Its Undervalued Narrative Faces A Fresh Test",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-dividend-reaffirmed-undervalued-180921967.html",
@@ -15284,12 +15290,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/edison-international-q2-earnings-surpass-132500317.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "IDACORP Q2 Earnings Outpace Estimates, Revenues Increase Y/Y",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/idacorp-q2-earnings-outpace-estimates-160300802.html",
-       "date": "2026-07-30"
       }
      ],
      "awards": [
@@ -17824,23 +17824,142 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Rivian Cuts Spending by $250 Million -- Here's What the New Guidance Means for Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-cuts-spending-250-million-210500752.html",
+   "h": "Wall Street rallies, Dow closes at record on Iran talks optimism",
+   "pub": "Reuters Videos",
+   "link": "https://finance.yahoo.com/video/wall-street-rallies-dow-closes-224337380.html",
    "date": "2026-08-03"
   },
   {
-   "tk": "NVDA",
-   "h": "AI Power Demand Is Fueling a Nuclear Boom. This IPO Stock Just Joined the List.",
+   "tk": "TSLA",
+   "h": "Investing in the \"Magnificent Seven?\" Pick Your Poison: Negative Free Cash Flow or an Unjustifiable Valuation.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/ai-power-demand-fueling-nuclear-205901752.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investing-magnificent-seven-pick-poison-222600921.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab vs. Caterpillar: Is a Space Industrials Stock a Better Buy in 2026 Than a Revered Earth-Bound Equipment Maker?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-vs-caterpillar-space-221901021.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "RDW",
+   "h": "Redwire (RDW) Stock Looks Stretched On Its 154% Three Year Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-stock-looks-stretched-221003615.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "NOC",
+   "h": "Northrop Grumman (NOC) Lands Over $3 Billion In Missile Defense Deals",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-lands-over-220948859.html",
    "date": "2026-08-03"
   },
   {
    "tk": "PLTR",
-   "h": "Palantir Raises Sales Guidance as US Commercial Growth Drives Second-Quarter Beat",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-raises-sales-guidance-us-205413693.html",
+   "h": "Palantir Technologies Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-q2-earnings-call-220350263.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "PLTR",
+   "h": "The Most Important Number in Palantir's Earnings Report Was 134%",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/most-important-number-palantirs-earnings-220207615.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "UBER",
+   "h": "Is LYFT Broken, Or Just Violently Marked Down?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-broken-just-violently-marked-214918484.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Magnificent Seven Start Burning Cash (for Real)",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-start-burning-cash-214834773.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "FLR",
+   "h": "Sterling Infrastructure (STRL) Beats Q2 Earnings and Revenue Estimates",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sterling-infrastructure-strl-beats-q2-214505769.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "AMBA",
+   "h": "Ichor Holdings (ICHR) Q2 Earnings Top Estimates",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ichor-holdings-ichr-q2-earnings-214503231.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "BWXT",
+   "h": "BWX Technologies (BWXT) Tops Q2 Earnings and Revenue Estimates",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-tops-q2-214502222.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "A \u2018Magnificent\u2019 Monday",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/a-magnificent-monday-h33BnAWYMVWoEbuUlHx8?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "BA",
+   "h": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p500-nasdaq-end-higher-dow-213310919.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "RKLB",
+   "h": "SpaceX Stock Faces 2 Massive Tests This Week. One Could Triple Its Public Float",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-faces-2-massive-212853835.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "BWXT",
+   "h": "BWX\u2019s (NYSE:BWXT) Q2 CY2026 Earnings Results: Revenue In Line With Expectations",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-nyse-bwxt-q2-cy2026-211738382.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "BA",
+   "h": "US regulators grant long-awaited Boeing 737 MAX 7 certificate",
+   "pub": "AFP",
+   "link": "https://finance.yahoo.com/technology/articles/us-regulators-grant-long-awaited-171655533.html",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "BA",
+   "h": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
+   "date": "2026-08-03"
+  },
+  {
+   "tk": "ETR",
+   "h": "Top Research Reports for Amazon, Marvell & Starbucks",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amazon-marvell-205100607.html",
    "date": "2026-08-03"
   },
   {
@@ -17852,30 +17971,16 @@
   },
   {
    "tk": "PLTR",
-   "h": "Palantir Earnings Beat As U.S. Sales Growth Reaccelerates",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-news-q22026/?src=A00220&yptr=yahoo",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "PLTR",
    "h": "Why Palantir is the 'best' publicly traded tech company",
    "pub": "Yahoo Finance Video",
    "link": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html",
    "date": "2026-08-03"
   },
   {
-   "tk": "TSLA",
-   "h": "BYD Sets Export Record. Nio, XPeng, and Li Auto Stocks Suffer",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/byd-stock-china-ev-sales-li-nio-xpeng-4c581332?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "BA",
-   "h": "Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-high-oil-203727254.html",
+   "tk": "LAZR",
+   "h": "Photonics: The Next Big AI Investment Opportunity?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/technology/ai/articles/photonics-next-big-ai-investment-204400941.html",
    "date": "2026-08-03"
   },
   {
@@ -17883,13 +17988,6 @@
    "h": "Update: Dow Hits Record High as Oil Prices Slide on Iran Deal Hopes",
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-record-high-oil-203727254.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock Rises Despite 1.2 Million-Vehicle Safety Probe",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-despite-1-203652674.html",
    "date": "2026-08-03"
   },
   {
@@ -17914,20 +18012,6 @@
    "date": "2026-08-03"
   },
   {
-   "tk": "TSLA",
-   "h": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Stock Gets 2 Big Boosts. How Shares Can Get to $450.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/boeing-stock-price-double-upgrade-4341f137?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-03"
-  },
-  {
    "tk": "RDW",
    "h": "Redwire vs. Rocket Lab: Which Space-Focused Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
@@ -17946,13 +18030,6 @@
    "h": "1 Industrials Stock Worth Your Attention and 2 We Ignore",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-194922560.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "BA",
-   "h": "Stock Market Today: Nasdaq Jumps 2%, Chevron Falls As Trump Lashes Out; This Viking Tops Entry (Live Coverage)",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
    "date": "2026-08-03"
   },
   {
@@ -18024,84 +18101,7 @@
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-oil-slides-173112682.html",
    "date": "2026-08-03"
-  },
-  {
-   "tk": "SMR",
-   "h": "Better Small Modular Reactor Stock: NuScale Power vs. GE Vernova",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-small-modular-reactor-stock-172500349.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "SO",
-   "h": "Vinson & Elkins Adds Cross-Border Dealmaker Enrique Dancausa to Deepen Latin America Push",
-   "pub": "CorpGov.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vinson-elkins-adds-cross-border-165700789.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "LMT",
-   "h": "Northrop Grumman To Boost Missile Component Production For \u2018Arsenal of Freedom\u2019 \u2013 Retail Views Steady Execution To Be Key For Growth",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-boost-missile-component-165610448.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "NOC",
-   "h": "Northrop Grumman To Boost Missile Component Production For \u2018Arsenal of Freedom\u2019 \u2013 Retail Views Steady Execution To Be Key For Growth",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-boost-missile-component-165610448.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Is BAH Stock a Buy Now as Low Valuation Meets Uneven Revenue Growth?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bah-stock-buy-now-low-165400698.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "SAIC",
-   "h": "Is BAH Stock a Buy Now as Low Valuation Meets Uneven Revenue Growth?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bah-stock-buy-now-low-165400698.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "LDOS",
-   "h": "BAH Stock Jumps 11.9% in a Month as Investors Weigh What Comes Next",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bah-stock-jumps-11-9-163400401.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "VSAT",
-   "h": "Viasat Set to Report Q1 Results: Can Revenue Growth Lift Earnings?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-set-report-q1-results-163300327.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "GEV",
-   "h": "Why Did AirJoule Stock Pop Today?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-airjoule-stock-pop-161740112.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "AMPX",
-   "h": "Amprius Technologies Set to Report Q2 Earnings: What's in the Cards?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-set-report-q2-161500576.html",
-   "date": "2026-08-03"
-  },
-  {
-   "tk": "AVAV",
-   "h": "Amprius Technologies Set to Report Q2 Earnings: What's in the Cards?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amprius-technologies-set-report-q2-161500576.html",
-   "date": "2026-08-03"
   }
  ],
- "prices_asof": "2026-08-03 21:08 UTC"
+ "prices_asof": "2026-08-03 23:06 UTC"
 }
