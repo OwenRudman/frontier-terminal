@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 527,
-      "up": 9
+      "rk": 624,
+      "up": 1
      },
      "news": [
       {
@@ -815,8 +815,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 578,
+      "m0": 1,
+      "rk": 688,
       "up": 0
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 48,
-      "m0": 32,
-      "rk": 6,
-      "up": 481
+      "m": 119,
+      "m0": 49,
+      "rk": 9,
+      "up": 464
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 14,
-      "rk": 17,
-      "up": 48
+      "m": 309,
+      "m0": 18,
+      "rk": 3,
+      "up": 1961
      },
      "thesis": {
       "bull": [
@@ -1790,9 +1790,9 @@
        "date": "2026-08-03"
       },
       {
-       "h": "Palantir Technologies Inc (PLTR) (Q2 2026) Earnings Call Highlights: Record 93% Revenue Growth ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-q2-050456686.html",
+       "h": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-rule-40-score-hit-072113933.html",
        "date": "2026-08-04"
       }
      ],
@@ -1858,7 +1858,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 734,
+      "up": 1
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2034,12 +2039,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 252,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2825,10 +2825,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 562,
-      "up": 1
+      "rk": 198,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -4028,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 7,
       "m0": 1,
-      "rk": 602,
-      "up": 2
+      "rk": 78,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -4380,8 +4380,8 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 100,
-      "up": 37
+      "rk": 181,
+      "up": 18
      },
      "news": [
       {
@@ -4616,7 +4616,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 201,
+      "up": 6
+     },
      "news": [
       {
        "h": "What's Going On With ParaZero Stock Wednesday?",
@@ -4713,8 +4718,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 521,
-      "up": 4
+      "rk": 618,
+      "up": 11
      },
      "news": [
       {
@@ -5854,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 13,
-      "rk": 24,
-      "up": 95
+      "m": 33,
+      "m0": 12,
+      "rk": 22,
+      "up": 260
      },
      "news": [
       {
@@ -5873,9 +5878,9 @@
        "date": "2026-08-03"
       },
       {
-       "h": "Elon Musk's Net Worth Down Nearly $700 Billion Amid Tesla, SpaceX Merger Rumors",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-net-worth-down-033017945.html",
+       "h": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-ace-wall-street-074022248.html",
        "date": "2026-08-04"
       }
      ],
@@ -5942,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 97,
-      "up": 9
+      "m": 1,
+      "m0": 2,
+      "rk": 409,
+      "up": 1
      },
      "news": [
       {
@@ -6029,12 +6034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 310,
-      "up": -2
-     },
+     "social": null,
      "news": [
       {
        "h": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
@@ -6806,9 +6806,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 548,
-      "up": 4
+      "m0": 1,
+      "rk": 652,
+      "up": 11
      },
      "news": [
       {
@@ -6981,10 +6981,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 474,
-      "up": 4
+      "m": 4,
+      "m0": 1,
+      "rk": 118,
+      "up": 10
      },
      "news": [
       {
@@ -7102,8 +7102,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 184,
-      "up": 4
+      "rk": 277,
+      "up": 2
      },
      "news": [
       {
@@ -7752,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 466,
-      "up": 4
+      "rk": 152,
+      "up": 11
      },
      "news": [
       {
@@ -8261,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 54,
-      "rk": 39,
-      "up": 9
+      "m": 32,
+      "m0": 7,
+      "rk": 23,
+      "up": 205
      },
      "thesis": {
       "bull": [
@@ -8561,12 +8561,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 346,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9008,8 +9003,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 641,
+      "m0": 1,
+      "rk": 753,
       "up": 3
      },
      "news": [
@@ -9071,7 +9066,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 544,
+      "rk": 642,
       "up": 1
      },
      "news": [
@@ -9168,7 +9163,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 559,
+      "rk": 665,
       "up": 1
      },
      "streetNotes": [
@@ -9348,7 +9343,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 675,
+      "up": 4
+     },
      "news": [
       {
        "h": "EchoStar (ECHO) Surpasses Q2 Earnings and Revenue Estimates",
@@ -9510,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 18,
-      "rk": 67,
-      "up": 12
+      "m": 31,
+      "m0": 4,
+      "rk": 24,
+      "up": 206
      },
      "thesis": {
       "bull": [
@@ -9833,12 +9833,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 304,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Prediction: Rocket Lab Will Turn Profitable and Free-Cash-Flow-Positive in 2027 -- Thanks to Iridium",
@@ -9909,7 +9904,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 324,
+      "up": 3
+     },
      "news": [
       {
        "h": "Viasat Set to Report Q1 Results: Can Revenue Growth Lift Earnings?",
@@ -10405,9 +10405,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 11,
-      "rk": 605,
-      "up": 13
+      "m0": 1,
+      "rk": 712,
+      "up": 4
      },
      "news": [
       {
@@ -10491,7 +10491,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 205,
+      "up": 4
+     },
      "news": [
       {
        "h": "Why Is VOYG Stock Surging 15% Overnight?",
@@ -10560,8 +10565,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 137,
-      "up": 1
+      "rk": 221,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10774,10 +10779,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 130,
-      "up": 1
+      "rk": 218,
+      "up": 3
      },
      "news": [
+      {
+       "h": "Boeing (BA) Wins FAA Approval For 737 MAX 7 After Years Of Review",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-wins-faa-approval-063057030.html",
+       "date": "2026-08-04"
+      },
       {
        "h": "S&P500, Nasdaq End Higher, Dow Hits Record High On Strong Mag 7 Performance And Falling Oil Prices \u2014 BA, XOM, CVX, HOOD, AMD In Focus",
        "pub": "Stocktwits",
@@ -10788,12 +10799,6 @@
        "h": "US regulators grant long-awaited Boeing 737 MAX 7 certificate",
        "pub": "AFP",
        "link": "https://finance.yahoo.com/technology/articles/us-regulators-grant-long-awaited-171655533.html",
-       "date": "2026-08-03"
-      },
-      {
-       "h": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
        "date": "2026-08-03"
       }
      ],
@@ -10862,8 +10867,8 @@
      "social": {
       "m": 2,
       "m0": 1,
-      "rk": 100,
-      "up": 37
+      "rk": 181,
+      "up": 18
      },
      "news": [
       {
@@ -11227,10 +11232,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 14,
-      "rk": 17,
-      "up": 48
+      "m": 309,
+      "m0": 18,
+      "rk": 3,
+      "up": 1961
      },
      "news": [
       {
@@ -11246,9 +11251,9 @@
        "date": "2026-08-03"
       },
       {
-       "h": "Palantir Technologies Inc (PLTR) (Q2 2026) Earnings Call Highlights: Record 93% Revenue Growth ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-q2-050456686.html",
+       "h": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-rule-40-score-hit-072113933.html",
        "date": "2026-08-04"
       }
      ],
@@ -11318,7 +11323,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 393,
+      "rk": 489,
       "up": 1
      },
      "news": [
@@ -12360,7 +12365,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 361,
+      "rk": 447,
       "up": 2
      },
      "news": [
@@ -12669,8 +12674,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 312,
-      "up": 2
+      "rk": 406,
+      "up": 4
      },
      "news": [
       {
@@ -12750,10 +12755,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 10,
-      "rk": 19,
-      "up": 41
+      "m": 17,
+      "m0": 18,
+      "rk": 40,
+      "up": 73
      },
      "news": [
       {
@@ -13345,9 +13350,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 614,
-      "up": 1
+      "m0": 1,
+      "rk": 721,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -13585,10 +13590,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 3,
-      "rk": 118,
-      "up": 31
+      "rk": 683,
+      "up": 1
      },
      "news": [
       {
@@ -13647,12 +13652,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 613,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Ameresco Q2 Earnings Call Highlights",
@@ -14003,10 +14003,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 271,
-      "up": 1
+      "rk": 142,
+      "up": 14
      },
      "streetNotes": [
       {
@@ -14079,7 +14079,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 623,
+      "rk": 731,
       "up": 1
      },
      "news": [
@@ -14247,12 +14247,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 355,
-      "up": 2
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14543,12 +14538,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 558,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Constellation Energy vs. Vistra: Which Utilities Stock Is a Better Buy in 2026?",
@@ -14634,7 +14624,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 266,
+      "rk": 358,
       "up": 1
      },
      "news": [
@@ -14951,10 +14941,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 186,
-      "up": 3
+      "m": 9,
+      "m0": 1,
+      "rk": 62,
+      "up": 22
      },
      "news": [
       {
@@ -14984,7 +14974,7 @@
        "date": "2006-09-22"
       },
       {
-       "amt": 76078135.61,
+       "amt": 76397036.98,
        "ag": "Department of Defense",
        "desc": "200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                   !20030523!20030523!006900120!006900120!006925341!N!ALABAMA POWER COMPANY         !600 NORTH 18TH STREET     !BIRMINGHAM          !AL!35291!27640!031!01!FORT RUCKER         !COFFEE                !ALABAMA   !+000001875912!N!Y!000087983040!S112!ELECTRIC SERVICES                                 !S1 !SERVICES                      !4000!NOT DISCERNABLE OR CLASSIFIED !221122!E! !3!C!S! ! ! !99990909!B! ! !B! !A!N!K!2!002!B!  !C!N!Z!  !  !N!C!N! ! ! !C!C!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "2003-05-23"
@@ -15040,8 +15030,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 198,
+      "m0": 1,
+      "rk": 293,
       "up": 3
      },
      "news": [
@@ -15129,8 +15119,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 211,
-      "up": 1
+      "rk": 304,
+      "up": 20
      },
      "news": [
       {
@@ -15355,7 +15345,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 525,
+      "up": 1
+     },
      "news": [
       {
        "h": "What's Inside URA Decides This Dip's Fate",
@@ -15471,7 +15466,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 479,
+      "up": 1
+     },
      "news": [
       {
        "h": "US-Saudi Sign Landmark Atomic Deal: A Game Changer for Nuclear ETFs?",
@@ -17543,7 +17543,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-03",
+ "social_asof": "2026-08-04",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17824,9 +17824,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Meet 2 Vanguard ETFs That Just Hit All-Time Highs. Here's What They Have in Common (Hint: It Has to Do With SpaceX).",
+   "h": "If a Bear Market Is Coming, I'm Buying This 1 ETF Hand Over Fist",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-2-vanguard-etfs-just-062000747.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-im-buying-081500731.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Amazon And Microsoft Ace Wall Street\u2019s AI Test \u2014 Analyst Warns \u2018Mag Seven\u2019 Now Faces A \u2018Higher Burden Of Proof\u2019",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-microsoft-ace-wall-street-074022248.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir's \u2018Rule Of 40\u2019 Score Hit 155% \u2014 Here's The Math And Why It Matters For Software Valuations",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-rule-40-score-hit-072113933.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing (BA) Wins FAA Approval For 737 MAX 7 After Years Of Review",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-wins-faa-approval-063057030.html",
    "date": "2026-08-04"
   },
   {
@@ -17841,13 +17862,6 @@
    "h": "Palantir Technologies Inc (PLTR) (Q2 2026) Earnings Call Highlights: Record 93% Revenue Growth ...",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-q2-050456686.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Cashes In on Its Early SpaceX Bet As IPO Windfall Juices Quarterly Earnings",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-cashes-early-spacex-bet-042329293.html",
    "date": "2026-08-04"
   },
   {
@@ -17883,13 +17897,6 @@
    "h": "Get Paid 13% A Year To Hold UBER Stock You Already Own",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/options/articles/paid-13-hold-uber-stock-022454727.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "TSLA",
-   "h": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nyu-professor-says-watch-smaller-021356539.html",
    "date": "2026-08-04"
   },
   {
@@ -18047,13 +18054,6 @@
    "date": "2026-08-03"
   },
   {
-   "tk": "BA",
-   "h": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-6c620aae?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-03"
-  },
-  {
    "tk": "LAZR",
    "h": "Photonics: The Next Big AI Investment Opportunity?",
    "pub": "Zacks",
@@ -18103,5 +18103,5 @@
    "date": "2026-08-03"
   }
  ],
- "prices_asof": "2026-08-04 06:31 UTC"
+ "prices_asof": "2026-08-04 08:18 UTC"
 }
