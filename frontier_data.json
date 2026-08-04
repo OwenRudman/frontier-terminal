@@ -1137,22 +1137,22 @@
      },
      "news": [
       {
-       "h": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
+       "h": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
+       "date": "2026-08-04"
+      },
+      {
+       "h": "Why AMD is a Yahoo Finance AlphaSpace rockstar",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html",
-       "date": "2026-08-03"
+       "link": "https://finance.yahoo.com/markets/article/why-amd-is-a-yahoo-finance-alphaspace-rockstar-131746048.html",
+       "date": "2026-08-04"
       },
       {
        "h": "Tech stocks rally to kick off August. Can chipmakers keep up with demand?",
        "pub": "Yahoo Finance Video",
        "link": "https://finance.yahoo.com/video/tech-stocks-rally-kick-off-213000641.html",
        "date": "2026-08-03"
-      },
-      {
-       "h": "Prediction: These 2 Stocks Will Keep Winning No Matter What the Market Does",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-2-stocks-keep-winning-192000334.html",
-       "date": "2026-08-04"
       }
      ]
     },
@@ -1778,15 +1778,15 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq surges amid US-Iran optimism, tech rally",
+       "h": "Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
-       "date": "2026-08-04"
+       "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+       "date": "2026-08-03"
       },
       {
-       "h": "Palantir looks 'a bit unstoppable' after overwhelming Q2 commercial growth",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/palantir-looks-bit-unstoppable-overwhelming-144500334.html",
+       "h": "'Several steps ahead': Why Palantir stock is surging",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/several-steps-ahead-why-palantir-stock-is-surging-162224977.html",
        "date": "2026-08-04"
       },
       {
@@ -2239,6 +2239,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "Kratos (NASDAQ:KTOS) Beats Expectations in Strong Q2 CY2026, Full-Year Sales Guidance is Optimistic",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-nasdaq-ktos-beats-expectations-203813557.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Axon Enterprise Q2 Earnings on Deck: How to Approach the Stock Now?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/axon-enterprise-q2-earnings-deck-150200888.html",
@@ -2249,12 +2255,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-q2-earnings-report-075722565.html",
        "date": "2026-08-03"
-      },
-      {
-       "h": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/u-air-force-taps-rocket-092500164.html",
-       "date": "2026-08-02"
       }
      ],
      "awards": [
@@ -5872,15 +5872,15 @@
        "date": "2026-08-04"
       },
       {
-       "h": "SpaceX's first-ever earnings report comes with stock under pressure: Q2 preview",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/spacexs-first-ever-earnings-report-comes-with-stock-under-pressure-q2-preview-132323178.html",
-       "date": "2026-08-03"
+       "h": "How Tesla Stock Could Get a Boost From SpaceX Earnings",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/tesla-stock-price-spacex-earnings-a5b4b4d4?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
       },
       {
-       "h": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo",
+       "h": "Chamath Palihapitiya Draws Parallel Between SpaceX Short Sellers And Early Tesla Bears, Warning They Could 'Go Broke'",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/chamath-palihapitiya-draws-parallel-between-194737851.html",
        "date": "2026-08-04"
       }
      ],
@@ -5954,6 +5954,12 @@
      },
      "news": [
       {
+       "h": "Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+       "date": "2026-08-03"
+      },
+      {
        "h": "Ex-Uber boss Travis Kalanick lands air taxi 'vertiport' deal with Joby",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/article/ex-uber-boss-travis-kalanick-lands-air-taxi-vertiport-deal-with-joby-132017371.html",
@@ -5963,12 +5969,6 @@
        "h": "Is Waymo's Latest Announcement Bad News for Uber?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/waymos-latest-announcement-bad-news-184900281.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "JOBY Stock Pops 8% On US Infrastructure Push Ahead Of Commercial Operations Launch",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-pops-8-us-170015620.html",
        "date": "2026-08-04"
       }
      ],
@@ -8472,6 +8472,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "SpaceX Climbs 4%, AST SpaceMobile Rallies 9%, Rocket Lab Rises 5% as Traders Position for SpaceX\u2019s Debut Earnings Report",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-climbs-4-ast-spacemobile-155300421.html",
@@ -8481,12 +8487,6 @@
        "h": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-152700159.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "IRDM Jumped 23% in Three Months. Is More Upside Ahead for Investors?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/irdm-jumped-23-three-months-145600893.html",
        "date": "2026-08-04"
       }
      ],
@@ -8577,6 +8577,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Firefly Aerospace (FLY) Faces A Valuation Test, Is It Still Below Fair Value?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-faces-valuation-210946603.html",
@@ -8587,12 +8593,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-stock-could-161033126.html",
        "date": "2026-08-01"
-      },
-      {
-       "h": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rocket-lab-stock-launch-contract-electron-space-force-15-awards-981m/?src=A00220&yptr=yahoo",
-       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -9009,6 +9009,12 @@
      },
      "news": [
       {
+       "h": "MDA Space nabs $474 million in Telesat deal and new federal contract to build satellites for military",
+       "pub": "Financial Post",
+       "link": "https://finance.yahoo.com/news/mda-space-nabs-474-million-203236480.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "MDA Space Receives Notice to Proceed Contract From the European Space Company",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/technology/articles/mda-space-receives-notice-proceed-154738866.html",
@@ -9019,12 +9025,6 @@
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-price-target-lowered-114112536.html",
        "date": "2026-07-15"
-      },
-      {
-       "h": "MDA Space Bets \u20ac567M on CLS to Build AI Geo-Intelligence Platform",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/mda-space-bets-567m-cls-060157230.html",
-       "date": "2026-07-13"
       }
      ]
     },
@@ -9180,6 +9180,12 @@
      ],
      "news": [
       {
+       "h": "SpaceX Joins a Club It Was Missing From In New Nvidia Deal: How Will Stocks React?",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-joins-club-missing-nvidia-194056874.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "SpaceX Climbs 4%, AST SpaceMobile Rallies 9%, Rocket Lab Rises 5% as Traders Position for SpaceX\u2019s Debut Earnings Report",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-climbs-4-ast-spacemobile-155300421.html",
@@ -9190,12 +9196,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-deepest-falls-141409981.html",
        "date": "2026-08-04"
-      },
-      {
-       "h": "One Space Stock Defied July\u2019s Rout \u2013 Here\u2019s Why It Outperformed ASTS, RKLB, And SPCX",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/one-space-stock-defied-july-085254170.html",
-       "date": "2026-08-03"
       }
      ],
      "awards": [
@@ -9696,6 +9696,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "AST SpaceMobile vs. First Majestic Silver: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-first-majestic-183301496.html",
@@ -9705,12 +9711,6 @@
        "h": "Is AST Spacemobile Stock a Smart Buy Before Q2 Earnings Release?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-smart-buy-172100803.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "SpaceX Climbs 4%, AST SpaceMobile Rallies 9%, Rocket Lab Rises 5% as Traders Position for SpaceX\u2019s Debut Earnings Report",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-climbs-4-ast-spacemobile-155300421.html",
        "date": "2026-08-04"
       }
      ]
@@ -10233,6 +10233,12 @@
      "social": null,
      "news": [
       {
+       "h": "MDA Space nabs $474 million in Telesat deal and new federal contract to build satellites for military",
+       "pub": "Financial Post",
+       "link": "https://finance.yahoo.com/news/mda-space-nabs-474-million-203236480.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Telesat Lands Record $1.9B Canada Deal, Expands Lightspeed Constellation",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/technology/articles/telesat-lands-record-1-9b-180444448.html",
@@ -10242,12 +10248,6 @@
        "h": "Zacks Industry Outlook Highlights Gilat Satellite Networks, Telesat and Satellogic",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/zacks-industry-outlook-highlights-gilat-143300335.html",
-       "date": "2026-07-22"
-      },
-      {
-       "h": "Why a Billion Dollars in New Debt Just Sent ASTS Flying",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-billion-dollars-debt-just-130344778.html",
        "date": "2026-07-22"
       }
      ],
@@ -10411,6 +10411,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Intuitive Machines (LUNR) Is Up 5.9% After Winning 18 SDA IM\u2011300 Defense Spacecraft Orders",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-5-9-191018460.html",
@@ -10420,12 +10426,6 @@
        "h": "Intuitive Machines (LUNR) Lands L3Harris Defense Deal And Expands Deep Space Network",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-lands-l3harris-180757653.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "SpaceX Climbs 4%, AST SpaceMobile Rallies 9%, Rocket Lab Rises 5% as Traders Position for SpaceX\u2019s Debut Earnings Report",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-climbs-4-ast-spacemobile-155300421.html",
        "date": "2026-08-04"
       }
      ],
@@ -10499,6 +10499,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/space-stock-voyager-airbus-starlab-earnings/?src=A00220&yptr=yahoo",
@@ -10509,12 +10515,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyg-stock-surging-15-031228122.html",
        "date": "2026-08-04"
-      },
-      {
-       "h": "Voyager Technologies, Inc. (VOYG) Reports Q2 Loss, Tops Revenue Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-inc-voyg-reports-224509497.html",
-       "date": "2026-08-03"
       }
      ]
     },
@@ -10583,6 +10583,12 @@
      ],
      "news": [
       {
+       "h": "FCX Flashes Buy Signal; This Is Fueling Copper, Rare Earth Stocks",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/fcx-stock-copper-price-etf-cper-trump-tariff-nb-rare-earth/?src=A00220&yptr=yahoo",
+       "date": "2026-08-04"
+      },
+      {
        "h": "LMT Reportedly In Talks For Crucial Minerals Supply From US Mines Amid Trump\u2019s Stance Of Reducing Dependence On China",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/energy/articles/lmt-reportedly-talks-crucial-minerals-181054535.html",
@@ -10592,12 +10598,6 @@
        "h": "Lockheed Martin is Down 8% in 6 Months: Wall Street Pro Expects 30% Growth Within a Year",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-down-8-6-163236709.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
        "date": "2026-08-04"
       }
      ],
@@ -10784,6 +10784,12 @@
      },
      "news": [
       {
+       "h": "Albany International Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/albany-international-q2-earnings-call-200402718.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "The $280 Million Reason Boeing Missed\u2014and Why Wall Street Shrugged It Off",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/280-million-reason-boeing-missed-173927982.html",
@@ -10793,12 +10799,6 @@
        "h": "Boeing's 737 MAX 7 Was Supposed to Be Flying in 2019. The FAA Certified It Monday.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-737-max-7-supposed-173800788.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
        "date": "2026-08-04"
       }
      ],
@@ -11239,15 +11239,15 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow and S&P 500 trade at record highs, Nasdaq surges amid US-Iran optimism, tech rally",
+       "h": "Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html",
-       "date": "2026-08-04"
+       "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+       "date": "2026-08-03"
       },
       {
-       "h": "Palantir looks 'a bit unstoppable' after overwhelming Q2 commercial growth",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/palantir-looks-bit-unstoppable-overwhelming-144500334.html",
+       "h": "'Several steps ahead': Why Palantir stock is surging",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/several-steps-ahead-why-palantir-stock-is-surging-162224977.html",
        "date": "2026-08-04"
       },
       {
@@ -13526,6 +13526,12 @@
      },
      "news": [
       {
+       "h": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-earnings-aug-7-202001575.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Is Oklo Stock a No-Brainer Buy at Less Than $50?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-no-brainer-buy-172245867.html",
@@ -13536,12 +13542,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/got-10-000-heres-id-113500853.html",
        "date": "2026-08-04"
-      },
-      {
-       "h": "Here's How to Play NuScale Stock Before Q2 Earnings Release",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-play-nuscale-stock-q2-122800128.html",
-       "date": "2026-08-03"
       }
      ],
      "awards": [
@@ -14416,6 +14416,12 @@
      "social": null,
      "news": [
       {
+       "h": "Jacobs Solutions\u2019s (NYSE:J) Q2 CY2026 Sales Top Estimates",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-nyse-j-q2-210035790.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Jacobs Solutions (J) Q2 Earnings: What To Expect",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-q2-earnings-051722752.html",
@@ -14426,12 +14432,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-report-q3-earnings-expect-145100606.html",
        "date": "2026-07-31"
-      },
-      {
-       "h": "Titan America (TTAM) Q2 Earnings Miss Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/titan-america-ttam-q2-earnings-220013711.html",
-       "date": "2026-07-28"
       }
      ]
     },
@@ -14629,6 +14629,12 @@
      },
      "news": [
       {
+       "h": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "\u26a1 Flash Heard: Texas Data Center U-Turn Hits Power Stocks",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/-flash-heard-texas-data-center-u-turn-hits-power-stocks-JUqceJdveta4bHKQY0Xv?siteid=yhoof2&yptr=yahoo",
@@ -14639,12 +14645,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pseg-peg-tops-q2-earnings-125005513.html",
        "date": "2026-08-04"
-      },
-      {
-       "h": "Eversource Energy Q2 Earnings Lag Estimates, Revenues Rise Y/Y",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/eversource-energy-q2-earnings-lag-184100346.html",
-       "date": "2026-08-03"
       }
      ],
      "awards": [
@@ -14860,21 +14860,21 @@
      "social": null,
      "news": [
       {
+       "h": "Duke Energy Corp (DUK) (Q2 2026) Earnings Call Highlights: Strong EPS Growth and Strategic ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/energy/articles/duke-energy-corp-duk-q2-210716882.html",
+       "date": "2026-08-04"
+      },
+      {
+       "h": "Sector Update: Energy Stocks Decline Late Afternoon",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
+       "date": "2026-08-04"
+      },
+      {
        "h": "Sector Update: Energy Stocks Lower in Afternoon Trading",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-174953695.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "Duke Energy Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-q2-earnings-beat-160900742.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "Retirees: 3 High-Yielding Dividend Stocks to Buy for Long-Term Stability and Recurring Cash Flow",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/retirees-3-high-yielding-dividend-155303452.html",
        "date": "2026-08-04"
       }
      ],
@@ -17823,31 +17823,150 @@
  ],
  "news": [
   {
-   "tk": "PLTR",
-   "h": "Dow and S&P 500 Hit Records as Iran Talks Send Oil Prices Tumbling",
+   "tk": "NVDA",
+   "h": "Why Robinhood Stock Dropped 14% in July",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-stock-dropped-14-210951988.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "DUK",
+   "h": "Duke Energy Corp (DUK) (Q2 2026) Earnings Call Highlights: Strong EPS Growth and Strategic ...",
    "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-hit-records-192125836.html",
+   "link": "https://finance.yahoo.com/energy/articles/duke-energy-corp-duk-q2-210716882.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "J",
+   "h": "Jacobs Solutions\u2019s (NYSE:J) Q2 CY2026 Sales Top Estimates",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-nyse-j-q2-210035790.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Oil drops, stocks hit records on hopes of Hormuz opening",
+   "pub": "AFP",
+   "link": "https://finance.yahoo.com/markets/world-indices/articles/stocks-mixed-seoul-stabilises-oil-025545782.html",
    "date": "2026-08-04"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: These 2 Stocks Will Keep Winning No Matter What the Market Does",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-2-stocks-keep-winning-192000334.html",
+   "h": "'This was not an exceptional result': Strategist talks AMD earnings & 'shocking' capex",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/not-exceptional-result-strategist-talks-205254303.html",
    "date": "2026-08-04"
   },
   {
-   "tk": "NVDA",
-   "h": "The First Spot Bitcoin ETF Is About to Shut Down. Here's What Crypto Investors Need to Know",
+   "tk": "KTOS",
+   "h": "Kratos (NASDAQ:KTOS) Beats Expectations in Strong Q2 CY2026, Full-Year Sales Guidance is Optimistic",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-nasdaq-ktos-beats-expectations-203813557.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "MDA",
+   "h": "MDA Space nabs $474 million in Telesat deal and new federal contract to build satellites for military",
+   "pub": "Financial Post",
+   "link": "https://finance.yahoo.com/news/mda-space-nabs-474-million-203236480.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "TSAT",
+   "h": "MDA Space nabs $474 million in Telesat deal and new federal contract to build satellites for military",
+   "pub": "Financial Post",
+   "link": "https://finance.yahoo.com/news/mda-space-nabs-474-million-203236480.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Oklo Reports Earnings on Aug. 7. Here's What Investors Should Be Watching.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/first-spot-bitcoin-etf-shut-191701279.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-earnings-aug-7-202001575.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "BA",
+   "h": "Albany International Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/albany-international-q2-earnings-call-200402718.html",
    "date": "2026-08-04"
   },
   {
    "tk": "TSLA",
-   "h": "Here's Why SpaceX Earnings Could Affect Tesla Stock",
+   "h": "How Tesla Stock Could Get a Boost From SpaceX Earnings",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/tesla-stock-price-spacex-earnings-a5b4b4d4?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "DUK",
+   "h": "Sector Update: Energy Stocks Decline Late Afternoon",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195553066.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Chamath Palihapitiya Draws Parallel Between SpaceX Short Sellers And Early Tesla Bears, Warning They Could 'Go Broke'",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chamath-palihapitiya-draws-parallel-between-194737851.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "LMT",
+   "h": "FCX Flashes Buy Signal; This Is Fueling Copper, Rare Earth Stocks",
    "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-earnings-tesla-elon-musk-tech-space/?src=A00220&yptr=yahoo",
+   "link": "https://www.investors.com/news/fcx-stock-copper-price-etf-cper-trump-tariff-nb-rare-earth/?src=A00220&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "PL",
+   "h": "SpaceX Joins a Club It Was Missing From In New Nvidia Deal: How Will Stocks React?",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-joins-club-missing-nvidia-194056874.html",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "TSLA",
+   "h": "What to Watch for in SpaceX\u2019s Earnings Report",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/what-to-watch-for-in-spacex-s-earnings-report-F0moPbECFb8scN27zZa4?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "ASTS",
+   "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "FLY",
+   "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-04"
+  },
+  {
+   "tk": "VOYG",
+   "h": "Rocket Lab, Voyager, and More Go Full Throttle",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/space-stocks-are-ripping-into-spacex-earnings-1UoUxmP7ILIDw0nACebb?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-04"
   },
   {
@@ -17872,17 +17991,17 @@
    "date": "2026-08-04"
   },
   {
+   "tk": "VST",
+   "h": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html",
+   "date": "2026-08-04"
+  },
+  {
    "tk": "UBER",
    "h": "Is Waymo's Latest Announcement Bad News for Uber?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/waymos-latest-announcement-bad-news-184900281.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk issues ominous warning as SpaceX short interest hits danger zone",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-issues-ominous-warning-184112062.html",
    "date": "2026-08-04"
   },
   {
@@ -17982,126 +18101,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-mp-stock-171000755.html",
    "date": "2026-08-04"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "LEU",
-   "h": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-set-report-q2-170600925.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "UBER",
-   "h": "JOBY Stock Pops 8% On US Infrastructure Push Ahead Of Commercial Operations Launch",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/joby-stock-pops-8-us-170015620.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "LMT",
-   "h": "Lockheed Martin is Down 8% in 6 Months: Wall Street Pro Expects 30% Growth Within a Year",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-down-8-6-163236709.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "NOC",
-   "h": "Lockheed Martin is Down 8% in 6 Months: Wall Street Pro Expects 30% Growth Within a Year",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-down-8-6-163236709.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "RTX",
-   "h": "Lockheed Martin is Down 8% in 6 Months: Wall Street Pro Expects 30% Growth Within a Year",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-down-8-6-163236709.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "VST",
-   "h": "\u26a1 Flash Heard: Texas Data Center U-Turn Hits Power Stocks",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-spacex-earnings-08-04-2026/card/-flash-heard-texas-data-center-u-turn-hits-power-stocks-JUqceJdveta4bHKQY0Xv?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "UBER",
-   "h": "Angel investor says Bitcoin has bottomed, sell it and buy Solana",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/angel-investor-says-bitcoin-bottomed-162308696.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "LMT",
-   "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "NOC",
-   "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "RTX",
-   "h": "Boeing's Finished Flight Test Counts Most For A Different Jet",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-finished-flight-test-counts-162058555.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "LMT",
-   "h": "Is Lockheed Martin (LMT) a Buying Opportunity After Its 16% Drop?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-buying-opportunity-161911062.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Is Leidos Holdings (LDOS) Cheap Following Its Earnings Beat And Higher Guidance?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-cheap-following-161254956.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "TDY",
-   "h": "TransDigm's Q3 Earnings Surpass Estimates, Sales Increase Y/Y",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigms-q3-earnings-surpass-estimates-161000387.html",
-   "date": "2026-08-04"
-  },
-  {
-   "tk": "TXT",
-   "h": "TransDigm's Q3 Earnings Surpass Estimates, Sales Increase Y/Y",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigms-q3-earnings-surpass-estimates-161000387.html",
-   "date": "2026-08-04"
   }
  ],
- "prices_asof": "2026-08-04 19:42 UTC"
+ "prices_asof": "2026-08-04 21:15 UTC"
 }
