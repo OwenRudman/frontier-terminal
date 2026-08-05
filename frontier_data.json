@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 624,
-      "up": 1
+      "rk": 214,
+      "up": 5
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 688,
-      "up": 0
+      "rk": 115,
+      "up": 18
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 119,
-      "m0": 49,
-      "rk": 9,
-      "up": 464
+      "m": 261,
+      "m0": 119,
+      "rk": 5,
+      "up": 931
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-04"
       },
       {
-       "h": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
+       "h": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-built-062500647.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-now-makes-almost-much-075400785.html",
        "date": "2026-08-05"
       }
      ]
@@ -1365,6 +1365,12 @@
        "date": "2023-08-15"
       },
       {
+       "amt": 10104122.46,
+       "ag": "Department of Defense",
+       "desc": "EARLY ENTRY DISTRIBUTION SYSTEM (E2FDS) - ORDER AND FUND TWO 5-MILE SETS",
+       "date": "2024-10-18"
+      },
+      {
        "amt": 95606.94,
        "ag": "Department of Defense",
        "desc": "DELIVERY ORDER 0006 INSTALLATION KITS AND SPARE PARTS IN SUPPORT OF THE US ARMY PROGRAM EXECUTIVE C3T CLIN 0049",
@@ -1375,12 +1381,6 @@
        "ag": "Department of Defense",
        "desc": "8510379377!CABLE ASSEMBLY,SPEC",
        "date": "2024-01-16"
-      },
-      {
-       "amt": 31688.0,
-       "ag": "Department of Homeland Security",
-       "desc": "4140 01-598-1830 COIL, FAN",
-       "date": "2026-06-10"
       }
      ]
     },
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 309,
-      "m0": 18,
-      "rk": 3,
-      "up": 1961
+      "m": 231,
+      "m0": 310,
+      "rk": 7,
+      "up": 1060
      },
      "thesis": {
       "bull": [
@@ -1858,12 +1858,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 734,
-      "up": 1
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2039,7 +2034,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 16,
+      "m0": 0,
+      "rk": 53,
+      "up": 33
+     },
      "thesis": {
       "bull": [
        {
@@ -2327,7 +2327,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 296,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2479,7 +2484,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 396,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2825,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 198,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 772,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4028,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 1,
-      "rk": 78,
-      "up": 18
+      "m": 15,
+      "m0": 7,
+      "rk": 58,
+      "up": 26
      },
      "thesis": {
       "bull": [
@@ -4378,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 1,
-      "rk": 181,
-      "up": 18
+      "rk": 166,
+      "up": 10
      },
      "news": [
       {
@@ -4616,12 +4626,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 201,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Going On With ParaZero Stock Wednesday?",
@@ -4718,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 618,
-      "up": 11
+      "rk": 707,
+      "up": 12
      },
      "news": [
       {
@@ -5128,7 +5133,7 @@
      ],
      "awards": [
       {
-       "amt": 12747437070.85,
+       "amt": 12747474110.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5859,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 12,
-      "rk": 22,
-      "up": 260
+      "m": 49,
+      "m0": 33,
+      "rk": 18,
+      "up": 544
      },
      "news": [
       {
@@ -5878,9 +5883,9 @@
        "date": "2026-08-04"
       },
       {
-       "h": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-built-062500647.html",
+       "h": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-1987-type-073631724.html",
        "date": "2026-08-05"
       }
      ],
@@ -5947,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 409,
-      "up": 1
+      "m": 23,
+      "m0": 1,
+      "rk": 36,
+      "up": 32
      },
      "news": [
       {
@@ -6261,7 +6266,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 770,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -6807,8 +6817,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 652,
-      "up": 11
+      "rk": 755,
+      "up": 12
      },
      "news": [
       {
@@ -6981,10 +6991,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 118,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 650,
+      "up": -2
      },
      "news": [
       {
@@ -7100,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 277,
-      "up": 2
+      "rk": 161,
+      "up": 7
      },
      "news": [
       {
@@ -7369,7 +7379,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 474,
+      "up": 1
+     },
      "news": [
       {
        "h": "Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally",
@@ -7752,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 152,
-      "up": 11
+      "m": 1,
+      "m0": 3,
+      "rk": 640,
+      "up": 6
      },
      "news": [
       {
@@ -8261,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 7,
-      "rk": 23,
-      "up": 205
+      "m": 61,
+      "m0": 32,
+      "rk": 13,
+      "up": 234
      },
      "thesis": {
       "bull": [
@@ -8740,7 +8755,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 723,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -9002,10 +9022,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 753,
-      "up": 3
+      "m": 7,
+      "m0": 0,
+      "rk": 106,
+      "up": 54
      },
      "news": [
       {
@@ -9066,7 +9086,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 642,
+      "rk": 738,
       "up": 1
      },
      "news": [
@@ -9161,10 +9181,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 665,
-      "up": 1
+      "rk": 113,
+      "up": 11
      },
      "streetNotes": [
       {
@@ -9345,9 +9365,9 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 675,
-      "up": 4
+      "m0": 1,
+      "rk": 781,
+      "up": 3
      },
      "news": [
       {
@@ -9510,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 4,
-      "rk": 24,
-      "up": 206
+      "m": 63,
+      "m0": 30,
+      "rk": 12,
+      "up": 132
      },
      "thesis": {
       "bull": [
@@ -9833,7 +9853,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 449,
+      "up": 0
+     },
      "news": [
       {
        "h": "How Iridium's Aireon Deal Could Add $100 Million in Annual Revenue",
@@ -9906,8 +9931,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 324,
+      "m0": 1,
+      "rk": 352,
       "up": 3
      },
      "news": [
@@ -10404,10 +10429,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 8,
       "m0": 1,
-      "rk": 712,
-      "up": 4
+      "rk": 93,
+      "up": 15
      },
      "news": [
       {
@@ -10491,12 +10516,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 205,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Voyager Technologies, Inc. (VOYG) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
@@ -10563,10 +10583,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 221,
-      "up": 2
+      "rk": 183,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10672,7 +10692,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 296,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10779,8 +10804,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 218,
-      "up": 3
+      "rk": 239,
+      "up": 2
      },
      "news": [
       {
@@ -10865,10 +10890,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 1,
-      "rk": 181,
-      "up": 18
+      "rk": 166,
+      "up": 10
      },
      "news": [
       {
@@ -11232,10 +11257,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 309,
-      "m0": 18,
-      "rk": 3,
-      "up": 1961
+      "m": 231,
+      "m0": 310,
+      "rk": 7,
+      "up": 1060
      },
      "news": [
       {
@@ -11323,7 +11348,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 489,
+      "rk": 556,
       "up": 1
      },
      "news": [
@@ -12362,12 +12387,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 447,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
@@ -12674,8 +12694,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 406,
-      "up": 4
+      "rk": 458,
+      "up": 2
      },
      "news": [
       {
@@ -12755,10 +12775,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 18,
+      "m": 22,
+      "m0": 16,
       "rk": 40,
-      "up": 73
+      "up": 38
      },
      "news": [
       {
@@ -13349,10 +13369,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 721,
-      "up": 11
+      "rk": 225,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -13591,8 +13611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 683,
+      "m0": 1,
+      "rk": 793,
       "up": 1
      },
      "news": [
@@ -14003,10 +14023,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 142,
-      "up": 14
+      "m": 1,
+      "m0": 3,
+      "rk": 409,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -14076,12 +14096,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 731,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Vernova Set to Be Biggest Winner From AI Data Center\u2019s Massive Power Shortfall",
@@ -14416,6 +14431,12 @@
      "social": null,
      "news": [
       {
+       "h": "Jacobs Solutions Q3 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-q3-earnings-call-080405739.html",
+       "date": "2026-08-05"
+      },
+      {
        "h": "Jacobs Solutions Inc (J) (Q3 2026) Earnings Call Highlights: Record Backlog and Raised Guidance ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-inc-j-q3-050401148.html",
@@ -14425,12 +14446,6 @@
        "h": "Jacobs Solutions (J) Matches Q3 Earnings Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-matches-q3-214007240.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "Jacobs Solutions\u2019s (NYSE:J) Q2 CY2026 Sales Top Estimates",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-nyse-j-q2-210035790.html",
        "date": "2026-08-04"
       }
      ]
@@ -14538,7 +14553,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 767,
+      "up": 2
+     },
      "news": [
       {
        "h": "Latest News In Energy Transition - Advantage Renewables Boosts Michigan Grid With Battery Projects",
@@ -14622,10 +14642,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 358,
-      "up": 1
+      "rk": 124,
+      "up": 7
      },
      "news": [
       {
@@ -14857,7 +14877,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 323,
+      "up": 2
+     },
      "news": [
       {
        "h": "Duke Energy Q2 Earnings Call Highlights",
@@ -14941,10 +14966,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 62,
-      "up": 22
+      "m": 12,
+      "m0": 9,
+      "rk": 64,
+      "up": 30
      },
      "news": [
       {
@@ -15028,12 +15053,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 293,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Duke Energy Q2 Earnings Call Highlights",
@@ -15119,8 +15139,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 304,
-      "up": 20
+      "rk": 333,
+      "up": 1
      },
      "news": [
       {
@@ -15347,8 +15367,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 525,
+      "m0": 1,
+      "rk": 598,
       "up": 1
      },
      "news": [
@@ -15468,8 +15488,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 479,
+      "m0": 1,
+      "rk": 546,
       "up": 1
      },
      "news": [
@@ -17543,7 +17563,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-04",
+ "social_asof": "2026-08-05",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17823,17 +17843,45 @@
  ],
  "news": [
   {
+   "tk": "J",
+   "h": "Jacobs Solutions Q3 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-q3-earnings-call-080405739.html",
+   "date": "2026-08-05"
+  },
+  {
    "tk": "NVDA",
-   "h": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
+   "h": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-built-062500647.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-now-makes-almost-much-075400785.html",
+   "date": "2026-08-05"
+  },
+  {
+   "tk": "PLTR",
+   "h": "This 2x Palantir ETF Lost $3,400 on Every $10,000 Invested Over One Year",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/options/articles/2x-palantir-etf-lost-3-075354637.html",
+   "date": "2026-08-05"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Foxconn's monthly revenue hits record in July on AI demand",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/ai/articles/foxconns-monthly-revenue-hits-record-074534993.html",
    "date": "2026-08-05"
   },
   {
    "tk": "TSLA",
-   "h": "Cathie Wood's Ark Invest Has Built an $870 Million Tesla Position. Here's the Thesis Keeping Her In.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-built-062500647.html",
+   "h": "Michael Burry Warns of 1987-Type Crash as S&P 500 Hits Record High",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-1987-type-073631724.html",
+   "date": "2026-08-05"
+  },
+  {
+   "tk": "TSLA",
+   "h": "MU, SNDK, SKHY Stocks In Focus: Elon Musk Says Memory Demand Is Growing \u2018200% A Year, Maybe Higher,\u2019 Calls It A \u2018Limiting Factor\u2019",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-stocks-focus-070256911.html",
    "date": "2026-08-05"
   },
   {
@@ -17841,13 +17889,6 @@
    "h": "Leidos (LDOS) Is Up 10.3% After Raising 2026 Outlook and Winning New Defense AI Work",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/leidos-ldos-10-3-raising-060843715.html",
-   "date": "2026-08-05"
-  },
-  {
-   "tk": "NVDA",
-   "h": "CoreWeave Stock Is Down More Than 40% From Its 52-Week High. Should Investors Buy the Dip?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-down-more-40-052000944.html",
    "date": "2026-08-05"
   },
   {
@@ -17918,20 +17959,6 @@
    "h": "Viasat Q1 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-q1-earnings-call-highlights-040352491.html",
-   "date": "2026-08-05"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Says He's 'Not Against' Using Natural Gas as a Bridge to Solar, Backs Long-Term Role",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-hes-not-033111169.html",
-   "date": "2026-08-05"
-  },
-  {
-   "tk": "PLTR",
-   "h": "PLTR Stock Retreats Overnight: Analysts See \u2018No Sign Of Competitive Pressure\u2019 After Blowout Q2 Report",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-retreats-overnight-analysts-032039967.html",
    "date": "2026-08-05"
   },
   {
@@ -18094,14 +18121,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/energy/articles/duke-energy-corp-duk-q2-210716882.html",
    "date": "2026-08-04"
-  },
-  {
-   "tk": "J",
-   "h": "Jacobs Solutions\u2019s (NYSE:J) Q2 CY2026 Sales Top Estimates",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-nyse-j-q2-210035790.html",
-   "date": "2026-08-04"
   }
  ],
- "prices_asof": "2026-08-05 06:31 UTC"
+ "prices_asof": "2026-08-05 08:15 UTC"
 }
