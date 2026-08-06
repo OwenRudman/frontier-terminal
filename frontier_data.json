@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 214,
-      "up": 5
+      "m": 4,
+      "m0": 2,
+      "rk": 132,
+      "up": 17
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 262,
+      "up": 2
+     },
      "news": [
       {
        "h": "Albemarle (ALB) Q2 Earnings and Revenues Surpass Estimates",
@@ -814,10 +819,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 115,
-      "up": 18
+      "m": 2,
+      "m0": 6,
+      "rk": 235,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 261,
-      "m0": 119,
-      "rk": 5,
-      "up": 931
+      "m": 211,
+      "m0": 259,
+      "rk": 6,
+      "up": 628
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1154,9 @@
        "date": "2026-08-05"
       },
       {
-       "h": "Where Will SpaceX Stock Be in 1 Year?",
+       "h": "SK Hynix Supplies More Than Half the World's HBM Memory. Its Stock Costs Under 4 Times Next Year's Earnings.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/where-spacex-stock-1-062000524.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-supplies-more-half-080100741.html",
        "date": "2026-08-06"
       }
      ]
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 231,
-      "m0": 310,
-      "rk": 7,
-      "up": 1060
+      "m": 46,
+      "m0": 230,
+      "rk": 20,
+      "up": 98
      },
      "thesis": {
       "bull": [
@@ -2035,10 +2040,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 0,
-      "rk": 53,
-      "up": 33
+      "m": 8,
+      "m0": 16,
+      "rk": 72,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -2329,9 +2334,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 296,
-      "up": 1
+      "m0": 1,
+      "rk": 314,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -2486,8 +2491,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 396,
+      "m0": 1,
+      "rk": 437,
       "up": 1
      },
      "thesis": {
@@ -2834,12 +2839,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 772,
-      "up": 3
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3735,7 +3735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 735,
+      "up": 0
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4038,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 7,
-      "rk": 58,
-      "up": 26
+      "m": 14,
+      "m0": 15,
+      "rk": 50,
+      "up": 24
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 166,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 520,
+      "up": 3
      },
      "news": [
       {
@@ -4720,12 +4725,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 707,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "Allient (ALNT) Surpasses Q2 Earnings and Revenue Estimates",
@@ -5139,7 +5139,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 6988080141.83,
+       "amt": 8313040600.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5864,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 49,
-      "m0": 33,
-      "rk": 18,
-      "up": 544
+      "m": 53,
+      "m0": 49,
+      "rk": 17,
+      "up": 97
      },
      "news": [
       {
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 1,
+      "m": 19,
+      "m0": 22,
       "rk": 36,
-      "up": 32
+      "up": 80
      },
      "news": [
       {
@@ -5965,16 +5965,16 @@
        "date": "2026-08-05"
       },
       {
+       "h": "Lucid Group (LCID) Starts $1.4 Billion Reset And Pushes Midsize EV To 2027",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-starts-1-071456301.html",
+       "date": "2026-08-06"
+      },
+      {
        "h": "Expedia Group Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/expedia-group-q2-earnings-call-020400225.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Stock Market Today, Aug. 5: Uber Falls 5% on Weak Guidance Despite Strong Bookings Growth",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-5-220231037.html",
-       "date": "2026-08-05"
       }
      ],
      "awards": [
@@ -6267,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 770,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 167,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -6814,12 +6814,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 755,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "Aeva Technologies, Inc. (AEVA) Reports Q2 Loss, Beats Revenue Estimates",
@@ -6876,7 +6871,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 765,
+      "up": 4
+     },
      "news": [
       {
        "h": "Innoviz (INVZ) Q2 2026 Earnings Call Transcript",
@@ -6990,12 +6990,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 650,
-      "up": -2
-     },
+     "social": null,
      "news": [
       {
        "h": "MicroVision Pitches \u2018Lidar 2.0\u2019 Strategy, Keeps 2026 Revenue Outlook Intact",
@@ -7110,10 +7105,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 161,
-      "up": 7
+      "m": 2,
+      "m0": 3,
+      "rk": 188,
+      "up": 3
      },
      "news": [
       {
@@ -7381,8 +7376,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 474,
+      "m0": 1,
+      "rk": 513,
       "up": 1
      },
      "news": [
@@ -7767,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 640,
-      "up": 6
+      "m": 11,
+      "m0": 1,
+      "rk": 56,
+      "up": 41
      },
      "news": [
       {
@@ -8276,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 61,
-      "m0": 32,
-      "rk": 13,
-      "up": 234
+      "m": 32,
+      "m0": 60,
+      "rk": 25,
+      "up": 69
      },
      "thesis": {
       "bull": [
@@ -8487,6 +8482,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Just Won $663 Million in Space Force Contracts. Only the Bigger One Waits for a Rocket That Has Never Flown.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-won-663-070700678.html",
+       "date": "2026-08-06"
+      },
+      {
        "h": "Space Stocks Are Roaring Back In August \u2014 Here\u2019s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-roaring-back-august-032542373.html",
@@ -8497,12 +8498,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-slips-overnight-rocket-011221296.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Stock Market Today, Aug. 5: SpaceX Beats Revenue but Faces Capital Spending Pressure",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-5-212003303.html",
-       "date": "2026-08-05"
       }
      ],
      "awards": [
@@ -8576,7 +8571,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 545,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8756,10 +8756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 723,
-      "up": 1
+      "m": 15,
+      "m0": 1,
+      "rk": 45,
+      "up": 33
      },
      "thesis": {
       "bull": [
@@ -9021,12 +9021,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 7,
-      "m0": 0,
-      "rk": 106,
-      "up": 54
-     },
+     "social": null,
      "news": [
       {
        "h": "MDA Space nabs $474 million in Telesat deal and new federal contract to build satellites for military",
@@ -9083,12 +9078,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 738,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -9181,10 +9171,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 113,
-      "up": 11
+      "m": 2,
+      "m0": 6,
+      "rk": 234,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -9309,16 +9299,16 @@
        "date": "2024-10-01"
       },
       {
+       "amt": 3600000.0,
+       "ag": "Department of Defense",
+       "desc": "SEGMENTED LARGE OPTICAL IMAGER DESIGN AND RISK ASSESSMENT",
+       "date": "2026-03-06"
+      },
+      {
        "amt": 3538098.0,
        "ag": "Department of Defense",
        "desc": "BLACKSKY GLOBAL MOVING TARGET ENGAGEMENT",
        "date": "2024-03-15"
-      },
-      {
-       "amt": 2600000.0,
-       "ag": "Department of Defense",
-       "desc": "SEGMENTED LARGE OPTICAL IMAGER DESIGN AND RISK ASSESSMENT",
-       "date": "2026-03-06"
       },
       {
        "amt": 1836661.0,
@@ -9363,12 +9353,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 781,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic Inc (SATL) (Q2 2026) Earnings Call Highlights: Record Revenue and First Positive ...",
@@ -9530,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 63,
-      "m0": 30,
-      "rk": 12,
-      "up": 132
+      "m": 27,
+      "m0": 64,
+      "rk": 28,
+      "up": 69
      },
      "thesis": {
       "bull": [
@@ -9855,9 +9840,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 449,
-      "up": 0
+      "m0": 1,
+      "rk": 485,
+      "up": 1
      },
      "news": [
       {
@@ -9887,7 +9872,7 @@
        "date": "2025-08-25"
       },
       {
-       "amt": 420960.0,
+       "amt": 482060.0,
        "ag": "Department of Defense",
        "desc": "BASE PERIOD CPFF HOLDING CLIN",
        "date": "2023-05-11"
@@ -9932,10 +9917,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 352,
-      "up": 3
+      "rk": 385,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Viavi Solutions Q4 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-q4-earnings-call-070358784.html",
+       "date": "2026-08-06"
+      },
       {
        "h": "Space Stocks Are Roaring Back In August \u2014 Here\u2019s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind",
        "pub": "Stocktwits",
@@ -9946,12 +9937,6 @@
        "h": "Why ViaSat Stock Dropped After Earnings",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-viasat-stock-dropped-earnings-190232758.html",
-       "date": "2026-08-05"
-      },
-      {
-       "h": "Can ViaSat-3 Launches Unlock Viasat's Next Growth Phase?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/viasat-3-launches-unlock-viasats-165400944.html",
        "date": "2026-08-05"
       }
      ],
@@ -10429,10 +10414,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 93,
-      "up": 15
+      "m": 4,
+      "m0": 8,
+      "rk": 141,
+      "up": 9
      },
      "news": [
       {
@@ -10583,10 +10568,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 183,
-      "up": 4
+      "m": 3,
+      "m0": 2,
+      "rk": 146,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -10694,9 +10679,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 296,
-      "up": 1
+      "m0": 1,
+      "rk": 314,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10804,7 +10789,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 239,
+      "rk": 251,
       "up": 2
      },
      "news": [
@@ -10890,10 +10875,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 166,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 520,
+      "up": 3
      },
      "news": [
       {
@@ -11020,7 +11005,7 @@
        "date": "2009-05-27"
       },
       {
-       "amt": 1331469254.7,
+       "amt": 1332092234.74,
        "ag": "Department of Defense",
        "desc": "AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT",
        "date": "2020-02-25"
@@ -11257,10 +11242,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 231,
-      "m0": 310,
-      "rk": 7,
-      "up": 1060
+      "m": 46,
+      "m0": 230,
+      "rk": 20,
+      "up": 98
      },
      "news": [
       {
@@ -11345,12 +11330,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 556,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12387,7 +12367,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 562,
+      "up": 3
+     },
      "news": [
       {
        "h": "Energy Fuels Set to Report Q2 Earnings: How to Play the Stock?",
@@ -12694,8 +12679,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 458,
-      "up": 2
+      "rk": 495,
+      "up": 3
      },
      "news": [
       {
@@ -12775,10 +12760,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 16,
-      "rk": 40,
-      "up": 38
+      "m": 10,
+      "m0": 22,
+      "rk": 65,
+      "up": 20
      },
      "news": [
       {
@@ -13369,10 +13354,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 225,
-      "up": 4
+      "m": 3,
+      "m0": 2,
+      "rk": 172,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13610,10 +13595,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 29,
       "m0": 1,
-      "rk": 793,
-      "up": 1
+      "rk": 27,
+      "up": 869
      },
      "news": [
       {
@@ -14023,10 +14008,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 409,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 153,
+      "up": 31
      },
      "streetNotes": [
       {
@@ -14262,7 +14247,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 555,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14345,7 +14335,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 546,
+      "up": 1
+     },
      "news": [
       {
        "h": "2 Magnificent Industrial Stocks Down 40% to Buy and Hold Forever",
@@ -14554,10 +14549,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 767,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 233,
+      "up": 4
      },
      "news": [
       {
@@ -14643,8 +14638,8 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 1,
-      "rk": 124,
+      "m0": 5,
+      "rk": 106,
       "up": 7
      },
      "news": [
@@ -14879,8 +14874,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 323,
+      "m0": 1,
+      "rk": 349,
       "up": 2
      },
      "news": [
@@ -14966,10 +14961,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 9,
-      "rk": 64,
-      "up": 30
+      "m": 6,
+      "m0": 11,
+      "rk": 91,
+      "up": 18
      },
      "news": [
       {
@@ -15137,10 +15132,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 333,
-      "up": 1
+      "rk": 190,
+      "up": 28
      },
      "news": [
       {
@@ -15365,12 +15360,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 598,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Inside URA Decides This Dip's Fate",
@@ -15486,12 +15476,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 546,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Beyond Oil: Energy ETFs Worth Investing in for Long-Term Growth",
@@ -17563,7 +17548,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-05",
+ "social_asof": "2026-08-06",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17844,16 +17829,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Where Will SpaceX Stock Be in 1 Year?",
+   "h": "SK Hynix Supplies More Than Half the World's HBM Memory. Its Stock Costs Under 4 Times Next Year's Earnings.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-spacex-stock-1-062000524.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-supplies-more-half-080100741.html",
    "date": "2026-08-06"
   },
   {
    "tk": "NVDA",
-   "h": "Talen Energy Q2 Earnings Call Highlights",
+   "h": "Micron Is an Incredible Bargain Below $1,000",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-incredible-bargain-below-1-075000514.html",
+   "date": "2026-08-06"
+  },
+  {
+   "tk": "UBER",
+   "h": "Lucid Group (LCID) Starts $1.4 Billion Reset And Pushes Midsize EV To 2027",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lucid-group-lcid-starts-1-071456301.html",
+   "date": "2026-08-06"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Just Won $663 Million in Space Force Contracts. Only the Bigger One Waits for a Rocket That Has Never Flown.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-won-663-070700678.html",
+   "date": "2026-08-06"
+  },
+  {
+   "tk": "VSAT",
+   "h": "Viavi Solutions Q4 Earnings Call Highlights",
    "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/energy/articles/talen-energy-q2-earnings-call-060356115.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/viavi-solutions-q4-earnings-call-070358784.html",
    "date": "2026-08-06"
   },
   {
@@ -18100,28 +18106,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/joby-aviation-inc-joby-reports-003510733.html",
    "date": "2026-08-06"
-  },
-  {
-   "tk": "AEVA",
-   "h": "Aeva Technologies, Inc. (AEVA) Reports Q2 Loss, Beats Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aeva-technologies-inc-aeva-reports-003509055.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "OUST",
-   "h": "Allient (ALNT) Surpasses Q2 Earnings and Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/allient-alnt-surpasses-q2-earnings-003508889.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "RDW",
-   "h": "Redwire Corporation (RDW) Reports Q2 Loss, Beats Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-corporation-rdw-reports-q2-003506494.html",
-   "date": "2026-08-06"
   }
  ],
- "prices_asof": "2026-08-06 06:35 UTC"
+ "prices_asof": "2026-08-06 08:14 UTC"
 }
