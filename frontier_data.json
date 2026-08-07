@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Here's the 1 Habit That Has Helped Ordinary Investors Build Extraordinary Wealth in the Stock Market",
+       "h": "In a Down Crypto Market, Does Investing in Prediction Markets Make Sense?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-1-habit-helped-ordinary-085100974.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/down-crypto-market-does-investing-105000808.html",
        "date": "2026-08-07"
       },
       {
-       "h": "Cisco Raised Its AI Order Target to $9 Billion. Here's What Investors Need to Know.",
+       "h": "Where Will Meta Platforms Stock Be in 5 Years?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/cisco-raised-ai-order-target-084300962.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/where-meta-platforms-stock-5-104800882.html",
        "date": "2026-08-07"
       },
       {
-       "h": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Outlined His Inflation Plan in 9 Words",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/policy/articles/no-forward-looking-guidance-needed-082600488.html",
+       "h": "The Week in Numbers: BP's huge profit, Toyota moves fast",
+       "pub": "Reuters Videos",
+       "link": "https://finance.yahoo.com/video/week-numbers-bps-huge-profit-104138978.html",
        "date": "2026-08-07"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "US equity funds see outflows as investors take profits ahead of jobs data",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-see-outflows-101228432.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Global equity funds draw inflows for 11th week as upbeat earnings lift sentiment",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/news/global-equity-funds-draw-inflows-072641363.html",
@@ -1792,12 +1798,6 @@
        "h": "Cathie Wood sells $17 million of popular AI stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Innodata Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-highlights-030354381.html",
        "date": "2026-08-07"
       }
      ],
@@ -3075,6 +3075,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Red Cat Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-q2-earnings-call-100347046.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Red Cat Holdings, Inc. (RCAT) Reports Q2 Loss, Lags Revenue Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-inc-rcat-231010980.html",
@@ -3085,12 +3091,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-stock-gains-21-month-150800590.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "RCAT Gears Up to Report Q2 Earnings: Here's What Investors Should Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rcat-gears-report-q2-earnings-144100124.html",
-       "date": "2026-08-05"
       }
      ],
      "awards": [
@@ -5893,9 +5893,9 @@
        "date": "2026-08-06"
       },
       {
-       "h": "Elon Musk\u2019s Terafab Will Be Earth\u2019s Most Valuable Building, 50x the Size of the Pentagon",
-       "pub": "BeInCrypto",
-       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-terafab-earth-most-074355346.html",
+       "h": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+       "pub": "Forkast News",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html",
        "date": "2026-08-07"
       }
      ],
@@ -11249,6 +11249,12 @@
      },
      "news": [
       {
+       "h": "US equity funds see outflows as investors take profits ahead of jobs data",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-see-outflows-101228432.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Global equity funds draw inflows for 11th week as upbeat earnings lift sentiment",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/news/global-equity-funds-draw-inflows-072641363.html",
@@ -11258,12 +11264,6 @@
        "h": "Cathie Wood sells $17 million of popular AI stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Innodata Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-highlights-030354381.html",
        "date": "2026-08-07"
       }
      ],
@@ -17839,16 +17839,58 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Here's the 1 Habit That Has Helped Ordinary Investors Build Extraordinary Wealth in the Stock Market",
+   "h": "In a Down Crypto Market, Does Investing in Prediction Markets Make Sense?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-1-habit-helped-ordinary-085100974.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/down-crypto-market-does-investing-105000808.html",
    "date": "2026-08-07"
   },
   {
    "tk": "NVDA",
-   "h": "Cisco Raised Its AI Order Target to $9 Billion. Here's What Investors Need to Know.",
+   "h": "Where Will Meta Platforms Stock Be in 5 Years?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cisco-raised-ai-order-target-084300962.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/where-meta-platforms-stock-5-104800882.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Week in Numbers: BP's huge profit, Toyota moves fast",
+   "pub": "Reuters Videos",
+   "link": "https://finance.yahoo.com/video/week-numbers-bps-huge-profit-104138978.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Every S&P 500 Sector ETF Ranked by How Much It Actually Depends on Just 3 Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/every-p-500-sector-etf-104000414.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory \u2014 and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+   "pub": "Forkast News",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "PLTR",
+   "h": "US equity funds see outflows as investors take profits ahead of jobs data",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-funds-see-outflows-101228432.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Red Cat Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-q2-earnings-call-100347046.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Zacks Analyst Blog Highlights Tesla and SpaceX",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-092800106.html",
    "date": "2026-08-07"
   },
   {
@@ -17859,31 +17901,10 @@
    "date": "2026-08-07"
   },
   {
-   "tk": "NVDA",
-   "h": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Outlined His Inflation Plan in 9 Words",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/no-forward-looking-guidance-needed-082600488.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Mark Zuckerberg's Net Worth Swung by Double-Digit Billions Twice This Summer as Meta's AI Spending Divides Wall Street. Here's What the Volatility Signals for Investors.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-net-worth-swung-081500821.html",
-   "date": "2026-08-07"
-  },
-  {
    "tk": "UMAC",
    "h": "Unusual Machines (UMAC) Reports Q2 Losses, Is The Upside Already Priced In?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-reports-q2-081434495.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk\u2019s Terafab Will Be Earth\u2019s Most Valuable Building, 50x the Size of the Pentagon",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-terafab-earth-most-074355346.html",
    "date": "2026-08-07"
   },
   {
@@ -17940,13 +17961,6 @@
    "h": "Dominion Energy (D) Starts Requiring Bank Guarantees For AI Data Center Power Deals",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/energy/articles/dominion-energy-d-starts-requiring-061234176.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
    "date": "2026-08-07"
   },
   {
@@ -18097,26 +18111,12 @@
    "date": "2026-08-06"
   },
   {
-   "tk": "PLTR",
-   "h": "USA Today Co Inc (TDAY) (Q2 2026) Earnings Call Highlights: AI Partnerships and Record ARPU ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-co-inc-tday-231608577.html",
-   "date": "2026-08-06"
-  },
-  {
    "tk": "BKSY",
    "h": "BlackSky Technology Inc (BKSY) (Q2 2026) Earnings Call Highlights: Revenue Surges 50% as AI and ...",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/technology/ai/articles/blacksky-technology-inc-bksy-q2-231454475.html",
    "date": "2026-08-06"
-  },
-  {
-   "tk": "INDI",
-   "h": "indie Semiconductor, Inc. (INDI) Reports Q2 Loss, Beats Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/indie-semiconductor-inc-indi-reports-231021806.html",
-   "date": "2026-08-06"
   }
  ],
- "prices_asof": "2026-08-07 09:04 UTC"
+ "prices_asof": "2026-08-07 10:56 UTC"
 }
