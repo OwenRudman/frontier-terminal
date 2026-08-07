@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 132,
-      "up": 17
+      "m": 5,
+      "m0": 4,
+      "rk": 107,
+      "up": 10
      },
      "news": [
       {
@@ -686,9 +686,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 262,
-      "up": 2
+      "m0": 1,
+      "rk": 217,
+      "up": 1
      },
      "news": [
       {
@@ -818,12 +818,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 235,
-      "up": 7
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -945,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 211,
-      "m0": 259,
+      "m": 145,
+      "m0": 214,
       "rk": 6,
-      "up": 628
+      "up": 265
      },
      "thesis": {
       "bull": [
@@ -1142,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-massive-investor-genius-artificial-042000074.html",
+       "h": "Samsung\u2019s new memory chip could make Nvidia\u2019s AI chips faster",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/ai/articles/samsung-memory-chip-could-nvidia-060300531.html",
        "date": "2026-08-07"
       },
       {
-       "h": "Datadog Beat on Revenue, Beat on Earnings, and Raised Its Outlook. The Stock Fell 19%.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-beat-revenue-beat-earnings-040700171.html",
+       "h": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
        "date": "2026-08-07"
       },
       {
-       "h": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-friday-morning-virtually-033400892.html",
+       "h": "SharonAI Holdings Inc (SHAZ) (Q2 2026) Earnings Call Highlights: AI Capacity Surges to 212MW ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/sharonai-holdings-inc-shaz-q2-050635678.html",
        "date": "2026-08-07"
       }
      ]
@@ -1317,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 189,
+      "up": 7
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1364,6 +1364,12 @@
      ],
      "awards": [
       {
+       "amt": 442773777.57,
+       "ag": "Department of Defense",
+       "desc": "LOW RATE INITIAL PRODUCTION/FULL RATE PRODUCTION FOR THE JOINT ASSAULT BRIDGE.",
+       "date": "2016-05-11"
+      },
+      {
        "amt": 27791700.98,
        "ag": "Department of Defense",
        "desc": "PROCUREMENT OF FIFTY-ONE (51) SPARE DETECTOR COOLER BENCH (DCB)",
@@ -1376,16 +1382,10 @@
        "date": "2024-10-18"
       },
       {
-       "amt": 95606.94,
+       "amt": 8244118.0,
        "ag": "Department of Defense",
-       "desc": "DELIVERY ORDER 0006 INSTALLATION KITS AND SPARE PARTS IN SUPPORT OF THE US ARMY PROGRAM EXECUTIVE C3T CLIN 0049",
-       "date": "2022-08-16"
-      },
-      {
-       "amt": 81235.0,
-       "ag": "Department of Defense",
-       "desc": "8510379377!CABLE ASSEMBLY,SPEC",
-       "date": "2024-01-16"
+       "desc": "DO FOR LPCUS, RADAR CONTROL UNITS, ANTENNA, AND MEB'S.",
+       "date": "2023-03-01"
       }
      ]
     },
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 46,
-      "m0": 230,
-      "rk": 20,
-      "up": 98
+      "m": 18,
+      "m0": 47,
+      "rk": 39,
+      "up": 45
      },
      "thesis": {
       "bull": [
@@ -1803,7 +1803,7 @@
      ],
      "awards": [
       {
-       "amt": 442883216.67,
+       "amt": 545578476.94,
        "ag": "Department of Defense",
        "desc": "CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039",
        "date": "2025-10-15"
@@ -2040,10 +2040,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 16,
-      "rk": 72,
-      "up": 16
+      "m": 2,
+      "m0": 8,
+      "rk": 164,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2335,8 +2335,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 314,
-      "up": 2
+      "rk": 274,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -2492,8 +2492,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
-      "up": 1
+      "rk": 400,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2839,7 +2839,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 7,
+      "m0": 1,
+      "rk": 86,
+      "up": 14
+     },
      "thesis": {
       "bull": [
        {
@@ -3737,9 +3742,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 735,
-      "up": 0
+      "m0": 1,
+      "rk": 717,
+      "up": 2
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
@@ -4043,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 15,
-      "rk": 50,
-      "up": 24
+      "m": 10,
+      "m0": 14,
+      "rk": 63,
+      "up": 19
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4398,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 520,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 169,
+      "up": 8
      },
      "news": [
       {
@@ -4725,7 +4730,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 769,
+      "up": 4
+     },
      "news": [
       {
        "h": "Ouster, Inc. (OUST) Reports Q2 Loss, Beats Revenue Estimates",
@@ -5133,13 +5143,13 @@
      ],
      "awards": [
       {
-       "amt": 12747474110.85,
+       "amt": 12772505358.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
       },
       {
-       "amt": 8313040600.83,
+       "amt": 8313053982.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5864,10 +5874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 49,
-      "rk": 17,
-      "up": 97
+      "m": 39,
+      "m0": 54,
+      "rk": 22,
+      "up": 165
      },
      "news": [
       {
@@ -5877,15 +5887,15 @@
        "date": "2026-08-06"
       },
       {
-       "h": "TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafab\u2019s Colossal Scale \u2014 Analyst Flags A Big Intel Question Mark",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-eyes-weekly-comeback-031228212.html",
-       "date": "2026-08-07"
+       "h": "Tesla is 'the best choice': Valvetronic Designs founder talks customized vs. everyday cars",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/tesla-best-choice-valvetronic-designs-120000265.html",
+       "date": "2026-08-06"
       },
       {
-       "h": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-talks-heating-025000931.html",
+       "h": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
        "date": "2026-08-07"
       }
      ],
@@ -5952,10 +5962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 22,
-      "rk": 36,
-      "up": 80
+      "m": 6,
+      "m0": 21,
+      "rk": 89,
+      "up": 8
      },
      "news": [
       {
@@ -6266,12 +6276,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 167,
-      "up": 10
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -6873,9 +6878,9 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 765,
-      "up": 4
+      "m0": 1,
+      "rk": 740,
+      "up": 6
      },
      "news": [
       {
@@ -6993,22 +6998,22 @@
      "social": null,
      "news": [
       {
+       "h": "Microvision Inc (MVIS) (Q2 2026) Earnings Call Highlights: Revenue Surges 650% as Gross Margin ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-inc-mvis-q2-2026-051115941.html",
+       "date": "2026-08-07"
+      },
+      {
+       "h": "Microvision Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-q2-earnings-call-highlights-050400943.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "MicroVision Pitches \u2018Lidar 2.0\u2019 Strategy, Keeps 2026 Revenue Outlook Intact",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/technology/articles/microvision-pitches-lidar-2-0-190232582.html",
        "date": "2026-07-15"
-      },
-      {
-       "h": "MicroVision Launches MicroVision Semiconductor to Expand ASIC Development and Lidar Capabilities",
-       "pub": "InvestorsHub",
-       "link": "https://finance.yahoo.com/technology/articles/microvision-launches-microvision-semiconductor-expand-143828128.html",
-       "date": "2026-07-14"
-      },
-      {
-       "h": "MicroVision Shareholders Clear Reverse Split Plan, Convertible Note Share Issuance",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-shareholders-clear-reverse-split-200200949.html",
-       "date": "2026-07-10"
       }
      ]
     },
@@ -7105,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 188,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 277,
+      "up": 1
      },
      "news": [
       {
@@ -7377,7 +7382,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 513,
+      "rk": 481,
       "up": 1
      },
      "news": [
@@ -7762,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 1,
-      "rk": 56,
-      "up": 41
+      "m": 4,
+      "m0": 10,
+      "rk": 125,
+      "up": 5
      },
      "news": [
       {
@@ -8124,6 +8129,12 @@
      ],
      "news": [
       {
+       "h": "Karman Holdings Inc (KRMN) (Q2 2026) Earnings Call Highlights: Record Revenue and Backlog Fuel ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-inc-krmn-q2-050640448.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Karman Holdings Inc. (KRMN) Q2 Earnings and Revenues Top Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-inc-krmn-q2-231015046.html",
@@ -8134,12 +8145,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-karman-holdings-inc-230003854.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Karman Holdings (KRMN): Temporary Organic Softness Masks Robust Long-Term Program Backlog",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-temporary-organic-142944632.html",
-       "date": "2026-07-30"
       }
      ]
     },
@@ -8271,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 60,
-      "rk": 25,
-      "up": 69
+      "m": 29,
+      "m0": 33,
+      "rk": 28,
+      "up": 56
      },
      "thesis": {
       "bull": [
@@ -8573,8 +8578,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 545,
+      "m0": 1,
+      "rk": 511,
       "up": 1
      },
      "streetNotes": [
@@ -8630,7 +8635,7 @@
        "date": "2024-12-18"
       },
       {
-       "amt": 57536920.0,
+       "amt": 77936920.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) CONTRACT TASK ORDER CS-6.",
        "date": "2025-07-29"
@@ -8756,10 +8761,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 1,
-      "rk": 45,
-      "up": 33
+      "m": 5,
+      "m0": 15,
+      "rk": 109,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -9170,12 +9175,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 234,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9356,6 +9356,12 @@
      "social": null,
      "news": [
       {
+       "h": "Why Satellogic (SATL) Is Up 44.4% After Surging Revenue And Deeper First-Half Losses",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-44-4-061324667.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Satellogic Inc (SATL) (Q2 2026) Earnings Call Highlights: Record Revenue and First Positive ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-inc-satl-q2-2026-050851713.html",
@@ -9366,12 +9372,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-q2-earnings-call-highlights-050354380.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Satellogic Inc. (SATL) Reports Q2 Loss, Beats Revenue Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-inc-satl-reports-q2-221014762.html",
-       "date": "2026-08-05"
       }
      ],
      "awards": [
@@ -9515,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 64,
-      "rk": 28,
-      "up": 69
+      "m": 42,
+      "m0": 30,
+      "rk": 20,
+      "up": 74
      },
      "thesis": {
       "bull": [
@@ -9841,7 +9841,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
+      "rk": 449,
       "up": 1
      },
      "news": [
@@ -9917,7 +9917,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 385,
+      "rk": 342,
       "up": 1
      },
      "news": [
@@ -10003,7 +10003,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 452,
+      "up": 0
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10413,12 +10418,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 8,
-      "rk": 141,
-      "up": 9
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Climbs 3% as Lockup Expiration Fails to Trigger a Selloff; AST SpaceMobile and Rocket Lab Rise 5%",
@@ -10568,10 +10568,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 146,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 213,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10680,8 +10680,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 314,
-      "up": 2
+      "rk": 274,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10789,10 +10789,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 251,
+      "rk": 204,
       "up": 2
      },
      "news": [
+      {
+       "h": "FAA Orders Inspections of Over 400 Boeing 737 Max Jets for Possible Cracks",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-07"
+      },
       {
        "h": "Why Joby Aviation Stock Flew Higher Today",
        "pub": "Motley Fool",
@@ -10803,12 +10809,6 @@
        "h": "Boeing (NYSE:BA) Shows Operational Acceleration Ahead of Max 7 Rollout",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-nyse-ba-shows-operational-194408851.html",
-       "date": "2026-08-06"
-      },
-      {
-       "h": "Copa Holdings, S.A. Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/copa-holdings-q2-2026-earnings-123000193.html",
        "date": "2026-08-06"
       }
      ],
@@ -10875,10 +10875,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 520,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 169,
+      "up": 8
      },
      "news": [
       {
@@ -11242,10 +11242,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 46,
-      "m0": 230,
-      "rk": 20,
-      "up": 98
+      "m": 18,
+      "m0": 47,
+      "rk": 39,
+      "up": 45
      },
      "news": [
       {
@@ -11269,7 +11269,7 @@
      ],
      "awards": [
       {
-       "amt": 442883216.67,
+       "amt": 545578476.94,
        "ag": "Department of Defense",
        "desc": "CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039",
        "date": "2025-10-15"
@@ -11330,7 +11330,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 584,
+      "up": 1
+     },
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12369,9 +12374,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 562,
-      "up": 3
+      "m0": 1,
+      "rk": 529,
+      "up": 6
      },
      "news": [
       {
@@ -12679,8 +12684,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 495,
-      "up": 3
+      "rk": 458,
+      "up": 2
      },
      "news": [
       {
@@ -12760,10 +12765,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 22,
-      "rk": 65,
-      "up": 20
+      "m": 8,
+      "m0": 10,
+      "rk": 75,
+      "up": 184
      },
      "news": [
       {
@@ -13033,7 +13038,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 184,
+      "up": 5
+     },
      "news": [
       {
        "h": "Centrus Energy Corp (LEU) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
@@ -13354,10 +13364,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 172,
-      "up": 5
+      "m": 19,
+      "m0": 3,
+      "rk": 37,
+      "up": 47
      },
      "thesis": {
       "bull": [
@@ -13531,6 +13541,12 @@
      },
      "news": [
       {
+       "h": "Is Oklo (OKLO) Undervalued After Reaching Criticality At Its Groves Reactor?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-reaching-criticality-051411087.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-friday-morning-virtually-033400892.html",
@@ -13541,12 +13557,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-more-hype-002500522.html",
        "date": "2026-08-07"
-      },
-      {
-       "h": "Centrus Energy Corp (LEU) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/energy/articles/centrus-energy-corp-leu-q2-231855682.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -13595,10 +13605,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 1,
-      "rk": 27,
-      "up": 869
+      "m": 21,
+      "m0": 28,
+      "rk": 36,
+      "up": 70
      },
      "news": [
       {
@@ -14008,10 +14018,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 153,
-      "up": 31
+      "m": 1,
+      "m0": 3,
+      "rk": 411,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -14249,9 +14259,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 555,
-      "up": 2
+      "m0": 1,
+      "rk": 521,
+      "up": 3
      },
      "awards": [
       {
@@ -14337,9 +14347,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 546,
-      "up": 1
+      "m0": 1,
+      "rk": 512,
+      "up": 0
      },
      "news": [
       {
@@ -14549,10 +14559,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 233,
-      "up": 4
+      "m": 10,
+      "m0": 2,
+      "rk": 62,
+      "up": 16
      },
      "news": [
       {
@@ -14637,10 +14647,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 3,
       "m0": 5,
-      "rk": 106,
-      "up": 7
+      "rk": 136,
+      "up": 4
      },
      "news": [
       {
@@ -14792,6 +14802,12 @@
      "social": null,
      "news": [
       {
+       "h": "Dominion Energy (D) Starts Requiring Bank Guarantees For AI Data Center Power Deals",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/dominion-energy-d-starts-requiring-061234176.html",
+       "date": "2026-08-07"
+      },
+      {
        "h": "Spanberger intervenes in case to decide fate of Dominion-NextEra merger",
        "pub": "The Virginian-Pilot",
        "link": "https://finance.yahoo.com/energy/articles/spanberger-intervenes-case-decide-fate-223400269.html",
@@ -14801,12 +14817,6 @@
        "h": "Virginia Governor Is \u2018Skeptical\u2019 of NextEra Energy\u2019s Dominion Acquisition",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/nextera-energy-dominion-energy-acquisition-48df4128?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-06"
-      },
-      {
-       "h": "PPL Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-gears-report-q2-earnings-155500515.html",
        "date": "2026-08-06"
       }
      ],
@@ -14875,7 +14885,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 349,
+      "rk": 303,
       "up": 2
      },
      "news": [
@@ -14961,10 +14971,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 11,
-      "rk": 91,
-      "up": 18
+      "m": 10,
+      "m0": 6,
+      "rk": 61,
+      "up": 15
      },
      "news": [
       {
@@ -15132,10 +15142,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 190,
-      "up": 28
+      "m": 1,
+      "m0": 2,
+      "rk": 316,
+      "up": 1
      },
      "news": [
       {
@@ -17548,7 +17558,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-06",
+ "social_asof": "2026-08-07",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17828,17 +17838,94 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Nvidia Is a Massive Investor in the Genius Artificial Intelligence (AI) Stock Up 170% This Year",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-massive-investor-genius-artificial-042000074.html",
+   "tk": "SATL",
+   "h": "Why Satellogic (SATL) Is Up 44.4% After Surging Revenue And Deeper First-Half Losses",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-44-4-061324667.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "D",
+   "h": "Dominion Energy (D) Starts Requiring Bank Guarantees For AI Data Center Power Deals",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/dominion-energy-d-starts-requiring-061234176.html",
    "date": "2026-08-07"
   },
   {
    "tk": "NVDA",
-   "h": "Datadog Beat on Revenue, Beat on Earnings, and Raised Its Outlook. The Stock Fell 19%.",
+   "h": "Samsung\u2019s new memory chip could make Nvidia\u2019s AI chips faster",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/ai/articles/samsung-memory-chip-could-nvidia-060300531.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-unveils-orbital-ai-051429949.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Is Oklo (OKLO) Undervalued After Reaching Criticality At Its Groves Reactor?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-reaching-criticality-051411087.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "MVIS",
+   "h": "Microvision Inc (MVIS) (Q2 2026) Earnings Call Highlights: Revenue Surges 650% as Gross Margin ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-inc-mvis-q2-2026-051115941.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "KRMN",
+   "h": "Karman Holdings Inc (KRMN) (Q2 2026) Earnings Call Highlights: Record Revenue and Backlog Fuel ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-inc-krmn-q2-050640448.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SharonAI Holdings Inc (SHAZ) (Q2 2026) Earnings Call Highlights: AI Capacity Surges to 212MW ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/sharonai-holdings-inc-shaz-q2-050635678.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "MVIS",
+   "h": "Microvision Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-q2-earnings-call-highlights-050400943.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SoFi and Visa Earnings Point to Consumer Confidence",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/datadog-beat-revenue-beat-earnings-040700171.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-visa-earnings-point-consumer-050046903.html",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The New Wild West: Texas Experiments With Raw Capitalism",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/texas-capitalism-regulation-taxes-18860b3e?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-07"
+  },
+  {
+   "tk": "BA",
+   "h": "FAA Orders Inspections of Over 400 Boeing 737 Max Jets for Possible Cracks",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-07"
   },
   {
@@ -17856,31 +17943,10 @@
    "date": "2026-08-07"
   },
   {
-   "tk": "NVDA",
-   "h": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-friday-morning-virtually-033400892.html",
-   "date": "2026-08-07"
-  },
-  {
    "tk": "OKLO",
    "h": "Oklo Reports Friday Morning With Virtually No Revenue to Report. The Stock Trades 78% Below Its High.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-reports-friday-morning-virtually-033400892.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "NVDA",
-   "h": "3 Overlooked Stocks Poised to Follow Nebius Higher",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-stocks-poised-nebius-032000617.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafab\u2019s Colossal Scale \u2014 Analyst Flags A Big Intel Question Mark",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-eyes-weekly-comeback-031228212.html",
    "date": "2026-08-07"
   },
   {
@@ -17912,13 +17978,6 @@
    "date": "2026-08-07"
   },
   {
-   "tk": "TSLA",
-   "h": "SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Investors Should Pay Attention.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-talks-heating-025000931.html",
-   "date": "2026-08-07"
-  },
-  {
    "tk": "CEG",
    "h": "Constellation Energy (CEG) Beat Earnings And Lifted Guidance, Is It Still 26% Undervalued?",
    "pub": "Simply Wall St.",
@@ -17930,13 +17989,6 @@
    "h": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Ford's first $30,000 shot at increasing U.S. EV demand has a name",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/fords-first-30-000-shot-013700557.html",
    "date": "2026-08-07"
   },
   {
@@ -18064,49 +18116,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-joby-aviation-stock-flew-225411279.html",
    "date": "2026-08-06"
-  },
-  {
-   "tk": "D",
-   "h": "Spanberger intervenes in case to decide fate of Dominion-NextEra merger",
-   "pub": "The Virginian-Pilot",
-   "link": "https://finance.yahoo.com/energy/articles/spanberger-intervenes-case-decide-fate-223400269.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "NEE",
-   "h": "Spanberger intervenes in case to decide fate of Dominion-NextEra merger",
-   "pub": "The Virginian-Pilot",
-   "link": "https://finance.yahoo.com/energy/articles/spanberger-intervenes-case-decide-fate-223400269.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "UBER",
-   "h": "The Discount On UBER Stock Looks Overdone",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/discount-uber-stock-looks-overdone-223328794.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Corporation (RKLB) Ascends While Market Falls: Some Facts to Note",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-ascends-221503456.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "AVAV",
-   "h": "AeroVironment (AVAV) Advances While Market Declines: Some Information for Investors",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-advances-while-market-221502919.html",
-   "date": "2026-08-06"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Why Unusual Machines (UMAC) Is Up 18.1% After Q2 Loss But First-Half Turn to Profit",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-unusual-machines-umac-18-221320716.html",
-   "date": "2026-08-06"
   }
  ],
- "prices_asof": "2026-08-07 04:28 UTC"
+ "prices_asof": "2026-08-07 06:59 UTC"
 }
