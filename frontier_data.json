@@ -1149,9 +1149,9 @@
        "date": "2026-08-07"
       },
       {
-       "h": "Nvidia to invest up to $3 billion in Lancium, the Information reports",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/articles/nvidia-invest-3-billion-lancium-014211358.html",
+       "h": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-022000584.html",
        "date": "2026-08-08"
       }
      ]
@@ -5881,21 +5881,21 @@
      },
      "news": [
       {
+       "h": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html",
+       "date": "2026-08-08"
+      },
+      {
+       "h": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
+       "pub": "Fox Business",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-choose-texas-ai-005224274.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-221915237.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-uber-not-220033458.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/tesla-stock-rises-week-d1d90970?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-07"
       }
      ],
@@ -12380,6 +12380,12 @@
      },
      "news": [
       {
+       "h": "Cameco (CCJ) Q2 2026 Earnings Call Transcript",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-q2-2026-earnings-023256268.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "3 Nuclear Energy Stocks Powering the AI Boom in August",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-powering-110029328.html",
@@ -12389,12 +12395,6 @@
        "h": "Lightbridge Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/energy/articles/lightbridge-q2-earnings-call-highlights-210357395.html",
-       "date": "2026-08-06"
-      },
-      {
-       "h": "Cameco Gains 7% Despite Q2 Earnings Miss: How to Play the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-gains-7-despite-q2-171800118.html",
        "date": "2026-08-06"
       }
      ]
@@ -14291,6 +14291,12 @@
      ],
      "news": [
       {
+       "h": "Curtiss-Wright Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-q2-earnings-call-030347931.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Curtiss-Wright Corporation Q2 2026 Earnings Call Summary",
        "pub": "Moby",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-corporation-q2-2026-123000159.html",
@@ -14301,12 +14307,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-curtiss-wright-cw-003003907.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Curtiss-Wright (CW) Q2 Earnings Beat Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-q2-earnings-221015115.html",
-       "date": "2026-08-05"
       }
      ]
     },
@@ -17838,8 +17838,36 @@
  ],
  "news": [
   {
+   "tk": "CW",
+   "h": "Curtiss-Wright Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-q2-earnings-call-030347931.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Cameco (CCJ) Q2 2026 Earnings Call Transcript",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-q2-2026-earnings-023256268.html",
+   "date": "2026-08-08"
+  },
+  {
    "tk": "NVDA",
-   "h": "Nvidia to invest up to $3 billion in Lancium, the Information reports",
+   "h": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-022000584.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "TSLA",
+   "h": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports",
    "pub": "Reuters",
    "link": "https://finance.yahoo.com/technology/articles/nvidia-invest-3-billion-lancium-014211358.html",
    "date": "2026-08-08"
@@ -17849,6 +17877,13 @@
    "h": "PLTY Holders Left $60,000 on a $10,000 Position While Chasing Monthly Distributions",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/options/articles/plty-holders-left-60-000-010541290.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building",
+   "pub": "Fox Business",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-choose-texas-ai-005224274.html",
    "date": "2026-08-08"
   },
   {
@@ -17870,13 +17905,6 @@
    "h": "Oklo (OKLO) Q2 2026 Earnings Call Transcript",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-q2-2026-earnings-002749221.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Osisko Metals (TSX:OM) Is Up 20.8% After Reporting Deepening 2026 Losses Has The Bull Case Changed?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/osisko-metals-tsx-om-20-001723721.html",
    "date": "2026-08-08"
   },
   {
@@ -18088,35 +18116,7 @@
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/boeing-stock-faa-737-max-inspections-07121ae5?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-07"
-  },
-  {
-   "tk": "MP",
-   "h": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/mp-materials-earnings-stock-price-269904ba?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/tesla-stock-rises-week-d1d90970?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova Holds an $176 Billion Backlog, Yet Wall Street Is Selling: What Investors Should Know.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-holds-176-billion-203000527.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "TSLA",
-   "h": "2 Reasons Tesla Could Monopolize the U.S. Robotaxi Market",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-tesla-could-monopolize-202500978.html",
-   "date": "2026-08-07"
   }
  ],
- "prices_asof": "2026-08-08 01:54 UTC"
+ "prices_asof": "2026-08-08 03:37 UTC"
 }
