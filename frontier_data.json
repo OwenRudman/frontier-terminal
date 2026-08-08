@@ -1149,9 +1149,9 @@
        "date": "2026-08-07"
       },
       {
-       "h": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+       "h": "History Says the Investors Who Stay the Course During Bear Markets Have Always Come Out Ahead. Here's the Proof.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/inflation-quadruple-whammy-headlined-trumpflation-082600599.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-investors-stay-course-102600280.html",
        "date": "2026-08-08"
       }
      ]
@@ -5881,6 +5881,12 @@
      },
      "news": [
       {
+       "h": "Prediction for Tesla Stock in 3 Years: The Bear Case",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-3-years-093500355.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html",
@@ -5891,12 +5897,6 @@
        "pub": "Fox Business",
        "link": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-choose-texas-ai-005224274.html",
        "date": "2026-08-08"
-      },
-      {
-       "h": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-221915237.html",
-       "date": "2026-08-07"
       }
      ],
      "awards": [
@@ -13622,12 +13622,6 @@
      },
      "news": [
       {
-       "h": "Fluor Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
-       "date": "2026-08-08"
-      },
-      {
        "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
@@ -13637,6 +13631,12 @@
        "h": "NuScale Power (SMR) Expands Its Nuclear Fuel Plans With New Reactor Partnership",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-expands-nuclear-191130489.html",
+       "date": "2026-08-07"
+      },
+      {
+       "h": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-still-down-33-oklo-172734008.html",
        "date": "2026-08-07"
       }
      ]
@@ -14890,6 +14890,12 @@
      "social": null,
      "news": [
       {
+       "h": "Did Strong Q2 2026 Results and a US$10 Billion Equity Plan Just Shift Duke Energy's (DUK) Investment Narrative?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/did-strong-q2-2026-results-091222264.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Duke Energy (DUK) Earnings Beat Puts Its Valuation Back In Focus",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-earnings-beat-221337240.html",
@@ -14900,12 +14906,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q2-earnings-top-145600115.html",
        "date": "2026-08-07"
-      },
-      {
-       "h": "PPL Gears Up to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ppl-gears-report-q2-earnings-155500515.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -14978,6 +14978,12 @@
      },
      "news": [
       {
+       "h": "Train operators to crack down on \u2018donutters\u2019 and other digital ticket cheats",
+       "pub": "The Guardian",
+       "link": "https://finance.yahoo.com/news/train-operators-crack-down-donutters-100042117.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "What Are Wall Street Analysts' Target Price for Southern Company Stock?",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101623353.html",
@@ -14987,12 +14993,6 @@
        "h": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html",
-       "date": "2026-08-05"
-      },
-      {
-       "h": "Southern Q2 Earnings Beat on Customer Growth, Revenues Miss",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-q2-earnings-beat-customer-121700056.html",
        "date": "2026-08-05"
       }
      ],
@@ -17844,16 +17844,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+   "h": "History Says the Investors Who Stay the Course During Bear Markets Have Always Come Out Ahead. Here's the Proof.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/inflation-quadruple-whammy-headlined-trumpflation-082600599.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-investors-stay-course-102600280.html",
    "date": "2026-08-08"
   },
   {
    "tk": "NVDA",
-   "h": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
+   "h": "All It Takes Is 1,700 Shares of This High-Yielding Dividend Stock to Generate Over $1,000 in Yearly Dividends.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-1-5-trillion-initiative-082500874.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/takes-1-700-shares-high-102500335.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "SO",
+   "h": "Train operators to crack down on \u2018donutters\u2019 and other digital ticket cheats",
+   "pub": "The Guardian",
+   "link": "https://finance.yahoo.com/news/train-operators-crack-down-donutters-100042117.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Prediction for Tesla Stock in 3 Years: The Bear Case",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-3-years-093500355.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "DUK",
+   "h": "Did Strong Q2 2026 Results and a US$10 Billion Equity Plan Just Shift Duke Energy's (DUK) Investment Narrative?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/did-strong-q2-2026-results-091222264.html",
    "date": "2026-08-08"
   },
   {
@@ -17865,13 +17886,6 @@
   },
   {
    "tk": "FLR",
-   "h": "Fluor Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "SMR",
    "h": "Fluor Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
@@ -18053,13 +18067,6 @@
    "date": "2026-08-07"
   },
   {
-   "tk": "TSLA",
-   "h": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-uber-not-220033458.html",
-   "date": "2026-08-07"
-  },
-  {
    "tk": "UBER",
    "h": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
    "pub": "Benzinga",
@@ -18114,14 +18121,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-210516298.html",
    "date": "2026-08-07"
-  },
-  {
-   "tk": "VST",
-   "h": "Vistra Corp (VST) (Q2 2026) Earnings Call Highlights: Record EBITDA Surge and Strategic Helix ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-q2-2026-210509941.html",
-   "date": "2026-08-07"
   }
  ],
- "prices_asof": "2026-08-08 08:48 UTC"
+ "prices_asof": "2026-08-08 10:37 UTC"
 }
