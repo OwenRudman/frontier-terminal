@@ -1149,9 +1149,9 @@
        "date": "2026-08-07"
       },
       {
-       "h": "Situational Awareness invested $500 million in chip startup Source Foundry",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/technology/articles/situational-awareness-invested-500-million-052325217.html",
+       "h": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/inflation-quadruple-whammy-headlined-trumpflation-082600599.html",
        "date": "2026-08-08"
       }
      ]
@@ -5969,6 +5969,12 @@
      },
      "news": [
       {
+       "h": "Uber Technologies (UBER) Lands Licensed Autonomous Rides In London With 100,000 Sign Ups",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-lands-licensed-081440726.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Uber CTO Says Thousands of Engineers Now Use Advanced AI Tools as Company Cuts Cost Per Token: 'The Next Phase' Is About Using Tokens More Efficiently",
        "pub": "Benzinga",
        "link": "https://tech.yahoo.com/ai/articles/uber-cto-says-thousands-engineers-233019454.html",
@@ -5978,12 +5984,6 @@
        "h": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-uber-not-220033458.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "LYFT Q2 Earnings Miss, Revenues Top Estimates on Record Rides",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-q2-earnings-miss-revenues-180500760.html",
        "date": "2026-08-07"
       }
      ],
@@ -10808,7 +10808,7 @@
       {
        "h": "Top Stock Reports for SpaceX, Arista Networks & Boeing",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700765.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700624.html",
        "date": "2026-08-07"
       }
      ],
@@ -13622,6 +13622,12 @@
      },
      "news": [
       {
+       "h": "Fluor Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
@@ -13631,12 +13637,6 @@
        "h": "NuScale Power (SMR) Expands Its Nuclear Fuel Plans With New Reactor Partnership",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-expands-nuclear-191130489.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-still-down-33-oklo-172734008.html",
        "date": "2026-08-07"
       }
      ]
@@ -14363,21 +14363,21 @@
      },
      "news": [
       {
+       "h": "Fluor Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
+       "date": "2026-08-08"
+      },
+      {
+       "h": "Fluor (FLR) Beat Expectations, Is The Stock Already Pricey?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-beat-expectations-stock-071305012.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Why Fluor Stock Rocked the Market Today",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-fluor-stock-rocked-market-225505224.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Fluor Corporation Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corporation-q2-2026-earnings-171133944.html",
        "date": "2026-08-07"
       }
      ],
@@ -17843,24 +17843,52 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "An Inflation Quadruple Whammy, Headlined by Trumpflation, Threatens to Crush the Stock Market",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/inflation-quadruple-whammy-headlined-trumpflation-082600599.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "JPMorgan's $1.5 Trillion Initiative to Finance U.S. Shipbuilding and Defense Could Be a Tailwind for Industrial and Defense Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-1-5-trillion-initiative-082500874.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber Technologies (UBER) Lands Licensed Autonomous Rides In London With 100,000 Sign Ups",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-lands-licensed-081440726.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "FLR",
+   "h": "Fluor Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "SMR",
+   "h": "Fluor Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-q2-earnings-call-highlights-080359688.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "FLR",
+   "h": "Fluor (FLR) Beat Expectations, Is The Stock Already Pricey?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-beat-expectations-stock-071305012.html",
+   "date": "2026-08-08"
+  },
+  {
    "tk": "ASTS",
    "h": "e.l.f. Beauty Q1 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-q1-060351393.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Situational Awareness invested $500 million in chip startup Source Foundry",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/articles/situational-awareness-invested-500-million-052325217.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-just-posted-jaw-dropping-052000821.html",
    "date": "2026-08-08"
   },
   {
@@ -18063,7 +18091,7 @@
    "tk": "BA",
    "h": "Top Stock Reports for SpaceX, Arista Networks & Boeing",
    "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700765.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700624.html",
    "date": "2026-08-07"
   },
   {
@@ -18093,35 +18121,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-q2-2026-210509941.html",
    "date": "2026-08-07"
-  },
-  {
-   "tk": "ALB",
-   "h": "Albemarle Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-q2-earnings-call-highlights-210420369.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "FLR",
-   "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "SMR",
-   "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
-   "date": "2026-08-07"
-  },
-  {
-   "tk": "MDA",
-   "h": "MDA Space Ltd (MDA) (Q2 2026) Earnings Call Highlights: Revenue Surges 34% and Backlog Hits $4. ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-ltd-mda-q2-210159264.html",
-   "date": "2026-08-07"
   }
  ],
- "prices_asof": "2026-08-08 06:59 UTC"
+ "prices_asof": "2026-08-08 08:48 UTC"
 }
