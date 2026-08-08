@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 107,
-      "up": 10
+      "m": 15,
+      "m0": 5,
+      "rk": 43,
+      "up": 57
      },
      "news": [
       {
@@ -687,8 +687,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 217,
-      "up": 1
+      "rk": 224,
+      "up": 0
      },
      "news": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 145,
-      "m0": 214,
-      "rk": 6,
-      "up": 265
+      "m": 83,
+      "m0": 148,
+      "rk": 13,
+      "up": 152
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-07"
       },
       {
-       "h": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/options/articles/nvdl-2x-promise-delivered-only-034559456.html",
+       "h": "Situational Awareness invested $500 million in chip startup Source Foundry",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/technology/articles/situational-awareness-invested-500-million-052325217.html",
        "date": "2026-08-08"
       }
      ]
@@ -1312,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 189,
-      "up": 7
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1364,7 +1359,7 @@
      ],
      "awards": [
       {
-       "amt": 442773777.57,
+       "amt": 443318445.57,
        "ag": "Department of Defense",
        "desc": "LOW RATE INITIAL PRODUCTION/FULL RATE PRODUCTION FOR THE JOINT ASSAULT BRIDGE.",
        "date": "2016-05-11"
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 47,
-      "rk": 39,
-      "up": 45
+      "m": 91,
+      "m0": 16,
+      "rk": 11,
+      "up": 248
      },
      "thesis": {
       "bull": [
@@ -2040,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 8,
-      "rk": 164,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 365,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2335,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 274,
+      "rk": 271,
       "up": 1
      },
      "streetNotes": [
@@ -2492,8 +2487,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 400,
-      "up": 2
+      "rk": 389,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2840,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 1,
-      "rk": 86,
-      "up": 14
+      "m": 3,
+      "m0": 7,
+      "rk": 153,
+      "up": 20
      },
      "thesis": {
       "bull": [
@@ -3743,7 +3738,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 717,
+      "rk": 712,
       "up": 2
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4048,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 14,
-      "rk": 63,
-      "up": 19
+      "m": 17,
+      "m0": 10,
+      "rk": 39,
+      "up": 35
      },
      "thesis": {
       "bull": [
@@ -4398,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 169,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 485,
+      "up": 1
      },
      "news": [
       {
@@ -4732,9 +4727,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 769,
-      "up": 4
+      "m0": 1,
+      "rk": 758,
+      "up": 2
      },
      "news": [
       {
@@ -5120,7 +5115,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 258,
+      "up": 6
+     },
      "news": [
       {
        "h": "Can Huntington Ingalls (HII) Overcome Margin Pressure and Contract Challenges?",
@@ -5143,19 +5143,19 @@
      ],
      "awards": [
       {
-       "amt": 12772505358.85,
+       "amt": 12772630358.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
       },
       {
-       "amt": 8313053982.83,
+       "amt": 8313079132.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6944031570.74,
+       "amt": 6944181570.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5874,10 +5874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 39,
-      "m0": 54,
-      "rk": 22,
-      "up": 165
+      "m": 44,
+      "m0": 39,
+      "rk": 19,
+      "up": 562
      },
      "news": [
       {
@@ -5962,10 +5962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 21,
-      "rk": 89,
-      "up": 8
+      "m": 7,
+      "m0": 6,
+      "rk": 78,
+      "up": 80
      },
      "news": [
       {
@@ -6876,12 +6876,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 740,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Innoviz (INVZ) Q2 2026 Earnings Call Transcript",
@@ -7111,8 +7106,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 277,
+      "m0": 1,
+      "rk": 275,
       "up": 1
      },
      "news": [
@@ -7382,7 +7377,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 481,
+      "rk": 479,
       "up": 1
      },
      "news": [
@@ -7767,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 10,
-      "rk": 125,
-      "up": 5
+      "m": 1,
+      "m0": 5,
+      "rk": 677,
+      "up": 4
      },
      "news": [
       {
@@ -8276,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 33,
-      "rk": 28,
-      "up": 56
+      "m": 101,
+      "m0": 29,
+      "rk": 7,
+      "up": 436
      },
      "thesis": {
       "bull": [
@@ -8576,12 +8571,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 511,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8761,10 +8751,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 15,
-      "rk": 109,
-      "up": 7
+      "m": 1,
+      "m0": 5,
+      "rk": 777,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -9083,7 +9073,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 794,
+      "up": 2
+     },
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -9175,7 +9170,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 191,
+      "up": 13
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9515,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 42,
-      "m0": 30,
-      "rk": 20,
-      "up": 74
+      "m": 79,
+      "m0": 42,
+      "rk": 14,
+      "up": 186
      },
      "thesis": {
       "bull": [
@@ -9701,6 +9701,12 @@
      },
      "news": [
       {
+       "h": "e.l.f. Beauty Q1 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-q1-060351393.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-221915237.html",
@@ -9710,12 +9716,6 @@
        "h": "SpaceX Rival Attracts Fresh Money Before Earnings",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rival-attracts-fresh-money-201715358.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-11-intuitive-machines-154718800.html",
        "date": "2026-08-07"
       }
      ]
@@ -9841,7 +9841,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 449,
+      "rk": 442,
       "up": 1
      },
      "news": [
@@ -9914,12 +9914,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 342,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What Lumentum Stock Adds To A Portfolio Is Not Safety",
@@ -10005,8 +10000,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 452,
+      "m0": 1,
+      "rk": 445,
       "up": 0
      },
      "news": [
@@ -10418,7 +10413,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 13,
+      "m0": 1,
+      "rk": 54,
+      "up": 102
+     },
      "news": [
       {
        "h": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
@@ -10569,9 +10569,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 213,
-      "up": 2
+      "m0": 1,
+      "rk": 221,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10680,7 +10680,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 274,
+      "rk": 271,
       "up": 1
      },
      "streetNotes": [
@@ -10789,8 +10789,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 204,
-      "up": 2
+      "rk": 211,
+      "up": 3
      },
      "news": [
       {
@@ -10808,7 +10808,7 @@
       {
        "h": "Top Stock Reports for SpaceX, Arista Networks & Boeing",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700624.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700765.html",
        "date": "2026-08-07"
       }
      ],
@@ -10875,10 +10875,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 169,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 485,
+      "up": 1
      },
      "news": [
       {
@@ -11242,10 +11242,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 47,
-      "rk": 39,
-      "up": 45
+      "m": 91,
+      "m0": 16,
+      "rk": 11,
+      "up": 248
      },
      "news": [
       {
@@ -11332,9 +11332,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 584,
-      "up": 1
+      "m0": 1,
+      "rk": 583,
+      "up": 4
      },
      "news": [
       {
@@ -12375,7 +12375,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 529,
+      "rk": 530,
       "up": 6
      },
      "news": [
@@ -12435,7 +12435,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 754,
+      "up": 4
+     },
      "news": [
       {
        "h": "LEU's Q2 Earnings Beat, Revenues up Y/Y on Strong Uranium Sales",
@@ -12493,7 +12498,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 748,
+      "up": 1
+     },
      "news": [
       {
        "h": "NexGen Energy Ltd (NXE) (Q2 2026) Earnings Call Highlights: Strategic Progress and Market Leverage",
@@ -12682,10 +12692,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 458,
-      "up": 2
+      "rk": 92,
+      "up": 27
      },
      "news": [
       {
@@ -12765,10 +12775,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 10,
-      "rk": 75,
-      "up": 184
+      "m": 13,
+      "m0": 9,
+      "rk": 53,
+      "up": -6
      },
      "news": [
       {
@@ -13039,10 +13049,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 184,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 761,
+      "up": 1
      },
      "news": [
       {
@@ -13364,10 +13374,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 3,
-      "rk": 37,
-      "up": 47
+      "m": 33,
+      "m0": 18,
+      "rk": 21,
+      "up": 66
      },
      "thesis": {
       "bull": [
@@ -13605,10 +13615,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 28,
-      "rk": 36,
-      "up": 70
+      "m": 4,
+      "m0": 21,
+      "rk": 124,
+      "up": 14
      },
      "news": [
       {
@@ -14019,8 +14029,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 411,
+      "m0": 1,
+      "rk": 403,
       "up": 6
      },
      "streetNotes": [
@@ -14260,7 +14270,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 521,
+      "rk": 520,
       "up": 3
      },
      "awards": [
@@ -14348,7 +14358,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 512,
+      "rk": 511,
       "up": 0
      },
      "news": [
@@ -14558,12 +14568,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 62,
-      "up": 16
-     },
+     "social": null,
      "news": [
       {
        "h": "Constellation Signed 920 Megawatts of New Power Deals, Including a Walmart PPA. Here's What It Means for CEG Stock.",
@@ -14647,10 +14652,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 136,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 397,
+      "up": 2
      },
      "news": [
       {
@@ -14882,12 +14887,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 303,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Duke Energy (DUK) Earnings Beat Puts Its Valuation Back In Focus",
@@ -14971,10 +14971,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 61,
-      "up": 15
+      "m": 12,
+      "m0": 10,
+      "rk": 55,
+      "up": 440
      },
      "news": [
       {
@@ -15081,7 +15081,7 @@
      ],
      "awards": [
       {
-       "amt": 16188734.68,
+       "amt": 15700914.81,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15143,9 +15143,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 316,
-      "up": 1
+      "m0": 1,
+      "rk": 311,
+      "up": 0
      },
      "news": [
       {
@@ -15370,7 +15370,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 623,
+      "up": 1
+     },
      "news": [
       {
        "h": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
@@ -17558,7 +17563,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-07",
+ "social_asof": "2026-08-08",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17838,6 +17843,27 @@
  ],
  "news": [
   {
+   "tk": "ASTS",
+   "h": "e.l.f. Beauty Q1 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-beauty-q1-060351393.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Situational Awareness invested $500 million in chip startup Source Foundry",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/technology/articles/situational-awareness-invested-500-million-052325217.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-just-posted-jaw-dropping-052000821.html",
+   "date": "2026-08-08"
+  },
+  {
    "tk": "RKLB",
    "h": "Rocket Lab (RKLB) Stock Looks Fairly Priced As Its 12x Run Continues",
    "pub": "Simply Wall St.",
@@ -17866,13 +17892,6 @@
    "date": "2026-08-08"
   },
   {
-   "tk": "NVDA",
-   "h": "NVDL\u2019s 2x Promise Delivered Only 17.21% While NVIDIA Soared 22.21% in One Year",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/options/articles/nvdl-2x-promise-delivered-only-034559456.html",
-   "date": "2026-08-08"
-  },
-  {
    "tk": "CW",
    "h": "Curtiss-Wright Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
@@ -17884,13 +17903,6 @@
    "h": "Cameco (CCJ) Q2 2026 Earnings Call Transcript",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-q2-2026-earnings-023256268.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Airbnb Just Hit a Four-Year High. Is It a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-just-hit-four-high-022000584.html",
    "date": "2026-08-08"
   },
   {
@@ -18051,7 +18063,7 @@
    "tk": "BA",
    "h": "Top Stock Reports for SpaceX, Arista Networks & Boeing",
    "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700624.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-spacex-arista-211700765.html",
    "date": "2026-08-07"
   },
   {
@@ -18109,14 +18121,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-ltd-mda-q2-210159264.html",
    "date": "2026-08-07"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Oklo Inc (OKLO) (Q2 2026) Earnings Call Highlights: Record Criticality Milestone and Strategic ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/oklo-inc-oklo-q2-2026-210149204.html",
-   "date": "2026-08-07"
   }
  ],
- "prices_asof": "2026-08-08 05:01 UTC"
+ "prices_asof": "2026-08-08 06:34 UTC"
 }
