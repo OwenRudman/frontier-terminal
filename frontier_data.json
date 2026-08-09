@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Intel Foundry Lands a Major New Client Worth Watching",
+       "h": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-foundry-lands-major-client-063000357.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/many-largest-companies-own-own-065000979.html",
        "date": "2026-08-09"
       },
       {
-       "h": "Dan Ives Says SpaceX Stock Is Worth This Much (Hint: Big Gains Ahead)",
+       "h": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-spacex-stock-060500529.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-amazon-stock-surged-063500691.html",
        "date": "2026-08-09"
       },
       {
-       "h": "Is the Worst Finally Over for Palantir Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
+       "h": "Humanoids are as much a compute story as a robotics one",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/humanoids-much-compute-story-robotics-063038029.html",
        "date": "2026-08-09"
       }
      ]
@@ -17839,6 +17839,27 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/many-largest-companies-own-own-065000979.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-amazon-stock-surged-063500691.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Humanoids are as much a compute story as a robotics one",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/humanoids-much-compute-story-robotics-063038029.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
    "h": "Intel Foundry Lands a Major New Client Worth Watching",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/intel-foundry-lands-major-client-063000357.html",
@@ -17852,31 +17873,10 @@
    "date": "2026-08-09"
   },
   {
-   "tk": "NVDA",
-   "h": "Dan Ives Says SpaceX Stock Is Worth This Much (Hint: Big Gains Ahead)",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-spacex-stock-060500529.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Is the Worst Finally Over for Palantir Stock?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
-   "date": "2026-08-09"
-  },
-  {
    "tk": "PLTR",
    "h": "Is the Worst Finally Over for Palantir Stock?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Moonshot AI's 2.8 Trillion Parameter Model Just Became the First From China to Top a Major Coding Benchmark",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/moonshot-ais-2-8-trillion-052000925.html",
    "date": "2026-08-09"
   },
   {
@@ -18118,5 +18118,5 @@
    "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-09 06:37 UTC"
+ "prices_asof": "2026-08-09 07:02 UTC"
 }
