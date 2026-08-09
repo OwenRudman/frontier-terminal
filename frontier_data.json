@@ -1149,9 +1149,9 @@
        "date": "2026-08-09"
       },
       {
-       "h": "Unpacking the Latest Pullback in Micron Stock",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-latest-pullback-micron-stock-202000029.html",
+       "h": "Dow sell-side Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
        "date": "2026-08-09"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Zeta Global Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-q2-earnings-call-180351776.html",
@@ -1792,12 +1798,6 @@
        "h": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "USA Today Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html",
        "date": "2026-08-09"
       }
      ],
@@ -5898,9 +5898,9 @@
        "date": "2026-08-09"
       },
       {
-       "h": "Elon Musk's Boring Company Is Raising Money at a $20 Billion Valuation. Here's How His Empire Outside Tesla Is Growing.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-boring-company-raising-130500187.html",
+       "h": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/technology/articles/potential-space-based-data-centers-150002882.html",
        "date": "2026-08-09"
       }
      ],
@@ -8502,6 +8502,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-reports-monday-night-203800812.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/inflation-data-super-micro-cisco-rocket-lab-tapestry-and-more-to-watch-this-week-14826711?siteid=yhoof2&yptr=yahoo",
@@ -8512,12 +8518,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-down-57-peak-152500671.html",
        "date": "2026-08-09"
-      },
-      {
-       "h": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
-       "date": "2026-08-08"
       }
      ],
      "awards": [
@@ -11264,6 +11264,12 @@
      },
      "news": [
       {
+       "h": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Zeta Global Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-q2-earnings-call-180351776.html",
@@ -11273,12 +11279,6 @@
        "h": "Palantir vs. Salesforce: Two Visions of Enterprise AI, One Clear Winner",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-vs-salesforce-two-visions-143041508.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "USA Today Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html",
        "date": "2026-08-09"
       }
      ],
@@ -17839,9 +17839,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Unpacking the Latest Pullback in Micron Stock",
+   "h": "Dow sell-side Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Apple CEO Tim Cook Just Passed His Successor a Mess",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unpacking-latest-pullback-micron-stock-202000029.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-222000544.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "BofA, JPMorgan, Oppenheimer Name Their 3 Favorite AI Stocks, One Has a $255 Target",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-jpmorgan-oppenheimer-name-3-205320683.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Reports Monday Night. Wall Street Wants $232 Million and 60% Growth.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-reports-monday-night-203800812.html",
    "date": "2026-08-09"
   },
   {
@@ -17849,13 +17870,6 @@
    "h": "Unusual Machines Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-q2-earnings-call-200352142.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why MercadoLibre Stock Jumped 11% in July",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-mercadolibre-stock-jumped-11-195645986.html",
    "date": "2026-08-09"
   },
   {
@@ -17933,6 +17947,13 @@
    "h": "Vistra Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-q2-earnings-call-highlights-150418961.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Potential of Space-Based Data Centers Is Huge. It's Not Enough to Make SpaceX Stock Appealing.",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/technology/articles/potential-space-based-data-centers-150002882.html",
    "date": "2026-08-09"
   },
   {
@@ -18027,13 +18048,6 @@
    "date": "2026-08-09"
   },
   {
-   "tk": "PLTR",
-   "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
-   "date": "2026-08-09"
-  },
-  {
    "tk": "SMR",
    "h": "NuScale Power Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
@@ -18066,13 +18080,6 @@
    "h": "Satellogic (SATL) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-satl-stock-sees-fair-020747463.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-20-tesla-013500245.html",
    "date": "2026-08-09"
   },
   {
@@ -18109,14 +18116,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
    "date": "2026-08-09"
-  },
-  {
-   "tk": "OKLO",
-   "h": "What Does Oklo (OKLO) Leadership Overhaul Mean As Commercialization Nears?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-oklo-oklo-leadership-overhaul-231234616.html",
-   "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-09 20:37 UTC"
+ "prices_asof": "2026-08-09 22:35 UTC"
 }
