@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
+       "h": "Tariff Wave Ahead: Should You Make Shifts to Your Portfolio?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/economy/policy/articles/tariff-wave-ahead-shifts-portfolio-045000063.html",
+       "date": "2026-08-09"
+      },
+      {
+       "h": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-ai-kill-042000227.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/tron-just-added-2-2-003900015.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "Why Voyager Stock Skyrocketed This Week",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
        "date": "2026-08-09"
       }
      ]
@@ -3070,6 +3070,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Red Cat Holdings (RCAT) Is Up 22.3% After Reaffirming 2026 Guidance Amid Surging Q2 Sales \u2013 Has The Bull Case Changed?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-22-042523198.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Red Cat Holdings (RCAT) Reaffirms Guidance As Strong Growth Puts Valuation Back In Focus",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-reaffirms-221253293.html",
@@ -3080,12 +3086,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-red-cat-holdings-rcat-171426830.html",
        "date": "2026-08-08"
-      },
-      {
-       "h": "Ondas Bags Over $50M U.S. Army Order, Expands Defense Footprint",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/ondas-bags-over-50m-u-160100644.html",
-       "date": "2026-08-07"
       }
      ],
      "awards": [
@@ -8936,6 +8936,12 @@
      },
      "news": [
       {
+       "h": "Redwire Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-q2-earnings-call-highlights-030350590.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Why Redwire Stock Keeps Gaining",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-keeps-gaining-213621811.html",
@@ -8946,12 +8952,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-stock-gains-more-55-174639340.html",
        "date": "2026-08-07"
-      },
-      {
-       "h": "Why Redwire Stock Soared After Earnings",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-stock-soared-earnings-211226743.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -9356,6 +9356,12 @@
      "social": null,
      "news": [
       {
+       "h": "Satellogic (SATL) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-satl-stock-sees-fair-020747463.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Why Satellogic (SATL) Is Up 44.4% After Surging Revenue And Deeper First-Half Losses",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-satellogic-satl-44-4-061324667.html",
@@ -9365,12 +9371,6 @@
        "h": "Satellogic Inc (SATL) (Q2 2026) Earnings Call Highlights: Record Revenue and First Positive ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-inc-satl-q2-2026-050851713.html",
-       "date": "2026-08-06"
-      },
-      {
-       "h": "Satellogic Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-q2-earnings-call-highlights-050354380.html",
        "date": "2026-08-06"
       }
      ],
@@ -17843,6 +17843,41 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Tariff Wave Ahead: Should You Make Shifts to Your Portfolio?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/tariff-wave-ahead-shifts-portfolio-045000063.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Red Cat Holdings (RCAT) Is Up 22.3% After Reaffirming 2026 Guidance Amid Surging Q2 Sales \u2013 Has The Bull Case Changed?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-22-042523198.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-ai-kill-042000227.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "RDW",
+   "h": "Redwire Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-q2-earnings-call-highlights-030350590.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "SATL",
+   "h": "Satellogic (SATL) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/satellogic-satl-stock-sees-fair-020747463.html",
+   "date": "2026-08-09"
+  },
+  {
    "tk": "TSLA",
    "h": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
    "pub": "Motley Fool",
@@ -17899,24 +17934,10 @@
    "date": "2026-08-09"
   },
   {
-   "tk": "NVDA",
-   "h": "Why Voyager Stock Skyrocketed This Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
-   "date": "2026-08-09"
-  },
-  {
    "tk": "VOYG",
    "h": "Why Voyager Stock Skyrocketed This Week",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dont-fooled-warren-buffetts-greg-001100166.html",
    "date": "2026-08-09"
   },
   {
@@ -18100,28 +18121,7 @@
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html",
    "date": "2026-08-08"
-  },
-  {
-   "tk": "KRMN",
-   "h": "Karman Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/karman-q2-earnings-call-highlights-150358501.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Rivian's make-or-break R2 midsize EV delivers: Road test",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/rivians-make-or-break-r2-midsize-ev-delivers-road-test-143152026.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
-   "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-09 02:02 UTC"
+ "prices_asof": "2026-08-09 05:10 UTC"
 }
