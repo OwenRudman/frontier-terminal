@@ -1137,22 +1137,22 @@
      },
      "news": [
       {
-       "h": "Tech stocks today: Shares climb after rocky week",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-climb-after-rocky-week-140419479.html",
-       "date": "2026-08-03"
+       "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
+       "date": "2026-08-09"
       },
       {
-       "h": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+       "h": "Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html",
-       "date": "2026-08-08"
+       "link": "https://finance.yahoo.com/markets/crypto/articles/tron-just-added-2-2-003900015.html",
+       "date": "2026-08-09"
       },
       {
-       "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
+       "h": "Why Voyager Stock Skyrocketed This Week",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
-       "date": "2026-08-08"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
+       "date": "2026-08-09"
       }
      ]
     },
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html",
@@ -1787,12 +1793,6 @@
        "h": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Palantir (PLTR) Posted Record 93% Growth, Here\u2019s Why Analysts Think It Won\u2019t Last",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-posted-record-93-113953926.html",
        "date": "2026-08-08"
       }
      ],
@@ -4400,6 +4400,12 @@
      },
      "news": [
       {
+       "h": "Pentagon asks defence firms to accelerate weapons production",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Honeywell Aerospace Needs to Resolve Supply Chain Issues for Upside, Morgan Stanley Says",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-needs-resolve-supply-150840001.html",
@@ -4410,12 +4416,6 @@
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-devour-apple-stock-marvell-santander-palo-alto-networks-and-more/?src=A00220&yptr=yahoo",
        "date": "2026-08-07"
-      },
-      {
-       "h": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-vs-lockheed-martin-214357572.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -4733,6 +4733,12 @@
      },
      "news": [
       {
+       "h": "What Does an Ouster Director's Sale of 5,000 Shares Mean for Investors?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-ouster-directors-sale-5-011601866.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Ouster Q2 Earnings Surpass Expectations on Sensor Growth",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-q2-earnings-surpass-expectations-145100541.html",
@@ -4742,12 +4748,6 @@
        "h": "OUST Q2 Earnings Call Focuses on Rev8 Ramp and Robotics Demand",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oust-q2-earnings-call-focuses-140000251.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Ouster Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-q2-earnings-call-highlights-070403368.html",
        "date": "2026-08-07"
       }
      ],
@@ -5887,15 +5887,15 @@
        "date": "2026-08-08"
       },
       {
+       "h": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-20-tesla-013500245.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "When Leverage Goes Wrong on Wall Street",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leverage-goes-wrong-wall-street-214537005.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-telling-investors-accumulate-200218837.html",
        "date": "2026-08-08"
       }
      ],
@@ -10504,6 +10504,12 @@
      "social": null,
      "news": [
       {
+       "h": "Why Voyager Stock Skyrocketed This Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
@@ -10514,12 +10520,6 @@
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-inc-voyg-q2-030138864.html",
        "date": "2026-08-07"
-      },
-      {
-       "h": "What Does Voyager Technologies (VOYG) Winning A Missile Defense Role Mean?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-voyager-technologies-voyg-winning-211533625.html",
-       "date": "2026-08-06"
       }
      ]
     },
@@ -10588,6 +10588,12 @@
      ],
      "news": [
       {
+       "h": "Pentagon asks defence firms to accelerate weapons production",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Trump Threatens Long Prison Terms for 'Treasonous' Leakers as Reports of Missile Shortages and a Clash with Hegseth Swirl: 'The US Has Massive Amounts...'",
        "pub": "Benzinga",
        "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-long-prison-terms-193018422.html",
@@ -10597,12 +10603,6 @@
        "h": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing \u2013 Quarterly Update Report",
        "pub": "Exec Edge",
        "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Jim Cramer says surging defense stock is a sensational buy",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-surging-defense-130300783.html",
        "date": "2026-08-08"
       }
      ],
@@ -10794,6 +10794,12 @@
      },
      "news": [
       {
+       "h": "Pentagon asks defence firms to accelerate weapons production",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Loar Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/loar-q2-earnings-call-highlights-170353201.html",
@@ -10803,12 +10809,6 @@
        "h": "U.S. Senate passes stopgap spending bill without Trump priorities",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/politics/articles/u-senate-passes-stopgap-spending-102512444.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Ducommun Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ducommun-q2-earnings-call-highlights-040354166.html",
        "date": "2026-08-08"
       }
      ],
@@ -10882,6 +10882,12 @@
      },
      "news": [
       {
+       "h": "Pentagon asks defence firms to accelerate weapons production",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Honeywell Aerospace Needs to Resolve Supply Chain Issues for Upside, Morgan Stanley Says",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-needs-resolve-supply-150840001.html",
@@ -10892,12 +10898,6 @@
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-devour-apple-stock-marvell-santander-palo-alto-networks-and-more/?src=A00220&yptr=yahoo",
        "date": "2026-08-07"
-      },
-      {
-       "h": "RTX (RTX) vs. Lockheed Martin (LMT): How Street Is Pricing Two Defense Giants",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-vs-lockheed-martin-214357572.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -11249,6 +11249,12 @@
      },
      "news": [
       {
+       "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html",
@@ -11258,12 +11264,6 @@
        "h": "Stock Market Week Ahead: Bullish Signals Amid 'Dirty' Volume",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Palantir (PLTR) Posted Record 93% Growth, Here\u2019s Why Analysts Think It Won\u2019t Last",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-posted-record-93-113953926.html",
        "date": "2026-08-08"
       }
      ],
@@ -13551,21 +13551,21 @@
      },
      "news": [
       {
+       "h": "What Does Oklo (OKLO) Leadership Overhaul Mean As Commercialization Nears?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-oklo-oklo-leadership-overhaul-231234616.html",
+       "date": "2026-08-08"
+      },
+      {
+       "h": "Oklo Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/oklo-q2-earnings-call-highlights-230348744.html",
+       "date": "2026-08-08"
+      },
+      {
        "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Centrus Energy Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/energy/articles/centrus-energy-q2-earnings-call-160403057.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Oklo (OKLO) Q2 2026 Earnings Call Transcript",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-q2-2026-earnings-002749221.html",
        "date": "2026-08-08"
       }
      ],
@@ -17843,10 +17843,94 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal.",
+   "tk": "TSLA",
+   "h": "Elon Musk Owns 20% of Tesla, a Stake Worth Roughly $200 Billion. Here's Why His Ownership Level Matters for Shareholders.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-warned-dot-com-222000397.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-owns-20-tesla-013500245.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "OUST",
+   "h": "What Does an Ouster Director's Sale of 5,000 Shares Mean for Investors?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-ouster-directors-sale-5-011601866.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "BA",
+   "h": "Pentagon asks defence firms to accelerate weapons production",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "LMT",
+   "h": "Pentagon asks defence firms to accelerate weapons production",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "RTX",
+   "h": "Pentagon asks defence firms to accelerate weapons production",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Tron Just Added $2.2 Billion in Stablecoins in July. Does That Make It a Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/tron-just-added-2-2-003900015.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Voyager Stock Skyrocketed This Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "VOYG",
+   "h": "Why Voyager Stock Skyrocketed This Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Don't Be Fooled: Warren Buffett's and Greg Abel's $366 Billion Warning to Wall Street Echoes Louder Than Ever",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dont-fooled-warren-buffetts-greg-001100166.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "OKLO",
+   "h": "What Does Oklo (OKLO) Leadership Overhaul Mean As Commercialization Nears?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-oklo-oklo-leadership-overhaul-231234616.html",
+   "date": "2026-08-08"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Oklo Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/oklo-q2-earnings-call-highlights-230348744.html",
    "date": "2026-08-08"
   },
   {
@@ -17875,20 +17959,6 @@
    "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NVDA",
-   "h": "AMD just made bold move to challenge Nvidia",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amd-just-made-bold-move-220700266.html",
    "date": "2026-08-08"
   },
   {
@@ -18051,77 +18121,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-bullish-signals-amid-dirty-volume/?src=A00220&yptr=yahoo",
    "date": "2026-08-08"
-  },
-  {
-   "tk": "AVAV",
-   "h": "Why AeroVironment (AVAV) Is Up 25.0% After US$400 Million Army Locust Contract News",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-avav-25-0-141218604.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "FLR",
-   "h": "Fluor (FLR) Is Up 13.6% After Backlog Climbs on Q2 Beat and Nuclear Board Hire",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-13-6-backlog-141203683.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "D",
-   "h": "NextEra Energy (NEE) Stock Could Be 11% Overvalued Despite Fresh AI Data Center News",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-could-141050537.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy (NEE) Stock Could Be 11% Overvalued Despite Fresh AI Data Center News",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-stock-could-141050537.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Energy Fuels CEO Bhappu Sells 14,375 Shares for Tax Withholding",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/energy-fuels-ceo-bhappu-sells-135801712.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla UK sales drop as craze for Chinese rivals surges",
-   "pub": "The Telegraph",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-uk-sales-drop-craze-132334461.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "LMT",
-   "h": "Jim Cramer says surging defense stock is a sensational buy",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-surging-defense-130300783.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Just Unveiled a Game-Changing Technology Worth Watching",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-just-unveiled-game-122500312.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "D",
-   "h": "NextEra Energy (NEE) Draws Governor Scrutiny In $67 Billion Utility Deal Review",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-governor-121203730.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy (NEE) Draws Governor Scrutiny In $67 Billion Utility Deal Review",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-nee-draws-governor-121203730.html",
-   "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-08 22:33 UTC"
+ "prices_asof": "2026-08-09 02:02 UTC"
 }
