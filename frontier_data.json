@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+       "h": "My 3 Favorite Value Stocks to Buy Right Now",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/many-largest-companies-own-own-065000979.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-value-stocks-buy-083500408.html",
        "date": "2026-08-09"
       },
       {
-       "h": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
+       "h": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-amazon-stock-surged-063500691.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vanguard-083400933.html",
        "date": "2026-08-09"
       },
       {
-       "h": "Humanoids are as much a compute story as a robotics one",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/humanoids-much-compute-story-robotics-063038029.html",
+       "h": "Stock Market Investors Just Got Bad News From the Federal Reserve",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-083200207.html",
        "date": "2026-08-09"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Is the Worst Finally Over for Palantir Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
@@ -1793,12 +1799,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
        "date": "2026-08-09"
-      },
-      {
-       "h": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html",
-       "date": "2026-08-08"
       }
      ],
      "awards": [
@@ -11264,6 +11264,12 @@
      },
      "news": [
       {
+       "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Is the Worst Finally Over for Palantir Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
@@ -11274,12 +11280,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
        "date": "2026-08-09"
-      },
-      {
-       "h": "Wall Street Can't Agree on Palantir. Here's What Investors Should Do Next",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-palantir-153002414.html",
-       "date": "2026-08-08"
       }
      ],
      "awards": [
@@ -13627,6 +13627,12 @@
      },
      "news": [
       {
+       "h": "NuScale Power Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/nuscale-power-q2-earnings-call-070356665.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
@@ -13636,12 +13642,6 @@
        "h": "Fluor Corp (FLR) (Q2 2026) Earnings Call Highlights: Strong Awards and Strategic Shifts Drive ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-corp-flr-q2-2026-210303530.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "NuScale Power (SMR) Expands Its Nuclear Fuel Plans With New Reactor Partnership",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/nuscale-power-smr-expands-nuclear-191130489.html",
        "date": "2026-08-07"
       }
      ]
@@ -17839,30 +17839,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "How Many of the Largest Companies Do You Own -- and Should You Own More or Fewer?",
+   "h": "My 3 Favorite Value Stocks to Buy Right Now",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/many-largest-companies-own-own-065000979.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-value-stocks-buy-083500408.html",
    "date": "2026-08-09"
   },
   {
    "tk": "NVDA",
-   "h": "Jeff Bezos' Amazon Stock Surged 14% After a Blowout Earnings Beat, Adding $25 Billion to His Fortune. Is the Stock Still a Buy After the Rally?",
+   "h": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-amazon-stock-surged-063500691.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vanguard-083400933.html",
    "date": "2026-08-09"
   },
   {
    "tk": "NVDA",
-   "h": "Humanoids are as much a compute story as a robotics one",
+   "h": "Stock Market Investors Just Got Bad News From the Federal Reserve",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-083200207.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Fed Chair Kevin Warsh May Have Driven a Dagger Through Wall Street's Heart With This Candid 12-Word Statement",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-may-082600965.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
    "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/humanoids-much-compute-story-robotics-063038029.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
    "date": "2026-08-09"
   },
   {
-   "tk": "NVDA",
-   "h": "Intel Foundry Lands a Major New Client Worth Watching",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-foundry-lands-major-client-063000357.html",
+   "tk": "SMR",
+   "h": "NuScale Power Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/nuscale-power-q2-earnings-call-070356665.html",
    "date": "2026-08-09"
   },
   {
@@ -18102,21 +18116,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-camecos-ugly-earnings-miss-165000440.html",
    "date": "2026-08-08"
-  },
-  {
-   "tk": "LMT",
-   "h": "Xanadu Accelerates Chip Production as Investors Await Next Catalyst in Race to Scalable Quantum Computing \u2013 Quarterly Update Report",
-   "pub": "Exec Edge",
-   "link": "https://finance.yahoo.com/technology/ai/articles/xanadu-accelerates-chip-production-investors-164143794.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "LEU",
-   "h": "Centrus Energy Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/energy/articles/centrus-energy-q2-earnings-call-160403057.html",
-   "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-09 07:02 UTC"
+ "prices_asof": "2026-08-09 08:49 UTC"
 }
