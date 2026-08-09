@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "My 3 Favorite Value Stocks to Buy Right Now",
+       "h": "Is Celsius a Buy After Tumbling 18% in 1 Day?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-value-stocks-buy-083500408.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-buy-tumbling-18-1-103200124.html",
        "date": "2026-08-09"
       },
       {
-       "h": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
+       "h": "Elon Musk's SpaceX Just Delivered Its First Earnings Report as a Public Company. Here's the 1 Number That Matters Most.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vanguard-083400933.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-just-delivered-102500426.html",
        "date": "2026-08-09"
       },
       {
-       "h": "Stock Market Investors Just Got Bad News From the Federal Reserve",
+       "h": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-083200207.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-predicts-102000843.html",
        "date": "2026-08-09"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "USA Today Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
@@ -1792,12 +1798,6 @@
        "h": "Is the Worst Finally Over for Palantir Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
        "date": "2026-08-09"
       }
      ],
@@ -7122,6 +7122,12 @@
      },
      "news": [
       {
+       "h": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Qualcomm (QCOM) Q3 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-q3-2026-earnings-235848089.html",
@@ -7131,12 +7137,6 @@
        "h": "The Toughest Questions AMD Faced On Its Latest Call",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/toughest-questions-amd-faced-latest-175849599.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/earn-11-nvda-stock-set-174430115.html",
        "date": "2026-08-07"
       }
      ],
@@ -8502,6 +8502,12 @@
      ],
      "news": [
       {
+       "h": "Transdigm Group Q3 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Jim Cramer Weighs In on Space Equities: Rocket Lab (RKLB) vs. Voyager Technologies (VOYG)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
@@ -8511,12 +8517,6 @@
        "h": "Rocket Lab Just Unveiled a Game-Changing Technology Worth Watching",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/articles/rocket-lab-just-unveiled-game-122500312.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Rocket Lab (RKLB) Won a Major Space Force Contract. Now It Has to Prove Neutron",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-won-major-120252189.html",
        "date": "2026-08-08"
       }
      ],
@@ -9726,6 +9726,12 @@
      },
      "news": [
       {
+       "h": "Transdigm Group Q3 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Stock Market Today, Aug. 7: Space Exploration Technologies Surges on Q2 Revenue Beat, Lockup Relief, and Terafab Update",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-221915237.html",
@@ -9735,12 +9741,6 @@
        "h": "SpaceX Rival Attracts Fresh Money Before Earnings",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rival-attracts-fresh-money-201715358.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-11-intuitive-machines-154718800.html",
        "date": "2026-08-07"
       }
      ]
@@ -10809,6 +10809,12 @@
      },
      "news": [
       {
+       "h": "Transdigm Group Q3 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Pentagon asks defence firms to accelerate weapons production",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
@@ -10818,12 +10824,6 @@
        "h": "Loar Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/loar-q2-earnings-call-highlights-170353201.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "U.S. Senate passes stopgap spending bill without Trump priorities",
-       "pub": "Investing.com",
-       "link": "https://www.yahoo.com/news/politics/articles/u-senate-passes-stopgap-spending-102512444.html",
        "date": "2026-08-08"
       }
      ],
@@ -11264,6 +11264,12 @@
      },
      "news": [
       {
+       "h": "USA Today Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-beats-ease-concerns-over-070820398.html",
@@ -11273,12 +11279,6 @@
        "h": "Is the Worst Finally Over for Palantir Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/worst-finally-over-palantir-stock-055000238.html",
-       "date": "2026-08-09"
-      },
-      {
-       "h": "Palantir Is Worth $413 Billion. The $500 Billion Line Sits Almost Exactly at Its Record High.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-413-billion-500-012800459.html",
        "date": "2026-08-09"
       }
      ],
@@ -14973,6 +14973,12 @@
      },
      "news": [
       {
+       "h": "Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-stays-cheap-earnings-101004538.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Southern (SO) Completes Multiple Large Convertible Debt Offerings",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/southern-completes-multiple-large-convertible-191019211.html",
@@ -14983,12 +14989,6 @@
        "pub": "The Guardian",
        "link": "https://finance.yahoo.com/news/train-operators-crack-down-donutters-100042117.html",
        "date": "2026-08-08"
-      },
-      {
-       "h": "What Are Wall Street Analysts' Target Price for Southern Company Stock?",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101623353.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -17839,30 +17839,72 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "My 3 Favorite Value Stocks to Buy Right Now",
+   "h": "Is Celsius a Buy After Tumbling 18% in 1 Day?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-favorite-value-stocks-buy-083500408.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-buy-tumbling-18-1-103200124.html",
    "date": "2026-08-09"
   },
   {
    "tk": "NVDA",
-   "h": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
+   "h": "Elon Musk's SpaceX Just Delivered Its First Earnings Report as a Public Company. Here's the 1 Number That Matters Most.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-vanguard-083400933.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-just-delivered-102500426.html",
    "date": "2026-08-09"
   },
   {
    "tk": "NVDA",
-   "h": "Stock Market Investors Just Got Bad News From the Federal Reserve",
+   "h": "Apple CEO Tim Cook Predicts a \"100-Year\" Flood. Here Are 2 Stocks Primed to Cash In.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-083200207.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-predicts-102000843.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Micron (MU) Secures Strategic Auto Deals and AI Momentum to Offset Cyclical Pressures",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/micron-mu-secures-strategic-auto-101757418.html",
    "date": "2026-08-09"
   },
   {
    "tk": "NVDA",
-   "h": "Fed Chair Kevin Warsh May Have Driven a Dagger Through Wall Street's Heart With This Candid 12-Word Statement",
+   "h": "Here's the 1 Crypto I'd Buy If I Could Pick Only One",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-may-082600965.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/heres-1-crypto-id-buy-101200952.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "SO",
+   "h": "Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-stays-cheap-earnings-101004538.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "ASTS",
+   "h": "Transdigm Group Q3 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "BA",
+   "h": "Transdigm Group Q3 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "USA Today Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Transdigm Group Q3 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-q3-earnings-call-090354747.html",
    "date": "2026-08-09"
   },
   {
@@ -18074,49 +18116,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-weighs-space-equities-195141942.html",
    "date": "2026-08-08"
-  },
-  {
-   "tk": "LMT",
-   "h": "Trump Threatens Long Prison Terms for 'Treasonous' Leakers as Reports of Missile Shortages and a Clash with Hegseth Swirl: 'The US Has Massive Amounts...'",
-   "pub": "Benzinga",
-   "link": "https://www.yahoo.com/news/politics/articles/trump-threatens-long-prison-terms-193018422.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "SO",
-   "h": "Southern (SO) Completes Multiple Large Convertible Debt Offerings",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/southern-completes-multiple-large-convertible-191019211.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "MP",
-   "h": "MP Materials Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-q2-earnings-call-190347156.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "RCAT",
-   "h": "What Does Red Cat Holdings (RCAT) Need To Prove After Its Latest Advances?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-red-cat-holdings-rcat-171426830.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "BA",
-   "h": "Loar Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/loar-q2-earnings-call-highlights-170353201.html",
-   "date": "2026-08-08"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-camecos-ugly-earnings-miss-165000440.html",
-   "date": "2026-08-08"
   }
  ],
- "prices_asof": "2026-08-09 08:49 UTC"
+ "prices_asof": "2026-08-09 10:39 UTC"
 }
