@@ -1149,10 +1149,10 @@
        "date": "2026-08-09"
       },
       {
-       "h": "Dow sell-side Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-       "date": "2026-08-09"
+       "h": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-reported-earnings-heres-015000755.html",
+       "date": "2026-08-10"
       }
      ]
     },
@@ -9044,6 +9044,12 @@
      "social": null,
      "news": [
       {
+       "h": "MDA Space Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-q2-earnings-call-010356837.html",
+       "date": "2026-08-10"
+      },
+      {
        "h": "MDA Space (TSX:MDA) Adds Blue Canyon And CLS As Defense Satellite Work Builds",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-tsx-mda-adds-111214697.html",
@@ -9053,12 +9059,6 @@
        "h": "MDA Space Ltd (MDA) (Q2 2026) Earnings Call Highlights: Revenue Surges 34% and Backlog Hits $4. ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-ltd-mda-q2-210159264.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "MDA Space posts 34% revenue jump as satellite maker eyes opportunities in U.S., Europe",
-       "pub": "Financial Post",
-       "link": "https://finance.yahoo.com/news/mda-space-posts-34-revenue-170320527.html",
        "date": "2026-08-07"
       }
      ]
@@ -12390,6 +12390,12 @@
      "social": null,
      "news": [
       {
+       "h": "Energy Fuels Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-earnings-call-230355952.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Urban Edge Properties Q2 Earnings Call Highlights",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/real-estate/articles/urban-edge-properties-q2-earnings-120406144.html",
@@ -12399,12 +12405,6 @@
        "h": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/only-2-5-nuclear-stocks-220700934.html",
-       "date": "2026-08-08"
-      },
-      {
-       "h": "Why Cameco's Ugly Earnings Miss Might Be Good News in Disguise",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-camecos-ugly-earnings-miss-165000440.html",
        "date": "2026-08-08"
       }
      ]
@@ -12709,6 +12709,12 @@
      },
      "news": [
       {
+       "h": "Energy Fuels Q2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-earnings-call-230355952.html",
+       "date": "2026-08-09"
+      },
+      {
        "h": "Energy Fuels CEO Bhappu Sells 14,375 Shares for Tax Withholding",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/energy-fuels-ceo-bhappu-sells-135801712.html",
@@ -12718,12 +12724,6 @@
        "h": "UUUU Q2 Earnings Call Focuses on Mine-to-Magnet Execution",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/uuuu-q2-earnings-call-focuses-140000971.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Why Energy Fuels (TSX:EFR) Is Up 10.3% After Costly Rare Earth Bet And Wider Q2 Loss",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/why-energy-fuels-tsx-efr-001635899.html",
        "date": "2026-08-07"
       }
      ],
@@ -17839,16 +17839,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Dow sell-side Futures Fall As Market Bulls Rule; Cisco, Lumentum Earnings Ahead",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
-   "date": "2026-08-09"
+   "h": "SpaceX Just Reported Earnings. Here's What History Says Happens Next.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-reported-earnings-heres-015000755.html",
+   "date": "2026-08-10"
   },
   {
    "tk": "NVDA",
-   "h": "Apple CEO Tim Cook Just Passed His Successor a Mess",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-tim-cook-just-222000544.html",
+   "h": "Dow sell-side Futures Fall After Market Ramps Up; Cisco, Lumentum Earnings Ahead",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+   "date": "2026-08-10"
+  },
+  {
+   "tk": "MDA",
+   "h": "MDA Space Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-q2-earnings-call-010356837.html",
+   "date": "2026-08-10"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Energy Fuels Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-earnings-call-230355952.html",
+   "date": "2026-08-09"
+  },
+  {
+   "tk": "UUUU",
+   "h": "Energy Fuels Q2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/energy/articles/energy-fuels-q2-earnings-call-230355952.html",
    "date": "2026-08-09"
   },
   {
@@ -18095,28 +18116,7 @@
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
    "date": "2026-08-09"
-  },
-  {
-   "tk": "LMT",
-   "h": "Pentagon asks defence firms to accelerate weapons production",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "RTX",
-   "h": "Pentagon asks defence firms to accelerate weapons production",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/economy/policy/articles/pentagon-asks-defence-firms-accelerate-010848666.html",
-   "date": "2026-08-09"
-  },
-  {
-   "tk": "VOYG",
-   "h": "Why Voyager Stock Skyrocketed This Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-stock-skyrocketed-week-002735075.html",
-   "date": "2026-08-09"
   }
  ],
- "prices_asof": "2026-08-09 22:35 UTC"
+ "prices_asof": "2026-08-10 02:06 UTC"
 }
