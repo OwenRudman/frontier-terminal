@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 15,
-      "rk": 628,
+      "m0": 1,
+      "rk": 583,
       "up": 3
      },
      "news": [
@@ -684,12 +684,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 141,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Albemarle Q2 Earnings Call Highlights",
@@ -818,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 646,
+      "up": 29
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 45,
-      "m0": 83,
-      "rk": 4,
-      "up": 112
+      "m": 23,
+      "m0": 45,
+      "rk": 12,
+      "up": 42
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-09"
       },
       {
-       "h": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
+       "h": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/forget-chips-ai-now-power-050500518.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-sandisk-reclaim-time-high-062000187.html",
        "date": "2026-08-10"
       }
      ]
@@ -1315,7 +1315,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 734,
+      "rk": 662,
       "up": 3
      },
      "streetNotes": [
@@ -1596,9 +1596,9 @@
      "geo": "US",
      "social": {
       "m": 16,
-      "m0": 92,
-      "rk": 19,
-      "up": 42
+      "m0": 16,
+      "rk": 15,
+      "up": 32
      },
      "thesis": {
       "bull": [
@@ -2041,8 +2041,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 273,
+      "m0": 0,
+      "rk": 272,
       "up": 1
      },
      "thesis": {
@@ -2485,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 100,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 286,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2836,8 +2836,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 683,
+      "m0": 1,
+      "rk": 625,
       "up": 18
      },
      "thesis": {
@@ -3154,7 +3154,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 760,
+      "rk": 681,
       "up": 18
      },
      "thesis": {
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 17,
-      "rk": 15,
-      "up": 317
+      "m": 18,
+      "m0": 19,
+      "rk": 13,
+      "up": 46
      },
      "thesis": {
       "bull": [
@@ -4395,7 +4395,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 378,
+      "rk": 348,
       "up": 8
      },
      "news": [
@@ -4728,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 621,
-      "up": 1
+      "rk": 577,
+      "up": 2
      },
      "news": [
       {
@@ -5115,12 +5115,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 182,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Can Huntington Ingalls (HII) Overcome Margin Pressure and Contract Challenges?",
@@ -5761,8 +5756,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 773,
+      "m0": 1,
+      "rk": 697,
       "up": 2
      },
      "news": [
@@ -5879,10 +5874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 44,
-      "rk": 31,
-      "up": 13
+      "m": 4,
+      "m0": 7,
+      "rk": 60,
+      "up": 10
      },
      "news": [
       {
@@ -5967,10 +5962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 7,
-      "rk": 353,
-      "up": -1
+      "m": 4,
+      "m0": 1,
+      "rk": 63,
+      "up": 8
      },
      "news": [
       {
@@ -6284,7 +6279,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 680,
+      "rk": 622,
       "up": 2
      },
      "thesis": {
@@ -7117,7 +7112,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 194,
+      "rk": 206,
       "up": 1
      },
      "news": [
@@ -7259,12 +7254,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 690,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor, Inc. Q2 2026 Earnings Call Summary",
@@ -7389,12 +7379,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 373,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SERV Q2 Loss Wider Than Expected, Revenues Increase Y/Y, Stock Down",
@@ -7691,7 +7676,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 800,
+      "rk": 721,
       "up": 1
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
@@ -7782,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 82,
-      "up": 5
+      "m": 7,
+      "m0": 3,
+      "rk": 42,
+      "up": 13
      },
      "news": [
       {
@@ -8291,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 101,
-      "rk": 7,
-      "up": 622
+      "m": 64,
+      "m0": 36,
+      "rk": 5,
+      "up": 204
      },
      "thesis": {
       "bull": [
@@ -8593,9 +8578,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 395,
-      "up": 3
+      "m0": 1,
+      "rk": 363,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -8777,8 +8762,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 636,
+      "m0": 0,
+      "rk": 590,
       "up": 1
      },
      "thesis": {
@@ -9192,8 +9177,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 678,
+      "m0": 1,
+      "rk": 620,
       "up": 1
      },
      "streetNotes": [
@@ -9376,7 +9361,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 692,
+      "rk": 632,
       "up": 1
      },
      "news": [
@@ -9540,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 78,
-      "rk": 16,
-      "up": 298
+      "m": 45,
+      "m0": 18,
+      "rk": 7,
+      "up": 148
      },
      "thesis": {
       "bull": [
@@ -10320,7 +10305,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 623,
+      "up": 1
+     },
      "news": [
       {
        "h": "EVgo Inc. (EVGO) Reports Q2 Loss, Tops Revenue Estimates",
@@ -10429,10 +10419,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 13,
-      "rk": 39,
-      "up": 21
+      "m": 4,
+      "m0": 6,
+      "rk": 73,
+      "up": 8
      },
      "news": [
       {
@@ -10518,9 +10508,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 780,
-      "up": 1
+      "m0": 1,
+      "rk": 699,
+      "up": 2
      },
      "news": [
       {
@@ -10589,9 +10579,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 138,
-      "up": 1
+      "m0": 0,
+      "rk": 154,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10804,7 +10794,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 124,
+      "rk": 140,
       "up": 3
      },
      "news": [
@@ -10892,7 +10882,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 378,
+      "rk": 348,
       "up": 8
      },
      "news": [
@@ -11258,9 +11248,9 @@
      "geo": "US",
      "social": {
       "m": 16,
-      "m0": 92,
-      "rk": 19,
-      "up": 42
+      "m0": 16,
+      "rk": 15,
+      "up": 32
      },
      "news": [
       {
@@ -11348,8 +11338,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 461,
-      "up": 1
+      "rk": 424,
+      "up": 3
      },
      "news": [
       {
@@ -12448,7 +12438,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 618,
+      "rk": 574,
       "up": 4
      },
      "news": [
@@ -12508,12 +12498,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 612,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy Q2 Earnings Call Highlights",
@@ -12703,8 +12688,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 352,
+      "m0": 1,
+      "rk": 326,
       "up": 1
      },
      "news": [
@@ -12785,10 +12770,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 13,
-      "rk": 113,
-      "up": 6
+      "m": 5,
+      "m0": 2,
+      "rk": 58,
+      "up": 31
      },
      "news": [
       {
@@ -13380,9 +13365,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 33,
-      "rk": 56,
-      "up": 14
+      "m0": 5,
+      "rk": 59,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -13620,10 +13605,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 53,
-      "up": 12
+      "m": 1,
+      "m0": 5,
+      "rk": 640,
+      "up": -1
      },
      "news": [
       {
@@ -14104,7 +14089,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 768,
+      "rk": 692,
       "up": 9
      },
      "news": [
@@ -14649,7 +14634,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 304,
+      "rk": 289,
       "up": 1
      },
      "news": [
@@ -14966,10 +14951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 12,
-      "rk": 92,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 210,
+      "up": 1
      },
      "news": [
       {
@@ -15137,10 +15122,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 227,
-      "up": 78
+      "rk": 99,
+      "up": 8
      },
      "news": [
       {
@@ -15365,12 +15350,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 503,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Washington Just Committed $17.5 Billion to New Reactors. Uranium Funds Missed the Memo",
@@ -17558,7 +17538,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-09",
+ "social_asof": "2026-08-10",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17838,24 +17818,24 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Prediction: Sandisk Will Reclaim Its All-Time High by the End of the Year",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-sandisk-reclaim-time-high-062000187.html",
+   "date": "2026-08-10"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Iran Tensions Highlight Defense Supply Gaps Poised to Lift 2 Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iran-tensions-highlight-defense-supply-055000882.html",
+   "date": "2026-08-10"
+  },
+  {
    "tk": "NEE",
    "h": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/forget-chips-ai-now-power-050500518.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Forget Chips: AI Is Now a Power Trade. These 2 Dividend-Paying Industrials Prove It.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/forget-chips-ai-now-power-050500518.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/nvidia-stock-eli-lilly-disney-0133194f?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-10"
   },
   {
@@ -18118,5 +18098,5 @@
    "date": "2026-08-09"
   }
  ],
- "prices_asof": "2026-08-10 05:37 UTC"
+ "prices_asof": "2026-08-10 07:09 UTC"
 }
