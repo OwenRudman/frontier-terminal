@@ -1149,9 +1149,9 @@
        "date": "2026-08-10"
       },
       {
-       "h": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/forget-oil-majors-midstream-stock-065000866.html",
+       "h": "Nvidia $500bn AI spending splurge unnerves investors",
+       "pub": "The Telegraph",
+       "link": "https://finance.yahoo.com/news/nvidia-500bn-ai-spending-splurge-085227057.html",
        "date": "2026-08-11"
       }
      ]
@@ -7764,6 +7764,12 @@
      },
      "news": [
       {
+       "h": "SLS Stock Rebounds Premarket After Worst Day In 3 Weeks \u2014 Retail Awaits \u2018Very Special\u2019 Earnings Update",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rebounds-premarket-worst-080544325.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "Pfizer, Merck, Amgen Double Down On Cancer And Send Takeover Buzz Around SLS And IBRX Into Overdrive",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/pfizer-merck-amgen-double-down-051757725.html",
@@ -7773,12 +7779,6 @@
        "h": "SELLAS Life Sciences Group (SLS) Is Up 11.2% After Daiwa Boosts Stake And REGAL Nears Readout - Has The Bull Case Changed?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-sls-210830546.html",
-       "date": "2026-08-04"
-      },
-      {
-       "h": "SELLAS Life Sciences Group (SLS) Nears REGAL Analysis, Is The Stock Too Expensive?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-sls-151347156.html",
        "date": "2026-08-04"
       }
      ]
@@ -9706,6 +9706,12 @@
      },
      "news": [
       {
+       "h": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "AST SpaceMobile Inc (ASTS) (Q2 2026) Earnings Call Highlights: Revenue Surges Past $31M, ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-q2-050152325.html",
@@ -9715,12 +9721,6 @@
        "h": "ASTS Stock Takes Biggest Hit In 2 Weeks: AST SpaceMobile Sticks To $1B Revenue Goal, Government May Bring Half",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-takes-biggest-hit-012055851.html",
-       "date": "2026-08-11"
-      },
-      {
-       "h": "AST SpaceMobile, Inc. (ASTS) Reports Q2 Loss, Lags Revenue Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-reports-000502677.html",
        "date": "2026-08-11"
       }
      ]
@@ -10598,6 +10598,12 @@
      ],
      "news": [
       {
+       "h": "Why Is the U.S. Army Buying $54 Billion Worth of Patriot Missiles From Lockheed Martin?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-u-army-buying-54-085100306.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "Jim Cramer Endorses Lockheed Martin as \u201cSensational\u201d",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-endorses-lockheed-martin-052029334.html",
@@ -10607,12 +10613,6 @@
        "h": "GE Stock Keeps Climbing. Should You Climb On?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-keeps-climbing-climb-223129383.html",
-       "date": "2026-08-10"
-      },
-      {
-       "h": "Rocket Lab Stock's Surge Was Booked Before It Was Priced",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-surge-booked-175951633.html",
        "date": "2026-08-10"
       }
      ],
@@ -10805,15 +10805,15 @@
        "date": "2026-08-10"
       },
       {
-       "h": "ACHR Vs. JOBY: Boeing Deal Puts Archer On A Different Flight Path As Joby Builds Toward Commercial Air Taxis",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/achr-vs-joby-boeing-deal-055512280.html",
+       "h": "Archer Aviation Exec Says Boeing Deal Will \u2018Significantly Change the Profile\u2019 as $200 Million Insitu Business Joins Portfolio",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-exec-says-boeing-061500281.html",
        "date": "2026-08-11"
       },
       {
-       "h": "Archer Aviation Inc (ACHR) (Q2 2026) Earnings Call Highlights: Strategic Boeing Acquisition and ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-inc-achr-q2-050135481.html",
+       "h": "ACHR Vs. JOBY: Boeing Deal Puts Archer On A Different Flight Path As Joby Builds Toward Commercial Air Taxis",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/achr-vs-joby-boeing-deal-055512280.html",
        "date": "2026-08-11"
       }
      ],
@@ -17819,16 +17819,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Forget Oil Majors: This Midstream Stock Pays a Better Dividend",
+   "h": "Nvidia $500bn AI spending splurge unnerves investors",
+   "pub": "The Telegraph",
+   "link": "https://finance.yahoo.com/news/nvidia-500bn-ai-spending-splurge-085227057.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "LMT",
+   "h": "Why Is the U.S. Army Buying $54 Billion Worth of Patriot Missiles From Lockheed Martin?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/forget-oil-majors-midstream-stock-065000866.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-u-army-buying-54-085100306.html",
    "date": "2026-08-11"
   },
   {
    "tk": "NVDA",
-   "h": "Should You Invest $500 in Oklo Stock Right Now?",
+   "h": "Why Is the U.S. Army Buying $54 Billion Worth of Patriot Missiles From Lockheed Martin?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-u-army-buying-54-085100306.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "ASTS",
+   "h": "S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Rebounds Premarket After Worst Day In 3 Weeks \u2014 Retail Awaits \u2018Very Special\u2019 Earnings Update",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-rebounds-premarket-worst-080544325.html",
    "date": "2026-08-11"
   },
   {
@@ -17836,6 +17857,13 @@
    "h": "Should You Invest $500 in Oklo Stock Right Now?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "BA",
+   "h": "Archer Aviation Exec Says Boeing Deal Will \u2018Significantly Change the Profile\u2019 as $200 Million Insitu Business Joins Portfolio",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-exec-says-boeing-061500281.html",
    "date": "2026-08-11"
   },
   {
@@ -17913,13 +17941,6 @@
    "h": "Dow sell-side Futures: Trump Claims 'Control' Of Strait Of Hormuz; SpaceX Rival Rocket Lab Dives On Earnings",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-oil-prices-spacex-rival-rocket-lab/?src=A00220&yptr=yahoo",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "BA",
-   "h": "Archer Aviation Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-q2-earnings-call-020400795.html",
    "date": "2026-08-11"
   },
   {
@@ -18056,13 +18077,6 @@
    "date": "2026-08-10"
   },
   {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-q2-earnings-call-230404492.html",
-   "date": "2026-08-10"
-  },
-  {
    "tk": "PLTR",
    "h": "S&P500, Nasdaq, Dow Futures Unchanged After Ending Session Mildly Lower As  Investors Brace For Key Inflation Data  \u2014 SPCX, TSLA, INTC, NFLX, PLTR In Focus",
    "pub": "Stocktwits",
@@ -18082,21 +18096,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-keeps-climbing-climb-223129383.html",
    "date": "2026-08-10"
-  },
-  {
-   "tk": "RTX",
-   "h": "GE Stock Keeps Climbing. Should You Climb On?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-keeps-climbing-climb-223129383.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "SAIC",
-   "h": "Webtoon Entertainment (WBTN) Q2 Earnings Surpass Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/webtoon-entertainment-wbtn-q2-earnings-215509957.html",
-   "date": "2026-08-10"
   }
  ],
- "prices_asof": "2026-08-11 07:14 UTC"
+ "prices_asof": "2026-08-11 09:03 UTC"
 }
