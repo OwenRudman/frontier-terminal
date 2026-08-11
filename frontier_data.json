@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 583,
-      "up": 3
+      "rk": 128,
+      "up": 6
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 646,
-      "up": 29
+      "m0": 1,
+      "rk": 727,
+      "up": 35
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 45,
-      "rk": 12,
-      "up": 42
+      "m": 159,
+      "m0": 23,
+      "rk": 7,
+      "up": 460
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-10"
       },
       {
-       "h": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
-       "pub": "BeInCrypto",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-analyst-says-eli-lilly-041300949.html",
+       "h": "Should You Invest $500 in Oklo Stock Right Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
        "date": "2026-08-11"
       }
      ]
@@ -1314,9 +1314,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 662,
-      "up": 3
+      "m0": 0,
+      "rk": 748,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
+      "m": 59,
       "m0": 16,
-      "rk": 15,
-      "up": 32
+      "rk": 12,
+      "up": 137
      },
      "thesis": {
       "bull": [
@@ -2041,8 +2041,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 272,
+      "m0": 1,
+      "rk": 358,
       "up": 1
      },
      "thesis": {
@@ -2486,8 +2486,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 286,
+      "m0": 1,
+      "rk": 368,
       "up": 2
      },
      "thesis": {
@@ -2739,6 +2739,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "Top defense contractor scores huge U.S. Army payday, stock jumps",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-defense-contractor-scores-huge-050700886.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "Unusual Machines (UMAC) Stock Is Climbing Today: Is the Whole Drone Group Moving?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-stock-climbing-182034267.html",
@@ -2749,12 +2755,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-stock-180533351.html",
        "date": "2026-08-10"
-      },
-      {
-       "h": "Why AeroVironment (AVAV) Is Up 25.0% After US$400 Million Army Locust Contract News",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-aerovironment-avav-25-0-141218604.html",
-       "date": "2026-08-08"
       }
      ],
      "awards": [
@@ -2835,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 625,
-      "up": 18
+      "m": 12,
+      "m0": 0,
+      "rk": 47,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -3151,12 +3151,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 681,
-      "up": 18
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3585,7 +3580,12 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 743,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
+      "m": 31,
       "m0": 19,
-      "rk": 13,
-      "up": 46
+      "rk": 22,
+      "up": 70
      },
      "thesis": {
       "bull": [
@@ -4313,6 +4313,12 @@
      "take": "Best theme on the list, and the backlog jump genuinely strengthens the bull case I underrated before \u2014 trailing P/S really is the wrong lens here. But \"the growth is real\" and \"the stock is expensive\" can both be true: a lot of upside is already priced, and acquisitions dilute. A high-conviction thematic bet \u2014 size it like a speculation, watch the share count.",
      "news": [
       {
+       "h": "Ondas (ONDS) Stock Looks Pricey Despite Its Very Large 3 Year Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-stock-looks-pricey-054029887.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "Ondas Wins NFL Counter-Drone Deal to Protect Jaguars' EverBank Stadium",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/ondas-wins-nfl-counter-drone-013103338.html",
@@ -4322,12 +4328,6 @@
        "h": "Unusual Machines (UMAC) Stock Is Climbing Today: Is the Whole Drone Group Moving?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-stock-climbing-182034267.html",
-       "date": "2026-08-10"
-      },
-      {
-       "h": "Red Cat Holdings (RCAT) Stock Is Jumping Today: What\u2019s Moving Drone Stocks?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-stock-180533351.html",
        "date": "2026-08-10"
       }
      ],
@@ -4393,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 348,
-      "up": 8
+      "rk": 90,
+      "up": 76
      },
      "news": [
       {
@@ -4725,12 +4725,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 577,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Wall Street Analysts Think Ouster (OUST) Could Surge 25.74%: Read This Before Placing a Bet",
@@ -5757,7 +5752,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 697,
+      "rk": 788,
       "up": 2
      },
      "news": [
@@ -5874,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 60,
-      "up": 10
+      "m": 27,
+      "m0": 4,
+      "rk": 27,
+      "up": 128
      },
      "news": [
       {
@@ -5962,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 63,
-      "up": 8
+      "m": 6,
+      "m0": 4,
+      "rk": 91,
+      "up": 107
      },
      "news": [
       {
@@ -6276,12 +6271,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 622,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -7112,7 +7102,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 206,
+      "rk": 286,
       "up": 1
      },
      "news": [
@@ -7254,7 +7244,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 711,
+      "up": 1
+     },
      "news": [
       {
        "h": "indie Semiconductor, Inc. Q2 2026 Earnings Call Summary",
@@ -7673,12 +7668,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 721,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7767,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 42,
-      "up": 13
+      "m": 8,
+      "m0": 6,
+      "rk": 69,
+      "up": 23
      },
      "news": [
       {
@@ -8276,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 64,
-      "m0": 36,
-      "rk": 5,
-      "up": 204
+      "m": 342,
+      "m0": 60,
+      "rk": 3,
+      "up": 1188
      },
      "thesis": {
       "bull": [
@@ -8579,8 +8569,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 363,
-      "up": 5
+      "rk": 451,
+      "up": -4
      },
      "streetNotes": [
       {
@@ -8763,8 +8753,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 590,
-      "up": 1
+      "rk": 661,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -9026,7 +9016,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 213,
+      "up": 6
+     },
      "news": [
       {
        "h": "MDA Space Posts Strong Q2 as Contracts, Acquisitions Support Growth, RBC Capital Markets Says",
@@ -9178,8 +9173,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 620,
-      "up": 1
+      "rk": 698,
+      "up": -5
      },
      "streetNotes": [
       {
@@ -9275,7 +9270,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 670,
+      "up": 1
+     },
      "news": [
       {
        "h": "BlackSky Technology Q2 Earnings Call Highlights",
@@ -9358,12 +9358,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 632,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk",
@@ -9525,10 +9520,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 45,
-      "m0": 18,
-      "rk": 7,
-      "up": 148
+      "m": 229,
+      "m0": 44,
+      "rk": 4,
+      "up": 736
      },
      "thesis": {
       "bull": [
@@ -10003,7 +9998,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 408,
+      "up": 0
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10307,8 +10307,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 623,
+      "m0": 1,
+      "rk": 700,
       "up": 1
      },
      "news": [
@@ -10419,10 +10419,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 6,
-      "rk": 73,
-      "up": 8
+      "m": 6,
+      "m0": 4,
+      "rk": 85,
+      "up": 26
      },
      "news": [
       {
@@ -10509,7 +10509,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 699,
+      "rk": 797,
       "up": 2
      },
      "news": [
@@ -10579,9 +10579,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 154,
-      "up": 3
+      "m0": 1,
+      "rk": 233,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10598,6 +10598,12 @@
      ],
      "news": [
       {
+       "h": "Jim Cramer Endorses Lockheed Martin as \u201cSensational\u201d",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-endorses-lockheed-martin-052029334.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "GE Stock Keeps Climbing. Should You Climb On?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-keeps-climbing-climb-223129383.html",
@@ -10607,12 +10613,6 @@
        "h": "Rocket Lab Stock's Surge Was Booked Before It Was Priced",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-surge-booked-175951633.html",
-       "date": "2026-08-10"
-      },
-      {
-       "h": "Palantir AI Boosts Pentagon Capabilities but LMT, RTX May Be the Better Missile Shortage Plays",
-       "pub": "Benzinga Prediction Markets",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ai-boosts-pentagon-capabilities-142647363.html",
        "date": "2026-08-10"
       }
      ],
@@ -10794,8 +10794,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 140,
-      "up": 3
+      "rk": 221,
+      "up": 9
      },
      "news": [
       {
@@ -10805,15 +10805,15 @@
        "date": "2026-08-10"
       },
       {
-       "h": "Archer Aviation Inc (ACHR) (Q2 2026) Earnings Call Highlights: Strategic Boeing Acquisition and ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-inc-achr-q2-050135481.html",
+       "h": "ACHR Vs. JOBY: Boeing Deal Puts Archer On A Different Flight Path As Joby Builds Toward Commercial Air Taxis",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/achr-vs-joby-boeing-deal-055512280.html",
        "date": "2026-08-11"
       },
       {
-       "h": "Archer Aviation Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-q2-earnings-call-020400795.html",
+       "h": "Archer Aviation Inc (ACHR) (Q2 2026) Earnings Call Highlights: Strategic Boeing Acquisition and ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-inc-achr-q2-050135481.html",
        "date": "2026-08-11"
       }
      ],
@@ -10880,10 +10880,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 348,
-      "up": 8
+      "rk": 90,
+      "up": 76
      },
      "news": [
       {
@@ -11204,10 +11204,10 @@
        "date": "2021-09-15"
       },
       {
-       "amt": 9750426.88,
-       "ag": "Department of Defense",
-       "desc": "CH-53K PHASE III CFTD CONCURRENCY/TECH REFRESH: SCOPE INCLUDES UPGRADE, MODIFICATION, DESIGN, FABRICATE, INSTALL AND TESTING OF CH-53K CONTAINERIZED FLIGHT TRAINING DEVICE. CFTD-1 WILL BE LOCATED AT MARINE CORPS AIR STATION (MCAS) NEW RIVER, NC.",
-       "date": "2026-01-30"
+       "amt": 6424844.22,
+       "ag": "Department of Homeland Security",
+       "desc": "THE TRANSFORMATION DATA SCIENCE SERVICES - III (TDSS III) TEAMS SHALL PROVIDE DATA ANALYTICS SERVICES WITHIN THE DEVOPS FRAMEWORK PERFORM ANALYSIS OF THE USCIS ELECTRONIC IMMIGRATION SYSTEM (USCIS ELIS)",
+       "date": "2021-08-20"
       }
      ]
     },
@@ -11247,10 +11247,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
+      "m": 59,
       "m0": 16,
-      "rk": 15,
-      "up": 32
+      "rk": 12,
+      "up": 137
      },
      "news": [
       {
@@ -11338,8 +11338,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 424,
-      "up": 3
+      "rk": 501,
+      "up": 2
      },
      "news": [
       {
@@ -12377,7 +12377,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 461,
+      "up": 2
+     },
      "news": [
       {
        "h": "Cameco vs. Uranium Energy: Which Uranium Stock Wins the Nuclear Restart?",
@@ -12435,12 +12440,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 574,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Prediction: $1,000 in Uranium Energy Corp Will Be Worth This Much in 5 Years",
@@ -12688,9 +12688,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 326,
-      "up": 1
+      "m0": 0,
+      "rk": 414,
+      "up": 4
      },
      "news": [
       {
@@ -12770,10 +12770,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 58,
-      "up": 31
+      "m": 3,
+      "m0": 5,
+      "rk": 158,
+      "up": 7
      },
      "news": [
       {
@@ -13364,10 +13364,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 4,
       "m0": 5,
-      "rk": 59,
-      "up": 18
+      "rk": 132,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -13541,22 +13541,22 @@
      },
      "news": [
       {
+       "h": "Should You Invest $500 in Oklo Stock Right Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
+       "date": "2026-08-11"
+      },
+      {
+       "h": "OKLO Stock Faces New Reality Check: Wall Street Is Getting More Cautious, Retail Sentiment Slips",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-faces-reality-check-054302317.html",
+       "date": "2026-08-11"
+      },
+      {
        "h": "Is Oklo a Millionaire Maker, or Is the Hype Overdone?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-millionaire-maker-hype-overdone-002500864.html",
        "date": "2026-08-11"
-      },
-      {
-       "h": "Uranium Energy vs. Oklo: Which Nuclear Fuel Play Wins in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/uranium-energy-vs-oklo-nuclear-202500894.html",
-       "date": "2026-08-10"
-      },
-      {
-       "h": "OKLO Q2 Loss Widens Y/Y, Misses Estimates on Higher Costs",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/oklo-q2-loss-widens-y-132000482.html",
-       "date": "2026-08-10"
       }
      ],
      "awards": [
@@ -13606,8 +13606,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 640,
+      "m0": 1,
+      "rk": 723,
       "up": -1
      },
      "news": [
@@ -13667,7 +13667,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 775,
+      "up": 1
+     },
      "news": [
       {
        "h": "NANO Nuclear to Report Q3 Earnings:  Buy, Hold or Sell the Stock?",
@@ -14086,12 +14091,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 692,
-      "up": 9
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Vernova (GEV) Wind Orders Rise Even As India Trims Doubts",
@@ -14257,7 +14257,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 458,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14631,12 +14636,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 289,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra (VST) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates",
@@ -14902,7 +14902,7 @@
        "date": "2019-05-14"
       },
       {
-       "amt": 51781501.03,
+       "amt": 52275007.03,
        "ag": "Department of Defense",
        "desc": "UESC ECM IMPLEMENTATION AND FINANCING COST",
        "date": "2020-04-30"
@@ -14951,10 +14951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 210,
-      "up": 1
+      "m": 6,
+      "m0": 1,
+      "rk": 94,
+      "up": 30
      },
      "news": [
       {
@@ -15122,10 +15122,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 99,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 314,
+      "up": 1
      },
      "news": [
       {
@@ -17538,7 +17538,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-10",
+ "social_asof": "2026-08-11",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17818,6 +17818,62 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Should You Invest $500 in Oklo Stock Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Should You Invest $500 in Oklo Stock Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-500-oklo-stock-now-062500097.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "2 Hugely Overlooked Auto Stocks With Massive Upside",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-hugely-overlooked-auto-stocks-060500801.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "BA",
+   "h": "ACHR Vs. JOBY: Boeing Deal Puts Archer On A Different Flight Path As Joby Builds Toward Commercial Air Taxis",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/achr-vs-joby-boeing-deal-055512280.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "OKLO",
+   "h": "OKLO Stock Faces New Reality Check: Wall Street Is Getting More Cautious, Retail Sentiment Slips",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-stock-faces-reality-check-054302317.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "ONDS",
+   "h": "Ondas (ONDS) Stock Looks Pricey Despite Its Very Large 3 Year Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-stock-looks-pricey-054029887.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "LMT",
+   "h": "Jim Cramer Endorses Lockheed Martin as \u201cSensational\u201d",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-endorses-lockheed-martin-052029334.html",
+   "date": "2026-08-11"
+  },
+  {
+   "tk": "AVAV",
+   "h": "Top defense contractor scores huge U.S. Army payday, stock jumps",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-defense-contractor-scores-huge-050700886.html",
+   "date": "2026-08-11"
+  },
+  {
    "tk": "ASTS",
    "h": "AST SpaceMobile Inc (ASTS) (Q2 2026) Earnings Call Highlights: Revenue Surges Past $31M, ...",
    "pub": "GuruFocus.com",
@@ -17843,20 +17899,6 @@
    "h": "Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call Highlights: Record Revenue, Iridium Acquisition, ...",
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corp-rklb-q2-050032558.html",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Cramer\u2019s Analyst Says Eli Lilly\u2019s GLP-1 Stock Rally Has Years Left to Run",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-analyst-says-eli-lilly-041300949.html",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Super Micro Already Told Us Its Revenue, Its Margins, and Its Orders. Tuesday's Report Has One Number Left.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-already-told-us-034900630.html",
    "date": "2026-08-11"
   },
   {
@@ -17927,13 +17969,6 @@
    "h": "Get Paid 11% A Year To Cap Your HEI Stock At 14% Higher",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/options/articles/paid-11-cap-hei-stock-011531273.html",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "BA",
-   "h": "What Is Boeing (BA) Signaling By Trading Three Units For Equity?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-signaling-trading-three-010837578.html",
    "date": "2026-08-11"
   },
   {
@@ -18061,42 +18096,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/webtoon-entertainment-wbtn-q2-earnings-215509957.html",
    "date": "2026-08-10"
-  },
-  {
-   "tk": "DPRO",
-   "h": "Draganfly Inc. (DPRO) Reports Q2 Loss, Misses Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/draganfly-inc-dpro-reports-q2-215504845.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "IRDM",
-   "h": "SpaceX Rivals Rocket Lab And AST SpaceMobile Sink After Mixed Earnings",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-rocket-lab-ast-spacemobile-earnings-electron-launch-neutron-rocket/?src=A00220&yptr=yahoo",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "IRDM",
-   "h": "Rocket Lab misses EPS estimate despite record revenue",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-misses-eps-estimate-213257421.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "SMR",
-   "h": "Prediction: This $10 Nuclear Energy Stock Could Be Worth $100 by 2036",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/prediction-10-nuclear-energy-stock-212000299.html",
-   "date": "2026-08-10"
-  },
-  {
-   "tk": "TDY",
-   "h": "Update: S&P 500 Retreats From Record, Oil Jumps as Hormuz Reopening Hopes Fade",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-retreats-record-oil-205708697.html",
-   "date": "2026-08-10"
   }
  ],
- "prices_asof": "2026-08-11 05:13 UTC"
+ "prices_asof": "2026-08-11 06:46 UTC"
 }
