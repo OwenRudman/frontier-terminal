@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 128,
-      "up": 6
+      "m": 1,
+      "m0": 4,
+      "rk": 715,
+      "up": 3
      },
      "news": [
       {
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 727,
-      "up": 35
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 159,
-      "m0": 23,
-      "rk": 7,
-      "up": 460
+      "m": 105,
+      "m0": 159,
+      "rk": 8,
+      "up": 256
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1144,9 @@
        "date": "2026-08-11"
       },
       {
-       "h": "Software-as-a-Service (SaaS) Companies Are Making a Comeback. Here's the Exact SaaS Stock I Recommend Buying Right Now.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/software-saas-companies-making-comeback-052000850.html",
+       "h": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-12"
       }
      ]
@@ -1312,12 +1307,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 748,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 59,
-      "m0": 16,
-      "rk": 12,
-      "up": 137
+      "m": 34,
+      "m0": 59,
+      "rk": 20,
+      "up": 640
      },
      "thesis": {
       "bull": [
@@ -2042,7 +2032,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 358,
+      "rk": 366,
       "up": 1
      },
      "thesis": {
@@ -2264,7 +2254,7 @@
      ],
      "awards": [
       {
-       "amt": 359048317.6,
+       "amt": 362500192.6,
        "ag": "General Services Administration",
        "desc": "COSMIC AES SBIR III CONTRACT 47QFCA20C0019. THIS CONTRACT IS FOR OTHER FUNCTIONS.",
        "date": "2020-06-11"
@@ -2356,6 +2346,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "How Investors Are Reacting To Northrop Grumman (NOC) Expanding Missile Defense Production And Launching Raid Hunter",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-northrop-grumman-noc-061319093.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Northrop Grumman (NOC) Secures Missile Defense Deals, Is The Stock Still Undervalued?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-secures-missile-032118597.html",
@@ -2365,12 +2361,6 @@
        "h": "An 8.8% Income On LMT Stock, For Giving Up Gains Above 9.4%",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/8-8-income-lmt-stock-232824443.html",
-       "date": "2026-08-11"
-      },
-      {
-       "h": "Joby builds defense muscle with $500M buy of Resonant Sciences",
-       "pub": "Axios",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/joby-builds-defense-muscle-500m-120006984.html",
        "date": "2026-08-11"
       }
      ],
@@ -2388,7 +2378,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8481306481.67,
+       "amt": 8487189967.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2487,7 +2477,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 368,
+      "rk": 379,
       "up": 2
      },
      "thesis": {
@@ -2835,10 +2825,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 0,
-      "rk": 47,
-      "up": 16
+      "m": 1,
+      "m0": 12,
+      "rk": 775,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3580,12 +3570,7 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 743,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -4043,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 19,
-      "rk": 22,
-      "up": 70
+      "m": 35,
+      "m0": 31,
+      "rk": 19,
+      "up": 144
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4378,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 90,
-      "up": 76
+      "m": 2,
+      "m0": 6,
+      "rk": 178,
+      "up": 3
      },
      "news": [
       {
@@ -4725,7 +4710,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 0,
+      "rk": 84,
+      "up": 7
+     },
      "news": [
       {
        "h": "Ouster (OUST) Is Down 5.7% After Utah Lidar Contract Win And Mixed Q3 Revenue Outlook",
@@ -5270,7 +5260,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 628,
+      "up": 2
+     },
      "news": [
       {
        "h": "Ocean Power Technologies tapped for $40M US Navy autonomous ocean mapping program",
@@ -5749,12 +5744,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 788,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Stellantis Q2 Earnings Call Highlights",
@@ -5869,12 +5859,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 4,
-      "rk": 27,
-      "up": 128
+      "m": 21,
+      "m0": 27,
+      "rk": 26,
+      "up": 45
      },
      "news": [
+      {
+       "h": "Gary Black Says Investors \u2018Losing Faith\u2019 That Tesla Can Scale Autonomy\u2014Blames Elon Musk\u2019s Vision-Only Approach",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-investors-losing-050843772.html",
+       "date": "2026-08-12"
+      },
       {
        "h": "This Mag 7 Dividend Stock Is Trading Near 2026 Highs. Why It's Still a Buy.",
        "pub": "Barchart",
@@ -5885,12 +5881,6 @@
        "h": "Tesla Cybercab Wins Endorsement From Florida Governor Desantis \u2014 \u2018Clearly These Things Could Be Very Beneficial\u2019",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/technology/articles/tesla-cybercab-wins-endorsement-florida-221439693.html",
-       "date": "2026-08-11"
-      },
-      {
-       "h": "2 Core Reasons Tesla Investors Should Be Getting Nervous",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/2-core-reasons-tesla-investors-213500025.html",
        "date": "2026-08-11"
       }
      ],
@@ -5957,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 4,
-      "rk": 91,
-      "up": 107
+      "m": 2,
+      "m0": 6,
+      "rk": 176,
+      "up": 4
      },
      "news": [
       {
@@ -6271,7 +6261,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 770,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -6814,7 +6809,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 754,
+      "up": 1
+     },
      "news": [
       {
        "h": "Robotics Stocks Rally as Unitree\u2019s 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus",
@@ -6871,7 +6871,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 683,
+      "up": 1
+     },
      "news": [
       {
        "h": "Ouster Stock Doubles YTD: Buy OUST After Another Quarter of Beat?",
@@ -6985,7 +6990,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 640,
+      "up": 1
+     },
      "news": [
       {
        "h": "Microvision Inc (MVIS) (Q2 2026) Earnings Call Highlights: Revenue Surges 650% as Gross Margin ...",
@@ -7102,7 +7112,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 286,
+      "rk": 278,
       "up": 1
      },
      "news": [
@@ -7246,8 +7256,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 711,
+      "m0": 1,
+      "rk": 786,
       "up": 1
      },
      "news": [
@@ -7757,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 6,
-      "rk": 69,
-      "up": 23
+      "m": 5,
+      "m0": 8,
+      "rk": 86,
+      "up": 9
      },
      "news": [
       {
@@ -8266,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 342,
-      "m0": 60,
-      "rk": 3,
-      "up": 1188
+      "m": 95,
+      "m0": 342,
+      "rk": 11,
+      "up": 283
      },
      "thesis": {
       "bull": [
@@ -8567,10 +8577,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 451,
-      "up": -4
+      "rk": 54,
+      "up": 12
      },
      "streetNotes": [
       {
@@ -8752,9 +8762,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 661,
-      "up": 0
+      "m0": 1,
+      "rk": 723,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -9016,12 +9026,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 213,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "MDA Space Posts Strong Q2 as Contracts, Acquisitions Support Growth, RBC Capital Markets Says",
@@ -9173,8 +9178,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 698,
-      "up": -5
+      "rk": 767,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9272,8 +9277,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 670,
+      "m0": 1,
+      "rk": 730,
       "up": 1
      },
      "news": [
@@ -9358,7 +9363,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 788,
+      "up": 3
+     },
      "news": [
       {
        "h": "SATL Q2 Earnings Call Highlights PGI Shift and Merlin Timeline",
@@ -9435,7 +9445,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 700,
+      "up": 1
+     },
      "news": [
       {
        "h": "Firefly Aerospace (FLY) Reports Q2 Loss, Beats Revenue Estimates",
@@ -9520,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 229,
-      "m0": 44,
-      "rk": 4,
-      "up": 736
+      "m": 51,
+      "m0": 229,
+      "rk": 16,
+      "up": 112
      },
      "thesis": {
       "bull": [
@@ -10000,8 +10015,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 408,
+      "m0": 1,
+      "rk": 432,
       "up": 0
      },
      "news": [
@@ -10308,7 +10323,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 700,
+      "rk": 772,
       "up": 1
      },
      "news": [
@@ -10418,12 +10433,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 6,
-      "m0": 4,
-      "rk": 85,
-      "up": 26
-     },
+     "social": null,
      "news": [
       {
        "h": "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13",
@@ -10506,12 +10516,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 797,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "AST SpaceMobile Stock Could Follow Voyager Technologies Higher After Earnings",
@@ -10580,8 +10585,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 233,
-      "up": 1
+      "rk": 222,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10711,6 +10716,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "How Investors Are Reacting To Northrop Grumman (NOC) Expanding Missile Defense Production And Launching Raid Hunter",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-northrop-grumman-noc-061319093.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Northrop Grumman (NOC) Secures Missile Defense Deals, Is The Stock Still Undervalued?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-secures-missile-032118597.html",
@@ -10720,12 +10731,6 @@
        "h": "An 8.8% Income On LMT Stock, For Giving Up Gains Above 9.4%",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/8-8-income-lmt-stock-232824443.html",
-       "date": "2026-08-11"
-      },
-      {
-       "h": "Joby builds defense muscle with $500M buy of Resonant Sciences",
-       "pub": "Axios",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/joby-builds-defense-muscle-500m-120006984.html",
        "date": "2026-08-11"
       }
      ],
@@ -10743,7 +10748,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8481306481.67,
+       "amt": 8487189967.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10794,8 +10799,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 221,
-      "up": 9
+      "rk": 213,
+      "up": 8
      },
      "news": [
       {
@@ -10880,10 +10885,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 90,
-      "up": 76
+      "m": 2,
+      "m0": 6,
+      "rk": 178,
+      "up": 3
      },
      "news": [
       {
@@ -11247,10 +11252,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 59,
-      "m0": 16,
-      "rk": 12,
-      "up": 137
+      "m": 34,
+      "m0": 59,
+      "rk": 20,
+      "up": 640
      },
      "news": [
       {
@@ -11338,8 +11343,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 501,
-      "up": 2
+      "rk": 539,
+      "up": 3
      },
      "news": [
       {
@@ -12379,9 +12384,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 461,
-      "up": 2
+      "m0": 1,
+      "rk": 493,
+      "up": 1
      },
      "news": [
       {
@@ -12688,9 +12693,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 414,
-      "up": 4
+      "m0": 1,
+      "rk": 437,
+      "up": 2
      },
      "news": [
       {
@@ -12771,9 +12776,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 5,
-      "rk": 158,
-      "up": 7
+      "m0": 3,
+      "rk": 154,
+      "up": 6
      },
      "news": [
       {
@@ -13365,9 +13370,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 5,
-      "rk": 132,
-      "up": 9
+      "m0": 4,
+      "rk": 120,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -13604,12 +13609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 723,
-      "up": -1
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Is SMR Stock Sliding Over 2% In Overnight Trading?",
@@ -13667,12 +13667,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 775,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NANO Nuclear to Report Q3 Earnings:  Buy, Hold or Sell the Stock?",
@@ -14259,8 +14254,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 458,
+      "m0": 1,
+      "rk": 487,
       "up": 2
      },
      "awards": [
@@ -14636,7 +14631,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 387,
+      "up": 2
+     },
      "news": [
       {
        "h": "Vistra (VST) Just Grew Ebitda 30%, So Why Did Profit Fall?",
@@ -14951,10 +14951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 94,
-      "up": 30
+      "m": 9,
+      "m0": 6,
+      "rk": 56,
+      "up": 36
      },
      "news": [
       {
@@ -15122,10 +15122,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 314,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 127,
+      "up": 7
      },
      "news": [
       {
@@ -15269,6 +15269,12 @@
      "social": null,
      "news": [
       {
+       "h": "ICF International (ICFI) Lands $35 Million Energy Efficiency Contract",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/icf-international-icfi-lands-35-061440226.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Top Research Reports for Amazon, Marvell & Starbucks",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amazon-marvell-205100607.html",
@@ -15279,12 +15285,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-dividend-reaffirmed-undervalued-180921967.html",
        "date": "2026-08-02"
-      },
-      {
-       "h": "Edison International Q2 Earnings Surpass Estimates, Revenues Miss",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/edison-international-q2-earnings-surpass-132500317.html",
-       "date": "2026-07-31"
       }
      ],
      "awards": [
@@ -15350,7 +15350,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 579,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power Is Still Down 32% This Year. What Will It Take to Get SMR Stock Back to $15?",
@@ -15466,7 +15471,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 525,
+      "up": 1
+     },
      "news": [
       {
        "h": "Washington Just Committed $17.5 Billion to New Reactors. Uranium Funds Missed the Memo",
@@ -17538,7 +17548,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-11",
+ "social_asof": "2026-08-12",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17819,9 +17829,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Software-as-a-Service (SaaS) Companies Are Making a Comeback. Here's the Exact SaaS Stock I Recommend Buying Right Now.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/software-saas-companies-making-comeback-052000850.html",
+   "h": "Foxconn\u2019s AI Hardware Sales Drive Profit Beat",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/foxconns-ai-hardware-sales-drive-profit-beat-58d9bac3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: \u2018I Experienced This Same Play\u2019 Against Intel",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ex-amd-exec-says-nvidia-065233806.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "ETR",
+   "h": "ICF International (ICFI) Lands $35 Million Energy Efficiency Contract",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/icf-international-icfi-lands-35-061440226.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "NOC",
+   "h": "How Investors Are Reacting To Northrop Grumman (NOC) Expanding Missile Defense Production And Launching Raid Hunter",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-northrop-grumman-noc-061319093.html",
    "date": "2026-08-12"
   },
   {
@@ -17839,10 +17870,10 @@
    "date": "2026-08-12"
   },
   {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: 3 Nvidia Partners Lead Earnings Movers; CPI Inflation Data Due",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo",
+   "tk": "TSLA",
+   "h": "Gary Black Says Investors \u2018Losing Faith\u2019 That Tesla Can Scale Autonomy\u2014Blames Elon Musk\u2019s Vision-Only Approach",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-investors-losing-050843772.html",
    "date": "2026-08-12"
   },
   {
@@ -18075,28 +18106,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-reports-q2-223501745.html",
    "date": "2026-08-11"
-  },
-  {
-   "tk": "SPIR",
-   "h": "Firefly Aerospace (FLY) Reports Q2 Loss, Beats Revenue Estimates",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-reports-q2-223501745.html",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab just put its biggest 2026 milestone at risk",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-put-biggest-223300181.html",
-   "date": "2026-08-11"
-  },
-  {
-   "tk": "OUST",
-   "h": "Ouster (OUST) Is Down 5.7% After Utah Lidar Contract Win And Mixed Q3 Revenue Outlook",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-oust-down-5-7-221612334.html",
-   "date": "2026-08-11"
   }
  ],
- "prices_asof": "2026-08-12 05:40 UTC"
+ "prices_asof": "2026-08-12 07:07 UTC"
 }
