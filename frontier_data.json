@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "United States Antimony Plummets 25% After Slashing 2026 Guidance on Plunging Antimony Prices",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-plummets-25-191000610.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-gains-15-despite-q2-172400860.html",
@@ -627,12 +633,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-stock-rising-182958234.html",
        "date": "2026-08-10"
-      },
-      {
-       "h": "MP Materials Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-q2-earnings-call-190347156.html",
-       "date": "2026-08-08"
       }
      ],
      "awards": [
@@ -1144,9 +1144,9 @@
        "date": "2026-08-12"
       },
       {
-       "h": "Is Super Micro Stock a No-Brainer Buy After Posting Incredible Q4 Numbers?",
+       "h": "Why IREN Stock Is Up Nearly 10% Today",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-no-brainer-185000192.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-iren-stock-nearly-10-203416446.html",
        "date": "2026-08-12"
       }
      ]
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+       "pub": "Benzinga Prediction Markets",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-palantir-fall-cpi-sends-193345706.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Michael Burry adds to Nvidia and Palantir shorts while loading up on Molina Healthcare, which is down 54% from its high",
        "pub": "Moneywise",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvidia-palantir-184500402.html",
@@ -1782,12 +1788,6 @@
        "h": "SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy\u2019s, and More Stocks That Explain Today\u2019s Market",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stock-movers-dfcc9c13?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) vs. BigBear.ai Holdings, Inc. (BBAI): Palantir\u2019s \u201cOtherworldly\u201d Quarter Sends Shares Soaring 30%",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-vs-172109809.html",
        "date": "2026-08-12"
       }
      ],
@@ -4385,6 +4385,12 @@
      },
      "news": [
       {
+       "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Can L3Harris' Platform-Agnostic Model Expand Growth Opportunities?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-platform-agnostic-model-expand-141800411.html",
@@ -4394,12 +4400,6 @@
        "h": "Boeing Stock Rises 7.4% YTD: Can the Turnaround Gain Momentum?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-rises-7-4-130200131.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "1 High-Flying Stock to Target This Week and 2 Facing Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-target-115722505.html",
        "date": "2026-08-12"
       }
      ],
@@ -5866,21 +5866,21 @@
      },
      "news": [
       {
+       "h": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+       "pub": "Benzinga Prediction Markets",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-palantir-fall-cpi-sends-193345706.html",
+       "date": "2026-08-12"
+      },
+      {
+       "h": "Tesla files plans for proposed $10.1B Texas solar manufacturing plant",
+       "pub": "Fox Business",
+       "link": "https://finance.yahoo.com/energy/articles/tesla-files-plans-proposed-10-184644064.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Trump\u2019s Capital Gains Tax Cut Plan Could Save Elon Musk Millions \u2014 Maybe Billions \u2014 of Dollars on Tesla",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-capital-gains-tax-cut-183632061.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Elon Musk: SpaceX\u2019s AI Revenue Will Surpass Its Entire Space Business \u201cNext Month\u201d",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-spacex-ai-revenue-175407046.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Norway's Wealth Fund Reveals $1.2 Billion SpaceX Stake",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/norways-wealth-fund-reveals-1-163846788.html",
        "date": "2026-08-12"
       }
      ],
@@ -5954,21 +5954,21 @@
      },
      "news": [
       {
-       "h": "UBER Rides on Gross Bookings Strength: More Growth Ahead?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rides-gross-bookings-strength-170700435.html",
+       "h": "Uber Makes Unexpected Move With Younger Riders",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-makes-unexpected-move-younger-202138618.html",
        "date": "2026-08-12"
       },
       {
-       "h": "Uber (UBER) Q2 2026 Earnings Call Transcript",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-q2-2026-earnings-161644283.html",
+       "h": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195051183.html",
        "date": "2026-08-12"
       },
       {
-       "h": "Uber's AV Ambitions in London Receive a Boost: Here's How",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/ai/articles/ubers-av-ambitions-london-receive-153000402.html",
+       "h": "Polymarket Hires Former Uber Executive To Lead Growth Initiative",
+       "pub": "CryptoProwl",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/polymarket-hires-former-uber-executive-194200317.html",
        "date": "2026-08-12"
       }
      ],
@@ -8487,21 +8487,21 @@
      ],
      "news": [
       {
-       "h": "Rocket Lab Stock Sold Off While Its Operating Margin Kept Climbing",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-sold-off-174757031.html",
+       "h": "Cathie Wood Doubles Down on SpaceX Competitor After Earnings",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-spacex-193358148.html",
        "date": "2026-08-12"
       },
       {
-       "h": "Rocket Lab Price Prediction: Record Backlog, Bigger Ambitions. Here\u2019s Our Price Target",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-price-prediction-record-173008033.html",
+       "h": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-won-t-193108211.html",
        "date": "2026-08-12"
       },
       {
-       "h": "Rocket Lab Shares Surge: What's Driving the Rally",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-surge-whats-165000439.html",
+       "h": "What Does Iridium Communications (IRDM) Stand To Gain From This Planned Acquisition?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
        "date": "2026-08-12"
       }
      ],
@@ -8597,6 +8597,12 @@
      ],
      "news": [
       {
+       "h": "Firefly Aerospace CEO on scaling rocket production: 'The machine shop is just humming'",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/firefly-aerospace-ceo-on-scaling-rocket-production-the-machine-shop-is-just-humming-143436222.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Firefly Aerospace Q2 Earnings Call Focuses on Backlog and Alpha Ramp",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-q2-earnings-call-171600584.html",
@@ -8606,12 +8612,6 @@
        "h": "Exchange-Traded Funds, Equity Futures Gain Pre-Bell Wednesday Amid In-Line Consumer Inflation Data, Tech Gains",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131639194.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Firefly CEO Jason Kim Sees \u2018So Much Demand\u2019 For Rocket Launches As Capacity Hits Record Constraints",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-ceo-jason-kim-sees-112143494.html",
        "date": "2026-08-12"
       }
      ],
@@ -9721,6 +9721,12 @@
      },
      "news": [
       {
+       "h": "AST SpaceMobile Trades Near $74. Here's The Subscriber Math That Justifies It.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-trades-near-74-193000346.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Rocket Lab Price Prediction: Record Backlog, Bigger Ambitions. Here\u2019s Our Price Target",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-price-prediction-record-173008033.html",
@@ -9730,12 +9736,6 @@
        "h": "ASTS Stock Rises Overnight: AST SpaceMobile Clears The Runway For \u2018Imminent\u2019 UK Direct-To-Cell Service With Vodafone",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-rises-overnight-ast-071916171.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "ASTS Vs RKLB: The Market Picked One, Cathie Wood Backed The Other \u2014 Which Space Play Won Q2?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/asts-vs-rklb-market-picked-042443264.html",
        "date": "2026-08-12"
       }
      ]
@@ -9861,22 +9861,22 @@
      "social": null,
      "news": [
       {
+       "h": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-won-t-193108211.html",
+       "date": "2026-08-12"
+      },
+      {
+       "h": "What Does Iridium Communications (IRDM) Stand To Gain From This Planned Acquisition?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Rocket Lab's CEO Wants His Company to Become a 'Self-Licking Ice Cream'\u2014 Here's What That Means",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-labs-ceo-wants-company-110107360.html",
        "date": "2026-08-12"
-      },
-      {
-       "h": "Buy SpaceX or Tesla? 3 Stocks With Better Potential",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/video/buy-spacex-tesla-3-stocks-200141146.html",
-       "date": "2026-08-11"
-      },
-      {
-       "h": "SpaceX Rivals Report Mixed Earnings; Rocket Lab Sinks On Possible Neutron Delays",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/spacex-rocket-lab-ast-spacemobile-earnings-electron-launch-neutron-rocket/?src=A00220&yptr=yahoo",
-       "date": "2026-08-11"
       }
      ],
      "awards": [
@@ -10603,21 +10603,21 @@
      ],
      "news": [
       {
-       "h": "Rocket Lab Stock Sold Off While Its Operating Margin Kept Climbing",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-sold-off-174757031.html",
-       "date": "2026-08-12"
-      },
-      {
        "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
        "date": "2026-08-12"
       },
       {
-       "h": "Boeing Stock Rises 7.4% YTD: Can the Turnaround Gain Momentum?",
+       "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-rises-7-4-130200131.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+       "date": "2026-08-12"
+      },
+      {
+       "h": "Rocket Lab Stock Sold Off While Its Operating Margin Kept Climbing",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-sold-off-174757031.html",
        "date": "2026-08-12"
       }
      ],
@@ -10804,21 +10804,21 @@
      },
      "news": [
       {
-       "h": "Archer Aviation (ACHR) Jumped, So What Is Behind The Latest Attention?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-jumped-behind-181223318.html",
-       "date": "2026-08-12"
-      },
-      {
        "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
        "date": "2026-08-12"
       },
       {
-       "h": "Archer Aviation Is Teaming Up With Boeing. Time to Buy the Dip?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-teaming-boeing-time-163500200.html",
+       "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+       "date": "2026-08-12"
+      },
+      {
+       "h": "Archer Aviation (ACHR) Jumped, So What Is Behind The Latest Attention?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-achr-jumped-behind-181223318.html",
        "date": "2026-08-12"
       }
      ],
@@ -10892,6 +10892,12 @@
      },
      "news": [
       {
+       "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Can L3Harris' Platform-Agnostic Model Expand Growth Opportunities?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-platform-agnostic-model-expand-141800411.html",
@@ -10901,12 +10907,6 @@
        "h": "Boeing Stock Rises 7.4% YTD: Can the Turnaround Gain Momentum?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-rises-7-4-130200131.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "1 High-Flying Stock to Target This Week and 2 Facing Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-target-115722505.html",
        "date": "2026-08-12"
       }
      ],
@@ -11259,6 +11259,12 @@
      },
      "news": [
       {
+       "h": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+       "pub": "Benzinga Prediction Markets",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-palantir-fall-cpi-sends-193345706.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Michael Burry adds to Nvidia and Palantir shorts while loading up on Molina Healthcare, which is down 54% from its high",
        "pub": "Moneywise",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvidia-palantir-184500402.html",
@@ -11268,12 +11274,6 @@
        "h": "SpaceX, Nebius, Palantir, Super Micro, Quantinuum, Wendy\u2019s, and More Stocks That Explain Today\u2019s Market",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stock-movers-dfcc9c13?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) vs. BigBear.ai Holdings, Inc. (BBAI): Palantir\u2019s \u201cOtherworldly\u201d Quarter Sends Shares Soaring 30%",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-vs-172109809.html",
        "date": "2026-08-12"
       }
      ],
@@ -12699,6 +12699,12 @@
      },
      "news": [
       {
+       "h": "Sector Update: Energy Stocks Edge Higher",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-201124832.html",
+       "date": "2026-08-12"
+      },
+      {
        "h": "Sector Update: Energy Stocks Mixed Wednesday Afternoon",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-wednesday-175307314.html",
@@ -12708,12 +12714,6 @@
        "h": "Should You Buy, Hold or Sell UUUU Stock Post Q2 Earnings?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-uuuu-stock-172800526.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-gains-15-despite-q2-172400860.html",
        "date": "2026-08-12"
       }
      ],
@@ -17829,16 +17829,128 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is Super Micro Stock a No-Brainer Buy After Posting Incredible Q4 Numbers?",
+   "h": "Why IREN Stock Is Up Nearly 10% Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-no-brainer-185000192.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-iren-stock-nearly-10-203416446.html",
    "date": "2026-08-12"
   },
   {
    "tk": "NVDA",
-   "h": "IBM Landed A $240M AI Deal. Is That Enough?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ibm-landed-240m-ai-deal-184620463.html",
+   "h": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber Makes Unexpected Move With Younger Riders",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-makes-unexpected-move-younger-202138618.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "UUUU",
+   "h": "Sector Update: Energy Stocks Edge Higher",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-201124832.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "BA",
+   "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "LMT",
+   "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "UBER",
+   "h": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195051183.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "UBER",
+   "h": "Polymarket Hires Former Uber Executive To Lead Growth Initiative",
+   "pub": "CryptoProwl",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/polymarket-hires-former-uber-executive-194200317.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Cathie Wood Doubles Down on SpaceX Competitor After Earnings",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-spacex-193358148.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+   "pub": "Benzinga Prediction Markets",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-palantir-fall-cpi-sends-193345706.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla, Palantir Fall as CPI Sends September Fed Hike Odds to 33%",
+   "pub": "Benzinga Prediction Markets",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-palantir-fall-cpi-sends-193345706.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-won-t-193108211.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-won-t-193108211.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST SpaceMobile Trades Near $74. Here's The Subscriber Math That Justifies It.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-trades-near-74-193000346.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "IRDM",
+   "h": "What Does Iridium Communications (IRDM) Stand To Gain From This Planned Acquisition?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "RKLB",
+   "h": "What Does Iridium Communications (IRDM) Stand To Gain From This Planned Acquisition?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "MP",
+   "h": "United States Antimony Plummets 25% After Slashing 2026 Guidance on Plunging Antimony Prices",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/united-states-antimony-plummets-25-191000610.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla files plans for proposed $10.1B Texas solar manufacturing plant",
+   "pub": "Fox Business",
+   "link": "https://finance.yahoo.com/energy/articles/tesla-files-plans-proposed-10-184644064.html",
    "date": "2026-08-12"
   },
   {
@@ -17856,6 +17968,27 @@
    "date": "2026-08-12"
   },
   {
+   "tk": "BA",
+   "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "LMT",
+   "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+   "date": "2026-08-12"
+  },
+  {
+   "tk": "RTX",
+   "h": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-etfs-buy-pentagon-pushes-183500130.html",
+   "date": "2026-08-12"
+  },
+  {
    "tk": "TDY",
    "h": "Teledyne Technologies (TDY) Agrees $1.1 Billion Imaging Deal To Deepen X Ray Reach",
    "pub": "Simply Wall St.",
@@ -17870,17 +18003,17 @@
    "date": "2026-08-12"
   },
   {
+   "tk": "TSLA",
+   "h": "NFL Coach Crashes Tesla Car Using Autopilot: After 40 Stitches Says \u2018You Can\u2019t Take Your Eyes Off the Road\u2019",
+   "pub": "Benzinga",
+   "link": "https://www.yahoo.com/news/us/articles/nfl-coach-crashes-tesla-car-180103237.html",
+   "date": "2026-08-12"
+  },
+  {
    "tk": "KTOS",
    "h": "Kratos (KTOS) Stock Is Up, What You Need To Know",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-stock-know-175722629.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk: SpaceX\u2019s AI Revenue Will Surpass Its Entire Space Business \u201cNext Month\u201d",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-spacex-ai-revenue-175407046.html",
    "date": "2026-08-12"
   },
   {
@@ -17961,13 +18094,6 @@
    "date": "2026-08-12"
   },
   {
-   "tk": "RKLB",
-   "h": "Rocket Lab Price Prediction: Record Backlog, Bigger Ambitions. Here\u2019s Our Price Target",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-price-prediction-record-173008033.html",
-   "date": "2026-08-12"
-  },
-  {
    "tk": "CCJ",
    "h": "Should You Buy, Hold or Sell UUUU Stock Post Q2 Earnings?",
    "pub": "Zacks",
@@ -17980,133 +18106,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-uuuu-stock-172800526.html",
    "date": "2026-08-12"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Should You Buy, Hold or Sell UUUU Stock Post Q2 Earnings?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-uuuu-stock-172800526.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "MP",
-   "h": "MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-gains-15-despite-q2-172400860.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "UUUU",
-   "h": "MP Gains 15% Despite Q2 Earnings Miss: How to Play the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-gains-15-despite-q2-172400860.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "UUUU",
-   "h": "Sector Update: Energy",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-172342335.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Technologies Inc. (PLTR) vs. BigBear.ai Holdings, Inc. (BBAI): Palantir\u2019s \u201cOtherworldly\u201d Quarter Sends Shares Soaring 30%",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-vs-172109809.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "FLY",
-   "h": "Firefly Aerospace Q2 Earnings Call Focuses on Backlog and Alpha Ramp",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-q2-earnings-call-171600584.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "QCOM",
-   "h": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-semiconductor-stocks-jim-cramer-171441263.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "NOC",
-   "h": "Northrop Grumman (NOC) Stock May Be 16% Undervalued As Raid Hunter Debuts",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-stock-may-171111070.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "UBER",
-   "h": "UBER Rides on Gross Bookings Strength: More Growth Ahead?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rides-gross-bookings-strength-170700435.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "BA",
-   "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "LMT",
-   "h": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "WRD",
-   "h": "WeRide Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/weride-q2-earnings-call-highlights-170451795.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Shares Surge: What's Driving the Rally",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-surge-whats-165000439.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Michael Burry Just Shorted Palantir Again -- He Thinks It's Headed Below $1",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-shorted-palantir-164507519.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Norway's Wealth Fund Reveals $1.2 Billion SpaceX Stake",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/norways-wealth-fund-reveals-1-163846788.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "BA",
-   "h": "Archer Aviation Is Teaming Up With Boeing. Time to Buy the Dip?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-teaming-boeing-time-163500200.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla And BYD Are Reframing An Age Old Stock Market Question",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-byd-reframing-age-old-162551445.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber (UBER) Q2 2026 Earnings Call Transcript",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-q2-2026-earnings-161644283.html",
-   "date": "2026-08-12"
   }
  ],
- "prices_asof": "2026-08-12 19:06 UTC"
+ "prices_asof": "2026-08-12 20:51 UTC"
 }
