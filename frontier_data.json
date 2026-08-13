@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 715,
-      "up": 3
+      "m": 6,
+      "m0": 1,
+      "rk": 91,
+      "up": 12
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 228,
+      "up": 1
+     },
      "news": [
       {
        "h": "Is Wall Street Bullish or Bearish on Albemarle Stock?",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 105,
-      "m0": 159,
-      "rk": 8,
-      "up": 256
+      "m": 95,
+      "m0": 105,
+      "rk": 12,
+      "up": 188
      },
      "thesis": {
       "bull": [
@@ -1144,9 +1149,9 @@
        "date": "2026-08-12"
       },
       {
-       "h": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
+       "h": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-warned-100-flood-042000594.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-hit-7-5-065100202.html",
        "date": "2026-08-13"
       }
      ]
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 34,
-      "m0": 59,
-      "rk": 20,
-      "up": 640
+      "m": 36,
+      "m0": 34,
+      "rk": 24,
+      "up": 90
      },
      "thesis": {
       "bull": [
@@ -2031,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 366,
-      "up": 1
+      "m0": 0,
+      "rk": 370,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2474,12 +2479,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 379,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2826,9 +2826,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 12,
-      "rk": 775,
-      "up": 2
+      "m0": 1,
+      "rk": 794,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4028,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 35,
-      "m0": 31,
-      "rk": 19,
-      "up": 144
+      "m": 101,
+      "m0": 35,
+      "rk": 10,
+      "up": 390
      },
      "thesis": {
       "bull": [
@@ -4379,9 +4379,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 6,
-      "rk": 178,
-      "up": 3
+      "m0": 2,
+      "rk": 173,
+      "up": 2
      },
      "news": [
       {
@@ -4711,10 +4711,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 0,
-      "rk": 84,
-      "up": 7
+      "m": 1,
+      "m0": 5,
+      "rk": 719,
+      "up": 4
      },
      "news": [
       {
@@ -5129,7 +5129,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8313079132.83,
+       "amt": 8313269130.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5262,8 +5262,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 628,
+      "m0": 1,
+      "rk": 643,
       "up": 2
      },
      "news": [
@@ -5801,7 +5801,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 200,
+      "up": 7
+     },
      "news": [
       {
        "h": "WeRide Inc (WRD) (Q2 2026) Earnings Call Highlights: Record Revenue Growth and Global Expansion ...",
@@ -5859,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 27,
-      "rk": 26,
-      "up": 45
+      "m": 43,
+      "m0": 21,
+      "rk": 21,
+      "up": 101
      },
      "news": [
       {
@@ -5947,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 176,
-      "up": 4
+      "m": 11,
+      "m0": 2,
+      "rk": 61,
+      "up": 15
      },
      "news": [
       {
@@ -6263,8 +6268,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 770,
+      "m0": 1,
+      "rk": 790,
       "up": 1
      },
      "thesis": {
@@ -6811,9 +6816,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 754,
-      "up": 1
+      "m0": 1,
+      "rk": 771,
+      "up": 2
      },
      "news": [
       {
@@ -6873,8 +6878,8 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 683,
+      "m0": 1,
+      "rk": 697,
       "up": 1
      },
      "news": [
@@ -6991,10 +6996,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 640,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 185,
+      "up": 5
      },
      "news": [
       {
@@ -7110,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 278,
-      "up": 1
+      "m": 2,
+      "m0": 0,
+      "rk": 159,
+      "up": 4
      },
      "news": [
       {
@@ -7254,12 +7259,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 786,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor, Inc. Q2 2026 Earnings Call Summary",
@@ -7767,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 8,
-      "rk": 86,
-      "up": 9
+      "m": 1,
+      "m0": 5,
+      "rk": 642,
+      "up": 2
      },
      "news": [
       {
@@ -8276,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 95,
-      "m0": 342,
-      "rk": 11,
-      "up": 283
+      "m": 30,
+      "m0": 94,
+      "rk": 27,
+      "up": 57
      },
      "thesis": {
       "bull": [
@@ -8487,6 +8487,12 @@
      ],
      "news": [
       {
+       "h": "Iridium (IRDM) Stock Looks Fully Valued After Its Pending Space Deal",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-stock-looks-fully-061142696.html",
+       "date": "2026-08-13"
+      },
+      {
        "h": "SPCX, ASTS, RKLB And FLY On Watch: sell-side Sachs Sees $1.8 Trillion Space Economy And Rising M&A Wave",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-asts-rklb-fly-watch-041906406.html",
@@ -8496,12 +8502,6 @@
        "h": "ASTS And RKLB Chase The SpaceX Playbook, But Analyst Flags \u2018Very Inflated Valuations\u2019 And Mounting Delays",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-chase-spacex-playbook-021934977.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "RKLB Stock Slips Overnight: Rocket Lab Tops 400 Archimedes Hot Fires, Neutron Engine Set Enters Production",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-slips-overnight-rocket-010024405.html",
        "date": "2026-08-13"
       }
      ],
@@ -8577,10 +8577,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 54,
-      "up": 12
+      "m": 2,
+      "m0": 9,
+      "rk": 175,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8763,8 +8763,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 723,
-      "up": 1
+      "rk": 739,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -9178,8 +9178,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 767,
-      "up": 2
+      "rk": 786,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -9275,12 +9275,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 730,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Is BlackSky Technology (BKSY) Outperforming Other Business Services Stocks This Year?",
@@ -9363,12 +9358,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 788,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9447,8 +9437,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 700,
+      "m0": 1,
+      "rk": 715,
       "up": 1
      },
      "news": [
@@ -9535,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 51,
-      "m0": 229,
-      "rk": 16,
-      "up": 112
+      "m": 32,
+      "m0": 50,
+      "rk": 26,
+      "up": 100
      },
      "thesis": {
       "bull": [
@@ -9861,6 +9851,12 @@
      "social": null,
      "news": [
       {
+       "h": "Iridium (IRDM) Stock Looks Fully Valued After Its Pending Space Deal",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-stock-looks-fully-061142696.html",
+       "date": "2026-08-13"
+      },
+      {
        "h": "Rocket Lab CEO Won\u2019t Take on Musk and Bezos in Broadband: \u2018The Two Most Wealthiest People in the World Are Going After That\u2019",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-won-t-193108211.html",
@@ -9870,12 +9866,6 @@
        "h": "What Does Iridium Communications (IRDM) Stand To Gain From This Planned Acquisition?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-iridium-communications-irdm-stand-191218649.html",
-       "date": "2026-08-12"
-      },
-      {
-       "h": "Rocket Lab's CEO Wants His Company to Become a 'Self-Licking Ice Cream'\u2014 Here's What That Means",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-labs-ceo-wants-company-110107360.html",
        "date": "2026-08-12"
       }
      ],
@@ -9932,6 +9922,12 @@
      "social": null,
      "news": [
       {
+       "h": "The 5 Most Interesting Analyst Questions From Viasat\u2019s Q2 Earnings Call",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-063700558.html",
+       "date": "2026-08-13"
+      },
+      {
        "h": "Elon Musk Tells SpaceX Town Hall \u2018We\u2019re Going to 100,000 Satellites.\u2019 As SpaceX \u2018Rebuilds the Internet in Space.\u2019",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/articles/elon-musk-tells-spacex-town-000533365.html",
@@ -9942,12 +9938,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-q1-2027-earnings-234909241.html",
        "date": "2026-08-11"
-      },
-      {
-       "h": "1 Mid-Cap Stock to Keep an Eye On and 2 We Avoid",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-keep-143722883.html",
-       "date": "2026-08-10"
       }
      ],
      "awards": [
@@ -10016,7 +10006,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 432,
+      "rk": 447,
       "up": 0
      },
      "news": [
@@ -10323,7 +10313,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 772,
+      "rk": 792,
       "up": 1
      },
      "news": [
@@ -10433,7 +10423,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 25,
+      "m0": 1,
+      "rk": 30,
+      "up": 60
+     },
      "news": [
       {
        "h": "SpaceX Rises 5% on Fresh Starlink Launch, Intuitive Machines Gains 3% Ahead of Earnings",
@@ -10585,8 +10580,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 222,
-      "up": 2
+      "rk": 224,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10799,8 +10794,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 213,
-      "up": 8
+      "rk": 216,
+      "up": 0
      },
      "news": [
       {
@@ -10886,9 +10881,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 6,
-      "rk": 178,
-      "up": 3
+      "m0": 2,
+      "rk": 173,
+      "up": 2
      },
      "news": [
       {
@@ -11252,10 +11247,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 34,
-      "m0": 59,
-      "rk": 20,
-      "up": 640
+      "m": 36,
+      "m0": 34,
+      "rk": 24,
+      "up": 90
      },
      "news": [
       {
@@ -11343,7 +11338,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 539,
+      "rk": 570,
       "up": 3
      },
      "news": [
@@ -12385,7 +12380,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 493,
+      "rk": 522,
       "up": 1
      },
      "news": [
@@ -12694,7 +12689,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
+      "rk": 457,
       "up": 2
      },
      "news": [
@@ -12775,10 +12770,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 6,
       "m0": 3,
-      "rk": 154,
-      "up": 6
+      "rk": 89,
+      "up": 144
      },
      "news": [
       {
@@ -13369,10 +13364,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 2,
       "m0": 4,
-      "rk": 120,
-      "up": 10
+      "rk": 199,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -14255,7 +14250,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 487,
+      "rk": 514,
       "up": 2
      },
      "awards": [
@@ -14381,7 +14376,7 @@
        "date": "2009-07-07"
       },
       {
-       "amt": 4465824270.16,
+       "amt": 4464785978.44,
        "ag": "Department of Energy",
        "desc": "PORTSMOUTH GASEOUS DIFFUSION PLANT DECONTAMINATION AND DECOMMISSIONING PROJECT",
        "date": "2010-08-16"
@@ -14548,7 +14543,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 785,
+      "up": 2
+     },
      "news": [
       {
        "h": "Red-Hot Power Stocks Are Losing Steam",
@@ -14633,9 +14633,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 387,
-      "up": 2
+      "m0": 1,
+      "rk": 396,
+      "up": 5
      },
      "news": [
       {
@@ -14951,10 +14951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 6,
-      "rk": 56,
-      "up": 36
+      "m": 7,
+      "m0": 9,
+      "rk": 84,
+      "up": 16
      },
      "news": [
       {
@@ -15122,10 +15122,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 127,
-      "up": 7
+      "m": 2,
+      "m0": 3,
+      "rk": 163,
+      "up": 8
      },
      "news": [
       {
@@ -15352,8 +15352,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 579,
+      "m0": 1,
+      "rk": 604,
       "up": 1
      },
      "news": [
@@ -15473,9 +15473,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 525,
-      "up": 1
+      "m0": 1,
+      "rk": 557,
+      "up": 0
      },
      "news": [
       {
@@ -17548,7 +17548,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-12",
+ "social_asof": "2026-08-13",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17828,6 +17828,41 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Nvidia Could Hit $7.5 Trillion in Value Thanks to This Overlooked Business Opportunity",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-hit-7-5-065100202.html",
+   "date": "2026-08-13"
+  },
+  {
+   "tk": "VSAT",
+   "h": "The 5 Most Interesting Analyst Questions From Viasat\u2019s Q2 Earnings Call",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-063700558.html",
+   "date": "2026-08-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Wall Street Firms Back Nvidia With $500B for AI Data Centers",
+   "pub": "CRE Daily",
+   "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-firms-back-nvidia-063016846.html",
+   "date": "2026-08-13"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Iridium (IRDM) Stock Looks Fully Valued After Its Pending Space Deal",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-stock-looks-fully-061142696.html",
+   "date": "2026-08-13"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Iridium (IRDM) Stock Looks Fully Valued After Its Pending Space Deal",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iridium-irdm-stock-looks-fully-061142696.html",
+   "date": "2026-08-13"
+  },
+  {
    "tk": "BA",
    "h": "5 Must-Read Analyst Questions From TransDigm\u2019s Q2 Earnings Call",
    "pub": "StockStory",
@@ -17884,13 +17919,6 @@
    "date": "2026-08-13"
   },
   {
-   "tk": "NVDA",
-   "h": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-warned-100-flood-042000594.html",
-   "date": "2026-08-13"
-  },
-  {
    "tk": "ASTS",
    "h": "SPCX, ASTS, RKLB And FLY On Watch: sell-side Sachs Sees $1.8 Trillion Space Economy And Rising M&A Wave",
    "pub": "Stocktwits",
@@ -17916,13 +17944,6 @@
    "h": "Spire Global Q2 Earnings Call Highlights",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/markets/stocks/articles/spire-global-q2-earnings-call-040402937.html",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Anthropic in talks to buy Decart AI, source says",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-talks-buy-decart-ai-035155234.html",
    "date": "2026-08-13"
   },
   {
@@ -18024,13 +18045,6 @@
    "date": "2026-08-13"
   },
   {
-   "tk": "RKLB",
-   "h": "Rocket Lab CEO Sees AI Data Centers Moving Into Space as Computing Demand Explodes: \u2018Real Opportunity\u2019 (UPDATED)",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/rocket-lab-ceo-sees-ai-003104272.html",
-   "date": "2026-08-13"
-  },
-  {
    "tk": "OKLO",
    "h": "Oklo Just Made Big Progress With Small Modular Nuclear Reactor Technology. That's Great News for These 2 ETFs.",
    "pub": "Motley Fool",
@@ -18092,21 +18106,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-lands-major-231652899.html",
    "date": "2026-08-12"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Baidu (BIDU) Stock Looks Cheap At First Glance After 30% Drop",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-bidu-stock-looks-cheap-231530592.html",
-   "date": "2026-08-12"
-  },
-  {
-   "tk": "WRD",
-   "h": "WeRide Inc (WRD) (Q2 2026) Earnings Call Highlights: Record Revenue Growth and Global Expansion ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/weride-inc-wrd-q2-2026-230406519.html",
-   "date": "2026-08-12"
   }
  ],
- "prices_asof": "2026-08-13 05:43 UTC"
+ "prices_asof": "2026-08-13 07:11 UTC"
 }
