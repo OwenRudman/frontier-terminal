@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Nvidia earnings preview: What\u2019s next for Nvidia stock",
+       "h": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/nvidia-earnings-preview-next-nvidia-153900980.html",
+       "link": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
        "date": "2026-08-14"
       },
       {
-       "h": "Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/vertex-pharmaceuticals-just-hit-time-202000260.html",
+       "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
        "date": "2026-08-14"
       },
       {
-       "h": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
-       "pub": "Coinage Coop",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-sells-201800642.html",
+       "h": "The next AI winners may look nothing like Nvidia or Micron: One Big Investment Idea",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/the-next-ai-winners-may-look-nothing-like-nvidia-or-micron-one-big-investment-idea-095700607.html",
        "date": "2026-08-14"
       }
      ]
@@ -1783,21 +1783,21 @@
      },
      "news": [
       {
+       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "PLTR Jumped 31.53% in a Month. PLTY Holders Got 28.93%",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/options/articles/pltr-jumped-31-53-month-215503543.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "The Best House On The Block Costs The Most: PLTR",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/best-house-block-costs-most-192816659.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Palantir's $442 Billion Valuation Faces a Test",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-442-billion-valuation-faces-180950928.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
        "date": "2026-08-14"
       }
      ],
@@ -2244,12 +2244,6 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Kratos (KTOS) Is Up 9.4% After Raising 2026 Outlook And Securing New Missile Defense Work",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-ktos-9-4-raising-171102296.html",
@@ -2259,6 +2253,12 @@
        "h": "Unusual Machines, AeroVironment, and Ondas Rise as Trump Levies Tariffs on Drone Imports",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "Drone stocks soar after Trump announces tariffs",
+       "pub": "Axios",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-soar-trump-announces-153919069.html",
        "date": "2026-08-14"
       }
      ],
@@ -2745,15 +2745,15 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Unusual Machines, AeroVironment, and Ondas Rise as Trump Levies Tariffs on Drone Imports",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "Drone stocks soar after Trump announces tariffs",
+       "pub": "Axios",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-soar-trump-announces-153919069.html",
        "date": "2026-08-14"
       }
      ],
@@ -4325,9 +4325,9 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
+       "h": "Unusual Machines, AeroVironment, and Ondas Rise as Trump Levies Tariffs on Drone Imports",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-14"
       }
      ],
@@ -4406,15 +4406,15 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Is RTX Strengthening Its Position in the Global Missile Market?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-strengthening-position-global-missile-145400140.html",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "Boeing, RTX Agree To Interceptor Deal With Pentagon; Stocks Rise",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/boeing-rtx-pentagon-department-defense-iran-war/?src=A00220&yptr=yahoo",
        "date": "2026-08-14"
       }
      ],
@@ -5876,21 +5876,21 @@
      },
      "news": [
       {
+       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Tesla owners in California have until Sept. 25 to claim this settlement money",
        "pub": "Yahoo Personal Finance",
        "link": "https://finance.yahoo.com/personal-finance/banking/article/tesla-owners-in-california-have-until-sept-25-to-claim-this-settlement-money-162602738.html",
        "date": "2026-08-14"
       },
       {
-       "h": "Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-musk-teases-200519418.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194726434.html",
+       "h": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
        "date": "2026-08-14"
       }
      ],
@@ -7060,6 +7060,12 @@
      "social": null,
      "news": [
       {
+       "h": "Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/intel-banks-150m-paper-gain-195256208.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Qualcomm\u2019s (QCOM) BMW Deal Adds To A Bigger Diversification Push",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/articles/qualcomm-qcom-bmw-deal-adds-131949875.html",
@@ -7069,12 +7075,6 @@
        "h": "Mobileye Director Frank Yeary Buys 12,360 Shares After 43% Stock Decline. Should Investors Be Excited for the Rest of 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-director-frank-yeary-buys-211401742.html",
-       "date": "2026-08-05"
-      },
-      {
-       "h": "Innoviz Technologies Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/innoviz-technologies-q2-earnings-call-160414259.html",
        "date": "2026-08-05"
       }
      ]
@@ -7122,6 +7122,12 @@
      },
      "news": [
       {
+       "h": "QCOM: A Cash Gusher At A Marked-Down Price",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-cash-gusher-marked-down-202537632.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "What Separates AVGO From Its Peers Right Now",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/separates-avgo-peers-now-191413440.html",
@@ -7131,12 +7137,6 @@
        "h": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Marvell's Year Was Made In Interconnect, Not Yet In Custom Silicon",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/marvells-made-interconnect-not-yet-174138777.html",
        "date": "2026-08-14"
       }
      ],
@@ -9716,6 +9716,12 @@
      },
      "news": [
       {
+       "h": "AST SpaceMobile (ASTS) Wins FCC Approval For 800 MHz Satellite Phone Testing",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-wins-fcc-211130541.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "AST SpaceMobile (ASTS) Has a $1.3B Backlog. Can it Build Fast Enough?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-1-3b-194854109.html",
@@ -9725,12 +9731,6 @@
        "h": "SpaceX Stock Drops as Musk\u2019s Rockets Face a Fresh Rival",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/spacex-stock-price-unlocked-rival-52f9fc3a?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "AST SpaceMobile vs. IBM: Which Tech Stock is the Better Buy Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-ibm-tech-152400786.html",
        "date": "2026-08-14"
       }
      ]
@@ -10593,21 +10593,21 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Boeing Signs Seven-Year Frameworks to Expand SM-3 Output",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-signs-seven-frameworks-expand-193122852.html",
        "date": "2026-08-14"
       },
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
+       "h": "Is RTX Strengthening Its Position in the Global Missile Market?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-strengthening-position-global-missile-145400140.html",
        "date": "2026-08-14"
       }
      ],
@@ -10888,15 +10888,15 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Is RTX Strengthening Its Position in the Global Missile Market?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-strengthening-position-global-missile-145400140.html",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "Boeing, RTX Agree To Interceptor Deal With Pentagon; Stocks Rise",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/boeing-rtx-pentagon-department-defense-iran-war/?src=A00220&yptr=yahoo",
        "date": "2026-08-14"
       }
      ],
@@ -11249,21 +11249,21 @@
      },
      "news": [
       {
+       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
+       "date": "2026-08-14"
+      },
+      {
+       "h": "PLTR Jumped 31.53% in a Month. PLTY Holders Got 28.93%",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/options/articles/pltr-jumped-31-53-month-215503543.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "The Best House On The Block Costs The Most: PLTR",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/best-house-block-costs-most-192816659.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Palantir's $442 Billion Valuation Faces a Test",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantirs-442-billion-valuation-faces-180950928.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
        "date": "2026-08-14"
       }
      ],
@@ -14865,6 +14865,12 @@
      },
      "news": [
       {
+       "h": "PCG Passed Our Value-Trap Test. Now What?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
@@ -14874,12 +14880,6 @@
        "h": "Is CEG's Nuclear Fleet Positioned to Support Long-Term Growth?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/cegs-nuclear-fleet-positioned-support-181300000.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html",
        "date": "2026-08-13"
       }
      ],
@@ -14953,6 +14953,12 @@
      },
      "news": [
       {
+       "h": "PCG Passed Our Value-Trap Test. Now What?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
@@ -14963,12 +14969,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/options/articles/64-old-turned-880-000-210301202.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Southern (SO) Stock Stays Cheap On Earnings While Broader Checks Look Expensive",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-stays-cheap-earnings-101004538.html",
-       "date": "2026-08-09"
       }
      ],
      "awards": [
@@ -15036,6 +15036,12 @@
      "social": null,
      "news": [
       {
+       "h": "PCG Passed Our Value-Trap Test. Now What?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
@@ -15046,12 +15052,6 @@
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-194912275.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "3 of the Best Dividend Stocks to Buy for Under $100 Right Now",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-best-dividend-stocks-buy-185908826.html",
-       "date": "2026-08-11"
       }
      ],
      "awards": [
@@ -15181,6 +15181,12 @@
      "social": null,
      "news": [
       {
+       "h": "PCG Passed Our Value-Trap Test. Now What?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Exelon (EXC) Restores Power As Fair Value Still Sits Above The Stock",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-restores-power-fair-060954672.html",
@@ -15190,12 +15196,6 @@
        "h": "Sector Update: Energy Stocks Edge Lower Late Afternoon",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-194912275.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Edge Lower Thursday Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-175846666.html",
        "date": "2026-08-13"
       }
      ],
@@ -17823,31 +17823,115 @@
  ],
  "news": [
   {
+   "tk": "TSLA",
+   "h": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
+   "date": "2026-08-14"
+  },
+  {
    "tk": "NVDA",
-   "h": "Vertex Pharmaceuticals Just Hit an All-Time High. Here's Why the Biotech Stock Could Soar Even More",
+   "h": "Why Oracle Stock Got Trounced Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/vertex-pharmaceuticals-just-hit-time-202000260.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-got-trounced-220245802.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "PLTR",
+   "h": "PLTR Jumped 31.53% in a Month. PLTY Holders Got 28.93%",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/options/articles/pltr-jumped-31-53-month-215503543.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "DUK",
+   "h": "PCG Passed Our Value-Trap Test. Now What?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "EXC",
+   "h": "PCG Passed Our Value-Trap Test. Now What?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "NEE",
+   "h": "PCG Passed Our Value-Trap Test. Now What?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "SO",
+   "h": "PCG Passed Our Value-Trap Test. Now What?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
    "date": "2026-08-14"
   },
   {
    "tk": "NVDA",
-   "h": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
-   "pub": "Coinage Coop",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-sells-201800642.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NVDA",
-   "h": "US Equity Markets End Lower Amid Weak Retail Sales Data, Rise in Crude Oil Prices",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-200704074.html",
+   "h": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
    "date": "2026-08-14"
   },
   {
    "tk": "TSLA",
-   "h": "Tesla Stock Rises as Musk Teases Potential 'Flying' Roadster Debut",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-musk-teases-200519418.html",
+   "h": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-211647533.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST SpaceMobile (ASTS) Wins FCC Approval For 800 MHz Satellite Phone Testing",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-wins-fcc-211130541.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "LMT",
+   "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "NOC",
+   "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "QCOM",
+   "h": "QCOM: A Cash Gusher At A Marked-Down Price",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-cash-gusher-marked-down-202537632.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "UMAC",
+   "h": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stock-movers-0ed39f6f?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "MBLY",
+   "h": "Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-banks-150m-paper-gain-195256208.html",
    "date": "2026-08-14"
   },
   {
@@ -17855,20 +17939,6 @@
    "h": "AST SpaceMobile (ASTS) Has a $1.3B Backlog. Can it Build Fast Enough?",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-1-3b-194854109.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-194726434.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Waymo doubles down on the cars America won\u2019t let you buy",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/economy/policy/articles/waymo-doubles-down-cars-america-193700164.html",
    "date": "2026-08-14"
   },
   {
@@ -17949,13 +18019,6 @@
    "date": "2026-08-14"
   },
   {
-   "tk": "UMAC",
-   "h": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-0ed39f6f?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-14"
-  },
-  {
    "tk": "AVAV",
    "h": "More Trump Tariffs Are Coming\u2014and They Could Look Different",
    "pub": "Barrons.com",
@@ -17977,49 +18040,7 @@
    "date": "2026-08-14"
   },
   {
-   "tk": "AVAV",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "KTOS",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "LMT",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "ONDS",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
    "tk": "RCAT",
-   "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "RTX",
    "h": "Unusual Machines Soars 22%, Red Cat Climbs 8%, Ondas Gains 4% on Trump\u2019s 100% Drone Tariff",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-soars-22-red-172202581.html",
@@ -18080,28 +18101,7 @@
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Unusual Machines, AeroVironment, and Ondas Rise as Trump Levies Tariffs on Drone Imports",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/aerovironment-ondas-drone-stocks-trump-tariffs-f4dbcfc8?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Why Unusual Machines Stock Just Popped",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-unusual-machines-stock-just-165309061.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-14 20:35 UTC"
+ "prices_asof": "2026-08-14 22:28 UTC"
 }
