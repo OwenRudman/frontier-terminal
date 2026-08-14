@@ -610,12 +610,18 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 91,
-      "up": 12
+      "m": 2,
+      "m0": 6,
+      "rk": 193,
+      "up": 4
      },
      "news": [
+      {
+       "h": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-vs-metals-company-062500885.html",
+       "date": "2026-08-14"
+      },
       {
        "h": "MP Materials (MP) Q2 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
@@ -626,12 +632,6 @@
        "h": "MP Materials Just Signed a Secret Aerospace Deal. Here's Why It Matters.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-just-signed-secret-212000496.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "SpaceX vs. MP Materials: 2 Very Different Ways to Bet on the Next Decade of Tech",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/spacex-vs-mp-materials-2-182500516.html",
        "date": "2026-08-13"
       }
      ],
@@ -686,9 +686,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 228,
-      "up": 1
+      "m0": 1,
+      "rk": 230,
+      "up": 4
      },
      "news": [
       {
@@ -818,7 +818,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 204,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 95,
-      "m0": 105,
-      "rk": 12,
-      "up": 188
+      "m": 104,
+      "m0": 95,
+      "rk": 10,
+      "up": 231
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1148,15 @@
        "date": "2026-08-13"
       },
       {
-       "h": "Why Liquidia Stock Was Diving This Week",
+       "h": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-liquidia-stock-diving-week-050758796.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-vs-metals-company-062500885.html",
        "date": "2026-08-14"
       },
       {
-       "h": "TSS Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tss-q2-earnings-call-highlights-040400829.html",
+       "h": "Why Investors Were Cold on Bitdeer Technologies Stock This Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/why-investors-were-cold-bitdeer-055726747.html",
        "date": "2026-08-14"
       }
      ]
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 34,
-      "rk": 24,
-      "up": 90
+      "m": 25,
+      "m0": 36,
+      "rk": 37,
+      "up": 298
      },
      "thesis": {
       "bull": [
@@ -2035,10 +2040,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 370,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 168,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2479,7 +2484,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 141,
+      "up": 15
+     },
      "thesis": {
       "bull": [
        {
@@ -2729,6 +2739,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "AeroVironment (AVAV) Stock May Be Near Fair Value Despite Army Contract News",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-may-near-061121269.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "UMAC, RCAT, ONDS, AVAV, KTOS Stocks Rise Overnight: Trump Takes Aim At Foreign Drones With New Tariffs",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/economy/policy/articles/umac-rcat-onds-avav-ktos-012719145.html",
@@ -2738,12 +2754,6 @@
        "h": "Trump administration imposes sweeping tariffs on foreign drone imports",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-administration-imposes-sweeping-tariffs-223113785.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "Ondas Drops 7% After Earnings. Is Their Post-Earnings Drop Impacting Other Drone Stocks?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-drops-7-earnings-post-162159300.html",
        "date": "2026-08-13"
       }
      ],
@@ -2825,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 794,
-      "up": 1
+      "rk": 103,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -3141,7 +3151,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 20,
+      "m0": 0,
+      "rk": 43,
+      "up": 3726
+     },
      "thesis": {
       "bull": [
        {
@@ -4028,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 101,
-      "m0": 35,
-      "rk": 10,
-      "up": 390
+      "m": 188,
+      "m0": 100,
+      "rk": 6,
+      "up": 3194
      },
      "thesis": {
       "bull": [
@@ -4378,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 173,
-      "up": 2
+      "rk": 477,
+      "up": 5
      },
      "news": [
       {
@@ -4712,9 +4727,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 719,
-      "up": 4
+      "m0": 1,
+      "rk": 723,
+      "up": 2
      },
      "news": [
       {
@@ -5141,7 +5156,7 @@
        "date": "2018-09-27"
       },
       {
-       "amt": 6645710960.11,
+       "amt": 6651038755.11,
        "ag": "Department of Defense",
        "desc": "TAS::17 1611::TAS CVN 78 SHIP CONSTRUCTION",
        "date": "2008-08-01"
@@ -5260,12 +5275,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 643,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power Technologies tapped for $40M US Navy autonomous ocean mapping program",
@@ -5801,12 +5811,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 200,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "WeRide (WRD) Wants The World, But Can It Turn A Profit?",
@@ -5864,12 +5869,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 43,
-      "m0": 21,
-      "rk": 21,
-      "up": 101
+      "m": 61,
+      "m0": 42,
+      "rk": 16,
+      "up": 148
      },
      "news": [
+      {
+       "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-14"
+      },
       {
        "h": "Microsoft and Tesla Share a Common Concern, but Here's Why One Is Much More Justified",
        "pub": "Motley Fool",
@@ -5880,12 +5891,6 @@
        "h": "Elon Musk Makes Bold Promise on Flying Cars: \u2018You Will Get...\u2019",
        "pub": "Benzinga",
        "link": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-makes-bold-promise-223121452.html",
-       "date": "2026-08-13"
-      },
-      {
-       "h": "TSLA Stock Rises As Swedish Union Ends Nearly 3-Year Strike After Tesla Buyouts",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-rises-swedish-union-215840216.html",
        "date": "2026-08-13"
       }
      ],
@@ -5952,29 +5957,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 2,
-      "rk": 61,
-      "up": 15
+      "m": 5,
+      "m0": 11,
+      "rk": 105,
+      "up": -8
      },
      "news": [
       {
-       "h": "Shopify vs. Uber Technologies: What Their Revenue Trends Reveal to Investors.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-vs-uber-technologies-revenue-012059232.html",
+       "h": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/articles/dara-khosrowshahi-hails-ubers-japan-055006775.html",
        "date": "2026-08-14"
       },
       {
-       "h": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/ai/articles/chinas-pony-ai-uber-jointly-010838832.html",
+       "h": "Uber\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-q2-earnings-call-top-054100199.html",
        "date": "2026-08-14"
       },
       {
-       "h": "Bill Ackman's Pershing Square Has Delivered a 15.9% Annualized Return Since 2004, Beating the S&P 500 by Over 5 Points a Year. Can It Continue?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-delivered-201300995.html",
-       "date": "2026-08-13"
+       "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-14"
       }
      ],
      "awards": [
@@ -6269,7 +6274,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 790,
+      "rk": 789,
       "up": 1
      },
      "thesis": {
@@ -6817,7 +6822,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 771,
+      "rk": 772,
       "up": 2
      },
      "news": [
@@ -6876,12 +6881,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 697,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster Stock Doubles YTD: Buy OUST After Another Quarter of Beat?",
@@ -6996,10 +6996,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 185,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 659,
+      "up": 2
      },
      "news": [
       {
@@ -7115,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 159,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 281,
+      "up": 2
      },
      "news": [
       {
@@ -7259,7 +7259,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 800,
+      "up": 1
+     },
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7767,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 642,
-      "up": 2
+      "m": 4,
+      "m0": 1,
+      "rk": 123,
+      "up": 8
      },
      "news": [
       {
@@ -8276,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 94,
-      "rk": 27,
-      "up": 57
+      "m": 18,
+      "m0": 28,
+      "rk": 48,
+      "up": 96
      },
      "thesis": {
       "bull": [
@@ -8577,9 +8582,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 175,
+      "m": 1,
+      "m0": 2,
+      "rk": 496,
       "up": 1
      },
      "streetNotes": [
@@ -8761,10 +8766,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 739,
-      "up": 2
+      "rk": 196,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -9179,7 +9184,7 @@
       "m": 1,
       "m0": 1,
       "rk": 786,
-      "up": 3
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9438,7 +9443,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 715,
+      "rk": 717,
       "up": 1
      },
      "news": [
@@ -9525,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 50,
-      "rk": 26,
-      "up": 100
+      "m": 10,
+      "m0": 32,
+      "rk": 72,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -10003,12 +10008,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 447,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10094,6 +10094,12 @@
      "social": null,
      "news": [
       {
+       "h": "Gilat Satellite Networks Targets Defense, In-Flight Growth With Comtech Deal",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-networks-targets-defense-060424772.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Gilat Q2 Earnings Call Highlights Defense and IFC Momentum",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-q2-earnings-call-highlights-161100954.html",
@@ -10104,12 +10110,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-networks-q2-earnings-100413989.html",
        "date": "2026-08-06"
-      },
-      {
-       "h": "Gilat Satellite (GILT) Tops Q2 Earnings Estimates",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-gilt-tops-q2-130006839.html",
-       "date": "2026-08-05"
       }
      ],
      "awards": [
@@ -10310,12 +10310,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 792,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SES AI Corporation Q2 2026 Earnings Call Summary",
@@ -10424,10 +10419,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 1,
-      "rk": 30,
-      "up": 60
+      "m": 51,
+      "m0": 24,
+      "rk": 18,
+      "up": 108
      },
      "news": [
       {
@@ -10580,7 +10575,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 224,
+      "rk": 225,
       "up": 4
      },
      "streetNotes": [
@@ -10794,8 +10789,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 216,
-      "up": 0
+      "rk": 219,
+      "up": 3
      },
      "news": [
       {
@@ -10880,10 +10875,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 173,
-      "up": 2
+      "rk": 477,
+      "up": 5
      },
      "news": [
       {
@@ -11247,10 +11242,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 34,
-      "rk": 24,
-      "up": 90
+      "m": 25,
+      "m0": 36,
+      "rk": 37,
+      "up": 298
      },
      "news": [
       {
@@ -11338,8 +11333,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 570,
-      "up": 3
+      "rk": 562,
+      "up": 1
      },
      "news": [
       {
@@ -12377,12 +12372,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 522,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Buy, Hold or Sell UUUU Stock Post Q2 Earnings?",
@@ -12440,7 +12430,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 720,
+      "up": 1
+     },
      "news": [
       {
        "h": "Insider Sheds Over 55,000 Shares of North American Uranium Stock",
@@ -12689,8 +12684,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 457,
-      "up": 2
+      "rk": 459,
+      "up": 1
      },
      "news": [
       {
@@ -12770,10 +12765,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 89,
-      "up": 144
+      "m": 7,
+      "m0": 7,
+      "rk": 90,
+      "up": 10
      },
      "news": [
       {
@@ -13364,10 +13359,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 199,
-      "up": 6
+      "m": 5,
+      "m0": 2,
+      "rk": 111,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -14247,12 +14242,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 514,
-      "up": 2
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14545,9 +14535,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 785,
-      "up": 2
+      "m0": 1,
+      "rk": 784,
+      "up": 1
      },
      "news": [
       {
@@ -14634,8 +14624,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 396,
-      "up": 5
+      "rk": 408,
+      "up": 4
      },
      "news": [
       {
@@ -14867,7 +14857,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 312,
+      "up": 1
+     },
      "news": [
       {
        "h": "Is CEG's Nuclear Fleet Positioned to Support Long-Term Growth?",
@@ -14952,9 +14947,9 @@
      "geo": "US",
      "social": {
       "m": 7,
-      "m0": 9,
-      "rk": 84,
-      "up": 16
+      "m0": 7,
+      "rk": 96,
+      "up": 18
      },
      "news": [
       {
@@ -15122,10 +15117,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 163,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 324,
+      "up": 14
      },
      "news": [
       {
@@ -15186,6 +15181,12 @@
      "social": null,
      "news": [
       {
+       "h": "Exelon (EXC) Restores Power As Fair Value Still Sits Above The Stock",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-restores-power-fair-060954672.html",
+       "date": "2026-08-14"
+      },
+      {
        "h": "Sector Update: Energy Stocks Edge Lower Late Afternoon",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-194912275.html",
@@ -15196,12 +15197,6 @@
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-175846666.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Most Power Sought for US Data Centers Will Never Materialize",
-       "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/energy/articles/most-power-sought-us-data-093000335.html",
-       "date": "2026-08-12"
       }
      ],
      "awards": [
@@ -15353,8 +15348,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 604,
-      "up": 1
+      "rk": 596,
+      "up": 2
      },
      "news": [
       {
@@ -15474,7 +15469,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 557,
+      "rk": 551,
       "up": 0
      },
      "news": [
@@ -17548,7 +17543,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-13",
+ "social_asof": "2026-08-14",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17828,10 +17823,80 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Why Liquidia Stock Was Diving This Week",
+   "tk": "MP",
+   "h": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-liquidia-stock-diving-week-050758796.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-vs-metals-company-062500885.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "NVDA",
+   "h": "MP Materials vs. The Metals Company: Which Critical-Minerals Stock Is the Smarter Long-Term Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-vs-metals-company-062500885.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "AVAV",
+   "h": "AeroVironment (AVAV) Stock May Be Near Fair Value Despite Army Contract News",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerovironment-avav-stock-may-near-061121269.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "EXC",
+   "h": "Exelon (EXC) Restores Power As Fair Value Still Sits Above The Stock",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-restores-power-fair-060954672.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "GILT",
+   "h": "Gilat Satellite Networks Targets Defense, In-Flight Growth With Comtech Deal",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gilat-satellite-networks-targets-defense-060424772.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Investors Were Cold on Bitdeer Technologies Stock This Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/why-investors-were-cold-bitdeer-055726747.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "UBER",
+   "h": "Dara Khosrowshahi Hails Uber's Japan Robotaxi Expansion, Says Country Has Been a 'Terrific' Market for the Ride-Hailing Giant",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/articles/dara-khosrowshahi-hails-ubers-japan-055006775.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-q2-earnings-call-top-054100199.html",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-14"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-14"
   },
   {
@@ -17846,20 +17911,6 @@
    "h": "Rocket Lab (RKLB) Is Up 5.9% After Record Q2, Space Force Win And Neutron Progress - Has The Bull Case Changed?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-5-9-043047294.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NVDA",
-   "h": "TSS Q2 Earnings Call Highlights",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tss-q2-earnings-call-highlights-040400829.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NVDA",
-   "h": "sell-side in talks with investors on Nvidia financing deal after landing prized role, sources say",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html",
    "date": "2026-08-14"
   },
   {
@@ -17916,13 +17967,6 @@
    "h": "Shopify vs. Uber Technologies: What Their Revenue Trends Reveal to Investors.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-vs-uber-technologies-revenue-012059232.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "UBER",
-   "h": "China's Pony.ai, Uber to jointly deploy over 2,000 robotaxis in Europe",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/ai/articles/chinas-pony-ai-uber-jointly-010838832.html",
    "date": "2026-08-14"
   },
   {
@@ -18057,56 +18101,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-just-signed-secret-212000496.html",
    "date": "2026-08-13"
-  },
-  {
-   "tk": "LMT",
-   "h": "SpaceX, Defense Contractors Progress On Orbital Interceptors, Pass Golden Dome Test",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-northrop-grumman-lockheed-martin-golden-dome-sbi-test-citi-targets-defense-stocks/?src=A00220&yptr=yahoo",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "NOC",
-   "h": "SpaceX, Defense Contractors Progress On Orbital Interceptors, Pass Golden Dome Test",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/spacex-northrop-grumman-lockheed-martin-golden-dome-sbi-test-citi-targets-defense-stocks/?src=A00220&yptr=yahoo",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "SO",
-   "h": "How a 64-Year-Old Turned an $880,000 401(k) Rollover Into a $5,200 Monthly Paycheck Without Buying an Annuity",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/options/articles/64-old-turned-880-000-210301202.html",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "SIDU",
-   "h": "Ahead of Sidus Space Earnings, Here's What Barchart Data Says Comes Next for SIDU Stock",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-sidus-space-earnings-heres-210159605.html",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Intuitive Machines, Inc. Q2 2026 Earnings Call Summary",
-   "pub": "Moby",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-inc-q2-2026-210059915.html",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "QCOM",
-   "h": "The Bull Market Is Almost Back for Chip Stocks",
-   "pub": "Investopedia",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bull-market-almost-back-chip-205554469.html",
-   "date": "2026-08-13"
-  },
-  {
-   "tk": "ONDS",
-   "h": "Sandisk, Cisco, Micron, Ondas, Coherent, Cerebras, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-270ebfe7?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-13"
   }
  ],
- "prices_asof": "2026-08-14 05:40 UTC"
+ "prices_asof": "2026-08-14 07:07 UTC"
 }
