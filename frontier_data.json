@@ -7690,6 +7690,12 @@
      "hold": null,
      "news": [
       {
+       "h": "AEVEX (AVEX) Earnings And Deal Put Its Valuation Story Back In Focus",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-earnings-deal-put-071036953.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Trump Family-Tied Dronemakers Get a Boost From New US Tariffs",
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-family-tied-dronemakers-boost-151334766.html",
@@ -7700,12 +7706,6 @@
        "pub": "Bloomberg",
        "link": "https://finance.yahoo.com/video/reddit-climbs-applied-materials-gemini-134931604.html",
        "date": "2026-08-14"
-      },
-      {
-       "h": "Aevex Remains Well Positioned in the Unmanned Aerial Systems Market, RBC Says",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-remains-well-positioned-unmanned-155309388.html",
-       "date": "2026-08-13"
       }
      ],
      "awards": [
@@ -13537,16 +13537,16 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Bloom Energy vs. Oklo: Which AI-Power Stock Is the Smarter Buy Now?",
+       "h": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-oklo-ai-155000608.html",
-       "date": "2026-08-14"
+       "link": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
+       "date": "2026-08-15"
       },
       {
-       "h": "Can OKLO's Groves Milestone Validate Its Nuclear Strategy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/oklos-groves-milestone-validate-nuclear-133900837.html",
-       "date": "2026-08-14"
+       "h": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-investing-10-000-065000582.html",
+       "date": "2026-08-15"
       }
      ],
      "awards": [
@@ -17819,9 +17819,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+   "h": "President Donald Trump Claims the Stock Market Will Double by the End of His Term, but History Says Otherwise",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-admits-underestimated-anthropics-052000717.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/president-donald-trump-claims-stock-082600829.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "AVEX",
+   "h": "AEVEX (AVEX) Earnings And Deal Put Its Valuation Story Back In Focus",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-earnings-deal-put-071036953.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-investing-10-000-065000582.html",
    "date": "2026-08-15"
   },
   {
@@ -18075,28 +18096,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/mp-materials-usa-rare-earth-stock-trump-drones-energy-fuels/?src=A00220&yptr=yahoo",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "ONDS",
-   "h": "Ondas (ONDS) Reports Strong Sales Growth, Is The Valuation Already Priced In?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-onds-reports-strong-sales-190905099.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "RCAT",
-   "h": "Red Cat Stock Jumps on Trump Drone Tariff News. Analysts Think It Has 70% More Upside Potential.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-stock-jumps-trump-190454682.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Trump Sends Drone Stocks Soaring on Tariff News. This Is the Top-Performing Company Now.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/economy/policy/articles/trump-sends-drone-stocks-soaring-184317301.html",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 06:44 UTC"
+ "prices_asof": "2026-08-15 08:34 UTC"
 }
