@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 6,
-      "rk": 193,
+      "m0": 2,
+      "rk": 180,
       "up": 4
      },
      "news": [
@@ -687,7 +687,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 230,
+      "rk": 206,
       "up": 4
      },
      "news": [
@@ -819,10 +819,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 204,
-      "up": 3
+      "m": 6,
+      "m0": 2,
+      "rk": 89,
+      "up": 111
      },
      "streetNotes": [
       {
@@ -945,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 104,
-      "m0": 95,
-      "rk": 10,
-      "up": 231
+      "m": 115,
+      "m0": 103,
+      "rk": 9,
+      "up": 361
      },
      "thesis": {
       "bull": [
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 36,
-      "rk": 37,
-      "up": 298
+      "m": 15,
+      "m0": 23,
+      "rk": 38,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -2040,10 +2040,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 168,
-      "up": 5
+      "m": 3,
+      "m0": 2,
+      "rk": 124,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -2485,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 141,
-      "up": 15
+      "m": 4,
+      "m0": 3,
+      "rk": 106,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 103,
-      "up": 10
+      "m": 8,
+      "m0": 5,
+      "rk": 63,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -3152,10 +3152,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 0,
-      "rk": 43,
-      "up": 3726
+      "m": 38,
+      "m0": 20,
+      "rk": 22,
+      "up": 113
      },
      "thesis": {
       "bull": [
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 188,
-      "m0": 100,
-      "rk": 6,
-      "up": 3194
+      "m": 40,
+      "m0": 188,
+      "rk": 21,
+      "up": 202
      },
      "thesis": {
       "bull": [
@@ -4394,9 +4394,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 477,
-      "up": 5
+      "m0": 1,
+      "rk": 457,
+      "up": 2
      },
      "news": [
       {
@@ -4728,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 723,
-      "up": 2
+      "rk": 710,
+      "up": 6
      },
      "news": [
       {
@@ -5144,7 +5144,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8313269130.83,
+       "amt": 8313269247.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5869,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 61,
-      "m0": 42,
-      "rk": 16,
-      "up": 148
+      "m": 66,
+      "m0": 62,
+      "rk": 15,
+      "up": 121
      },
      "news": [
       {
@@ -5888,10 +5888,10 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Could a Tesla (TSLA)-Space Exploration Technologies (SPCX) Merger Help Elon Musk Unlock his Massive Tesla Pay Package?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-space-exploration-220616552.html",
-       "date": "2026-08-14"
+       "h": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-admits-underestimated-anthropics-052000717.html",
+       "date": "2026-08-15"
       }
      ],
      "awards": [
@@ -5957,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 11,
-      "rk": 105,
-      "up": -8
+      "m": 1,
+      "m0": 5,
+      "rk": 435,
+      "up": 2
      },
      "news": [
       {
@@ -6044,7 +6044,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 109,
+      "up": 4
+     },
      "news": [
       {
        "h": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet",
@@ -6274,7 +6279,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 789,
+      "rk": 781,
       "up": 1
      },
      "thesis": {
@@ -6819,12 +6824,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 772,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Aeva (AEVA) Q2 2026 Earnings Call Transcript",
@@ -6995,12 +6995,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 659,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Microvision Inc (MVIS) (Q2 2026) Earnings Call Highlights: Revenue Surges 650% as Gross Margin ...",
@@ -7116,9 +7111,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 281,
-      "up": 2
+      "m0": 1,
+      "rk": 267,
+      "up": 1
      },
      "news": [
       {
@@ -7262,7 +7257,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 800,
+      "rk": 797,
       "up": 1
      },
      "news": [
@@ -7772,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 123,
-      "up": 8
+      "m": 9,
+      "m0": 4,
+      "rk": 56,
+      "up": 24
      },
      "news": [
       {
@@ -8281,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 28,
-      "rk": 48,
-      "up": 96
+      "m": 16,
+      "m0": 21,
+      "rk": 36,
+      "up": 76
      },
      "thesis": {
       "bull": [
@@ -8583,9 +8578,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 496,
-      "up": 1
+      "m0": 1,
+      "rk": 476,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -8705,13 +8700,13 @@
      ],
      "awards": [
       {
-       "amt": 5146134.0,
+       "amt": 5444487.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTEGRATION AND FLIGHT OF THE T0426 COMMERCIAL ORBITAL SYSTEM FOR MICROGRAVITY IN-SPACE CRYSTALLIZATION (COSMIC) PAYLOAD.",
        "date": "2025-09-26"
       },
       {
-       "amt": 2095384.0,
+       "amt": 2326975.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTEGRATION AND FLIGHT OF THE T0428 JUNO ROTATING DETONATION ROCKET ENGINE",
        "date": "2025-09-29"
@@ -8766,10 +8761,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 196,
-      "up": 12
+      "m": 1,
+      "m0": 2,
+      "rk": 731,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -9031,7 +9026,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 189,
+      "up": 5
+     },
      "news": [
       {
        "h": "MDA Space Posts Strong Q2 as Contracts, Acquisitions Support Growth, RBC Capital Markets Says",
@@ -9088,8 +9088,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 752,
+      "up": 2
+     },
      "news": [
+      {
+       "h": "Sidus Space Inc (SIDU) (Q2 2026) Earnings Call Highlights: $158. ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sidus-space-inc-sidu-q2-050027134.html",
+       "date": "2026-08-15"
+      },
       {
        "h": "Ahead of Sidus Space Earnings, Here's What Barchart Data Says Comes Next for SIDU Stock",
        "pub": "Barchart",
@@ -9101,12 +9112,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-shine-fades-taking-030526398.html",
        "date": "2026-07-21"
-      },
-      {
-       "h": "3 Small-Cap Stocks Getting a Russell 2000 Rebalance Boost",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-getting-130000997.html",
-       "date": "2026-06-21"
       }
      ],
      "awards": [
@@ -9181,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 786,
-      "up": 1
+      "rk": 113,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9363,7 +9368,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 800,
+      "up": 3
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9440,12 +9450,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 717,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Spire Global, Inc. Q2 2026 Earnings Call Summary",
@@ -9530,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 32,
-      "rk": 72,
-      "up": 22
+      "m": 17,
+      "m0": 9,
+      "rk": 34,
+      "up": 32
      },
      "thesis": {
       "bull": [
@@ -9959,7 +9964,7 @@
        "date": "2018-06-29"
       },
       {
-       "amt": 72467880.09,
+       "amt": 72968405.98,
        "ag": "General Services Administration",
        "desc": "VIASAT TO16",
        "date": "2025-05-28"
@@ -10419,10 +10424,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 51,
-      "m0": 24,
-      "rk": 18,
-      "up": 108
+      "m": 21,
+      "m0": 55,
+      "rk": 30,
+      "up": 27
      },
      "news": [
       {
@@ -10572,12 +10577,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 225,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10789,8 +10789,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 219,
-      "up": 3
+      "rk": 195,
+      "up": 1
      },
      "news": [
       {
@@ -10876,9 +10876,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 477,
-      "up": 5
+      "m0": 1,
+      "rk": 457,
+      "up": 2
      },
      "news": [
       {
@@ -11242,10 +11242,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 36,
-      "rk": 37,
-      "up": 298
+      "m": 15,
+      "m0": 23,
+      "rk": 38,
+      "up": 31
      },
      "news": [
       {
@@ -11333,8 +11333,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 562,
-      "up": 1
+      "rk": 539,
+      "up": 3
      },
      "news": [
       {
@@ -12432,8 +12432,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 720,
+      "m0": 1,
+      "rk": 707,
       "up": 1
      },
      "news": [
@@ -12684,7 +12684,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 459,
+      "rk": 431,
       "up": 1
      },
      "news": [
@@ -12764,12 +12764,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 7,
-      "m0": 7,
-      "rk": 90,
-      "up": 10
-     },
+     "social": null,
      "news": [
       {
        "h": "Aura Minerals (AUGO) Q2 Earnings and Revenues Miss Estimates",
@@ -13359,10 +13354,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 111,
-      "up": 12
+      "m": 3,
+      "m0": 5,
+      "rk": 140,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -13599,7 +13594,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 8,
+      "m0": 0,
+      "rk": 64,
+      "up": 11
+     },
      "news": [
       {
        "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
@@ -14536,7 +14536,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 784,
+      "rk": 777,
       "up": 1
      },
      "news": [
@@ -14621,12 +14621,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 408,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
@@ -14774,7 +14769,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 236,
+      "up": 2
+     },
      "news": [
       {
        "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
@@ -14859,8 +14859,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 312,
+      "m0": 1,
+      "rk": 292,
       "up": 1
      },
      "news": [
@@ -14946,10 +14946,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
+      "m": 4,
       "m0": 7,
-      "rk": 96,
-      "up": 18
+      "rk": 102,
+      "up": 6
      },
      "news": [
       {
@@ -15118,9 +15118,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 324,
-      "up": 14
+      "m0": 1,
+      "rk": 305,
+      "up": 1
      },
      "news": [
       {
@@ -15348,7 +15348,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 596,
+      "rk": 577,
       "up": 2
      },
      "news": [
@@ -15466,12 +15466,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 551,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Jellyfish Are Shutting Down French Nuclear Reactors",
@@ -17543,7 +17538,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-14",
+ "social_asof": "2026-08-15",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17824,9 +17819,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Amkor (AMKR) Stock Looks Cheap On Cash Flow But Less So On Earnings",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amkor-amkr-stock-looks-cheap-042034874.html",
+   "h": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-admits-underestimated-anthropics-052000717.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk Admits He Underestimated Anthropic's AI -- Why Amazon Investors Should Care",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-admits-underestimated-anthropics-052000717.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "SIDU",
+   "h": "Sidus Space Inc (SIDU) (Q2 2026) Earnings Call Highlights: $158. ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sidus-space-inc-sidu-q2-050027134.html",
    "date": "2026-08-15"
   },
   {
@@ -17953,13 +17962,6 @@
    "h": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
    "pub": "Yahoo Finance Video",
    "link": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Stock Market Today, Aug. 14: Tesla Gains on TD Cowen Buy Reiteration and $460 Target",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-211647533.html",
    "date": "2026-08-14"
   },
   {
@@ -18094,14 +18096,7 @@
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/economy/policy/articles/trump-sends-drone-stocks-soaring-184317301.html",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 04:36 UTC"
+ "prices_asof": "2026-08-15 06:19 UTC"
 }
