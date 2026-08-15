@@ -1154,9 +1154,9 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.",
+       "h": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-building-weight-loss-182000844.html",
        "date": "2026-08-15"
       }
      ]
@@ -13531,6 +13531,12 @@
      },
      "news": [
       {
+       "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
@@ -13540,12 +13546,6 @@
        "h": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-investing-10-000-065000582.html",
        "date": "2026-08-15"
       }
      ],
@@ -13602,6 +13602,12 @@
      },
      "news": [
       {
+       "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
@@ -13611,12 +13617,6 @@
        "h": "Can OKLO's Groves Milestone Validate Its Nuclear Strategy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/oklos-groves-milestone-validate-nuclear-133900837.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "The Last U.S. Nuclear Boom Applied to Build 26 Reactors and Finished 2. NuScale Carries a $4 Billion Market Value on $10.7 Million of Sales.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/last-u-nuclear-boom-applied-085800574.html",
        "date": "2026-08-14"
       }
      ]
@@ -14079,6 +14079,12 @@
      "social": null,
      "news": [
       {
+       "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Bloom Energy Stock Has Exploded. Here\u2019s What Could Drive It Even Higher.",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-exploded-could-170013154.html",
@@ -14088,12 +14094,6 @@
        "h": "Should Investors Take Profits in GE Vernova After Its Big Run?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/investors-profits-ge-vernova-big-150500972.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Why GE Vernova (GEV) Is Emerging as an AI Power Winner",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-ge-vernova-gev-emerging-140315004.html",
        "date": "2026-08-14"
       }
      ],
@@ -17819,16 +17819,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Jim Cramer Is Selling His Bitcoin, Citing the Quantum Threat. Here's Why He's Wrong.",
+   "h": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-selling-bitcoin-citing-161200109.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-building-weight-loss-182000844.html",
    "date": "2026-08-15"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: Even After Soaring 180%, a Stock Split Isn't on the Horizon for AMD. Here's Why.",
+   "h": "Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-even-soaring-180-stock-161100281.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iren-wont-raise-capital-much-181500827.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "GEV",
+   "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "OKLO",
+   "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "SMR",
+   "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
    "date": "2026-08-15"
   },
   {
@@ -17979,13 +18000,6 @@
    "date": "2026-08-15"
   },
   {
-   "tk": "LUNR",
-   "h": "What Does Intuitive Machines (LUNR) Winning A Missile Defense Contract Mean?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-intuitive-machines-lunr-winning-031952277.html",
-   "date": "2026-08-15"
-  },
-  {
    "tk": "RCAT",
    "h": "Why Is Red Cat Holdings (RCAT) Reworking UAS Leadership As New Drone Tariffs Arrive?",
    "pub": "Simply Wall St.",
@@ -18082,21 +18096,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-wins-fcc-211130541.html",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "LMT",
-   "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NOC",
-   "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 16:30 UTC"
+ "prices_asof": "2026-08-15 18:35 UTC"
 }
