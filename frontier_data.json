@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
-       "date": "2026-08-14"
+       "h": "Palantir Makes Its Case Against Frontier AI",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+       "date": "2026-08-15"
+      },
+      {
+       "h": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-hit-220-june-213500558.html",
+       "date": "2026-08-15"
       },
       {
        "h": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
        "date": "2026-08-15"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Palantir Makes Its Case Against Frontier AI",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Cathie Wood sells $11.6 million of surging tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
@@ -1792,12 +1798,6 @@
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/over-35-since-aug-3-090500383.html",
        "date": "2026-08-15"
       }
      ],
@@ -5964,6 +5964,12 @@
      },
      "news": [
       {
+       "h": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Are Mega-Mergers Back?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/healthcare/articles/mega-mergers-back-191428995.html",
@@ -5973,12 +5979,6 @@
        "h": "The 4 Words From Jensen Huang That Could Redefine NVIDIA\u2019s Total Addressable Market",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/4-words-jensen-huang-could-120008572.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Pony AI (PONY) Plans 2,000 Robotaxis Across Europe And The Middle East",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/articles/pony-ai-pony-plans-2-011123808.html",
        "date": "2026-08-15"
       }
      ],
@@ -8487,6 +8487,12 @@
      ],
      "news": [
       {
+       "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
@@ -8496,12 +8502,6 @@
        "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Rocket Lab (RKLB) Set a Revenue Record. Is Neutron Slipping Into 2027?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-set-revenue-150334121.html",
        "date": "2026-08-14"
       }
      ],
@@ -10431,6 +10431,12 @@
      },
      "news": [
       {
+       "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "What Does Intuitive Machines (LUNR) Winning A Missile Defense Contract Mean?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-intuitive-machines-lunr-winning-031952277.html",
@@ -10440,12 +10446,6 @@
        "h": "Why Intuitive Machines Stock Is Soaring Today",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-soaring-170130559.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "LUNR Q2 Earnings Call Highlights Record Backlog and Expansion",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/lunr-q2-earnings-call-highlights-152000114.html",
        "date": "2026-08-14"
       }
      ],
@@ -11249,6 +11249,12 @@
      },
      "news": [
       {
+       "h": "Palantir Makes Its Case Against Frontier AI",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Cathie Wood sells $11.6 million of surging tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
@@ -11258,12 +11264,6 @@
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/over-35-since-aug-3-090500383.html",
        "date": "2026-08-15"
       }
      ],
@@ -13602,6 +13602,12 @@
      },
      "news": [
       {
+       "h": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
@@ -13611,12 +13617,6 @@
        "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Can OKLO's Groves Milestone Validate Its Nuclear Strategy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/oklos-groves-milestone-validate-nuclear-133900837.html",
        "date": "2026-08-14"
       }
      ]
@@ -14271,6 +14271,12 @@
      ],
      "news": [
       {
+       "h": "Curtiss Wright (CW) Earnings Beat Puts Fair Value Back In Focus",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-earnings-beat-200903828.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Is CurtissWright (CW) Stock Outpacing Its Aerospace Peers This Year?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curtisswright-cw-stock-outpacing-aerospace-134002794.html",
@@ -14281,12 +14287,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-q2-2026-032939587.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Get Paid 11% A Year To Cap Your HEI Stock At 14% Higher",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/paid-11-cap-hei-stock-011531273.html",
-       "date": "2026-08-11"
       }
      ]
     },
@@ -17819,6 +17819,62 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Palantir Makes Its Case Against Frontier AI",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Makes Its Case Against Frontier AI",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NVDA",
+   "h": "SpaceX Is Poised to Hit $220 by June 2027 (Hint: It's Not Too Late to Buy In)",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-poised-hit-220-june-213500558.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "LUNR",
+   "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "RKLB",
+   "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "UBER",
+   "h": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "SMR",
+   "h": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "CW",
+   "h": "Curtiss Wright (CW) Earnings Beat Puts Fair Value Back In Focus",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-earnings-beat-200903828.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NVDA",
    "h": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
@@ -17836,13 +17892,6 @@
    "h": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
    "pub": "Reuters",
    "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "NVDA",
-   "h": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ai-problem-law-firms-isnt-191700915.html",
    "date": "2026-08-15"
   },
   {
@@ -18047,56 +18096,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/world/articles/putin-says-russia-north-korea-012444686.html",
    "date": "2026-08-15"
-  },
-  {
-   "tk": "NOC",
-   "h": "Putin says Russia, North Korea coordinating on regional security",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/world/articles/putin-says-russia-north-korea-012444686.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "PONY",
-   "h": "Pony AI (PONY) Plans 2,000 Robotaxis Across Europe And The Middle East",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/articles/pony-ai-pony-plans-2-011123808.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "UBER",
-   "h": "Pony AI (PONY) Plans 2,000 Robotaxis Across Europe And The Middle East",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/articles/pony-ai-pony-plans-2-011123808.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "VST",
-   "h": "Vistra (VST) Is Not Just a Power Producer, But an AI Infrastructure Bet",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/vistra-vst-not-just-power-002658669.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "BA",
-   "h": "How 737-7 FAA Approval and New Tech Trial At Boeing (BA) Has Changed Its Investment Story",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/737-7-faa-approval-tech-001703756.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Jim Cramer Says Palantir (PLTR) Deserves a \u201cLittle Bit More Love\u201d After a Massive Surge",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-pltr-000702429.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "BA",
-   "h": "BAE Systems (LSE:BA.) Stock May Trade At A 9% Discount Despite THREADS Progress",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-stock-221306465.html",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 20:26 UTC"
+ "prices_asof": "2026-08-15 22:26 UTC"
 }
