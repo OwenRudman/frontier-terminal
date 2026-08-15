@@ -1148,15 +1148,15 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-       "date": "2026-08-14"
+       "h": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
+       "date": "2026-08-15"
       },
       {
-       "h": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-building-weight-loss-182000844.html",
+       "h": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
        "date": "2026-08-15"
       }
      ]
@@ -1783,12 +1783,6 @@
      },
      "news": [
       {
-       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Cathie Wood sells $11.6 million of surging tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
@@ -1798,6 +1792,12 @@
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
+       "date": "2026-08-15"
+      },
+      {
+       "h": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/over-35-since-aug-3-090500383.html",
        "date": "2026-08-15"
       }
      ],
@@ -3420,6 +3420,12 @@
      "take": "The cleverest idea on the list, with the cash to build it. But be honest about the math: ~$1B of value on ~$30M of revenue, with a \"profit\" that came from investments. A venture-style bet dressed as a stock. Own only with money you can watch swing 30% in a week.",
      "news": [
       {
+       "h": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-stock-may-121015114.html",
@@ -3429,12 +3435,6 @@
        "h": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stock-movers-0ed39f6f?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Trump Sends Drone Stocks Soaring on Tariff News. This Is the Top-Performing Company Now.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/economy/policy/articles/trump-sends-drone-stocks-soaring-184317301.html",
        "date": "2026-08-14"
       }
      ]
@@ -5876,21 +5876,21 @@
      },
      "news": [
       {
-       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-       "date": "2026-08-14"
+       "h": "XMAG Is Outperforming the S&P 500 in 2026 as the Magnificent Seven Stall",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/xmag-outperforming-p-500-2026-200504954.html",
+       "date": "2026-08-15"
+      },
+      {
+       "h": "Republican States Race to Cut Property Taxes Ahead of November Elections as Homeowners Demand Relief",
+       "pub": "Benzinga",
+       "link": "https://www.yahoo.com/news/politics/articles/republican-states-race-cut-property-183112529.html",
+       "date": "2026-08-15"
       },
       {
        "h": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-123500778.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not.",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-recovering-3-problems-122510148.html",
        "date": "2026-08-15"
       }
      ],
@@ -5964,6 +5964,12 @@
      },
      "news": [
       {
+       "h": "Are Mega-Mergers Back?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/healthcare/articles/mega-mergers-back-191428995.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "The 4 Words From Jensen Huang That Could Redefine NVIDIA\u2019s Total Addressable Market",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/4-words-jensen-huang-could-120008572.html",
@@ -5974,12 +5980,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/articles/pony-ai-pony-plans-2-011123808.html",
        "date": "2026-08-15"
-      },
-      {
-       "h": "Uber Stock Looks Cheap. Here\u2019s Why.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/buy-uber-stock-pick-price-cf718bc4?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-14"
       }
      ],
      "awards": [
@@ -11249,12 +11249,6 @@
      },
      "news": [
       {
-       "h": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "Cathie Wood sells $11.6 million of surging tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
@@ -11264,6 +11258,12 @@
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
+       "date": "2026-08-15"
+      },
+      {
+       "h": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/over-35-since-aug-3-090500383.html",
        "date": "2026-08-15"
       }
      ],
@@ -17819,16 +17819,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Eli Lilly Is Building a Weight Loss Drug for Every Kind of Patient",
+   "h": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-building-weight-loss-182000844.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "TSLA",
+   "h": "XMAG Is Outperforming the S&P 500 in 2026 as the Magnificent Seven Stall",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/xmag-outperforming-p-500-2026-200504954.html",
    "date": "2026-08-15"
   },
   {
    "tk": "NVDA",
-   "h": "Iren Won't Have to Raise Capital for Much Longer After the Horizon 1 Delivery",
+   "h": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The AI Problem at Law Firms Isn't Hallucination. It's Honesty.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/iren-wont-raise-capital-much-181500827.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ai-problem-law-firms-isnt-191700915.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "UBER",
+   "h": "Are Mega-Mergers Back?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/mega-mergers-back-191428995.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Republican States Race to Cut Property Taxes Ahead of November Elections as Homeowners Demand Relief",
+   "pub": "Benzinga",
+   "link": "https://www.yahoo.com/news/politics/articles/republican-states-race-cut-property-183112529.html",
    "date": "2026-08-15"
   },
   {
@@ -17864,6 +17892,13 @@
    "h": "Cathie Wood sells $11.6 million of surging tech stock",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "UMAC",
+   "h": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
    "date": "2026-08-15"
   },
   {
@@ -17920,13 +17955,6 @@
    "h": "The 4 Words From Jensen Huang That Could Redefine NVIDIA\u2019s Total Addressable Market",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/4-words-jensen-huang-could-120008572.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Early Tesla Investor Steve Jurvetson Bets on SpaceX Alumni to Solve AI\u2019s Power Problem: \u2018The Endgame for Datacenter...'",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/early-tesla-investor-steve-jurvetson-094522451.html",
    "date": "2026-08-15"
   },
   {
@@ -18000,6 +18028,13 @@
    "date": "2026-08-15"
   },
   {
+   "tk": "LUNR",
+   "h": "What Does Intuitive Machines (LUNR) Winning A Missile Defense Contract Mean?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-intuitive-machines-lunr-winning-031952277.html",
+   "date": "2026-08-15"
+  },
+  {
    "tk": "RCAT",
    "h": "Why Is Red Cat Holdings (RCAT) Reworking UAS Leadership As New Drone Tariffs Arrive?",
    "pub": "Simply Wall St.",
@@ -18049,54 +18084,19 @@
    "date": "2026-08-15"
   },
   {
+   "tk": "PLTR",
+   "h": "Jim Cramer Says Palantir (PLTR) Deserves a \u201cLittle Bit More Love\u201d After a Massive Surge",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-pltr-000702429.html",
+   "date": "2026-08-15"
+  },
+  {
    "tk": "BA",
    "h": "BAE Systems (LSE:BA.) Stock May Trade At A 9% Discount Despite THREADS Progress",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/bae-systems-lse-ba-stock-221306465.html",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "DUK",
-   "h": "PCG Passed Our Value-Trap Test. Now What?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "EXC",
-   "h": "PCG Passed Our Value-Trap Test. Now What?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NEE",
-   "h": "PCG Passed Our Value-Trap Test. Now What?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "SO",
-   "h": "PCG Passed Our Value-Trap Test. Now What?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile (ASTS) Wins FCC Approval For 800 MHz Satellite Phone Testing",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-wins-fcc-211130541.html",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 18:35 UTC"
+ "prices_asof": "2026-08-15 20:26 UTC"
 }
