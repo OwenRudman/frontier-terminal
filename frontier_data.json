@@ -1148,15 +1148,15 @@
        "date": "2026-08-14"
       },
       {
-       "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
-       "date": "2026-08-14"
+       "h": "Is NVIDIA\u2019s $500 Billion Fund Jensen Huang\u2019s Best Chess Move Yet or a Red Flag?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-500-billion-fund-jensen-140355908.html",
+       "date": "2026-08-15"
       },
       {
-       "h": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html",
+       "h": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-says-oil-could-140051332.html",
        "date": "2026-08-15"
       }
      ]
@@ -5888,9 +5888,9 @@
        "date": "2026-08-14"
       },
       {
-       "h": "Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not.",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-recovering-3-problems-122510148.html",
+       "h": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-123500778.html",
        "date": "2026-08-15"
       }
      ],
@@ -13531,12 +13531,6 @@
      },
      "news": [
       {
-       "h": "The AI build-out has a problem that $1 trillion in cash can't fix",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html",
-       "date": "2026-08-14"
-      },
-      {
        "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
@@ -13546,6 +13540,12 @@
        "h": "Could $5,000 in This Nuclear Stock Turn Into a Life-Changing Sum?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/could-5-000-nuclear-stock-070500394.html",
+       "date": "2026-08-15"
+      },
+      {
+       "h": "Here's How Much Investing $10,000 in Oklo Stock at Its IPO Is Worth Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-investing-10-000-065000582.html",
        "date": "2026-08-15"
       }
      ],
@@ -15036,6 +15036,12 @@
      "social": null,
      "news": [
       {
+       "h": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/articles/ubs-lists-4-reasons-why-084629846.html",
+       "date": "2026-08-15"
+      },
+      {
        "h": "PCG Passed Our Value-Trap Test. Now What?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
@@ -15046,12 +15052,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
        "date": "2026-08-14"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Edge Lower Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-lower-194912275.html",
-       "date": "2026-08-13"
       }
      ],
      "awards": [
@@ -17818,6 +17818,34 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Is NVIDIA\u2019s $500 Billion Fund Jensen Huang\u2019s Best Chess Move Yet or a Red Flag?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-500-billion-fund-jensen-140355908.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Larry Fink Says Oil Could Be Cut in Half. If So, This Tech Stock Could Explode Higher",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-says-oil-could-140051332.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Home Depot and Lowe's Have Both Raised Their Dividends for 17 Straight Years. Which Stock Is the Smarter Buy Heading Into Earnings?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-lowes-both-raised-135500414.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-123500778.html",
+   "date": "2026-08-15"
+  },
+  {
    "tk": "TSLA",
    "h": "Tesla Stock Is Recovering. The 3 Problems Underneath It Are Not.",
    "pub": "24/7 Wall St.",
@@ -17860,31 +17888,10 @@
    "date": "2026-08-15"
   },
   {
-   "tk": "NVDA",
-   "h": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Rise More than 30% Before 2026 Is Over",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-artificial-intelligence-ai-120500736.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: Market Ready To Run? Sandisk Soars, Nvidia In Buy Area; Walmart, Target Due",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-   "date": "2026-08-15"
-  },
-  {
    "tk": "UBER",
    "h": "The 4 Words From Jensen Huang That Could Redefine NVIDIA\u2019s Total Addressable Market",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/4-words-jensen-huang-could-120008572.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Early Tesla Investor Steve Jurvetson Bets on SpaceX Alumni to Solve AI\u2019s Power Problem: \u2018The Endgame for Datacenter...'",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/early-tesla-investor-steve-jurvetson-094522451.html",
    "date": "2026-08-15"
   },
   {
@@ -17899,6 +17906,13 @@
    "h": "Up Over 35% Since Aug. 3, Is it Too Late to Buy Palantir Stock?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/over-35-since-aug-3-090500383.html",
+   "date": "2026-08-15"
+  },
+  {
+   "tk": "NEE",
+   "h": "UBS lists 4 reasons why it may be a good time to look at infrastructure now",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/articles/ubs-lists-4-reasons-why-084629846.html",
    "date": "2026-08-15"
   },
   {
@@ -18082,21 +18096,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
    "date": "2026-08-14"
-  },
-  {
-   "tk": "QCOM",
-   "h": "QCOM: A Cash Gusher At A Marked-Down Price",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-cash-gusher-marked-down-202537632.html",
-   "date": "2026-08-14"
-  },
-  {
-   "tk": "UMAC",
-   "h": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-0ed39f6f?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-14"
   }
  ],
- "prices_asof": "2026-08-15 12:45 UTC"
+ "prices_asof": "2026-08-15 14:27 UTC"
 }
