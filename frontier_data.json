@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-happen-nvidia-stock-155700687.html",
+       "h": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html",
        "date": "2026-08-16"
       },
       {
-       "h": "Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billion the Same Quarter Google Cloud's Backlog Hit $514 Billion. Here's Which Number Actually Matters More.",
+       "h": "Is Now a Good Time to Buy Costco Wholesale Stock?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sundar-pichai-raised-alphabets-capex-154300838.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
        "date": "2026-08-16"
       },
       {
-       "h": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
+       "h": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/oil-dividend-just-got-raise-153400041.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-stock-jumped-173700900.html",
        "date": "2026-08-16"
       }
      ]
@@ -5891,21 +5891,21 @@
      },
      "news": [
       {
+       "h": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-16"
+      },
+      {
+       "h": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
+       "pub": "Moneywise",
+       "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-       "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/rival-shows-drawback-teslas-driverless-103500145.html",
        "date": "2026-08-16"
       }
      ],
@@ -5979,6 +5979,12 @@
      },
      "news": [
       {
+       "h": "Uber is doubling down on robotaxis, with Chinese partner",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/articles/uber-doubling-down-robotaxis-chinese-170700984.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "2 Large-Cap Stocks on Our Watchlist and 1 Facing Headwinds",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-watchlist-131700329.html",
@@ -5989,12 +5995,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-undervalued-following-011559429.html",
        "date": "2026-08-16"
-      },
-      {
-       "h": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-just-delivered-fantastic-222000993.html",
-       "date": "2026-08-15"
       }
      ],
      "awards": [
@@ -14905,6 +14905,12 @@
      },
      "news": [
       {
+       "h": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
@@ -14914,12 +14920,6 @@
        "h": "PCG Passed Our Value-Trap Test. Now What?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
        "date": "2026-08-14"
       }
      ],
@@ -17858,38 +17858,66 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "DUK",
+   "h": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is Now a Good Time to Buy Costco Wholesale Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-stock-jumped-173700900.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Archer Guided to a $200 Million Quarterly Loss. It Has About $1.6 Billion.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-guided-200-million-quarterly-170700300.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber is doubling down on robotaxis, with Chinese partner",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/articles/uber-doubling-down-robotaxis-chinese-170700984.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
+   "pub": "Moneywise",
+   "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
+   "date": "2026-08-16"
+  },
+  {
    "tk": "AVAV",
    "h": "2 Growth Stocks Set to Flourishand 1 We Brush Off",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-set-flourishand-155700286.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-happen-nvidia-stock-155700687.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billion the Same Quarter Google Cloud's Backlog Hit $514 Billion. Here's Which Number Actually Matters More.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sundar-pichai-raised-alphabets-capex-154300838.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "This Oil Dividend Just Got a Raise. Here's What It Means for Shareholders.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/oil-dividend-just-got-raise-153400041.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/checked-vigs-top-holdings-theyre-152000890.html",
    "date": "2026-08-16"
   },
   {
@@ -17977,24 +18005,10 @@
    "date": "2026-08-16"
   },
   {
-   "tk": "TSLA",
-   "h": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/rival-shows-drawback-teslas-driverless-103500145.html",
-   "date": "2026-08-16"
-  },
-  {
    "tk": "SMR",
    "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
    "date": "2026-08-16"
   },
   {
@@ -18122,21 +18136,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
    "date": "2026-08-16"
-  },
-  {
-   "tk": "RKLB",
-   "h": "If You'd Put $5,000 Into Rocket Lab 5 Years Ago, Here's How Much You'd Have Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/youd-put-5-000-rocket-002500152.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "SMR",
-   "h": "How NuScale\u2019s Advanced Fuel Recycling Collaboration At NuScale Power (SMR) Has Changed Its Investment Story",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-advanced-fuel-recycling-collaboration-230847352.html",
-   "date": "2026-08-15"
   }
  ],
- "prices_asof": "2026-08-16 16:30 UTC"
+ "prices_asof": "2026-08-16 18:34 UTC"
 }
