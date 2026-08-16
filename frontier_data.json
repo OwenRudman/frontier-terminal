@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html",
+       "h": "2 GLP-1 Stocks That Could Double Your Money by 2031",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/healthcare/articles/2-glp-1-stocks-could-202000296.html",
        "date": "2026-08-16"
       },
       {
-       "h": "Is Now a Good Time to Buy Costco Wholesale Stock?",
+       "h": "1 Major Red Flag AMD Investors Can't Afford to Ignore",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-major-red-flag-amd-201800600.html",
        "date": "2026-08-16"
       },
       {
-       "h": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
+       "h": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-stock-jumped-173700900.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-trades-10-times-next-192800101.html",
        "date": "2026-08-16"
       }
      ]
@@ -5772,6 +5772,12 @@
      },
      "news": [
       {
+       "h": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Is Pony AI (PONY) Undervalued Following Its Uber Robotaxi Expansion Plan?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-undervalued-following-011559429.html",
@@ -5781,12 +5787,6 @@
        "h": "Pony AI (PONY) Stock May Sit Above Fair Value After A 49% Fall",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-stock-may-150941500.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Pony AI (PONY) Plans 2,000 Robotaxis Across Europe And The Middle East",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/articles/pony-ai-pony-plans-2-011123808.html",
        "date": "2026-08-15"
       }
      ]
@@ -5979,6 +5979,12 @@
      },
      "news": [
       {
+       "h": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Uber is doubling down on robotaxis, with Chinese partner",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/technology/articles/uber-doubling-down-robotaxis-chinese-170700984.html",
@@ -5988,12 +5994,6 @@
        "h": "2 Large-Cap Stocks on Our Watchlist and 1 Facing Headwinds",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-watchlist-131700329.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Is Pony AI (PONY) Undervalued Following Its Uber Robotaxi Expansion Plan?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-undervalued-following-011559429.html",
        "date": "2026-08-16"
       }
      ],
@@ -17859,9 +17859,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Bitcoin Is Down 44% and Its Miners Are Up 90%. The AI Pivot Explains Everything.",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-miners-90-182147021.html",
+   "h": "2 GLP-1 Stocks That Could Double Your Money by 2031",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/2-glp-1-stocks-could-202000296.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "1 Major Red Flag AMD Investors Can't Afford to Ignore",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-major-red-flag-amd-201800600.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "PONY",
+   "h": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "UBER",
+   "h": "Pony.ai (PONY) and Uber (UBER) Team Up For A Bigger Bet",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-uber-uber-193130272.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-trades-10-times-next-192800101.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Elon Musk Can't Sell SpaceX Stock Until June 2027 -- But 6 Billion More Shares Could Flood the Market Before Then",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-cant-sell-spacex-192000559.html",
    "date": "2026-08-16"
   },
   {
@@ -17869,27 +17904,6 @@
    "h": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-stock-could-180837611.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Is Now a Good Time to Buy Costco Wholesale Stock?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/now-good-time-buy-costco-175200280.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Satya Nadella's Microsoft Stock Jumped 18% in a Week After Azure's Annual Revenue Topped $100 Billion for the First Time. Is It Still a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/satya-nadellas-microsoft-stock-jumped-173700900.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Archer Guided to a $200 Million Quarterly Loss. It Has About $1.6 Billion.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-guided-200-million-quarterly-170700300.html",
    "date": "2026-08-16"
   },
   {
@@ -18122,21 +18136,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-undervalued-following-011559429.html",
    "date": "2026-08-16"
-  },
-  {
-   "tk": "LMT",
-   "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NOC",
-   "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
-   "date": "2026-08-16"
   }
  ],
- "prices_asof": "2026-08-16 18:34 UTC"
+ "prices_asof": "2026-08-16 20:27 UTC"
 }
