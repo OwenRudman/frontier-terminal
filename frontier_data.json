@@ -1137,6 +1137,12 @@
      },
      "news": [
       {
+       "h": "Prediction: Nvidia Stock Will Fall After Aug. 26. Here Are 2 Reasons Why",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-fall-aug-062000738.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "The Stock Market Just Triggered 1 of its Rarest Signals on Record. Here's What History Says Will Happen Next.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-triggered-1-052000027.html",
@@ -1146,12 +1152,6 @@
        "h": "Curaleaf Wants to Buy Aurora Cannabis for $272 Million. Is Canopy Growth the Next Marijuana Takeover Target?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curaleaf-wants-buy-aurora-cannabis-045000368.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/amazon-vs-microsoft-cloud-computing-042000503.html",
        "date": "2026-08-16"
       }
      ]
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-buys-1-013411129.html",
@@ -1792,12 +1798,6 @@
        "h": "Palantir Makes Its Case Against Frontier AI",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Cathie Wood sells $11.6 million of surging tech stock",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
        "date": "2026-08-15"
       }
      ],
@@ -11279,6 +11279,12 @@
      },
      "news": [
       {
+       "h": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
        "pub": "Reuters",
        "link": "https://finance.yahoo.com/energy/articles/billionaire-peter-thiel-buys-1-013411129.html",
@@ -11288,12 +11294,6 @@
        "h": "Palantir Makes Its Case Against Frontier AI",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/palantir-makes-case-against-frontier-215019978.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Cathie Wood sells $11.6 million of surging tech stock",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-11-6-150700193.html",
        "date": "2026-08-15"
       }
      ],
@@ -17858,6 +17858,20 @@
  ],
  "news": [
   {
+   "tk": "PLTR",
+   "h": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: Nvidia Stock Will Fall After Aug. 26. Here Are 2 Reasons Why",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-fall-aug-062000738.html",
+   "date": "2026-08-16"
+  },
+  {
    "tk": "NVDA",
    "h": "The Stock Market Just Triggered 1 of its Rarest Signals on Record. Here's What History Says Will Happen Next.",
    "pub": "Motley Fool",
@@ -17897,13 +17911,6 @@
    "h": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-put-4-9-033900284.html",
    "date": "2026-08-16"
   },
   {
@@ -18129,14 +18136,7 @@
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
    "date": "2026-08-15"
-  },
-  {
-   "tk": "OKLO",
-   "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
-   "date": "2026-08-15"
   }
  ],
- "prices_asof": "2026-08-16 06:22 UTC"
+ "prices_asof": "2026-08-16 06:46 UTC"
 }
