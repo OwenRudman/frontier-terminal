@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "The Vanguard S&P 500 ETF (VOO) Beat the Vanguard Morningstar Total Stock Market ETF (VTI) for 4 Straight Years. Here's Why That's About to Change.",
+       "h": "If You're 50 and Have More Than This Number in Your 401(k), You're Ahead of the Average",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-etf-voo-122500800.html",
+       "link": "https://finance.yahoo.com/markets/articles/youre-50-more-number-401-140900339.html",
        "date": "2026-08-16"
       },
       {
-       "h": "The Stock Market Is About To Do Something It's Never Done This Century. History Says This Is What Happens Next (Hint: It's Bullish)",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-something-never-done-120500896.html",
+       "h": "Nvidia (NVDA) Stock Looks Near Fair Value After A Huge Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-looks-near-140830409.html",
        "date": "2026-08-16"
       },
       {
-       "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+       "h": "Why Smithfield Foods Stock Sank This Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-smithfield-foods-stock-sank-140302283.html",
        "date": "2026-08-16"
       }
      ]
@@ -5891,6 +5891,12 @@
      },
      "news": [
       {
+       "h": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Rival Shows the Drawback in Tesla's Driverless Tech Strategy. Are They Right?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/rival-shows-drawback-teslas-driverless-103500145.html",
@@ -5900,12 +5906,6 @@
        "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-16"
       }
      ],
@@ -5979,6 +5979,12 @@
      },
      "news": [
       {
+       "h": "2 Large-Cap Stocks on Our Watchlist and 1 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-watchlist-131700329.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Is Pony AI (PONY) Undervalued Following Its Uber Robotaxi Expansion Plan?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-undervalued-following-011559429.html",
@@ -5988,12 +5994,6 @@
        "h": "Dara Khosrowshahi Just Delivered Fantastic News for Uber Stock Investors",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/dara-khosrowshahi-just-delivered-fantastic-222000993.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
        "date": "2026-08-15"
       }
      ],
@@ -17859,9 +17859,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "The Vanguard S&P 500 ETF (VOO) Beat the Vanguard Morningstar Total Stock Market ETF (VTI) for 4 Straight Years. Here's Why That's About to Change.",
+   "h": "If You're 50 and Have More Than This Number in Your 401(k), You're Ahead of the Average",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-p-500-etf-voo-122500800.html",
+   "link": "https://finance.yahoo.com/markets/articles/youre-50-more-number-401-140900339.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia (NVDA) Stock Looks Near Fair Value After A Huge Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-looks-near-140830409.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Smithfield Foods Stock Sank This Week",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-smithfield-foods-stock-sank-140302283.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stanley Druckenmiller\u2019s Big Bet: New Broadcom, Intel and Arm Stakes in One Quarter",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-big-bet-broadcom-140036254.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "UBER",
+   "h": "2 Large-Cap Stocks on Our Watchlist and 1 Facing Headwinds",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-watchlist-131700329.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "TSLA",
+   "h": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
    "date": "2026-08-16"
   },
   {
@@ -17876,27 +17911,6 @@
    "h": "3 Services Stocks That Concern Us",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-services-stocks-concern-us-121300569.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "The Stock Market Is About To Do Something It's Never Done This Century. History Says This Is What Happens Next (Hint: It's Bullish)",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-something-never-done-120500896.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Should You Buy Taiwan Semiconductor Stock Below $440? Here's What History Says.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-taiwan-semiconductor-stock-below-115500690.html",
    "date": "2026-08-16"
   },
   {
@@ -18040,13 +18054,6 @@
    "date": "2026-08-16"
   },
   {
-   "tk": "TSLA",
-   "h": "1 Industrials Stock Worth Your Attention and 2 That Underwhelm",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-014100621.html",
-   "date": "2026-08-16"
-  },
-  {
    "tk": "PLTR",
    "h": "Billionaire Peter Thiel buys 1% stake in Argentine Vaca Muerta oil firm, filing shows",
    "pub": "Reuters",
@@ -18129,14 +18136,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
    "date": "2026-08-15"
-  },
-  {
-   "tk": "RKLB",
-   "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
-   "date": "2026-08-15"
   }
  ],
- "prices_asof": "2026-08-16 12:47 UTC"
+ "prices_asof": "2026-08-16 14:27 UTC"
 }
