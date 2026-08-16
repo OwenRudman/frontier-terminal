@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
+       "h": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/amazon-vs-microsoft-cloud-computing-042000503.html",
+       "date": "2026-08-16"
+      },
+      {
+       "h": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-put-4-9-033900284.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "AMD Just Borrowed $4.75 Billion, More Than Triple Its Last Bond Sale",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-borrowed-4-75-023900183.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "If You've Saved This Much for Retirement by Age 50, You're Ahead of the Game",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/articles/youve-saved-much-retirement-age-022100947.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Firefly Aerospace Is Awarded New Orbital Contract From Department of Defense",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-awarded-orbital-contract-021052649.html",
        "date": "2026-08-16"
       }
      ]
@@ -2356,6 +2356,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Fires erupt across Kyiv after Russian missile strike, one injured",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/fires-erupt-across-kyiv-russian-030959428.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
@@ -2366,12 +2372,6 @@
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/putin-says-russia-north-korea-012444686.html",
        "date": "2026-08-15"
-      },
-      {
-       "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
-       "date": "2026-08-14"
       }
      ],
      "awards": [
@@ -10706,6 +10706,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Fires erupt across Kyiv after Russian missile strike, one injured",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/fires-erupt-across-kyiv-russian-030959428.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
@@ -10716,12 +10722,6 @@
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/putin-says-russia-north-korea-012444686.html",
        "date": "2026-08-15"
-      },
-      {
-       "h": "Rocket Lab, Amazon Win Space Force Contracts. SpaceX Closes Cursor Deal.",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/space-force-sdn-contracts-rocket-lab-amazon-spacex-completes-cursor-deal/?src=A00220&yptr=yahoo",
-       "date": "2026-08-14"
       }
      ],
      "awards": [
@@ -14865,6 +14865,12 @@
      },
      "news": [
       {
+       "h": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "PCG Passed Our Value-Trap Test. Now What?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html",
@@ -14875,12 +14881,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/utility-etfs-buy-rapid-ai-152700941.html",
        "date": "2026-08-14"
-      },
-      {
-       "h": "Is CEG's Nuclear Fleet Positioned to Support Long-Term Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/cegs-nuclear-fleet-positioned-support-181300000.html",
-       "date": "2026-08-13"
       }
      ],
      "awards": [
@@ -17819,6 +17819,34 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-vs-microsoft-cloud-computing-042000503.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "DUK",
+   "h": "Duke Energy (DUK) Completes $1.75 Billion Composite Units Offering",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Bill Ackman Put 4.9% of Pershing Square USA Into the Netflix Trade That Cost Him $400 Million in 2022",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-put-4-9-033900284.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NOC",
+   "h": "Fires erupt across Kyiv after Russian missile strike, one injured",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/fires-erupt-across-kyiv-russian-030959428.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
    "h": "AMD Just Borrowed $4.75 Billion, More Than Triple Its Last Bond Sale",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/amd-just-borrowed-4-75-023900183.html",
@@ -17839,21 +17867,7 @@
    "date": "2026-08-16"
   },
   {
-   "tk": "NVDA",
-   "h": "Firefly Aerospace Is Awarded New Orbital Contract From Department of Defense",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-awarded-orbital-contract-021052649.html",
-   "date": "2026-08-16"
-  },
-  {
    "tk": "CEG",
-   "h": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/why-data-centers-turning-energy-020500406.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
    "h": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/why-data-centers-turning-energy-020500406.html",
@@ -18082,21 +18096,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
    "date": "2026-08-15"
-  },
-  {
-   "tk": "LMT",
-   "h": "Verizon (VZ) Brings AI And 5G To Airspace Monitoring Pilots",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/verizon-vz-brings-ai-5g-121023535.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Unusual Machines (UMAC) Stock May Be Overvalued Following Explosive Q2 Growth",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-stock-may-121015114.html",
-   "date": "2026-08-15"
   }
  ],
- "prices_asof": "2026-08-16 03:04 UTC"
+ "prices_asof": "2026-08-16 04:39 UTC"
 }
