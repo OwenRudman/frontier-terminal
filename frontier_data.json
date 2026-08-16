@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Costco: Patient Investors Know the Bear Case (NASDAQ: COST)",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-patient-investors-know-bear-081500721.html",
+       "h": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html",
        "date": "2026-08-16"
       },
       {
-       "h": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right.",
+       "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-spacex-worth-080500114.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
        "date": "2026-08-16"
       },
       {
-       "h": "IonQ Paid $1.8 Billion for a Chip Foundry. Here's What Investors Should Know.",
+       "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/ionq-paid-1-8-billion-080100961.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
        "date": "2026-08-16"
       }
      ]
@@ -2373,7 +2373,7 @@
        "date": "2026-08-16"
       },
       {
-       "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+       "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
        "date": "2026-08-16"
@@ -5891,6 +5891,12 @@
      },
      "news": [
       {
+       "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "This Sprawling Chinese Refinery Is Bankrolling Tehran",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/world/china/hengli-china-oil-company-iran-c802475a?siteid=yhoof2&yptr=yahoo",
@@ -5900,12 +5906,6 @@
        "h": "1 Industrials Stock Worth Your Attention and 2 That Underwhelm",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-worth-attention-014100621.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Morgan Stanley sends a blunt Tesla message to investors",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-blunt-tesla-010300423.html",
        "date": "2026-08-16"
       }
      ],
@@ -7464,6 +7464,12 @@
      "social": null,
      "news": [
       {
+       "h": "What\u2019s Really Behind Symbotic\u2019s (SYM) Big Quarter?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "Can Serve Robotics Scale Physical AI Beyond Food Delivery in 2026?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-scale-physical-ai-144300573.html",
@@ -7474,12 +7480,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-q3-2026-earnings-032859301.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Robotics Stocks Rally as Unitree\u2019s 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-rally-unitree-8000x-183206760.html",
-       "date": "2026-08-11"
       }
      ]
     },
@@ -10623,7 +10623,7 @@
      ],
      "news": [
       {
-       "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+       "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
        "date": "2026-08-16"
@@ -10748,7 +10748,7 @@
        "date": "2026-08-16"
       },
       {
-       "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+       "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
        "date": "2026-08-16"
@@ -13632,6 +13632,12 @@
      },
      "news": [
       {
+       "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "How NuScale\u2019s Advanced Fuel Recycling Collaboration At NuScale Power (SMR) Has Changed Its Investment Story",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-advanced-fuel-recycling-collaboration-230847352.html",
@@ -13641,12 +13647,6 @@
        "h": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
        "date": "2026-08-15"
       }
      ]
@@ -17859,9 +17859,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Costco: Patient Investors Know the Bear Case (NASDAQ: COST)",
+   "h": "Jim Cramer Backs NVIDIA (NVDA) Compute Bonds",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-backs-nvidia-nvda-101719339.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-patient-investors-know-bear-081500721.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "SMR",
+   "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk Has Said He Wants 25% Voting Control of Tesla to Feel Comfortable Leading Its AI Push. Here's What That Threshold Means for Shareholders.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-said-wants-25-100500269.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why the Alnylam Sell-Off Looks Overdone -- and What Investors Are Missing",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/healthcare/articles/why-alnylam-sell-off-looks-100100216.html",
+   "date": "2026-08-16"
+  },
+  {
+   "tk": "SYM",
+   "h": "What\u2019s Really Behind Symbotic\u2019s (SYM) Big Quarter?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
    "date": "2026-08-16"
   },
   {
@@ -17869,27 +17911,6 @@
    "h": "Curtiss Wright (CW) Stock Looks Stretched Following Its 5x Five Year Run",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-stock-looks-080856986.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Morgan Stanley Says SpaceX Is Worth $300 Per Share. The Stock Trades Near $140. Here's Who I Think Is Right.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-spacex-worth-080500114.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "IonQ Paid $1.8 Billion for a Chip Foundry. Here's What Investors Should Know.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/ionq-paid-1-8-billion-080100961.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-palantir-investment-072000434.html",
    "date": "2026-08-16"
   },
   {
@@ -18013,14 +18034,14 @@
   },
   {
    "tk": "LMT",
-   "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+   "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
    "date": "2026-08-16"
   },
   {
    "tk": "NOC",
-   "h": "Iran war commander visits USS Abraham Lincoln as carrier prepares to return home",
+   "h": "Iran disputes Qatar, Kuwait accounts as U.S. war commander visits carrier",
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/us/articles/iran-war-commander-visits-uss-003112203.html",
    "date": "2026-08-16"
@@ -18044,13 +18065,6 @@
    "h": "Curtiss-Wright (CW) Just Raised Guidance Again, So What\u2019s The Catch?",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-just-raised-230318763.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's Tesla Is Ending Sweden's Longest Strike by Buying Out Every Worker Still on It",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-ending-swedens-224600636.html",
    "date": "2026-08-15"
   },
   {
@@ -18122,21 +18136,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
    "date": "2026-08-15"
-  },
-  {
-   "tk": "SMR",
-   "h": "Everyone's Watching Oklo and NuScale for Nuclear Exposure. This Overlooked Stock Is Building One Too.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/everyones-watching-oklo-nuscale-nuclear-170500813.html",
-   "date": "2026-08-15"
-  },
-  {
-   "tk": "PONY",
-   "h": "Pony AI (PONY) Stock May Sit Above Fair Value After A 49% Fall",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-stock-may-150941500.html",
-   "date": "2026-08-15"
   }
  ],
- "prices_asof": "2026-08-16 08:33 UTC"
+ "prices_asof": "2026-08-16 10:27 UTC"
 }
