@@ -1140,19 +1140,19 @@
        "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-       "date": "2026-08-16"
+       "date": "2026-08-17"
       },
       {
-       "h": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
+       "h": "RocketLab\u2019s Neutron Update, On Holdings Earnings, and the eVTOL Rivalry Heats Up",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/micron-worth-1-1-trillion-214900136.html",
-       "date": "2026-08-16"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocketlab-neutron-holdings-earnings-evtol-010651556.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/software-stock-just-produced-rule-005000582.html",
+       "date": "2026-08-17"
       }
      ]
     },
@@ -1783,6 +1783,12 @@
      },
      "news": [
       {
+       "h": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/software-stock-just-produced-rule-005000582.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Peter Thiel invests $118 million in surging big tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-invests-118-million-151700060.html",
@@ -1792,12 +1798,6 @@
        "h": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-palantir-investment-072000434.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
        "date": "2026-08-16"
       }
      ],
@@ -8507,6 +8507,12 @@
      ],
      "news": [
       {
+       "h": "Aerospace Stocks Q2 Results: Benchmarking Rocket Lab (NASDAQ:RKLB)",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-q2-results-benchmarking-223700452.html",
+       "date": "2026-08-16"
+      },
+      {
        "h": "If You'd Put $5,000 Into Rocket Lab 5 Years Ago, Here's How Much You'd Have Today",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/youd-put-5-000-rocket-002500152.html",
@@ -8516,12 +8522,6 @@
        "h": "This ETF Got You Into SpaceX Before the IPO. Now That Anyone Can Buy the Stock, What\u2019s It For?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/etf-got-spacex-ipo-now-213034388.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/schg-vs-qqq-vs-vug-121711599.html",
        "date": "2026-08-15"
       }
      ],
@@ -11279,6 +11279,12 @@
      },
      "news": [
       {
+       "h": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/software-stock-just-produced-rule-005000582.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Peter Thiel invests $118 million in surging big tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-invests-118-million-151700060.html",
@@ -11288,12 +11294,6 @@
        "h": "Here's What a $10,000 Palantir Investment Could Be Worth by 2028",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-10-000-palantir-investment-072000434.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "Intuit, MongoDB, Cloudflare, Palantir Technologies, and The Trade Desk Shares Are Soaring, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-mongodb-cloudflare-palantir-technologies-062900428.html",
        "date": "2026-08-16"
       }
      ],
@@ -13632,6 +13632,12 @@
      },
      "news": [
       {
+       "h": "NuScale's Potential TVA Deal Could Be 6 to 8 Gigawatts. Here's Why the CEO Calls It the Largest Nuclear Build-Out in U.S. History.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/nuscales-potential-tva-deal-could-002000195.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "$10,000 in NuScale at Its 52-Week High Is Worth About $1,650 Today",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-nuscale-52-week-101200725.html",
@@ -13641,12 +13647,6 @@
        "h": "How NuScale\u2019s Advanced Fuel Recycling Collaboration At NuScale Power (SMR) Has Changed Its Investment Story",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-advanced-fuel-recycling-collaboration-230847352.html",
-       "date": "2026-08-15"
-      },
-      {
-       "h": "Jim Cramer Was Happy The Market \u201cCared\u201d About D-Wave Quantum \u2013 But Not How You Think",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-happy-market-cared-212804288.html",
        "date": "2026-08-15"
       }
      ]
@@ -17862,20 +17862,48 @@
    "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
-   "date": "2026-08-16"
+   "date": "2026-08-17"
   },
   {
    "tk": "NVDA",
-   "h": "Wall Street\u2019s Biggest Funds Are Dumping Broadcom and Adding Taiwan Semiconductor. Time to Follow the \u2018Smart Money?\u2019",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-biggest-funds-dumping-221314247.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Micron Is Worth $1.1 Trillion and Sits 23% Below Its 52-Week High. Is the Stock a Buy?",
+   "h": "RocketLab\u2019s Neutron Update, On Holdings Earnings, and the eVTOL Rivalry Heats Up",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-worth-1-1-trillion-214900136.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocketlab-neutron-holdings-earnings-evtol-010651556.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/software-stock-just-produced-rule-005000582.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "PLTR",
+   "h": "This Software Stock Just Produced a Rule of 40 Score Nearly as High as Palantir's, and Its Valuation Is Much More Attractive",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/software-stock-just-produced-rule-005000582.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Cloudflare CEO Says the Internet Is Changing Exponentially",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/cloudflare-ceo-says-internet-changing-004824431.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale's Potential TVA Deal Could Be 6 to 8 Gigawatts. Here's Why the CEO Calls It the Largest Nuclear Build-Out in U.S. History.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/nuscales-potential-tva-deal-could-002000195.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Aerospace Stocks Q2 Results: Benchmarking Rocket Lab (NASDAQ:RKLB)",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-q2-results-benchmarking-223700452.html",
    "date": "2026-08-16"
   },
   {
@@ -17897,13 +17925,6 @@
    "h": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-david-tepper-just-214351429.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "NVDA",
-   "h": "1 Jaw-Dropping Metric That Makes Alphabet Stock a No-Brainer Buy.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-jaw-dropping-metric-makes-212600838.html",
    "date": "2026-08-16"
   },
   {
@@ -18115,28 +18136,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-completes-1-041651254.html",
    "date": "2026-08-16"
-  },
-  {
-   "tk": "NOC",
-   "h": "Fires erupt across Kyiv after Russian missile strike, one injured",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/world/articles/fires-erupt-across-kyiv-russian-030959428.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "FLY",
-   "h": "Firefly Aerospace Is Awarded New Orbital Contract From Department of Defense",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-awarded-orbital-contract-021052649.html",
-   "date": "2026-08-16"
-  },
-  {
-   "tk": "CEG",
-   "h": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/why-data-centers-turning-energy-020500406.html",
-   "date": "2026-08-16"
   }
  ],
- "prices_asof": "2026-08-16 22:25 UTC"
+ "prices_asof": "2026-08-17 01:36 UTC"
 }
