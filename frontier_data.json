@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 633,
-      "up": 1
+      "m0": 0,
+      "rk": 523,
+      "up": 3
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 6,
-      "rk": 68,
-      "up": 16
+      "m0": 3,
+      "rk": 89,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 45,
-      "m0": 115,
-      "rk": 2,
-      "up": 101
+      "m": 58,
+      "m0": 45,
+      "rk": 4,
+      "up": 952
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Where Will Palantir Stock Be in 2030?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/where-palantir-stock-2030-035000478.html",
+       "h": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+       "pub": "Euronews",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-doubled-nvidias-own-032000622.html",
+       "h": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-says-could-heard-055211614.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
+       "h": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/technology/ai/articles/dan-niles-says-ai-infrastructure-054652006.html",
        "date": "2026-08-17"
       }
      ]
@@ -1312,12 +1312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 733,
-      "up": -1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 15,
-      "rk": 76,
-      "up": 6
+      "m": 7,
+      "m0": 3,
+      "rk": 44,
+      "up": 418
      },
      "thesis": {
       "bull": [
@@ -1864,10 +1859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 777,
-      "up": 3
+      "rk": 126,
+      "up": 4
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
@@ -2044,12 +2039,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 289,
-      "up": 0
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2490,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 306,
-      "up": 0
+      "m": 3,
+      "m0": 1,
+      "rk": 76,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2841,9 +2831,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 693,
-      "up": 1
+      "m0": 1,
+      "rk": 564,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -3158,9 +3148,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 38,
-      "rk": 755,
-      "up": 12
+      "m0": 1,
+      "rk": 614,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3747,8 +3737,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 579,
+      "m0": 1,
+      "rk": 493,
       "up": 3
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4053,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 41,
-      "rk": 17,
-      "up": 29
+      "m": 18,
+      "m0": 15,
+      "rk": 14,
+      "up": 67
      },
      "thesis": {
       "bull": [
@@ -4403,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 96,
-      "up": 11
+      "m": 1,
+      "m0": 2,
+      "rk": 339,
+      "up": 3
      },
      "news": [
       {
@@ -4738,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 626,
-      "up": 1
+      "rk": 519,
+      "up": 3
      },
      "news": [
       {
@@ -5767,7 +5757,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 782,
+      "rk": 636,
       "up": 3
      },
      "news": [
@@ -5884,12 +5874,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 66,
-      "rk": 12,
-      "up": 49
+      "m": 15,
+      "m0": 19,
+      "rk": 16,
+      "up": 445
      },
      "news": [
+      {
+       "h": "Elon Musk Says Tesla Is \u2018Most Made in America\u2019 Car Brand as Trump Tariffs Shake Up Auto Industry",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html",
+       "date": "2026-08-17"
+      },
       {
        "h": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
        "pub": "Barrons.com",
@@ -5900,12 +5896,6 @@
        "h": "Waymo shipped 3,200 Chinese-built EVs to LA for its robotaxi fleet despite 127.5% tariffs Americans can't get around",
        "pub": "Moneywise",
        "link": "https://finance.yahoo.com/technology/articles/waymo-shipped-3-200-chinese-163000266.html",
-       "date": "2026-08-16"
-      },
-      {
-       "h": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-140813250.html",
        "date": "2026-08-16"
       }
      ],
@@ -5974,7 +5964,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 356,
+      "rk": 322,
       "up": 1
      },
      "news": [
@@ -6061,8 +6051,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 350,
+      "m0": 1,
+      "rk": 314,
       "up": 0
      },
      "news": [
@@ -6294,8 +6284,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 690,
-      "up": 1
+      "rk": 562,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -6782,12 +6772,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 730,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster Stock Doubles YTD: Buy OUST After Another Quarter of Beat?",
@@ -7129,12 +7114,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 195,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "QCOM: A Cash Gusher At A Marked-Down Price",
@@ -7277,8 +7257,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 704,
-      "up": 2
+      "rk": 570,
+      "up": 1
      },
      "news": [
       {
@@ -7698,7 +7678,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 661,
+      "up": 2
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7787,12 +7772,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 9,
-      "rk": 41,
-      "up": 6
+      "m": 11,
+      "m0": 6,
+      "rk": 24,
+      "up": 18
      },
      "news": [
+      {
+       "h": "sell-side Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/healthcare/articles/goldman-sachs-builds-75m-bet-051737086.html",
+       "date": "2026-08-17"
+      },
       {
        "h": "SLS And IBRX Eye Green Weekly Close: Vanguard\u2019s Major Stakes In Cancer Drugmakers Steal The Spotlight",
        "pub": "Stocktwits",
@@ -7804,12 +7795,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-logs-best-day-014358449.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Sellas\u2019 Experimental Drug SLS009 Appears To Be Leading The CDK9 Race, Says Alliance Global \u2013 Analyst Sees About 200% Upside Potential",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sellas-experimental-drug-sls009-appears-160721235.html",
-       "date": "2026-08-12"
       }
      ]
     }
@@ -8296,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 16,
-      "rk": 26,
-      "up": 27
+      "m": 14,
+      "m0": 9,
+      "rk": 20,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -8599,8 +8584,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 398,
-      "up": 2
+      "rk": 353,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8783,7 +8768,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 643,
+      "rk": 532,
       "up": 2
      },
      "thesis": {
@@ -9046,7 +9031,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 656,
+      "up": 2
+     },
      "news": [
       {
        "h": "RKLB Stock Rises Overnight: Rocket Lab\u2019s First 8 Satellites From $143M Globalstar Deal Reach Orbit",
@@ -9103,12 +9093,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 663,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Sidus Space Inc (SIDU) (Q2 2026) Earnings Call Highlights: $158. ...",
@@ -9202,9 +9187,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 687,
-      "up": 4
+      "m0": 1,
+      "rk": 560,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9545,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 18,
-      "rk": 16,
-      "up": 81
+      "m": 15,
+      "m0": 16,
+      "rk": 17,
+      "up": 152
      },
      "thesis": {
       "bull": [
@@ -9941,8 +9926,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 252,
+      "m0": 1,
+      "rk": 242,
       "up": 1
      },
      "news": [
@@ -10332,8 +10317,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 691,
+      "m0": 1,
+      "rk": 563,
       "up": 1
      },
      "news": [
@@ -10445,8 +10430,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 21,
-      "rk": 747,
+      "m0": 1,
+      "rk": 607,
       "up": 1
      },
      "news": [
@@ -10534,7 +10519,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 792,
+      "rk": 644,
       "up": 1
      },
      "news": [
@@ -10604,8 +10589,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 129,
+      "m0": 1,
+      "rk": 150,
       "up": 1
      },
      "streetNotes": [
@@ -10816,12 +10801,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 115,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Dow sell-side Stocks to Target This Week and 1 We Avoid",
@@ -10905,10 +10885,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 96,
-      "up": 11
+      "m": 1,
+      "m0": 2,
+      "rk": 339,
+      "up": 3
      },
      "news": [
       {
@@ -11272,10 +11252,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 15,
-      "rk": 76,
-      "up": 6
+      "m": 7,
+      "m0": 3,
+      "rk": 44,
+      "up": 418
      },
      "news": [
       {
@@ -11363,7 +11343,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 464,
+      "rk": 406,
       "up": 2
      },
      "news": [
@@ -12402,7 +12382,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 364,
+      "up": 0
+     },
      "news": [
       {
        "h": "2 Best Nuclear Power Stocks Right Now",
@@ -12590,7 +12575,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 317,
+      "up": 1
+     },
      "news": [
       {
        "h": "Denison Mine (DNN) Reports Q2 Loss, Misses Revenue Estimates",
@@ -12709,7 +12699,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 352,
+      "rk": 316,
       "up": 0
      },
      "news": [
@@ -12790,10 +12780,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 728,
-      "up": 1
+      "rk": 65,
+      "up": 37
      },
      "news": [
       {
@@ -13384,10 +13374,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 102,
-      "up": 7
+      "m": 3,
+      "m0": 2,
+      "rk": 91,
+      "up": 20
      },
      "thesis": {
       "bull": [
@@ -13626,9 +13616,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 716,
-      "up": 1
+      "m0": 1,
+      "rk": 581,
+      "up": 0
      },
      "news": [
       {
@@ -13687,12 +13677,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 761,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NNE Stock Heads For Best Month In 2026: So Why Is Wall Street Slashing Price Targets?",
@@ -14113,9 +14098,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 773,
-      "up": 1
+      "m0": 1,
+      "rk": 628,
+      "up": 0
      },
      "news": [
       {
@@ -14657,10 +14642,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 98,
-      "up": 9
+      "m": 1,
+      "m0": 2,
+      "rk": 279,
+      "up": 6
      },
      "news": [
       {
@@ -14809,12 +14794,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 163,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
@@ -14900,7 +14880,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 217,
+      "rk": 218,
       "up": 4
      },
      "news": [
@@ -14986,10 +14966,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 197,
-      "up": 2
+      "m": 3,
+      "m0": 1,
+      "rk": 71,
+      "up": 9
      },
      "news": [
       {
@@ -15073,7 +15053,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 213,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
@@ -15156,12 +15141,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 229,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
@@ -15385,12 +15365,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 504,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Is Still Down 32% This Year. What Will It Take to Get SMR Stock Back to $15?",
@@ -17578,7 +17553,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-16",
+ "social_asof": "2026-08-17",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17859,9 +17834,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Where Will Palantir Stock Be in 2030?",
+   "h": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+   "pub": "Euronews",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-says-could-heard-055211614.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/technology/ai/articles/dan-niles-says-ai-infrastructure-054652006.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why This Memory Chip Boom May Have More Staying Power Than History Suggests",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-palantir-stock-2030-035000478.html",
+   "link": "https://finance.yahoo.com/technology/articles/why-memory-chip-boom-may-052000643.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "SLS",
+   "h": "sell-side Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/healthcare/articles/goldman-sachs-builds-75m-bet-051737086.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk Says Tesla Is \u2018Most Made in America\u2019 Car Brand as Trump Tariffs Shake Up Auto Industry",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html",
    "date": "2026-08-17"
   },
   {
@@ -17869,20 +17879,6 @@
    "h": "Where Will Palantir Stock Be in 2030?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/where-palantir-stock-2030-035000478.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Jensen Huang Doubled Nvidia's Own Sales Forecast to $1 Trillion Through 2027. Here's What That Guidance Means for the Stock's Valuation.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-doubled-nvidias-own-032000622.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Nears Key Level; Walmart Looms",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo",
    "date": "2026-08-17"
   },
   {
@@ -17894,13 +17890,6 @@
   },
   {
    "tk": "CEG",
-   "h": "2 Best Nuclear Power Stocks Right Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-best-nuclear-power-stocks-025000160.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NVDA",
    "h": "2 Best Nuclear Power Stocks Right Now",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/2-best-nuclear-power-stocks-025000160.html",
@@ -18103,13 +18092,6 @@
    "date": "2026-08-16"
   },
   {
-   "tk": "TSLA",
-   "h": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-   "pub": "Bloomberg",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html",
-   "date": "2026-08-16"
-  },
-  {
    "tk": "LMT",
    "h": "1 Unpopular Stock That Should Get More Attention and 2 We Turn Down",
    "pub": "StockStory",
@@ -18129,14 +18111,7 @@
    "pub": "BeInCrypto",
    "link": "https://finance.yahoo.com/energy/articles/peter-thiel-second-biggest-bet-112439947.html",
    "date": "2026-08-16"
-  },
-  {
-   "tk": "CEG",
-   "h": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-riding-110022153.html",
-   "date": "2026-08-16"
   }
  ],
- "prices_asof": "2026-08-17 04:48 UTC"
+ "prices_asof": "2026-08-17 06:32 UTC"
 }
