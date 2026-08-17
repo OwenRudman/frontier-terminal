@@ -1137,6 +1137,12 @@
      },
      "news": [
       {
+       "h": "3 Critical Things Investors Overlooked in Rivian's Strong Q2",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-critical-things-investors-overlooked-063500191.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
        "pub": "Euronews",
        "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
@@ -1146,12 +1152,6 @@
        "h": "Michael Burry Says \u2018You Could Have Heard It First\u2019 \u2014 As Big Tech\u2019s $3T AI Spending Risk Comes Into Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-says-could-heard-055211614.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/technology/ai/articles/dan-niles-says-ai-infrastructure-054652006.html",
        "date": "2026-08-17"
       }
      ]
@@ -17834,6 +17834,13 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "3 Critical Things Investors Overlooked in Rivian's Strong Q2",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-critical-things-investors-overlooked-063500191.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
    "h": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
    "pub": "Euronews",
    "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html",
@@ -17851,13 +17858,6 @@
    "h": "Dan Niles Says AI Infrastructure Rally Has \u2018At Least A Year\u2019 To Run \u2014 Names Intel His Favorite Chip Bet",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/technology/ai/articles/dan-niles-says-ai-infrastructure-054652006.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why This Memory Chip Boom May Have More Staying Power Than History Suggests",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/why-memory-chip-boom-may-052000643.html",
    "date": "2026-08-17"
   },
   {
@@ -18113,5 +18113,5 @@
    "date": "2026-08-16"
   }
  ],
- "prices_asof": "2026-08-17 06:32 UTC"
+ "prices_asof": "2026-08-17 07:03 UTC"
 }
