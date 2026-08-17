@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "SpaceX shareholders include Google, Nvidia, BlackRock: Tracking the stock's volatility",
+       "h": "Nvidia to finance $105B for an OpenAI data center: What to know",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/spacex-shareholders-google-nvidia-blackrock-150348057.html",
+       "link": "https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html",
        "date": "2026-08-17"
       },
       {
-       "h": "How IREN Is Cashing In on the AI Data Center Boom",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/iren-cashing-ai-data-center-183000811.html",
+       "h": "Micron stock heats up again, crossing $1,000",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Billionaire Bill Ackman Just Invested in Netflix Stock. Here's Why Investors Should Care.",
+       "h": "Is Realty Income the Ultimate Dividend Stock to Own?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-invested-182500429.html",
+       "link": "https://finance.yahoo.com/real-estate/articles/realty-income-ultimate-dividend-stock-201537083.html",
        "date": "2026-08-17"
       }
      ]
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "1 Nasdaq 100 Stock to Own for Decades and 2 We Turn Down",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-own-175020783.html",
@@ -1787,12 +1793,6 @@
        "h": "These AI Companies Have Little to Fear From Coming Regulation",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/ai-regulation-coreweave-stock-a940ab5e?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Top Midday Stories: Nvidia Investing $1.5 Billion in SB Energy; L3Harris Names Sam Mehta as CEO, Replacing Christopher Kubasik",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-investing-154830059.html",
        "date": "2026-08-17"
       }
      ],
@@ -4406,15 +4406,15 @@
        "date": "2026-08-17"
       },
       {
-       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
+       "h": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-191020096.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Can L3Harris' New Rhode Island Facility Strengthen Undersea Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-rhode-island-facility-strengthen-143300358.html",
+       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
        "date": "2026-08-17"
       }
      ],
@@ -5881,21 +5881,21 @@
      },
      "news": [
       {
-       "h": "Stellantis Recalls Almost 1 Million Cars; Stock Falls To All-Time Low",
+       "h": "Tesla to launch Cybercab in Austin this month - report",
+       "pub": "Investing.com",
+       "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/stellantis-recall-dodge-jeep-chrysler-ford-general-motors/?src=A00220&yptr=yahoo",
+       "link": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
        "date": "2026-08-17"
       },
       {
-       "h": "Rivian Drops 25% This Year With $164M of Credits Vanishing in the Second Half",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-drops-25-164m-credits-181433091.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Tesla Batters Rivian in Self-Driving Test",
-       "pub": "24/7 Wall St.",
-       "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-batters-rivian-self-driving-175302909.html",
+       "h": "Top Tesla investor says gold beats Bitcoin but he isn't selling like Saylor",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/top-tesla-investor-says-gold-191921415.html",
        "date": "2026-08-17"
       }
      ],
@@ -5969,21 +5969,21 @@
      },
      "news": [
       {
-       "h": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe\u2019s Driverless Push",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/ai/articles/2-000-robotaxis-four-cities-173028748.html",
+       "h": "Uber Rises on Zipline Drone Delivery Deal",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rises-zipline-drone-delivery-201725980.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Uber and Zipline partner on drone delivery for Uber Eats",
-       "pub": "Quartz",
-       "link": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-drone-delivery-165012064.html",
+       "h": "Uber and Zipline Target a Million Drone Deliveries a Day",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/articles/uber-zipline-target-million-drone-200843989.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Uber Technologies (UBER) Plans More Than 2,000 Robotaxis Across Europe And Middle East",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-plans-more-151617000.html",
+       "h": "Uber teams up with Zipline for drone delivery",
+       "pub": "Nation's Restaurant News",
+       "link": "https://finance.yahoo.com/technology/articles/uber-teams-zipline-drone-delivery-181833154.html",
        "date": "2026-08-17"
       }
      ],
@@ -7444,6 +7444,12 @@
      "social": null,
      "news": [
       {
+       "h": "Billionaire Masayoshi Son  Put 66% of Its $18 Billion US Portfolio Into 1 Stock",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-masayoshi-son-put-66-195424648.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "What\u2019s Really Behind Symbotic\u2019s (SYM) Big Quarter?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/really-behind-symbotic-sym-big-093702283.html",
@@ -7454,12 +7460,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-scale-physical-ai-144300573.html",
        "date": "2026-08-14"
-      },
-      {
-       "h": "Symbotic (SYM) Q3 2026 Earnings Call Transcript",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-sym-q3-2026-earnings-032859301.html",
-       "date": "2026-08-13"
       }
      ]
     },
@@ -8492,6 +8492,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Rallies After Winning Space Force Contract",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/rocket-lab-stock-space-force-8b4d01e1?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Should You Buy Rocket Lab Stock While It's Under $90?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-while-163718840.html",
@@ -8501,12 +8507,6 @@
        "h": "Rocket Lab Stock's Next Leg Rides On A Vehicle That Has Not Flown Yet",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-next-leg-155148357.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "\ud83e\udd16 AI-Related Stocks Are Advancing",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/-ai-related-stocks-are-advancing-wLelgavTbvIxvypETQTQ?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -9785,9 +9785,9 @@
        "date": "2026-08-17"
       },
       {
-       "h": "What's Going On With Rocket Lab Stock Monday?",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-rocket-lab-stock-095457160.html",
+       "h": "Nasdaq dips under water as investors brace for a busy week of retail results",
+       "pub": "Proactive",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-eyes-retail-earnings-114800359.html",
        "date": "2026-08-17"
       }
      ],
@@ -9932,6 +9932,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab Rallies After Winning Space Force Contract",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/rocket-lab-stock-space-force-8b4d01e1?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Viasat selects Rocket Lab to build GEO satellite for U.S. Space Force",
        "pub": "InvestorsHub",
        "link": "https://finance.yahoo.com/technology/articles/viasat-selects-rocket-lab-build-134138012.html",
@@ -9942,12 +9948,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-services-stocks-concern-us-121300569.html",
        "date": "2026-08-16"
-      },
-      {
-       "h": "Why Viasat (VSAT) Is Up 7.7% After Reaffirming 2027 Guidance Amid Mixed Segment Trends \u2013 And What's Next",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-viasat-vsat-7-7-081029684.html",
-       "date": "2026-08-13"
       }
      ],
      "awards": [
@@ -10436,6 +10436,12 @@
      },
      "news": [
       {
+       "h": "Why Intuitive Machines Stock Popped Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-popped-200722607.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Top analyst sees nearly 50% upside in beaten-down space stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-nearly-50-170700945.html",
@@ -10445,12 +10451,6 @@
        "h": "MDA Space Valuation Attractive Amid Space Economy Exposure, RBC Says",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-valuation-attractive-amid-154938044.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Intuitive Machines secures $600m-plus multi-satellite communications programme",
-       "pub": "InvestorsHub",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-secures-600m-plus-134411551.html",
        "date": "2026-08-17"
       }
      ],
@@ -10810,15 +10810,15 @@
        "date": "2026-08-17"
       },
       {
-       "h": "United Launch Alliance names new CEO amid Vulcan rocket travails",
-       "pub": "Orlando Sentinel",
-       "link": "https://finance.yahoo.com/technology/articles/united-launch-alliance-names-ceo-171700504.html",
+       "h": "1 Industrials Stock for Long-Term Investors and 2 We Ignore",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-183820593.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Boeing Falls After Army Grounds Apaches, but Commerial Jets Matter the Most",
+       "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
        "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
+       "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -10898,15 +10898,15 @@
        "date": "2026-08-17"
       },
       {
-       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
+       "h": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-191020096.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Can L3Harris' New Rhode Island Facility Strengthen Undersea Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-rhode-island-facility-strengthen-143300358.html",
+       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
        "date": "2026-08-17"
       }
      ],
@@ -10983,21 +10983,21 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
-       "h": "L3Harris Ousts CEO After Investigation Into Conduct",
+       "h": "L3Harris Replaces CEO After Conduct Investigation, Shares Retreat",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/l3harris-ceo-change-christorpher-kubasik-conduct-sam-mehta-lhx-stock/?src=A00220&yptr=yahoo",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Why L3Harris Stock Is Falling Today",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-l3harris-stock-falling-today-192543997.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP",
        "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "L3Harris Drops as Conduct Probe Forces Immediate CEO Exit",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-drops-conduct-probe-forces-165637211.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -11259,6 +11259,12 @@
      },
      "news": [
       {
+       "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "1 Nasdaq 100 Stock to Own for Decades and 2 We Turn Down",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-own-175020783.html",
@@ -11268,12 +11274,6 @@
        "h": "These AI Companies Have Little to Fear From Coming Regulation",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/ai-regulation-coreweave-stock-a940ab5e?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Top Midday Stories: Nvidia Investing $1.5 Billion in SB Energy; L3Harris Names Sam Mehta as CEO, Replacing Christopher Kubasik",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-investing-154830059.html",
        "date": "2026-08-17"
       }
      ],
@@ -12506,6 +12506,12 @@
      "social": null,
      "news": [
       {
+       "h": "Sector Update: Energy Stocks Gain Late Afternoon",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195324148.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Standard Uranium CEO says C$3M strategic investment will help advance Davidson River Project",
        "pub": "Proactive",
        "link": "https://finance.yahoo.com/video/standard-uranium-ceo-says-c-172309867.html",
@@ -12516,12 +12522,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/energy/articles/nexgen-energy-q2-earnings-call-220351715.html",
        "date": "2026-08-08"
-      },
-      {
-       "h": "NexGen Energy Ltd (NXE) (Q2 2026) Earnings Call Highlights: Strategic Progress and Market Leverage",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-ltd-nxe-q2-190253712.html",
-       "date": "2026-08-06"
       }
      ],
      "awards": [
@@ -13622,6 +13622,12 @@
      },
      "news": [
       {
+       "h": "NuScale's Revenue Fell 99%. Its Cash Pile Grew By $900 Million. Here's Why That's the Real Story.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscales-revenue-fell-99-cash-193000287.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Standard Nuclear Stock Hit Its High Ahead Of The Numbers",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/standard-nuclear-stock-hit-high-180015770.html",
@@ -13631,12 +13637,6 @@
        "h": "Could Industrial Heat Unlock New Growth for NuScale Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/could-industrial-heat-unlock-growth-125200078.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "NuScale's Potential TVA Deal Could Be 6 to 8 Gigawatts. Here's Why the CEO Calls It the Largest Nuclear Build-Out in U.S. History.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nuscales-potential-tva-deal-could-002000195.html",
        "date": "2026-08-17"
       }
      ]
@@ -14042,6 +14042,12 @@
      ],
      "news": [
       {
+       "h": "3 Cash-Producing Stocks with Exciting Potential",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-exciting-194220252.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Standard Nuclear Stock Hit Its High Ahead Of The Numbers",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/standard-nuclear-stock-hit-high-180015770.html",
@@ -14052,12 +14058,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/bwxts-nuclear-cleanup-services-add-141100774.html",
        "date": "2026-08-17"
-      },
-      {
-       "h": "Can BWX Technologies' Nuclear Medicine Expansion Boost Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/healthcare/articles/bwx-technologies-nuclear-medicine-expansion-132900353.html",
-       "date": "2026-08-13"
       }
      ]
     },
@@ -17834,37 +17834,198 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "How IREN Is Cashing In on the AI Data Center Boom",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/iren-cashing-ai-data-center-183000811.html",
+   "h": "Nvidia to finance $105B for an OpenAI data center: What to know",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html",
    "date": "2026-08-17"
   },
   {
-   "tk": "NVDA",
-   "h": "Billionaire Bill Ackman Just Invested in Netflix Stock. Here's Why Investors Should Care.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-invested-182500429.html",
+   "tk": "UBER",
+   "h": "Uber Rises on Zipline Drone Delivery Deal",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rises-zipline-drone-delivery-201725980.html",
    "date": "2026-08-17"
   },
   {
-   "tk": "NVDA",
-   "h": "These 3 Monthly Dividend ETFs Can Cover the Average American Mortgage Payment, Here Is How Much You Need Invested",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/options/articles/3-monthly-dividend-etfs-cover-182435648.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Stellantis Recalls Almost 1 Million Cars; Stock Falls To All-Time Low",
+   "tk": "LHX",
+   "h": "L3Harris Replaces CEO After Conduct Investigation, Shares Retreat",
    "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/stellantis-recall-dodge-jeep-chrysler-ford-general-motors/?src=A00220&yptr=yahoo",
+   "link": "https://www.investors.com/news/l3harris-ceo-change-christorpher-kubasik-conduct-sam-mehta-lhx-stock/?src=A00220&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is Realty Income the Ultimate Dividend Stock to Own?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/real-estate/articles/realty-income-ultimate-dividend-stock-201537083.html",
    "date": "2026-08-17"
   },
   {
    "tk": "TSLA",
-   "h": "Rivian Drops 25% This Year With $164M of Credits Vanishing in the Second Half",
+   "h": "Tesla to launch Cybercab in Austin this month - report",
+   "pub": "Investing.com",
+   "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-launch-cybercab-austin-month-201352516.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Groq Gets Brutal Valuation Reset After Nvidia Deal",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/groq-gets-brutal-valuation-reset-201134337.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber and Zipline Target a Million Drone Deliveries a Day",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/articles/uber-zipline-target-million-drone-200843989.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Why Intuitive Machines Stock Popped Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-popped-200722607.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Nvidia, Alphabet, Peter Thiel: SpaceX Top Shareholders Disclosed",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/spacex-stock-elon-musk-nvidia-alphabet-google-peter-thiel/?src=A00220&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "BA",
+   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "LMT",
+   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RTX",
+   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "SYM",
+   "h": "Billionaire Masayoshi Son  Put 66% of Its $18 Billion US Portfolio Into 1 Stock",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-drops-25-164m-credits-181433091.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-masayoshi-son-put-66-195424648.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "NXE",
+   "h": "Sector Update: Energy Stocks Gain Late Afternoon",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195324148.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "BWXT",
+   "h": "3 Cash-Producing Stocks with Exciting Potential",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-exciting-194220252.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale's Revenue Fell 99%. Its Cash Pile Grew By $900 Million. Here's Why That's the Real Story.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscales-revenue-fell-99-cash-193000287.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "LHX",
+   "h": "Why L3Harris Stock Is Falling Today",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-l3harris-stock-falling-today-192543997.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Top Tesla investor says gold beats Bitcoin but he isn't selling like Saylor",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/top-tesla-investor-says-gold-191921415.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Here\u2019s How Nancy Pelosi Beat the Stock Market and Warren Buffett",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-beat-stock-market-070110170.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RTX",
+   "h": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-191020096.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "LHX",
+   "h": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "BA",
+   "h": "1 Industrials Stock for Long-Term Investors and 2 We Ignore",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-183820593.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Rallies After Winning Space Force Contract",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/rocket-lab-stock-space-force-8b4d01e1?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "VSAT",
+   "h": "Rocket Lab Rallies After Winning Space Force Contract",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/rocket-lab-stock-space-force-8b4d01e1?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber teams up with Zipline for drone delivery",
+   "pub": "Nation's Restaurant News",
+   "link": "https://finance.yahoo.com/technology/articles/uber-teams-zipline-drone-delivery-181833154.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "BA",
+   "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "LHX",
+   "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
   },
   {
@@ -17903,34 +18064,6 @@
    "date": "2026-08-17"
   },
   {
-   "tk": "BA",
-   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LMT",
-   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Batters Rivian in Self-Driving Test",
-   "pub": "24/7 Wall St.",
-   "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-batters-rivian-self-driving-175302909.html",
-   "date": "2026-08-17"
-  },
-  {
    "tk": "PLTR",
    "h": "1 Nasdaq 100 Stock to Own for Decades and 2 We Turn Down",
    "pub": "StockStory",
@@ -17959,13 +18092,6 @@
    "date": "2026-08-17"
   },
   {
-   "tk": "TSLA",
-   "h": "Alphabet\u2019s Waymo Leads on Safety, but Tesla Could Still Close the Robotaxi Gap",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-waymo-leads-safety-tesla-174328905.html",
-   "date": "2026-08-17"
-  },
-  {
    "tk": "BIDU",
    "h": "Alibaba sells $1.5B game unit in AI pivot: AlphaSpace breakdown",
    "pub": "Yahoo Finance Video",
@@ -17980,138 +18106,12 @@
    "date": "2026-08-17"
   },
   {
-   "tk": "LHX",
-   "h": "L3Harris Ousts CEO After Investigation Into Conduct",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
    "tk": "PONY",
    "h": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe\u2019s Driverless Push",
    "pub": "Benzinga",
    "link": "https://finance.yahoo.com/technology/ai/articles/2-000-robotaxis-four-cities-173028748.html",
    "date": "2026-08-17"
-  },
-  {
-   "tk": "UBER",
-   "h": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe\u2019s Driverless Push",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/2-000-robotaxis-four-cities-173028748.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BA",
-   "h": "United Launch Alliance names new CEO amid Vulcan rocket travails",
-   "pub": "Orlando Sentinel",
-   "link": "https://finance.yahoo.com/technology/articles/united-launch-alliance-names-ceo-171700504.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LMT",
-   "h": "United Launch Alliance names new CEO amid Vulcan rocket travails",
-   "pub": "Orlando Sentinel",
-   "link": "https://finance.yahoo.com/technology/articles/united-launch-alliance-names-ceo-171700504.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "SLS",
-   "h": "Sellas CEO Angelos Stergiou Highlights Pediatric Leukemia Study That \u2018Directly Supports\u2019 Scientific Basis Of Regal Trial",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/healthcare/articles/sellas-ceo-angelos-stergiou-highlights-170936891.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Falls After Army Grounds Apaches, but Commerial Jets Matter the Most",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Top analyst sees nearly 50% upside in beaten-down space stock",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-nearly-50-170700945.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BA",
-   "h": "3 Reasons We Love FTAI Aviation (FTAI)",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-love-ftai-aviation-170220021.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LHX",
-   "h": "L3Harris Drops as Conduct Probe Forces Immediate CEO Exit",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-drops-conduct-probe-forces-165637211.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LHX",
-   "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber and Zipline partner on drone delivery for Uber Eats",
-   "pub": "Quartz",
-   "link": "https://finance.yahoo.com/technology/articles/uber-zipline-partner-drone-delivery-165012064.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NNE",
-   "h": "Nano Nuclear Is Still Under $20. Here's My Case for Why That Won't Last.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-still-under-20-165000481.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova's Wind Business Just Fell 40%. Nobody's Talking About It Because of the Gas Turbine Boom.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-wind-business-just-164000774.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Should You Buy Rocket Lab Stock While It's Under $90?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-while-163718840.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RCAT",
-   "h": "Red Cat Slides 4% on Maritime Autonomy Deal, Ondas Holdings Pulls Back",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-slides-4-maritime-163609479.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Red Cat Slides 4% on Maritime Autonomy Deal, Ondas Holdings Pulls Back",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-slides-4-maritime-163609479.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "KTOS",
-   "h": "3 Market-Beating Stocks for Long-Term Investors",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-long-163020054.html",
-   "date": "2026-08-17"
   }
  ],
- "prices_asof": "2026-08-17 18:45 UTC"
+ "prices_asof": "2026-08-17 20:31 UTC"
 }
