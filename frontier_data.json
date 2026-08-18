@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 523,
-      "up": 3
+      "m": 5,
+      "m0": 1,
+      "rk": 100,
+      "up": 12
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 1,
       "m0": 3,
-      "rk": 89,
-      "up": 5
+      "rk": 692,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 58,
-      "m0": 45,
-      "rk": 4,
-      "up": 952
+      "m": 116,
+      "m0": 56,
+      "rk": 6,
+      "up": 281
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 44,
-      "up": 418
+      "m": 22,
+      "m0": 7,
+      "rk": 27,
+      "up": 34
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Palantir (PLTR) Stock May Be 9% Undervalued On Pentagon AI Momentum",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-9-043256077.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
@@ -1787,12 +1793,6 @@
        "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Anthropic Projects $200 Billion of Revenue by 2028",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
        "date": "2026-08-17"
       }
      ],
@@ -1859,10 +1859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 126,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 749,
+      "up": 1
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 76,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 347,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2832,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 564,
-      "up": 0
+      "rk": 673,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -3147,10 +3147,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 614,
-      "up": 2
+      "rk": 101,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -3738,7 +3738,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 493,
+      "rk": 586,
       "up": 3
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 15,
-      "rk": 14,
-      "up": 67
+      "m": 19,
+      "m0": 18,
+      "rk": 33,
+      "up": 94
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 339,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 171,
+      "up": 4
      },
      "news": [
       {
@@ -4726,10 +4726,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 519,
-      "up": 3
+      "rk": 115,
+      "up": 6
      },
      "news": [
       {
@@ -5115,7 +5115,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 251,
+      "up": 1
+     },
      "news": [
       {
        "h": "USS George Washington heads to Middle East after record 265-day Lincoln deployment",
@@ -5138,7 +5143,7 @@
      ],
      "awards": [
       {
-       "amt": 12772630358.85,
+       "amt": 12775119158.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5754,12 +5759,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 636,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "2,000 Robotaxis, Four New Cities: Pony AI, Uber Accelerate Europe\u2019s Driverless Push",
@@ -5874,12 +5874,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 19,
-      "rk": 16,
-      "up": 445
+      "m": 55,
+      "m0": 15,
+      "rk": 14,
+      "up": 99
      },
      "news": [
+      {
+       "h": "Ex-Tesla President Says Roadster Reveal Is A \u2018Not-So-Hidden Attempt\u2019 To Knit Tesla And SpaceX Together",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ex-tesla-president-says-roadster-051351453.html",
+       "date": "2026-08-18"
+      },
       {
        "h": "Elon Musk to Merge SpaceX and Tesla? Prediction Markets Are Betting on This Date",
        "pub": "Benzinga Prediction Markets",
@@ -5890,12 +5896,6 @@
        "h": "5-star analyst sets alarming SpaceX stock price target",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-sets-alarming-030700322.html",
-       "date": "2026-08-18"
-      },
-      {
-       "h": "Tesla Cybercab Launch Could Begin In This City Soon as Elon Musk-Led Company Prepares Driverless Vehicles for Public Roads: Report",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/tesla-cybercab-launch-could-begin-030549909.html",
        "date": "2026-08-18"
       }
      ],
@@ -5962,10 +5962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 322,
-      "up": 1
+      "rk": 136,
+      "up": 7
      },
      "news": [
       {
@@ -6052,8 +6052,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 314,
-      "up": 0
+      "rk": 392,
+      "up": 2
      },
      "news": [
       {
@@ -6284,7 +6284,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 562,
+      "rk": 669,
       "up": 3
      },
      "thesis": {
@@ -7060,6 +7060,12 @@
      "social": null,
      "news": [
       {
+       "h": "Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-mbly-stock-could-43-050844641.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Is Mobileye Global (MBLY) Cheap Or Pricey As Robotaxi Hopes Build?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-global-mbly-cheap-pricey-211028065.html",
@@ -7069,12 +7075,6 @@
        "h": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls",
        "pub": "The Fly",
        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/monday-top-wall-street-analyst-115421667.html",
        "date": "2026-08-17"
       }
      ]
@@ -7114,7 +7114,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 269,
+      "up": 0
+     },
      "news": [
       {
        "h": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
@@ -7257,8 +7262,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 570,
-      "up": 1
+      "rk": 680,
+      "up": 2
      },
      "news": [
       {
@@ -7384,7 +7389,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 170,
+      "up": 4
+     },
      "news": [
       {
        "h": "Serve Robotics partners with Grubhub after Uber exit",
@@ -7678,12 +7688,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 661,
-      "up": 2
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7772,12 +7777,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 6,
-      "rk": 24,
-      "up": 18
+      "m": 5,
+      "m0": 11,
+      "rk": 99,
+      "up": 16
      },
      "news": [
+      {
+       "h": "SLS Stock Extends Rally To 4 Days: sell-side Discloses New Stake, CEO Signals AML Database-Lock Preparations",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-extends-rally-4-051907796.html",
+       "date": "2026-08-18"
+      },
       {
        "h": "Sellas CEO Angelos Stergiou Highlights Pediatric Leukemia Study That \u2018Directly Supports\u2019 Scientific Basis Of Regal Trial",
        "pub": "Stocktwits",
@@ -7789,12 +7800,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/goldman-sachs-builds-75m-bet-051737086.html",
        "date": "2026-08-17"
-      },
-      {
-       "h": "SLS And IBRX Eye Green Weekly Close: Vanguard\u2019s Major Stakes In Cancer Drugmakers Steal The Spotlight",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-eye-green-weekly-022419247.html",
-       "date": "2026-08-14"
       }
      ]
     }
@@ -8281,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 9,
-      "rk": 20,
-      "up": 22
+      "m": 26,
+      "m0": 14,
+      "rk": 24,
+      "up": 74
      },
      "thesis": {
       "bull": [
@@ -8584,7 +8589,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 353,
+      "rk": 429,
       "up": 1
      },
      "streetNotes": [
@@ -8765,12 +8770,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 532,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9031,12 +9031,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 656,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Rocket Lab clears 1st hurdle in its biggest satellite deal",
@@ -9188,8 +9183,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 560,
-      "up": 5
+      "rk": 667,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9530,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 16,
-      "rk": 17,
-      "up": 152
+      "m": 36,
+      "m0": 15,
+      "rk": 19,
+      "up": 177
      },
      "thesis": {
       "bull": [
@@ -9770,7 +9765,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 576,
+      "up": 1
+     },
      "news": [
       {
        "h": "Auto & Transport Roundup: Market Talk",
@@ -9853,7 +9853,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 385,
+      "up": 1
+     },
      "news": [
       {
        "h": "A $2 Billion Reason Why Rocket Lab Stock Is in Focus Today",
@@ -9927,8 +9932,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 242,
-      "up": 1
+      "rk": 312,
+      "up": 0
      },
      "news": [
       {
@@ -10315,12 +10320,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 563,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "SES AI Corporation Q2 2026 Earnings Call Summary",
@@ -10429,10 +10429,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 607,
-      "up": 1
+      "rk": 65,
+      "up": 26
      },
      "news": [
       {
@@ -10516,12 +10516,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 644,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AST SpaceMobile Stock Could Follow Voyager Technologies Higher After Earnings",
@@ -10590,8 +10585,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 150,
-      "up": 1
+      "rk": 217,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10801,7 +10796,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 208,
+      "up": 2
+     },
      "news": [
       {
        "h": "FTAI Aviation (FTAI) Shares Skyrocket, What You Need To Know",
@@ -10885,10 +10885,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 339,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 171,
+      "up": 4
      },
      "news": [
       {
@@ -10972,7 +10972,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 290,
+      "up": 2
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -10982,6 +10987,12 @@
      ],
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
+      {
+       "h": "L3Harris Technologies (LHX) Ousted CEO Chris Kubasik Over A Code Of Conduct Violation",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-ousted-ceo-050830655.html",
+       "date": "2026-08-18"
+      },
       {
        "h": "What\u2019s News: Business & Finance",
        "pub": "The Wall Street Journal",
@@ -10993,12 +11004,6 @@
        "pub": "Fortune",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ousted-l3harris-ceo-chris-kubasik-003548534.html",
        "date": "2026-08-18"
-      },
-      {
-       "h": "L3Harris Ousts CEO After Investigation Into Conduct",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
       }
      ],
      "awards": [
@@ -11252,12 +11257,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 44,
-      "up": 418
+      "m": 22,
+      "m0": 7,
+      "rk": 27,
+      "up": 34
      },
      "news": [
+      {
+       "h": "Palantir (PLTR) Stock May Be 9% Undervalued On Pentagon AI Momentum",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-9-043256077.html",
+       "date": "2026-08-18"
+      },
       {
        "h": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
        "pub": "Zacks",
@@ -11268,12 +11279,6 @@
        "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Anthropic Projects $200 Billion of Revenue by 2028",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
        "date": "2026-08-17"
       }
      ],
@@ -11340,12 +11345,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 406,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12384,9 +12384,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 364,
-      "up": 0
+      "m0": 1,
+      "rk": 441,
+      "up": 1
      },
      "news": [
       {
@@ -12577,8 +12577,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 317,
+      "m0": 1,
+      "rk": 394,
       "up": 1
      },
      "news": [
@@ -12696,12 +12696,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 316,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "CCJ's Adjusted EBITDA Fell 42% in Q226: Is There a Recovery Ahead?",
@@ -12780,10 +12775,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 65,
-      "up": 37
+      "m": 12,
+      "m0": 4,
+      "rk": 50,
+      "up": 25
      },
      "news": [
       {
@@ -13374,10 +13369,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 91,
-      "up": 20
+      "m": 1,
+      "m0": 3,
+      "rk": 737,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13617,8 +13612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 581,
-      "up": 0
+      "rk": 688,
+      "up": 2
      },
      "news": [
       {
@@ -14099,8 +14094,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 628,
-      "up": 0
+      "rk": 746,
+      "up": 1
      },
      "news": [
       {
@@ -14558,7 +14553,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 665,
+      "up": 2
+     },
      "news": [
       {
        "h": "3 Nuclear Stocks With Real Revenue vs. 3 That Are Still Pre-Revenue. Here's Where the Money Actually Is.",
@@ -14643,8 +14643,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 279,
+      "m0": 1,
+      "rk": 352,
       "up": 6
      },
      "news": [
@@ -14877,12 +14877,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 218,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Duke Energy (DUK) Stock Could Be 27% Overvalued Following $10b Equity Plans",
@@ -14967,9 +14962,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 1,
-      "rk": 71,
-      "up": 9
+      "m0": 3,
+      "rk": 125,
+      "up": 11
      },
      "news": [
       {
@@ -15055,8 +15050,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 213,
+      "m0": 1,
+      "rk": 279,
       "up": 1
      },
      "news": [
@@ -17553,7 +17548,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-17",
+ "social_asof": "2026-08-18",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17834,9 +17829,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Microsoft Just Announced Great News for AMD Investors",
+   "h": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-announced-great-news-042000299.html",
+   "link": "https://finance.yahoo.com/energy/articles/bloom-energy-says-visibility-25-055000213.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Extends Rally To 4 Days: sell-side Discloses New Stake, CEO Signals AML Database-Lock Preparations",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-extends-rally-4-051907796.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Ex-Tesla President Says Roadster Reveal Is A \u2018Not-So-Hidden Attempt\u2019 To Knit Tesla And SpaceX Together",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ex-tesla-president-says-roadster-051351453.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "MBLY",
+   "h": "Mobileye (MBLY) Stock Could Be 43% Undervalued After ADAS Progress",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-mbly-stock-could-43-050844641.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "LHX",
+   "h": "L3Harris Technologies (LHX) Ousted CEO Chris Kubasik Over A Code Of Conduct Violation",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-technologies-lhx-ousted-ceo-050830655.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir (PLTR) Stock May Be 9% Undervalued On Pentagon AI Momentum",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-9-043256077.html",
    "date": "2026-08-18"
   },
   {
@@ -18036,24 +18066,10 @@
    "date": "2026-08-17"
   },
   {
-   "tk": "TSLA",
-   "h": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage \u2014 TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p500-dow-nasdaq-end-lower-214604462.html",
-   "date": "2026-08-17"
-  },
-  {
    "tk": "UBER",
    "h": "Uber, Zipline Target 1M Daily Drone Deliveries by 2029",
    "pub": "Sourcing Journal",
    "link": "https://finance.yahoo.com/technology/articles/uber-zipline-target-1m-daily-212628805.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LHX",
-   "h": "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
   },
   {
@@ -18090,28 +18106,7 @@
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
-  },
-  {
-   "tk": "MDA",
-   "h": "Auto & Transport Roundup: Market Talk",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Anthropic Projects $200 Billion of Revenue by 2028",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BA",
-   "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
   }
  ],
- "prices_asof": "2026-08-18 04:39 UTC"
+ "prices_asof": "2026-08-18 06:24 UTC"
 }
