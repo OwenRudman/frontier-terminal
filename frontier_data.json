@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "The Zacks Analyst Blog Highlights Albemarle, Sociedad Quimica and Rio Tinto",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-albemarle-101600648.html",
@@ -697,12 +703,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-10-110000389.html",
        "date": "2026-08-15"
-      },
-      {
-       "h": "Albemarle Stock Slides 28% in 3 Months: Should You Buy the Dip?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-stock-slides-28-3-130000354.html",
-       "date": "2026-08-14"
       }
      ],
      "awards": [
@@ -1143,15 +1143,15 @@
        "date": "2026-08-17"
       },
       {
-       "h": "SpaceX shareholders include Google, Nvidia, BlackRock: Tracking the stock's volatility",
+       "h": "WSJ reports $3T in AI spending commitments is kept off balance sheets: A full breakdown",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/spacex-shareholders-google-nvidia-blackrock-150348057.html",
+       "link": "https://finance.yahoo.com/video/wsj-reports-3t-ai-spending-144501122.html",
        "date": "2026-08-17"
       },
       {
-       "h": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-lines-105-billion-openai-215001438.html",
+       "h": "Micron stock heats up again, crossing $1,000",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html",
        "date": "2026-08-17"
       }
      ]
@@ -1778,21 +1778,21 @@
      },
      "news": [
       {
+       "h": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Anthropic Projects $200 Billion of Revenue by 2028",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "1 Nasdaq 100 Stock to Own for Decades and 2 We Turn Down",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-own-175020783.html",
        "date": "2026-08-17"
       }
      ],
@@ -3614,6 +3614,12 @@
      "take": "The deep-speculation corner. The cash means it won't die soon, and a credible defense contract could spark a re-rating off a tiny base \u2014 but the multi-year record is dilution and disappointment, and ~$8M revenue justifies little. Lowest-priority name here for most investors \u2014 only a tiny, lottery-style allocation, if any.",
      "news": [
       {
+       "h": "Draganfly Inc (DPRO) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic Expansion ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/draganfly-inc-dpro-q2-2026-010143946.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Ondas Posts Wider-Than-Expected Q2 Loss, Delivers Solid Revenue Growth",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-posts-wider-expected-q2-153500106.html",
@@ -3624,12 +3630,6 @@
        "pub": "Moby",
        "link": "https://finance.yahoo.com/markets/stocks/articles/draganfly-inc-q2-2026-earnings-011057607.html",
        "date": "2026-08-12"
-      },
-      {
-       "h": "Key Insights Ahead of Q2 Earnings: Buy, Hold or Sell Ondas Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/key-insights-ahead-q2-earnings-144600040.html",
-       "date": "2026-08-11"
       }
      ]
     },
@@ -4400,21 +4400,21 @@
      },
      "news": [
       {
-       "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-       "date": "2026-08-17"
+       "h": "RTX (RTX) Lands $22.9 Billion Tomahawk Deal With Seven Year Production Ramp",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-lands-22-9-010728674.html",
+       "date": "2026-08-18"
       },
       {
-       "h": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-191020096.html",
-       "date": "2026-08-17"
+       "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+       "date": "2026-08-18"
       },
       {
-       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
+       "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html",
        "date": "2026-08-17"
       }
      ],
@@ -5893,7 +5893,7 @@
        "date": "2026-08-17"
       },
       {
-       "h": "SpaceX Matters More for Telsa Stock Than Cybercab These Days",
+       "h": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
@@ -8492,21 +8492,21 @@
      ],
      "news": [
       {
-       "h": "RKLB Stock Jumps As Stifel Calls Viasat Deal Another Success",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-stifel-calls-193629599.html",
-       "date": "2026-08-17"
+       "h": "Rocket Lab clears 1st hurdle in its biggest satellite deal",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/articles/rocket-lab-clears-1st-hurdle-003700759.html",
+       "date": "2026-08-18"
       },
       {
-       "h": "Rocket Lab Rallies After Winning Space Force Contract",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/rocket-lab-stock-space-force-8b4d01e1?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Should You Buy Rocket Lab Stock While It's Under $90?",
+       "h": "Rocket Lab (RKLB) Q2 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-while-163718840.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-q2-2026-232926407.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
        "date": "2026-08-17"
       }
      ],
@@ -9039,6 +9039,12 @@
      },
      "news": [
       {
+       "h": "Rocket Lab clears 1st hurdle in its biggest satellite deal",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/articles/rocket-lab-clears-1st-hurdle-003700759.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Auto & Transport Roundup: Market Talk",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
@@ -9048,12 +9054,6 @@
        "h": "MDA Space Valuation Attractive Amid Space Economy Exposure, RBC Says",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-valuation-attractive-amid-154938044.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "What's Going On With Rocket Lab Stock Monday?",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-rocket-lab-stock-095457160.html",
        "date": "2026-08-17"
       }
      ]
@@ -9716,6 +9716,12 @@
      },
      "news": [
       {
+       "h": "AST SpaceMobile (ASTS) Q2 2026 Earnings Call Transcript",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-q2-2026-232926447.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Apple upgraded, Workday downgraded: Wall Street's top analyst calls",
        "pub": "The Fly",
        "link": "https://finance.yahoo.com/markets/stocks/articles/apple-upgraded-brinker-initiated-wall-134131346.html",
@@ -9725,12 +9731,6 @@
        "h": "AST SpaceMobile (ASTS) Wins FCC Approval For 800 MHz Satellite Phone Testing",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-wins-fcc-211130541.html",
-       "date": "2026-08-14"
-      },
-      {
-       "h": "AST SpaceMobile (ASTS) Has a $1.3B Backlog. Can it Build Fast Enough?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/articles/ast-spacemobile-asts-1-3b-194854109.html",
        "date": "2026-08-14"
       }
      ]
@@ -10442,15 +10442,15 @@
        "date": "2026-08-17"
       },
       {
-       "h": "Top analyst sees nearly 50% upside in beaten-down space stock",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-nearly-50-170700945.html",
+       "h": "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/600-million-reason-intuitive-machines-182307695.html",
        "date": "2026-08-17"
       },
       {
-       "h": "MDA Space Valuation Attractive Amid Space Economy Exposure, RBC Says",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mda-space-valuation-attractive-amid-154938044.html",
+       "h": "Top analyst sees nearly 50% upside in beaten-down space stock",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-nearly-50-170700945.html",
        "date": "2026-08-17"
       }
      ],
@@ -10608,6 +10608,12 @@
      ],
      "news": [
       {
+       "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html",
@@ -10617,12 +10623,6 @@
        "h": "Tomahawk Missile Production Is Surging\u2014and These Stocks Could Benefit",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/rtx-stock-tomahawk-missile-production-defense-stocks-5afeb7d2?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -10804,6 +10804,12 @@
      "social": null,
      "news": [
       {
+       "h": "FTAI Aviation (FTAI) Shares Skyrocket, What You Need To Know",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-shares-skyrocket-001420996.html",
+       "date": "2026-08-18"
+      },
+      {
        "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html",
@@ -10813,12 +10819,6 @@
        "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Boeing Falls After Army Apache Crash, but Commerical Jet Turnaround Is Crucial",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -10892,21 +10892,21 @@
      },
      "news": [
       {
-       "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-       "date": "2026-08-17"
+       "h": "RTX (RTX) Lands $22.9 Billion Tomahawk Deal With Seven Year Production Ramp",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-lands-22-9-010728674.html",
+       "date": "2026-08-18"
       },
       {
-       "h": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-love-191020096.html",
-       "date": "2026-08-17"
+       "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+       "pub": "Oilprice.com",
+       "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+       "date": "2026-08-18"
       },
       {
-       "h": "RTX Stock Rises on Massive $22.9 Billion Tomahawk Contract",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-rises-massive-22-171805645.html",
+       "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html",
        "date": "2026-08-17"
       }
      ],
@@ -10983,6 +10983,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "L3Harris Ousts CEO After Investigation Into Conduct",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
@@ -10992,12 +10998,6 @@
        "h": "Tech, Media & Telecom Roundup: Market Talk",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-56efa474?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-17"
       }
      ],
@@ -11259,21 +11259,21 @@
      },
      "news": [
       {
+       "h": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
+       "date": "2026-08-17"
+      },
+      {
+       "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
+       "date": "2026-08-17"
+      },
+      {
        "h": "Anthropic Projects $200 Billion of Revenue by 2028",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-projects-200-billion-revenue-205306475.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "1 Nasdaq 100 Stock to Own for Decades and 2 We Turn Down",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-own-175020783.html",
        "date": "2026-08-17"
       }
      ],
@@ -17833,6 +17833,104 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Does Take-Two\u2019s Shift To Modest Profit Guidance Reframe The Bull Case For TTWO?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-two-shift-modest-profit-010748760.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "RTX",
+   "h": "RTX (RTX) Lands $22.9 Billion Tomahawk Deal With Seven Year Production Ramp",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-lands-22-9-010728674.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "DPRO",
+   "h": "Draganfly Inc (DPRO) (Q2 2026) Earnings Call Highlights: Record Revenue and Strategic Expansion ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/draganfly-inc-dpro-q2-2026-010143946.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "MDA",
+   "h": "Rocket Lab clears 1st hurdle in its biggest satellite deal",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-clears-1st-hurdle-003700759.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab clears 1st hurdle in its biggest satellite deal",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/articles/rocket-lab-clears-1st-hurdle-003700759.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "BA",
+   "h": "FTAI Aviation (FTAI) Shares Skyrocket, What You Need To Know",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-ftai-shares-skyrocket-001420996.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "ALB",
+   "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "LMT",
+   "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "RTX",
+   "h": "North America\u2019s Only Cesium Project Moves Closer to Production",
+   "pub": "Oilprice.com",
+   "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
+   "date": "2026-08-18"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST SpaceMobile (ASTS) Q2 2026 Earnings Call Transcript",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-asts-q2-2026-232926447.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Q2 2026 Earnings Call Transcript",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-q2-2026-232926407.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Q2 Earnings Season Standout Performers: PLTR, MSFT",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-standout-performers-232900437.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
+   "date": "2026-08-17"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Top Market Strategist Warns Anthropic\u2019s 40-50x Revenue Multiple for IPO Could Be \u201cDangerous\u201d",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-market-strategist-warns-anthropic-222831703.html",
+   "date": "2026-08-17"
+  },
+  {
    "tk": "BA",
    "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
    "pub": "Trefis",
@@ -17854,17 +17952,17 @@
    "date": "2026-08-17"
   },
   {
-   "tk": "NVDA",
-   "h": "Nvidia Lines Up $105 Billion For OpenAI. Here's What it Means For Investors.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-lines-105-billion-openai-215001438.html",
+   "tk": "RTX",
+   "h": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html",
    "date": "2026-08-17"
   },
   {
-   "tk": "NVDA",
-   "h": "S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage \u2014 TSLA, PSKY, MSTR, BABA, NVDA In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p500-dow-nasdaq-end-lower-214604462.html",
+   "tk": "LHX",
+   "h": "L3Harris Ousts CEO After Investigation Into Conduct",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/l3harris-parts-ways-with-chairman-ceo-kubasik-over-conduct-bb651136?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
   },
   {
@@ -17925,7 +18023,7 @@
   },
   {
    "tk": "TSLA",
-   "h": "SpaceX Matters More for Telsa Stock Than Cybercab These Days",
+   "h": "SpaceX Matters More for Tesla Stock Than Cybercab These Days",
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
@@ -18013,105 +18111,7 @@
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-17"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber Rises on Zipline Drone Delivery Deal",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-rises-zipline-drone-delivery-201725980.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LHX",
-   "h": "L3Harris Replaces CEO After Conduct Investigation, Shares Retreat",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/l3harris-ceo-change-christorpher-kubasik-conduct-sam-mehta-lhx-stock/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BA",
-   "h": "Tomahawk Missile Production Is Surging\u2014and These Stocks Could Benefit",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/rtx-stock-tomahawk-missile-production-defense-stocks-5afeb7d2?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LMT",
-   "h": "Tomahawk Missile Production Is Surging\u2014and These Stocks Could Benefit",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/rtx-stock-tomahawk-missile-production-defense-stocks-5afeb7d2?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Why Intuitive Machines Stock Popped Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-popped-200722607.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Cathie Wood Pours $27 Million Into Major AI Stock",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-pours-27-million-200518494.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "LMT",
-   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX, Pentagon Sign $23 Billion Tomahawk Missile Contract",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/rtx-pentagon-department-of-defense-tomahawk-boeing-lockheed-marting/?src=A00220&yptr=yahoo",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "SYM",
-   "h": "Billionaire Masayoshi Son  Put 66% of His $18 Billion US Portfolio Into 1 Stock",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-masayoshi-son-put-66-195424842.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "SYM",
-   "h": "Billionaire Masayoshi Son  Put 66% of Its $18 Billion US Portfolio Into 1 Stock",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-masayoshi-son-put-66-195424648.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "NXE",
-   "h": "Sector Update: Energy Stocks Gain Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195324148.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "BWXT",
-   "h": "3 Cash-Producing Stocks with Exciting Potential",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-exciting-194220252.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "RKLB",
-   "h": "RKLB Stock Jumps As Stifel Calls Viasat Deal Another Success",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-stifel-calls-193629599.html",
-   "date": "2026-08-17"
-  },
-  {
-   "tk": "VSAT",
-   "h": "RKLB Stock Jumps As Stifel Calls Viasat Deal Another Success",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-jumps-stifel-calls-193629599.html",
-   "date": "2026-08-17"
   }
  ],
- "prices_asof": "2026-08-17 22:28 UTC"
+ "prices_asof": "2026-08-18 01:25 UTC"
 }
