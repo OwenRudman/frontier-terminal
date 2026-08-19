@@ -1144,9 +1144,9 @@
        "date": "2026-08-18"
       },
       {
-       "h": "Interactive Brokers Is Holding $930 Billion of Customer Money. Here's What That Earns at Today's Rates.",
+       "h": "Warren Buffett's and Greg Abel's $175 Billion Warning Echoes Loudly Through Wall Street",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-holding-930-billion-062500750.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-greg-abels-175-082600336.html",
        "date": "2026-08-19"
       }
      ]
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "Zacks Investment Ideas feature highlights: Palantir, Micron and SpaceX",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-071100825.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "Arista Networks vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-palantir-technologies-035101396.html",
@@ -1782,12 +1788,6 @@
        "h": "Peter Thiel Bets $76 Million on Argentina\u2019s Vaca Muerta Shale",
        "pub": "Oilprice.com",
        "link": "https://finance.yahoo.com/energy/articles/peter-thiel-bets-76-million-220000241.html",
-       "date": "2026-08-18"
-      },
-      {
-       "h": "Is Palantir the Next Trillion-Dollar Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-next-trillion-dollar-stock-214100961.html",
        "date": "2026-08-18"
       }
      ],
@@ -5888,10 +5888,10 @@
        "date": "2026-08-18"
       },
       {
-       "h": "Back In The \u201890s Elon Musk Turned His Dorm Room Into A Club And Charged A $5 Cover To Pay Rent \u2014 Now He's The Richest Man Alive And Still Rents",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/small-business/articles/back-90s-elon-musk-turned-230106361.html",
-       "date": "2026-08-18"
+       "h": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
+       "date": "2026-08-19"
       }
      ],
      "awards": [
@@ -8956,6 +8956,12 @@
      },
      "news": [
       {
+       "h": "Redwire (RDW) Signs Japan Space Industry Teaming Deal With Local Market Access",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-signs-japan-space-081440306.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "ASTS, RKLB, LUNR, RDW In Focus: Elon Musk Says Space Boom Will Be \u2018Much Bigger\u2019 Than sell-side\u2019s $1.8 Trillion Forecast",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-lunr-rdw-focus-061620239.html",
@@ -8965,12 +8971,6 @@
        "h": "Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html",
-       "date": "2026-08-18"
-      },
-      {
-       "h": "Mark Kelly Defends NASA Spending, Says \u2018People Are Alive Today\u2019 Because of Space Exploration and Medical Breakthroughs",
-       "pub": "Benzinga",
-       "link": "https://www.yahoo.com/news/science/articles/mark-kelly-defends-nasa-spending-123103325.html",
        "date": "2026-08-18"
       }
      ],
@@ -11279,6 +11279,12 @@
      },
      "news": [
       {
+       "h": "Zacks Investment Ideas feature highlights: Palantir, Micron and SpaceX",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-071100825.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "Arista Networks vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-palantir-technologies-035101396.html",
@@ -11288,12 +11294,6 @@
        "h": "Peter Thiel Bets $76 Million on Argentina\u2019s Vaca Muerta Shale",
        "pub": "Oilprice.com",
        "link": "https://finance.yahoo.com/energy/articles/peter-thiel-bets-76-million-220000241.html",
-       "date": "2026-08-18"
-      },
-      {
-       "h": "Is Palantir the Next Trillion-Dollar Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-next-trillion-dollar-stock-214100961.html",
        "date": "2026-08-18"
       }
      ],
@@ -17839,16 +17839,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Interactive Brokers Is Holding $930 Billion of Customer Money. Here's What That Earns at Today's Rates.",
+   "h": "Warren Buffett's and Greg Abel's $175 Billion Warning Echoes Loudly Through Wall Street",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-holding-930-billion-062500750.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-greg-abels-175-082600336.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "RDW",
+   "h": "Redwire (RDW) Signs Japan Space Industry Teaming Deal With Local Market Access",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-signs-japan-space-081440306.html",
    "date": "2026-08-19"
   },
   {
    "tk": "NVDA",
-   "h": "David Tepper Sold His Entire Sandisk Stake the Quarter the Stock Peaked",
+   "h": "D-Wave Quantum vs. Microsoft: Which Is the Better Quantum Computing Stock to Own for the Next 5 Years?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-sold-entire-sandisk-062301742.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/d-wave-quantum-vs-microsoft-075700700.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Zacks Investment Ideas feature highlights: Palantir, Micron and SpaceX",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-071100825.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Unitree soars in Shanghai debut, a milestone for China's humanoid robotics sector",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-070855689.html",
    "date": "2026-08-19"
   },
   {
@@ -18034,13 +18055,6 @@
    "date": "2026-08-18"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla AI Boss Ashok Elluswamy Calls FSD V14 \u2018James Bond\u2019 After Dramatic 82-MPH Highway Collision Avoidance",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-ai-boss-ashok-elluswamy-223109272.html",
-   "date": "2026-08-18"
-  },
-  {
    "tk": "AVAV",
    "h": "AeroVironment (AVAV) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
    "pub": "Zacks",
@@ -18102,21 +18116,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html",
    "date": "2026-08-18"
-  },
-  {
-   "tk": "RDW",
-   "h": "Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html",
-   "date": "2026-08-18"
-  },
-  {
-   "tk": "AEVA",
-   "h": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/robotics-stocks-punished-tuesday-ai-212237935.html",
-   "date": "2026-08-18"
   }
  ],
- "prices_asof": "2026-08-19 06:51 UTC"
+ "prices_asof": "2026-08-19 08:42 UTC"
 }
