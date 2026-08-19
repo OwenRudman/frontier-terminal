@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 100,
-      "up": 12
+      "m": 1,
+      "m0": 5,
+      "rk": 720,
+      "up": 1
      },
      "news": [
       {
@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "Albemarle (ALB) Stock Looks Below Fair Value After A 67% Gain",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-looks-below-043417399.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "What Albemarle (ALB)'s Profits Rebound and Higher 2026 Outlook Means For Shareholders",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-profits-rebound-higher-171538999.html",
@@ -697,12 +703,6 @@
        "pub": "Oilprice.com",
        "link": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html",
        "date": "2026-08-18"
-      },
-      {
-       "h": "The Zacks Analyst Blog Highlights Albemarle, Sociedad Quimica and Rio Tinto",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-albemarle-101600648.html",
-       "date": "2026-08-17"
       }
      ],
      "awards": [
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 692,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 116,
-      "m0": 56,
+      "m": 104,
+      "m0": 115,
       "rk": 6,
-      "up": 281
+      "up": 244
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1144,9 @@
        "date": "2026-08-18"
       },
       {
-       "h": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
+       "h": "Nvidia Stock Won't Be Overvalued by 2028: My Case for Buying NVDA Today",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-micron-sandisk-getting-hype-042000393.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-wont-overvalued-2028-055000296.html",
        "date": "2026-08-19"
       }
      ]
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 7,
-      "rk": 27,
-      "up": 34
+      "m": 16,
+      "m0": 21,
+      "rk": 38,
+      "up": 25
      },
      "thesis": {
       "bull": [
@@ -1858,12 +1853,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 749,
-      "up": 1
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2039,7 +2029,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 363,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2481,8 +2476,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 347,
+      "m0": 1,
+      "rk": 382,
       "up": 1
      },
      "thesis": {
@@ -2832,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 673,
+      "rk": 782,
       "up": 3
      },
      "thesis": {
@@ -3147,10 +3142,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 101,
-      "up": 10
+      "m": 2,
+      "m0": 5,
+      "rk": 203,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -3737,9 +3732,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 586,
-      "up": 3
+      "m0": 0,
+      "rk": 675,
+      "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 18,
-      "rk": 33,
-      "up": 94
+      "m": 8,
+      "m0": 19,
+      "rk": 67,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -4313,6 +4308,12 @@
      "take": "Best theme on the list, and the backlog jump genuinely strengthens the bull case I underrated before \u2014 trailing P/S really is the wrong lens here. But \"the growth is real\" and \"the stock is expensive\" can both be true: a lot of upside is already priced, and acquisitions dilute. A high-conviction thematic bet \u2014 size it like a speculation, watch the share count.",
      "news": [
       {
+       "h": "Ondas\u2019 Defense Push Gets Another Vote Of Confidence \u2013 Roth Capital Sees 44% Upside",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-defense-push-gets-another-061359899.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "Drone Stocks See Limited Losses Tuesday During Nasdaq Sell-Off: Red Cat, Ondas Flat While AeroVironment Tumbles",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-see-limited-losses-004654665.html",
@@ -4322,12 +4323,6 @@
        "h": "Swarmer\u2019s SkyKnight & Platform Expansion Builds Commercial Momentum \u2013 Quarterly Update Report",
        "pub": "Exec Edge",
        "link": "https://finance.yahoo.com/technology/articles/swarmer-skyknight-platform-expansion-builds-220706231.html",
-       "date": "2026-08-18"
-      },
-      {
-       "h": "A $33 Million Reason Ondas Stock Is in Focus Today",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/33-million-reason-ondas-stock-185700565.html",
        "date": "2026-08-18"
       }
      ],
@@ -4393,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 6,
       "m0": 1,
-      "rk": 171,
-      "up": 4
+      "rk": 96,
+      "up": 12
      },
      "news": [
       {
@@ -4726,10 +4721,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 115,
-      "up": 6
+      "m": 1,
+      "m0": 4,
+      "rk": 708,
+      "up": 1
      },
      "news": [
       {
@@ -5117,8 +5112,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 251,
+      "m0": 1,
+      "rk": 262,
       "up": 1
      },
      "news": [
@@ -5874,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 55,
-      "m0": 15,
-      "rk": 14,
-      "up": 99
+      "m": 37,
+      "m0": 55,
+      "rk": 18,
+      "up": 59
      },
      "news": [
       {
@@ -5962,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 136,
-      "up": 7
+      "m": 1,
+      "m0": 3,
+      "rk": 446,
+      "up": 3
      },
      "news": [
       {
@@ -6050,10 +6045,10 @@
      "hold": null,
      "geo": "China",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 392,
-      "up": 2
+      "rk": 117,
+      "up": 8
      },
      "news": [
       {
@@ -6284,8 +6279,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 669,
-      "up": 3
+      "rk": 777,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -7116,9 +7111,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 269,
-      "up": 0
+      "m0": 1,
+      "rk": 283,
+      "up": 1
      },
      "news": [
       {
@@ -7262,7 +7257,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 680,
+      "rk": 791,
       "up": 2
      },
      "news": [
@@ -7390,10 +7385,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 170,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 456,
+      "up": 2
      },
      "news": [
       {
@@ -7451,7 +7446,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 200,
+      "up": 6
+     },
      "news": [
       {
        "h": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
@@ -7777,10 +7777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 11,
-      "rk": 99,
-      "up": 16
+      "m": 2,
+      "m0": 4,
+      "rk": 187,
+      "up": 6
      },
      "news": [
       {
@@ -8286,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 14,
-      "rk": 24,
-      "up": 74
+      "m": 16,
+      "m0": 26,
+      "rk": 37,
+      "up": 55
      },
      "thesis": {
       "bull": [
@@ -8589,7 +8589,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 429,
+      "rk": 477,
       "up": 1
      },
      "streetNotes": [
@@ -8770,7 +8770,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 734,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -9183,8 +9188,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 667,
-      "up": 2
+      "rk": 775,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9363,7 +9368,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 793,
+      "up": 2
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9525,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 15,
-      "rk": 19,
-      "up": 177
+      "m": 22,
+      "m0": 36,
+      "rk": 28,
+      "up": 43
      },
      "thesis": {
       "bull": [
@@ -9767,8 +9777,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 576,
+      "m0": 1,
+      "rk": 664,
       "up": 1
      },
      "news": [
@@ -9855,8 +9865,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 385,
+      "m0": 1,
+      "rk": 426,
       "up": 1
      },
      "news": [
@@ -9932,7 +9942,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 312,
+      "rk": 341,
       "up": 0
      },
      "news": [
@@ -10018,7 +10028,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 431,
+      "up": 2
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10429,10 +10444,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 65,
-      "up": 26
+      "m": 3,
+      "m0": 9,
+      "rk": 153,
+      "up": 4
      },
      "news": [
       {
@@ -10474,7 +10489,7 @@
        "date": "2021-11-17"
       },
       {
-       "amt": 56287642.79,
+       "amt": 56284342.79,
        "ag": "National Aeronautics and Space Administration",
        "desc": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) TASK ORDER (TO) POLAR RESOURCE ICE-MINING EXPERIMENT-1 (PRIME-1) LUNAR SURFACE PAYLOAD DELIVERY -LUNAR POLE",
        "date": "2020-10-16"
@@ -10585,8 +10600,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 217,
-      "up": 2
+      "rk": 222,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10798,9 +10813,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 208,
-      "up": 2
+      "m0": 1,
+      "rk": 215,
+      "up": 1
      },
      "news": [
       {
@@ -10830,7 +10845,7 @@
        "date": "2011-02-24"
       },
       {
-       "amt": 22440930496.75,
+       "amt": 22442309468.27,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTERNATIONAL SPACE STATION",
        "date": "1993-11-15"
@@ -10885,10 +10900,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 6,
       "m0": 1,
-      "rk": 171,
-      "up": 4
+      "rk": 96,
+      "up": 12
      },
      "news": [
       {
@@ -10974,9 +10989,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 290,
-      "up": 2
+      "m0": 1,
+      "rk": 315,
+      "up": 3
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -11257,10 +11272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 7,
-      "rk": 27,
-      "up": 34
+      "m": 16,
+      "m0": 21,
+      "rk": 38,
+      "up": 25
      },
      "news": [
       {
@@ -11345,7 +11360,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 554,
+      "up": 1
+     },
      "news": [
       {
        "h": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks",
@@ -12385,7 +12405,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 441,
+      "rk": 498,
       "up": 1
      },
      "news": [
@@ -12578,7 +12598,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 394,
+      "rk": 439,
       "up": 1
      },
      "news": [
@@ -12775,10 +12795,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 4,
-      "rk": 50,
-      "up": 25
+      "m": 11,
+      "m0": 12,
+      "rk": 47,
+      "up": 47
      },
      "news": [
       {
@@ -13368,12 +13388,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 737,
-      "up": 3
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -13609,12 +13624,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 688,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
@@ -13675,6 +13685,12 @@
      "social": null,
      "news": [
       {
+       "h": "What Could NANO Nuclear Energy (NNE) Mean For US HALEU Supply?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/could-nano-nuclear-energy-nne-061156531.html",
+       "date": "2026-08-19"
+      },
+      {
        "h": "How Much Upside is Left in Nano Nuclear Energy Inc. (NNE)? Wall Street Analysts Think 110.01%",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-nano-nuclear-135501454.html",
@@ -13684,12 +13700,6 @@
        "h": "Nano Nuclear Is Still Under $20. Here's My Case for Why That Won't Last.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-still-under-20-165000481.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "NNE Stock Heads For Best Month In 2026: So Why Is Wall Street Slashing Price Targets?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nne-stock-heads-best-month-013948257.html",
        "date": "2026-08-17"
       }
      ],
@@ -14092,10 +14102,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 746,
-      "up": 1
+      "rk": 205,
+      "up": 22
      },
      "news": [
       {
@@ -14555,8 +14565,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 665,
+      "m0": 1,
+      "rk": 774,
       "up": 2
      },
      "news": [
@@ -14641,12 +14651,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 352,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra Is Under $150. Here's Why I Think It Won't Stay That Way.",
@@ -14829,7 +14834,7 @@
        "date": "2022-10-01"
       },
       {
-       "amt": 6655769.3,
+       "amt": 6806276.3,
        "ag": "Department of Defense",
        "desc": "IGF::OT::IGF THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION, AND MAINTENANCE OF THE NATURAL GAS DISTRIBUTION SYSTEM AT FORT JACKSON, SOUTH CAROLINA",
        "date": "2019-11-19"
@@ -14961,10 +14966,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 8,
       "m0": 3,
-      "rk": 125,
-      "up": 11
+      "rk": 73,
+      "up": 14
      },
      "news": [
       {
@@ -15051,7 +15056,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 279,
+      "rk": 300,
       "up": 1
      },
      "news": [
@@ -15136,7 +15141,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 321,
+      "up": 7
+     },
      "news": [
       {
        "h": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
@@ -17548,7 +17558,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-18",
+ "social_asof": "2026-08-19",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17828,17 +17838,38 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-micron-sandisk-getting-hype-042000393.html",
+   "tk": "ONDS",
+   "h": "Ondas\u2019 Defense Push Gets Another Vote Of Confidence \u2013 Roth Capital Sees 44% Upside",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-defense-push-gets-another-061359899.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "NNE",
+   "h": "What Could NANO Nuclear Energy (NNE) Mean For US HALEU Supply?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/could-nano-nuclear-energy-nne-061156531.html",
    "date": "2026-08-19"
   },
   {
    "tk": "NVDA",
-   "h": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
+   "h": "Nvidia Stock Won't Be Overvalued by 2028: My Case for Buying NVDA Today",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-stanley-druckenmiller-035701945.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-wont-overvalued-2028-055000296.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-3-unstoppable-artificial-intelligence-045000414.html",
+   "date": "2026-08-19"
+  },
+  {
+   "tk": "ALB",
+   "h": "Albemarle (ALB) Stock Looks Below Fair Value After A 67% Gain",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-looks-below-043417399.html",
    "date": "2026-08-19"
   },
   {
@@ -18085,28 +18116,7 @@
    "pub": "Barchart",
    "link": "https://finance.yahoo.com/markets/stocks/articles/lhx-stock-focus-l3harris-technologies-210726650.html",
    "date": "2026-08-18"
-  },
-  {
-   "tk": "UBER",
-   "h": "Auto & Transport Roundup: Market Talk",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f65308ca?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-18"
-  },
-  {
-   "tk": "WRD",
-   "h": "Auto & Transport Roundup: Market Talk",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-f65308ca?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-18"
-  },
-  {
-   "tk": "MP",
-   "h": "Rare Earth Stocks Drop Tuesday as AI Fears Grow: USA Rare Earth and MP Materials Slide",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-drop-tuesday-205714774.html",
-   "date": "2026-08-18"
   }
  ],
- "prices_asof": "2026-08-19 04:41 UTC"
+ "prices_asof": "2026-08-19 06:25 UTC"
 }
