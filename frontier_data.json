@@ -1138,15 +1138,15 @@
        "date": "2026-08-19"
       },
       {
-       "h": "Stripe agrees to acquire AI model router OpenRouter",
-       "pub": "Electronic Payments",
-       "link": "https://finance.yahoo.com/technology/ai/articles/stripe-agrees-acquire-ai-model-064452162.html",
+       "h": "Billionaire Stanley Druckenmiller May Have Just Repeated His \"Big Mistake\" With Nvidia -- This Time With a Chip Stock That Rose 300% in the First Half of 2026",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-may-just-083200857.html",
        "date": "2026-08-20"
       },
       {
-       "h": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+       "h": "Caveat Emptor, SpaceX Investors: Another $47 Billion in Potential Selling Pressure Hits the Tape Today, Aug. 20",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nvidia-chip-filled-data-centers-062500733.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/caveat-emptor-spacex-investors-another-082600446.html",
        "date": "2026-08-20"
       }
      ]
@@ -12684,6 +12684,12 @@
      "social": null,
      "news": [
       {
+       "h": "UUUU Stock On Track To Snap 3-Month Losing Streak: Energy Fuels\u2019 Terbium Oxide Approved For Use By Major Japanese Magnet Maker",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uuuu-stock-track-snap-3-073714887.html",
+       "date": "2026-08-20"
+      },
+      {
        "h": "Sector Update: Energy Stocks Mixed Late Afternoon",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200134748.html",
@@ -12693,12 +12699,6 @@
        "h": "Sector Update: Energy Stocks Advance in Afternoon Trading",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-174027747.html",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "Will Energy Fuels' Tb Breakthrough Diversify Rare Earth Supply?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/energy-fuels-tb-breakthrough-diversify-173500160.html",
        "date": "2026-08-19"
       }
      ],
@@ -14012,6 +14012,12 @@
      ],
      "news": [
       {
+       "h": "BWX Technologies (BWXT) Wins ANEEL Fuel Review Role, Is It Still 32% Below Fair Value?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-aneel-081142707.html",
+       "date": "2026-08-20"
+      },
+      {
        "h": "NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-falls-6-q2-163346713.html",
@@ -14021,12 +14027,6 @@
        "h": "3 Cash-Producing Stocks with Exciting Potential",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-exciting-194220252.html",
-       "date": "2026-08-17"
-      },
-      {
-       "h": "Standard Nuclear Stock Hit Its High Ahead Of The Numbers",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/standard-nuclear-stock-hit-high-180015770.html",
        "date": "2026-08-17"
       }
      ]
@@ -17789,16 +17789,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Stripe agrees to acquire AI model router OpenRouter",
-   "pub": "Electronic Payments",
-   "link": "https://finance.yahoo.com/technology/ai/articles/stripe-agrees-acquire-ai-model-064452162.html",
+   "h": "Billionaire Stanley Druckenmiller May Have Just Repeated His \"Big Mistake\" With Nvidia -- This Time With a Chip Stock That Rose 300% in the First Half of 2026",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-may-just-083200857.html",
    "date": "2026-08-20"
   },
   {
    "tk": "NVDA",
-   "h": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+   "h": "Caveat Emptor, SpaceX Investors: Another $47 Billion in Potential Selling Pressure Hits the Tape Today, Aug. 20",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nvidia-chip-filled-data-centers-062500733.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/caveat-emptor-spacex-investors-another-082600446.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The S&P 500 Has Gained More Than 33% Since Trump's Election. Here's What That Means for Investors Heading Into Midterms.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-gained-more-33-081500729.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "BWXT",
+   "h": "BWX Technologies (BWXT) Wins ANEEL Fuel Review Role, Is It Still 32% Below Fair Value?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-wins-aneel-081142707.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "UUUU",
+   "h": "UUUU Stock On Track To Snap 3-Month Losing Streak: Energy Fuels\u2019 Terbium Oxide Approved For Use By Major Japanese Magnet Maker",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uuuu-stock-track-snap-3-073714887.html",
    "date": "2026-08-20"
   },
   {
@@ -17827,13 +17848,6 @@
    "h": "Jacobs Solutions (J) Lands Utah Canal Modernization Project",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-lands-utah-051124088.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
    "date": "2026-08-20"
   },
   {
@@ -18052,21 +18066,7 @@
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/business/women-at-l3harris-shared-concerns-about-ceos-behavior-years-before-ouster-966010ab?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-19"
-  },
-  {
-   "tk": "RKLB",
-   "h": "The Rocket Is Only 1 Piece of Rocket Lab\u2019s Real Strategy",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-only-1-piece-rocket-201536787.html",
-   "date": "2026-08-19"
-  },
-  {
-   "tk": "KTOS",
-   "h": "AppLovin vs. Kratos Defense: Which Technology Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-kratos-defense-technology-201401093.html",
-   "date": "2026-08-19"
   }
  ],
- "prices_asof": "2026-08-20 06:52 UTC"
+ "prices_asof": "2026-08-20 08:43 UTC"
 }
