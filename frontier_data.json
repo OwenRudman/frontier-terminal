@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 720,
+      "m0": 1,
+      "rk": 774,
       "up": 1
      },
      "news": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 104,
-      "m0": 115,
-      "rk": 6,
-      "up": 244
+      "m": 89,
+      "m0": 103,
+      "rk": 9,
+      "up": 214
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1138,15 @@
        "date": "2026-08-19"
       },
       {
-       "h": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html",
+       "h": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
        "date": "2026-08-20"
       },
       {
-       "h": "Why Marvell Stock Surged Today",
+       "h": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-surged-today-030529654.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html",
        "date": "2026-08-20"
       }
      ]
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 21,
-      "rk": 38,
-      "up": 25
+      "m": 14,
+      "m0": 17,
+      "rk": 48,
+      "up": 30
      },
      "thesis": {
       "bull": [
@@ -2031,8 +2031,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 363,
+      "m0": 1,
+      "rk": 382,
       "up": 1
      },
      "thesis": {
@@ -2322,7 +2322,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 300,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2474,12 +2479,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 382,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2825,10 +2825,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 782,
-      "up": 3
+      "rk": 129,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -3142,10 +3142,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 203,
-      "up": 3
+      "m": 5,
+      "m0": 2,
+      "rk": 111,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -3732,8 +3732,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 675,
+      "m0": 1,
+      "rk": 723,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4038,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 19,
-      "rk": 67,
-      "up": 31
+      "m": 6,
+      "m0": 8,
+      "rk": 95,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -4388,12 +4388,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 96,
-      "up": 12
+      "m": 1,
+      "m0": 7,
+      "rk": 489,
+      "up": 2
      },
      "news": [
+      {
+       "h": "How Investors May Respond To RTX (RTX) Winning a US$22.9 Billion Tomahawk Deal and Raising Guidance",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-rtx-rtx-042912981.html",
+       "date": "2026-08-20"
+      },
       {
        "h": "Make Your TDG Shares Pay You 9.8% A Year While You Hold Them",
        "pub": "Trefis",
@@ -4404,12 +4410,6 @@
        "h": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "Honeywell Aerospace Stock Has Fallen Far Enough. Morgan Stanley Says It\u2019s Time to Buy.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/honeywell-aerospace-stock-morgan-stanley-d7855d56?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-19"
       }
      ],
@@ -4722,9 +4722,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 708,
-      "up": 1
+      "m0": 1,
+      "rk": 763,
+      "up": 2
      },
      "news": [
       {
@@ -5110,12 +5110,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 262,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can HII Benefit From Growing Demand for Submarine Construction?",
@@ -5138,13 +5133,13 @@
      ],
      "awards": [
       {
-       "amt": 12775119158.85,
+       "amt": 12777051658.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
       },
       {
-       "amt": 8313269247.83,
+       "amt": 8318173131.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5869,28 +5864,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 55,
-      "rk": 18,
-      "up": 59
+      "m": 45,
+      "m0": 37,
+      "rk": 23,
+      "up": 76
      },
      "news": [
+      {
+       "h": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees \u2018Good Entry Point\u2019 As Robotaxis Drive 30% Of Bull Case",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-revs-cybercab-buzz-051612349.html",
+       "date": "2026-08-20"
+      },
+      {
+       "h": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America\u2019s Biggest Debuts",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-20"
+      },
       {
        "h": "Tesla (TSLA) Stock Is Up, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-stock-know-231002862.html",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "EXCLUSIVE: Ross Gerber Says Tesla Could \u2018Double\u2019 Sales Without Elon Musk, Warns Investors on SpaceX Merger",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ross-gerber-says-tesla-223141920.html",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-l-coming-222500557.html",
        "date": "2026-08-19"
       }
      ],
@@ -5957,9 +5952,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 446,
+      "m": 2,
+      "m0": 1,
+      "rk": 191,
       "up": 3
      },
      "news": [
@@ -6045,10 +6040,10 @@
      "hold": null,
      "geo": "China",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 117,
-      "up": 8
+      "m": 1,
+      "m0": 4,
+      "rk": 459,
+      "up": 1
      },
      "news": [
       {
@@ -6276,12 +6271,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 777,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -7112,7 +7102,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 283,
+      "rk": 310,
       "up": 1
      },
      "news": [
@@ -7255,10 +7245,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 791,
-      "up": 2
+      "rk": 214,
+      "up": 6
      },
      "news": [
       {
@@ -7386,9 +7376,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 456,
-      "up": 2
+      "m0": 1,
+      "rk": 483,
+      "up": 0
      },
      "news": [
       {
@@ -7446,12 +7436,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 200,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
@@ -7777,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 187,
-      "up": 6
+      "m": 66,
+      "m0": 3,
+      "rk": 14,
+      "up": 189
      },
      "news": [
       {
@@ -8286,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 26,
-      "rk": 37,
-      "up": 55
+      "m": 20,
+      "m0": 16,
+      "rk": 36,
+      "up": 187
      },
      "thesis": {
       "bull": [
@@ -8589,8 +8574,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 477,
-      "up": 1
+      "rk": 509,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -8772,8 +8757,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 734,
+      "m0": 1,
+      "rk": 784,
       "up": 1
      },
      "thesis": {
@@ -9185,12 +9170,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 775,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9368,12 +9348,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 793,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9535,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 36,
-      "rk": 28,
-      "up": 43
+      "m": 14,
+      "m0": 22,
+      "rk": 49,
+      "up": 42
      },
      "thesis": {
       "bull": [
@@ -9778,7 +9753,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 664,
+      "rk": 706,
       "up": 1
      },
      "news": [
@@ -9866,7 +9841,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 426,
+      "rk": 446,
       "up": 1
      },
      "news": [
@@ -9939,12 +9914,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 341,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Viavi Sees AI Optics, CPO Testing Driving Path Toward $500M Quarterly Revenue",
@@ -10030,8 +10000,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 431,
+      "m0": 1,
+      "rk": 450,
       "up": 2
      },
      "news": [
@@ -10444,10 +10414,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 9,
-      "rk": 153,
-      "up": 4
+      "m": 2,
+      "m0": 3,
+      "rk": 217,
+      "up": 6
      },
      "news": [
       {
@@ -10600,8 +10570,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 222,
-      "up": 3
+      "rk": 236,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10618,6 +10588,12 @@
      ],
      "news": [
       {
+       "h": "Lockheed Martin (LMT) Wins Fresh Defense Work As Valuation Questions Return",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-wins-fresh-061217814.html",
+       "date": "2026-08-20"
+      },
+      {
        "h": "Stock-Split Watch: Is Lockheed Martin Next?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-split-watch-lockheed-martin-232500305.html",
@@ -10627,12 +10603,6 @@
        "h": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "Is Leidos Strengthening Its Position in the Growing AI Market?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/ai/articles/leidos-strengthening-position-growing-ai-125700215.html",
        "date": "2026-08-19"
       }
      ],
@@ -10707,7 +10677,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 300,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10812,10 +10787,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 215,
-      "up": 1
+      "rk": 134,
+      "up": 8
      },
      "news": [
       {
@@ -10900,12 +10875,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 96,
-      "up": 12
+      "m": 1,
+      "m0": 7,
+      "rk": 489,
+      "up": 2
      },
      "news": [
+      {
+       "h": "How Investors May Respond To RTX (RTX) Winning a US$22.9 Billion Tomahawk Deal and Raising Guidance",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-rtx-rtx-042912981.html",
+       "date": "2026-08-20"
+      },
       {
        "h": "Make Your TDG Shares Pay You 9.8% A Year While You Hold Them",
        "pub": "Trefis",
@@ -10916,12 +10897,6 @@
        "h": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "Honeywell Aerospace Stock Has Fallen Far Enough. Morgan Stanley Says It\u2019s Time to Buy.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/honeywell-aerospace-stock-morgan-stanley-d7855d56?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-19"
       }
      ],
@@ -10990,8 +10965,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 315,
-      "up": 3
+      "rk": 337,
+      "up": 2
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -11272,10 +11247,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 21,
-      "rk": 38,
-      "up": 25
+      "m": 14,
+      "m0": 17,
+      "rk": 48,
+      "up": 30
      },
      "news": [
       {
@@ -11362,8 +11337,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 554,
+      "m0": 1,
+      "rk": 589,
       "up": 1
      },
      "news": [
@@ -12402,12 +12377,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 498,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -12595,12 +12565,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 439,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Denison Mine (DNN) Reports Q2 Loss, Misses Revenue Estimates",
@@ -12795,10 +12760,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 12,
-      "rk": 47,
-      "up": 47
+      "m": 16,
+      "m0": 11,
+      "rk": 41,
+      "up": 46
      },
      "news": [
       {
@@ -14101,12 +14066,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 205,
-      "up": 22
-     },
+     "social": null,
      "news": [
       {
        "h": "Which Industrial Machinery Stock Has Dominated in 2026: GE Vernova, Cummins, or Eaton?",
@@ -14441,6 +14401,12 @@
      "social": null,
      "news": [
       {
+       "h": "Jacobs Solutions (J) Lands Utah Canal Modernization Project",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-lands-utah-051124088.html",
+       "date": "2026-08-20"
+      },
+      {
        "h": "3 S&P 500 Stocks with Open Questions",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-122133477.html",
@@ -14451,12 +14417,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/bwxts-nuclear-cleanup-services-add-141100774.html",
        "date": "2026-08-17"
-      },
-      {
-       "h": "Jacobs Solutions' Life Sciences, AI Businesses to Drive Growth, RBC Says",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/technology/ai/articles/jacobs-solutions-apos-life-sciences-164500766.html",
-       "date": "2026-08-13"
       }
      ]
     },
@@ -14563,12 +14523,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 774,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
@@ -14966,10 +14921,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 3,
-      "rk": 73,
-      "up": 14
+      "m": 9,
+      "m0": 7,
+      "rk": 67,
+      "up": 21
      },
      "news": [
       {
@@ -15053,12 +15008,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 300,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Moderna upgraded, Baidu downgraded: Wall Street's top analyst calls",
@@ -15081,7 +15031,7 @@
      ],
      "awards": [
       {
-       "amt": 15700914.81,
+       "amt": 15800914.81,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15143,9 +15093,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 321,
-      "up": 7
+      "m0": 1,
+      "rk": 343,
+      "up": 1
      },
      "news": [
       {
@@ -17558,7 +17508,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-19",
+ "social_asof": "2026-08-20",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17838,6 +17788,48 @@
  ],
  "news": [
   {
+   "tk": "LMT",
+   "h": "Lockheed Martin (LMT) Wins Fresh Defense Work As Valuation Questions Return",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-wins-fresh-061217814.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Revs Up On Cybercab Buzz: Analyst Sees \u2018Good Entry Point\u2019 As Robotaxis Drive 30% Of Bull Case",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-revs-cybercab-buzz-051612349.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Red-Hot Rivals: How Chinese Tech IPOs Are Outshining America\u2019s Biggest Debuts",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/china-ipos-stock-investors-13e7d166?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "J",
+   "h": "Jacobs Solutions (J) Lands Utah Canal Modernization Project",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-j-lands-utah-051124088.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "RTX",
+   "h": "How Investors May Respond To RTX (RTX) Winning a US$22.9 Billion Tomahawk Deal and Raising Guidance",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-rtx-rtx-042912981.html",
+   "date": "2026-08-20"
+  },
+  {
    "tk": "VSAT",
    "h": "Viavi Sees AI Optics, CPO Testing Driving Path Toward $500M Quarterly Revenue",
    "pub": "MarketBeat",
@@ -17894,13 +17886,6 @@
    "date": "2026-08-20"
   },
   {
-   "tk": "NVDA",
-   "h": "Louis Navellier sets eye-opening Nvidia stock price target for rest of this year",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/louis-navellier-sets-eye-opening-020300562.html",
-   "date": "2026-08-20"
-  },
-  {
    "tk": "BIDU",
    "h": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
    "pub": "Bloomberg",
@@ -17950,24 +17935,10 @@
    "date": "2026-08-19"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-l-coming-222500557.html",
-   "date": "2026-08-19"
-  },
-  {
    "tk": "PLTR",
    "h": "The Dealmaking 3: Madden\u2019s AI Persona Engine, Boehly\u2019s $75B AI Bet & Pac-12 Free on YouTube",
    "pub": "CorpGov.com",
    "link": "https://finance.yahoo.com/technology/ai/articles/dealmaking-3-madden-ai-persona-221754847.html",
-   "date": "2026-08-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "General Motors Raises Guidance as Truck Demand Offsets EV and Tariff Pressures",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/general-motors-raises-guidance-truck-221613866.html",
    "date": "2026-08-19"
   },
   {
@@ -18095,28 +18066,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/applovin-vs-kratos-defense-technology-201401093.html",
    "date": "2026-08-19"
-  },
-  {
-   "tk": "BIDU",
-   "h": "BIDU Stock Alert: Morgan Stanley Downgrades Baidu Stock on Rising AI Costs",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/bidu-stock-alert-morgan-stanley-200726752.html",
-   "date": "2026-08-19"
-  },
-  {
-   "tk": "LMT",
-   "h": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo",
-   "date": "2026-08-19"
-  },
-  {
-   "tk": "RTX",
-   "h": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo",
-   "date": "2026-08-19"
   }
  ],
- "prices_asof": "2026-08-20 04:41 UTC"
+ "prices_asof": "2026-08-20 06:26 UTC"
 }
