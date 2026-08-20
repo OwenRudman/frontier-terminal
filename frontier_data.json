@@ -1138,15 +1138,15 @@
        "date": "2026-08-19"
       },
       {
-       "h": "Why Regeneron (REGN) Is Up 5.4% After FDA Approves Pasatru For Ultra-Rare FOP Therapy",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/healthcare/articles/why-regeneron-regn-5-4-051056760.html",
+       "h": "Stripe agrees to acquire AI model router OpenRouter",
+       "pub": "Electronic Payments",
+       "link": "https://finance.yahoo.com/technology/ai/articles/stripe-agrees-acquire-ai-model-064452162.html",
        "date": "2026-08-20"
       },
       {
-       "h": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
+       "h": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html",
+       "link": "https://finance.yahoo.com/energy/articles/nvidia-chip-filled-data-centers-062500733.html",
        "date": "2026-08-20"
       }
      ]
@@ -17788,6 +17788,20 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Stripe agrees to acquire AI model router OpenRouter",
+   "pub": "Electronic Payments",
+   "link": "https://finance.yahoo.com/technology/ai/articles/stripe-agrees-acquire-ai-model-064452162.html",
+   "date": "2026-08-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia Chip-Filled Data Centers Need More Power Than Any Utility Can Promise. Here's Who Actually Wins.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/nvidia-chip-filled-data-centers-062500733.html",
+   "date": "2026-08-20"
+  },
+  {
    "tk": "LMT",
    "h": "Lockheed Martin (LMT) Wins Fresh Defense Work As Valuation Questions Return",
    "pub": "Simply Wall St.",
@@ -17834,20 +17848,6 @@
    "h": "Viavi Sees AI Optics, CPO Testing Driving Path Toward $500M Quarterly Revenue",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/technology/ai/articles/viavi-sees-ai-optics-cpo-040157165.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Why Marvell Stock Surged Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-surged-today-030529654.html",
    "date": "2026-08-20"
   },
   {
@@ -18068,5 +18068,5 @@
    "date": "2026-08-19"
   }
  ],
- "prices_asof": "2026-08-20 06:26 UTC"
+ "prices_asof": "2026-08-20 06:52 UTC"
 }
