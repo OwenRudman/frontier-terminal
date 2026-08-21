@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 774,
+      "m0": 0,
+      "rk": 764,
       "up": 1
      },
      "news": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 89,
-      "m0": 103,
+      "m": 90,
+      "m0": 86,
       "rk": 9,
-      "up": 214
+      "up": 199
      },
      "thesis": {
       "bull": [
@@ -1144,9 +1144,9 @@
        "date": "2026-08-20"
       },
       {
-       "h": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
+       "h": "The Dividend ETF That Generates Passive Income While You Sleep",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-single-best-042000163.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-generates-passive-income-052000888.html",
        "date": "2026-08-21"
       }
      ]
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 17,
-      "rk": 48,
-      "up": 30
+      "m": 10,
+      "m0": 14,
+      "rk": 56,
+      "up": 19
      },
      "thesis": {
       "bull": [
@@ -2032,7 +2032,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 382,
+      "rk": 363,
       "up": 1
      },
      "thesis": {
@@ -2324,8 +2324,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 300,
+      "m0": 1,
+      "rk": 279,
       "up": 1
      },
      "streetNotes": [
@@ -2479,7 +2479,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 167,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -2729,6 +2734,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "AVAV Stock Gains Overnight: AeroVironment Bets On Greece To Build Europe\u2019s Counter-Drone Arsenal",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-gains-overnight-aerovironment-051353935.html",
+       "date": "2026-08-21"
+      },
+      {
        "h": "Can AeroVironment's Propulsion Capabilities Support Future Growth?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/aerovironments-propulsion-capabilities-support-future-145400530.html",
@@ -2738,12 +2749,6 @@
        "h": "Can DPRO's Expanding Drone Platform Unlock Its Next Phase of Growth?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/dpros-expanding-drone-platform-unlock-123600591.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "3 Industrials Stocks That Fall Short",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-industrials-stocks-fall-short-105915833.html",
        "date": "2026-08-20"
       }
      ],
@@ -2824,12 +2829,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 129,
-      "up": 4
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3142,10 +3142,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 111,
-      "up": 6
+      "m": 6,
+      "m0": 5,
+      "rk": 91,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -3733,7 +3733,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 723,
+      "rk": 707,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4038,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 8,
-      "rk": 95,
-      "up": 13
+      "m": 15,
+      "m0": 6,
+      "rk": 40,
+      "up": 26
      },
      "thesis": {
       "bull": [
@@ -4389,9 +4389,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 489,
-      "up": 2
+      "m0": 1,
+      "rk": 469,
+      "up": 4
      },
      "news": [
       {
@@ -4723,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 763,
-      "up": 2
+      "rk": 753,
+      "up": 4
      },
      "news": [
       {
@@ -5133,19 +5133,19 @@
      ],
      "awards": [
       {
-       "amt": 12777051658.85,
+       "amt": 12779497658.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
       },
       {
-       "amt": 8318173131.83,
+       "amt": 8318173242.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6944181570.74,
+       "amt": 6944722243.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5433,7 +5433,7 @@
        "date": "1992-10-15"
       },
       {
-       "amt": 3969930856.64,
+       "amt": 4013930856.64,
        "ag": "Department of Defense",
        "desc": "THE FUTURE VERTICAL LIFT (FVL) FLRAA CAPABILITY SET THREE IS A PRE-MAJOR DEFENSE ACQUISITION PROGRAM (ACAT 1C) COMMISSIONED TO DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
        "date": "2022-12-05"
@@ -5864,12 +5864,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 45,
-      "m0": 37,
-      "rk": 23,
-      "up": 76
+      "m": 31,
+      "m0": 45,
+      "rk": 20,
+      "up": 46
      },
      "news": [
+      {
+       "h": "TSLA Stock Eyes Another Winning Week: Nevada Clears Up To 5,000 Robotaxis, Musk Sees \u2018Crazy\u2019 Tesla Growth",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-eyes-another-winning-043306466.html",
+       "date": "2026-08-21"
+      },
       {
        "h": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
        "pub": "Benzinga",
@@ -5881,12 +5887,6 @@
        "pub": "TechCrunch",
        "link": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-cybercab-adds-less-5-210101563.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
@@ -5953,8 +5953,8 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 191,
+      "m0": 2,
+      "rk": 170,
       "up": 3
      },
      "news": [
@@ -6041,9 +6041,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 459,
-      "up": 1
+      "m0": 1,
+      "rk": 437,
+      "up": 3
      },
      "news": [
       {
@@ -7101,9 +7101,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 310,
-      "up": 1
+      "m0": 0,
+      "rk": 284,
+      "up": 2
      },
      "news": [
       {
@@ -7244,12 +7244,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 214,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7377,7 +7372,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 483,
+      "rk": 461,
       "up": 0
      },
      "news": [
@@ -7762,29 +7757,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 66,
-      "m0": 3,
-      "rk": 14,
-      "up": 189
+      "m": 31,
+      "m0": 66,
+      "rk": 21,
+      "up": 67
      },
      "news": [
+      {
+       "h": "SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-sls-050931079.html",
+       "date": "2026-08-21"
+      },
+      {
+       "h": "SELLAS Life Sciences Group (SLS) Stock Looks Stretched Despite Key AML Trial Progress",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-group-sls-043038969.html",
+       "date": "2026-08-21"
+      },
       {
        "h": "SLS, IBRX Stocks In Focus: Analyst Says Moderna-Merck Cancer Vaccine Success \u2018Bodes Well\u2019 For Oncology",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-stocks-focus-analyst-024637666.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "SLS Stock Edges Higher As Wall Street, Retail Expect Another MRNA Moment",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-edges-higher-wall-193818712.html",
-       "date": "2026-08-19"
-      },
-      {
-       "h": "SLS Stock Extends Rally To 4 Days: sell-side Discloses New Stake, CEO Signals AML Database-Lock Preparations",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-extends-rally-4-051907796.html",
-       "date": "2026-08-18"
       }
      ]
     }
@@ -8271,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 16,
-      "rk": 36,
-      "up": 187
+      "m": 28,
+      "m0": 20,
+      "rk": 23,
+      "up": 70
      },
      "thesis": {
       "bull": [
@@ -8574,7 +8569,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 509,
+      "rk": 487,
       "up": 2
      },
      "streetNotes": [
@@ -8755,12 +8750,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 784,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9510,10 +9500,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 22,
-      "rk": 49,
-      "up": 42
+      "m": 39,
+      "m0": 14,
+      "rk": 18,
+      "up": 299
      },
      "thesis": {
       "bull": [
@@ -9750,12 +9740,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 706,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Who Is on the Shortlist to Acquire Ziff Davis?",
@@ -9838,12 +9823,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 446,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "As Starlink Passes 11,000 Satellites, These 5 Stocks Will Feel It First",
@@ -9998,12 +9978,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 450,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10414,10 +10389,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 217,
-      "up": 6
+      "m": 4,
+      "m0": 2,
+      "rk": 118,
+      "up": 7
      },
      "news": [
       {
@@ -10570,8 +10545,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 236,
-      "up": 2
+      "rk": 215,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10588,6 +10563,12 @@
      ],
      "news": [
       {
+       "h": "Boeing and 9 More Stocks for Manufacturing\u2019s Revival, From Our Roundtable Pros",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/manufacturing-stocks-picks-roundtable-7c264514?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-21"
+      },
+      {
        "h": "Why Did Lockheed Martin Stock Drop Today?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-lockheed-martin-stock-182635315.html",
@@ -10597,12 +10578,6 @@
        "h": "GE Aerospace Stock Is Priced For A Margin Repair That Has Not Happened Yet",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-priced-margin-163510309.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "Can RTX's Tomahawk Production Ramp-Up Enhance Its Growth Prospects?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtxs-tomahawk-production-ramp-enhance-145200333.html",
        "date": "2026-08-20"
       }
      ],
@@ -10679,8 +10654,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 300,
+      "m0": 1,
+      "rk": 279,
       "up": 1
      },
      "streetNotes": [
@@ -10787,12 +10762,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 134,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 209,
+      "up": -3
      },
      "news": [
+      {
+       "h": "Boeing and 9 More Stocks for Manufacturing\u2019s Revival, From Our Roundtable Pros",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/manufacturing-stocks-picks-roundtable-7c264514?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-21"
+      },
       {
        "h": "Is AerCap Holdings N.V. (AER) a Better Aviation Investment Than The Boeing Company (BA)?",
        "pub": "Insider Monkey",
@@ -10803,12 +10784,6 @@
        "h": "Archer Aviation Drops 7%, EHang Sinks 6%, Joby Aviation Falls 4% as Air Taxi Stocks Ignore Good News",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-drops-7-ehang-164916227.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "GE Aerospace Stock Is Priced For A Margin Repair That Has Not Happened Yet",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-stock-priced-margin-163510309.html",
        "date": "2026-08-20"
       }
      ],
@@ -10876,9 +10851,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 489,
-      "up": 2
+      "m0": 1,
+      "rk": 469,
+      "up": 4
      },
      "news": [
       {
@@ -10962,12 +10937,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 337,
-      "up": 2
-     },
+     "social": null,
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11247,10 +11217,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 17,
-      "rk": 48,
-      "up": 30
+      "m": 10,
+      "m0": 14,
+      "rk": 56,
+      "up": 19
      },
      "news": [
       {
@@ -11338,8 +11308,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 589,
-      "up": 1
+      "rk": 560,
+      "up": 5
      },
      "news": [
       {
@@ -12681,7 +12651,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 169,
+      "up": 10
+     },
      "news": [
       {
        "h": "MP's Materials Segment 1H26 Revenues Jump 80%: Can This Momentum Last?",
@@ -12760,10 +12735,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 11,
-      "rk": 41,
-      "up": 46
+      "m": 8,
+      "m0": 14,
+      "rk": 72,
+      "up": 15
      },
      "news": [
       {
@@ -13353,7 +13328,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 1,
+      "rk": 155,
+      "up": 5
+     },
      "thesis": {
       "bull": [
        {
@@ -14921,10 +14901,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 7,
-      "rk": 67,
-      "up": 21
+      "m": 6,
+      "m0": 9,
+      "rk": 86,
+      "up": 19
      },
      "news": [
       {
@@ -15094,7 +15074,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 343,
+      "rk": 319,
       "up": 1
      },
      "news": [
@@ -17508,7 +17488,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-20",
+ "social_asof": "2026-08-21",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17789,16 +17769,58 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
+   "h": "The Dividend ETF That Generates Passive Income While You Sleep",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-single-best-042000163.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-generates-passive-income-052000888.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "AVAV",
+   "h": "AVAV Stock Gains Overnight: AeroVironment Bets On Greece To Build Europe\u2019s Counter-Drone Arsenal",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-gains-overnight-aerovironment-051353935.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "SLS",
+   "h": "SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-sls-050931079.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing and 9 More Stocks for Manufacturing\u2019s Revival, From Our Roundtable Pros",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/manufacturing-stocks-picks-roundtable-7c264514?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "LMT",
+   "h": "Boeing and 9 More Stocks for Manufacturing\u2019s Revival, From Our Roundtable Pros",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/manufacturing-stocks-picks-roundtable-7c264514?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLA Stock Eyes Another Winning Week: Nevada Clears Up To 5,000 Robotaxis, Musk Sees \u2018Crazy\u2019 Tesla Growth",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-eyes-another-winning-043306466.html",
    "date": "2026-08-21"
   },
   {
    "tk": "NVDA",
-   "h": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/technology/ai/articles/fabrinet-sees-ai-optical-demand-040159980.html",
+   "h": "Will Stronger Operating Trends Amid Volatile Markets Change TC Energy's (TSX:TRP) Narrative?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/stronger-operating-trends-amid-volatile-043050641.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "SLS",
+   "h": "SELLAS Life Sciences Group (SLS) Stock Looks Stretched Despite Key AML Trial Progress",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/healthcare/articles/sellas-life-sciences-group-sls-043038969.html",
    "date": "2026-08-21"
   },
   {
@@ -18024,49 +18046,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-intc-stock-real-212900379.html",
    "date": "2026-08-20"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova's AI Data Center Orders Just Doubled All of 2025 in 1 Half-Year. Is the Stock Still a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernovas-ai-data-center-212500909.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-cybercab-adds-less-5-210101563.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Airwallex expands from cross-border payments to autonomous finance\u2014though president Lucy Liu says it\u2019s still \u2018not the best time\u2019 for an IPO",
-   "pub": "Fortune",
-   "link": "https://finance.yahoo.com/technology/ai/articles/airwallex-expands-cross-border-payments-210000767.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "QCOM",
-   "h": "The Line In The Sand For AVGO Stock",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/line-sand-avgo-stock-195634870.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Waymo is making its own AI chip for its robotaxi service",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "UBER",
-   "h": "Waymo is making its own AI chip for its robotaxi service",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-   "date": "2026-08-20"
   }
  ],
- "prices_asof": "2026-08-21 04:42 UTC"
+ "prices_asof": "2026-08-21 06:27 UTC"
 }
