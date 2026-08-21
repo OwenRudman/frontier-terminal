@@ -1144,9 +1144,9 @@
        "date": "2026-08-20"
       },
       {
-       "h": "Is a Financial Sector ETF a Better Buy Than Picking the Stocks Yourself?",
+       "h": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/financial-sector-etf-better-buy-025000946.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-single-best-042000163.html",
        "date": "2026-08-21"
       }
      ]
@@ -5871,6 +5871,12 @@
      },
      "news": [
       {
+       "h": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-bulls-023132599.html",
+       "date": "2026-08-21"
+      },
+      {
        "h": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
        "pub": "TechCrunch",
        "link": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html",
@@ -5880,12 +5886,6 @@
        "h": "Prediction: Cybercab Adds Less Than 5% to Tesla's Revenue in Its First Full Year",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-cybercab-adds-less-5-210101563.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "Airwallex expands from cross-border payments to autonomous finance\u2014though president Lucy Liu says it\u2019s still \u2018not the best time\u2019 for an IPO",
-       "pub": "Fortune",
-       "link": "https://finance.yahoo.com/technology/ai/articles/airwallex-expands-cross-border-payments-210000767.html",
        "date": "2026-08-20"
       }
      ],
@@ -17789,9 +17789,16 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is a Financial Sector ETF a Better Buy Than Picking the Stocks Yourself?",
+   "h": "If a Bear Market Is Coming, This Is the Single Best Investing Decision You Can Make",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/financial-sector-etf-better-buy-025000946.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-single-best-042000163.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Fabrinet Sees AI Optical Demand Fueling Years of Growth, Expands Capacity",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/technology/ai/articles/fabrinet-sees-ai-optical-demand-040159980.html",
    "date": "2026-08-21"
   },
   {
@@ -17830,10 +17837,10 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "NVDA",
-   "h": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-intel-wall-street-022000724.html",
+   "tk": "TSLA",
+   "h": "Gary Black Says Tesla Bulls On Social Media Are Like College Students Doing 'Tequila Shots'",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gary-black-says-tesla-bulls-023132599.html",
    "date": "2026-08-21"
   },
   {
@@ -18040,13 +18047,6 @@
    "date": "2026-08-20"
   },
   {
-   "tk": "TSLA",
-   "h": "Elon Musk points to one country as AI's biggest threat",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-points-one-country-205500574.html",
-   "date": "2026-08-20"
-  },
-  {
    "tk": "QCOM",
    "h": "The Line In The Sand For AVGO Stock",
    "pub": "Trefis",
@@ -18068,5 +18068,5 @@
    "date": "2026-08-20"
   }
  ],
- "prices_asof": "2026-08-21 03:07 UTC"
+ "prices_asof": "2026-08-21 04:42 UTC"
 }
