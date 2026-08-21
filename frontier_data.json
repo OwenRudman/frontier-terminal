@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade",
+       "h": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-anthropics-ipo-plans-come-into-focus-nvidia-earnings-provide-next-test-for-ai-trade-132945569.html",
-       "date": "2026-08-17"
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+       "date": "2026-08-21"
       },
       {
-       "h": "Waymo is making its own AI chip for its robotaxi service",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
+       "h": "1 High-Yield Pipeline Stock Investors Keep Underestimating",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/macys-stock-trades-just-10-062500161.html",
+       "link": "https://finance.yahoo.com/energy/articles/1-high-yield-pipeline-stock-083500135.html",
+       "date": "2026-08-21"
+      },
+      {
+       "h": "The Bond Market Just Flashed a Rare Warning Seen Twice in 20 Years. History Says the Stock Market Will Do This Next.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bond-market-just-flashed-rare-083200693.html",
        "date": "2026-08-21"
       }
      ]
@@ -3410,6 +3410,12 @@
      "take": "The cleverest idea on the list, with the cash to build it. But be honest about the math: ~$1B of value on ~$30M of revenue, with a \"profit\" that came from investments. A venture-style bet dressed as a stock. Own only with money you can watch swing 30% in a week.",
      "news": [
       {
+       "h": "Unusual Machines Ramps U.S. Drone Component Output as Defense Demand Takes Flight",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-ramps-u-drone-080156267.html",
+       "date": "2026-08-21"
+      },
+      {
        "h": "Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-drops-7-unusual-machines-154219520.html",
@@ -3419,12 +3425,6 @@
        "h": "UMAC Rides on Favorable Industry Tailwinds: Should You Bet on It?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/umac-rides-favorable-industry-tailwinds-143300850.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "Does Unusual Machines, Inc. (UMAC) Have the Potential to Rally 37.81% as Wall Street Analysts Expect?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-unusual-machines-inc-umac-135502688.html",
        "date": "2026-08-20"
       }
      ]
@@ -17768,24 +17768,45 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "1 High-Yield Pipeline Stock Investors Keep Underestimating",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/1-high-yield-pipeline-stock-083500135.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Bond Market Just Flashed a Rare Warning Seen Twice in 20 Years. History Says the Stock Market Will Do This Next.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bond-market-just-flashed-rare-083200693.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "NVDA",
+   "h": "I Examined the Top Holdings of 17 Billionaire Money Managers, and These 3 Stocks Were the Common Denominators",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/examined-top-holdings-17-billionaire-082600208.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stock market today: Dow, S&P 500, Nasdaq futures drift higher despite Treasury yield pressures persisting",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+   "date": "2026-08-21"
+  },
+  {
+   "tk": "UMAC",
+   "h": "Unusual Machines Ramps U.S. Drone Component Output as Defense Demand Takes Flight",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-ramps-u-drone-080156267.html",
+   "date": "2026-08-21"
+  },
+  {
    "tk": "AVEX",
    "h": "Why Is AVEX Stock Rising Overnight?",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-avex-stock-rising-overnight-062641047.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Macy's Stock Trades at Just 10 Times Earnings. There's Only 1 Explanation for Why Macy's Is This Cheap.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/macys-stock-trades-just-10-062500161.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong,\" Even as CRM Stock Has Fallen Over 25% in 2026. Should Investors Bet on His Conviction?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marc-benioff-says-wall-streets-062000502.html",
    "date": "2026-08-21"
   },
   {
@@ -18025,28 +18046,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-bwx-kratos-parsons-221115869.html",
    "date": "2026-08-20"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Ex-FBI Officer is Watching Every Polymarket Trader, Says CEO Coplan",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/ex-fbi-officer-watching-every-215215775.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Is Palantir Still a Buy After Its 33% Rally Over the Past Month?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-still-buy-33-rally-215000581.html",
-   "date": "2026-08-20"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24%",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/options/articles/earn-17-amd-stock-now-214121302.html",
-   "date": "2026-08-20"
   }
  ],
- "prices_asof": "2026-08-21 06:53 UTC"
+ "prices_asof": "2026-08-21 08:46 UTC"
 }
