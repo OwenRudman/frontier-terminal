@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow, S&P 500, Nasdaq post weekly losses as bond volatility remains in focus, bitcoin soars",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
+       "h": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ive-held-microsoft-10-years-183300308.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
+       "date": "2026-08-22"
+      },
+      {
+       "h": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html",
+       "date": "2026-08-22"
+      },
+      {
+       "h": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-greg-abel-know-something-195300161.html",
        "date": "2026-08-22"
       }
      ]
@@ -5878,10 +5878,10 @@
        "date": "2026-08-22"
       },
       {
-       "h": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-no-longer-trillionaire-233204052.html",
-       "date": "2026-08-21"
+       "h": "Full Self-Driving Is the Best Thing About the New Tesla Model Y",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/lifestyle/cars/tesla-model-y-review-13d303c1?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -10553,6 +10553,12 @@
      ],
      "news": [
       {
+       "h": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Advance Auto Parts vs. Lockheed Martin: Which Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-vs-lockheed-215801381.html",
@@ -10562,12 +10568,6 @@
        "h": "Rocket Lab Stock's Twelve-Month Gain Hides A Long Slide From Its High",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-twelve-month-185123222.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Boeing Is Delivering Airplanes Faster Than It Is Delivering Cash",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-delivering-airplanes-faster-delivering-175544180.html",
        "date": "2026-08-21"
       }
      ],
@@ -10759,6 +10759,12 @@
      },
      "news": [
       {
+       "h": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Boeing (BA) Names A New Controller, Is The Stock 34% Overvalued?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-names-controller-stock-041858774.html",
@@ -10768,12 +10774,6 @@
        "h": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "AST SpaceMobile vs. Boeing: Which High Flying Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-boeing-high-212901117.html",
        "date": "2026-08-21"
       }
      ],
@@ -17777,16 +17777,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.",
+   "h": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ive-held-microsoft-10-years-183300308.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
    "date": "2026-08-22"
   },
   {
    "tk": "NVDA",
-   "h": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.",
+   "h": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-hand-picked-successor-182000620.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-greg-abel-know-something-195300161.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Can This 6.3% Yield Survive if Oil Crashes Again?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/6-3-yield-survive-oil-193501585.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "BA",
+   "h": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "LMT",
+   "h": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
    "date": "2026-08-22"
   },
   {
@@ -17871,6 +17899,13 @@
    "h": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Full Self-Driving Is the Best Thing About the New Tesla Model Y",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/lifestyle/cars/tesla-model-y-review-13d303c1?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-22"
   },
   {
@@ -18000,13 +18035,6 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-controls-59-u-ev-222500240.html",
-   "date": "2026-08-21"
-  },
-  {
    "tk": "BIDU",
    "h": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
    "pub": "Benzinga",
@@ -18026,35 +18054,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-vs-lockheed-215801381.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "ONDS",
-   "h": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/high-growth-high-cash-burn-213535172.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile vs. Boeing: Which High Flying Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-boeing-high-212901117.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "BA",
-   "h": "AST SpaceMobile vs. Boeing: Which High Flying Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-boeing-high-212901117.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "SLS",
-   "h": "SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-clocks-three-straight-211931656.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 18:36 UTC"
+ "prices_asof": "2026-08-22 20:27 UTC"
 }
