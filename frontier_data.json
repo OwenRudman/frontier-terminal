@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/?src=A00220&yptr=yahoo",
@@ -1782,12 +1788,6 @@
        "h": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Even The Calm Reading On Palantir Puts Nearly Half The Position In Play",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/even-calm-reading-palantir-puts-172717000.html",
        "date": "2026-08-21"
       }
      ],
@@ -8467,6 +8467,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/articles/rocket-labs-haste-flying-hypersonic-092000691.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
@@ -8477,12 +8483,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -11214,6 +11214,12 @@
      },
      "news": [
       {
+       "h": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/?src=A00220&yptr=yahoo",
@@ -11223,12 +11229,6 @@
        "h": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Even The Calm Reading On Palantir Puts Nearly Half The Position In Play",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/even-calm-reading-palantir-puts-172717000.html",
        "date": "2026-08-21"
       }
      ],
@@ -17777,9 +17777,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Elon Musk Wants to Bring on 20 Gigawatts of Compute Capacity. Here's What That Could Mean For Memory Chip Stocks.",
+   "h": "This Dividend ETF Won't Let a Stock In Unless It Passes 2 Strict Tests. Here's Why That Matters.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-wants-bring-20-075000062.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-etf-wont-let-stock-102000084.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Prediction: This Will Be Palantir's Stock Price by the End of 2030",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/articles/rocket-labs-haste-flying-hypersonic-092000691.html",
    "date": "2026-08-22"
   },
   {
@@ -18014,13 +18028,6 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "RKLB",
-   "h": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
-   "date": "2026-08-21"
-  },
-  {
    "tk": "RTX",
    "h": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
    "pub": "Insider Monkey",
@@ -18047,14 +18054,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "SO",
-   "h": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 08:34 UTC"
+ "prices_asof": "2026-08-22 10:27 UTC"
 }
