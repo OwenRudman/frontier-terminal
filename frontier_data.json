@@ -4390,6 +4390,12 @@
      },
      "news": [
       {
+       "h": "RTX's $289 Billion Backlog, Explained",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtxs-289-billion-backlog-explained-072500728.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
@@ -4399,12 +4405,6 @@
        "h": "Boeing Is Delivering Airplanes Faster Than It Is Delivering Cash",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-delivering-airplanes-faster-delivering-175544180.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "MSI Expands Drone Portfolio With D-Fend Deal: Will it Drive Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/msi-expands-drone-portfolio-d-142200970.html",
        "date": "2026-08-21"
       }
      ],
@@ -8467,6 +8467,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
@@ -8476,12 +8482,6 @@
        "h": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
        "date": "2026-08-21"
       }
      ],
@@ -10847,6 +10847,12 @@
      },
      "news": [
       {
+       "h": "RTX's $289 Billion Backlog, Explained",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtxs-289-billion-backlog-explained-072500728.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Is Rocket Lab (RKLB)\u2019s Record Space Force Deal the Turning Point for Defense Investors?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-record-space-190605798.html",
@@ -10856,12 +10862,6 @@
        "h": "Boeing Is Delivering Airplanes Faster Than It Is Delivering Cash",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-delivering-airplanes-faster-delivering-175544180.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "MSI Expands Drone Portfolio With D-Fend Deal: Will it Drive Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/msi-expands-drone-portfolio-d-142200970.html",
        "date": "2026-08-21"
       }
      ],
@@ -17777,9 +17777,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "How to Judge a Fintech Stock Before You Buy It",
+   "h": "Elon Musk Wants to Bring on 20 Gigawatts of Compute Capacity. Here's What That Could Mean For Memory Chip Stocks.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/judge-fintech-stock-buy-062500097.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-wants-bring-20-075000062.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "RTX",
+   "h": "RTX's $289 Billion Backlog, Explained",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtxs-289-billion-backlog-explained-072500728.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
    "date": "2026-08-22"
   },
   {
@@ -18040,21 +18054,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "LHX",
-   "h": "Rocket Lab Stock's Twelve-Month Gain Hides A Long Slide From Its High",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-twelve-month-185123222.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "LMT",
-   "h": "Rocket Lab Stock's Twelve-Month Gain Hides A Long Slide From Its High",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-twelve-month-185123222.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 06:46 UTC"
+ "prices_asof": "2026-08-22 08:34 UTC"
 }
