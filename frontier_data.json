@@ -1138,15 +1138,15 @@
        "date": "2026-08-21"
       },
       {
-       "h": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html",
-       "date": "2026-08-17"
+       "h": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html",
+       "date": "2026-08-22"
       },
       {
-       "h": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years",
+       "h": "Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says \"Turning Over the Most Rocks\" Is the Key to Winning.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-semiconductor-122500157.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-beat-p-500-140500143.html",
        "date": "2026-08-22"
       }
      ]
@@ -8467,6 +8467,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/articles/rocket-labs-haste-flying-hypersonic-092000691.html",
@@ -8476,12 +8482,6 @@
        "h": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
-       "date": "2026-08-22"
-      },
-      {
-       "h": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
        "date": "2026-08-22"
       }
      ],
@@ -9821,6 +9821,12 @@
      "social": null,
      "news": [
       {
+       "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Why Is Iridium (IRDM) Up 1.7% Since Last Earnings Report?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-iridium-irdm-1-7-153005763.html",
@@ -9831,12 +9837,6 @@
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/rocket-lab-ceo-says-8-143028569.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "As Starlink Passes 11,000 Satellites, These 5 Stocks Will Feel It First",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-passes-11-000-satellites-130053119.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
@@ -17777,16 +17777,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years",
+   "h": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-semiconductor-122500157.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html",
    "date": "2026-08-22"
   },
   {
    "tk": "NVDA",
-   "h": "Where Will This Vanguard ETF, Loaded With Nvidia and Broadcom, Be in 10 Years?",
+   "h": "Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says \"Turning Over the Most Rocks\" Is the Key to Winning.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-etf-loaded-nvidia-122000913.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-beat-p-500-140500143.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/stock-quietly-becoming-ai-powerhouse-140051503.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
    "date": "2026-08-22"
   },
   {
@@ -17958,13 +17979,6 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "RKLB",
-   "h": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-   "date": "2026-08-21"
-  },
-  {
    "tk": "TSLA",
    "h": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
    "pub": "Motley Fool",
@@ -18040,21 +18054,7 @@
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-first-weekly-204508360.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "QCOM",
-   "h": "The $116 Billion That NVDA Quietly Paid Its Owners",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "GEV",
-   "h": "Sector Update: Energy Stocks Mixed Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 12:47 UTC"
+ "prices_asof": "2026-08-22 14:25 UTC"
 }
