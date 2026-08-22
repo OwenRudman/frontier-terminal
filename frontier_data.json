@@ -2234,6 +2234,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "General Electric (GE) Could Be 14% Overvalued On Air Force Contract Win And Capital Returns",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-could-14-011106138.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
@@ -2243,12 +2249,6 @@
        "h": "Unusual Machines Jumps 7%, Ondas Climbs 4%, Kratos Defense Rises 3% as the Drone Trade Snaps Back",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-jumps-7-ondas-175347048.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Is Kratos Defense Entering the Scale-Up Phase of Defense Modernization?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-entering-scale-phase-135200808.html",
        "date": "2026-08-21"
       }
      ],
@@ -5959,6 +5959,12 @@
      },
      "news": [
       {
+       "h": "Uber (UBER) Hit With \u20ac825 Million GDPR Fine Over Driver Suspensions",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-hit-825-million-011150734.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Uber (UBER) Stock Fair Value Edges Lower As Analysts Weigh AV Spending And Delivery Hero",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-stock-fair-value-001733853.html",
@@ -5968,12 +5974,6 @@
        "h": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Why Is Tesla Stock Up Today?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-today-214633416.html",
        "date": "2026-08-21"
       }
      ],
@@ -7107,6 +7107,12 @@
      },
      "news": [
       {
+       "h": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
@@ -7116,12 +7122,6 @@
        "h": "The $116 Billion That NVDA Quietly Paid Its Owners",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/options/articles/hidden-tax-cost-jepi-monthly-163031968.html",
        "date": "2026-08-21"
       }
      ],
@@ -10479,6 +10479,12 @@
      "social": null,
      "news": [
       {
+       "h": "Voyager Technologies (VOYG) Stock Looks Rich On Sales But Strong On Returns",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-voyg-stock-looks-011058390.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Why Is Voyager Technologies (VOYG) Pushing Deeper Into Space Force Communications?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/articles/why-voyager-technologies-voyg-pushing-161113482.html",
@@ -10489,12 +10495,6 @@
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/voyager-ceo-dylan-taylor-says-104621232.html",
        "date": "2026-08-18"
-      },
-      {
-       "h": "AST SpaceMobile Stock Could Follow Voyager Technologies Higher After Earnings",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/ast-spacemobile-stock-earnings-voyager-technologies-7b1d9fbe?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-11"
       }
      ]
     },
@@ -17769,9 +17769,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Why Ubiquiti Stock Just Sank",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ubiquiti-stock-just-sank-003555446.html",
+   "h": "Dow sell-side Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-hands-sergio-buniac-011219390.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber (UBER) Hit With \u20ac825 Million GDPR Fine Over Driver Suspensions",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-hit-825-million-011150734.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "KTOS",
+   "h": "General Electric (GE) Could Be 14% Overvalued On Air Force Contract Win And Capital Returns",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-could-14-011106138.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "VOYG",
+   "h": "Voyager Technologies (VOYG) Stock Looks Rich On Sales But Strong On Returns",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/voyager-technologies-voyg-stock-looks-011058390.html",
    "date": "2026-08-22"
   },
   {
@@ -17908,13 +17936,6 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "UBER",
-   "h": "Alphabet Rises as Waymo Secures Another Robotaxi Market",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/articles/alphabet-rises-waymo-secures-another-200045385.html",
-   "date": "2026-08-21"
-  },
-  {
    "tk": "GEV",
    "h": "Sector Update: Energy Stocks Mixed Late Afternoon",
    "pub": "MT Newswires",
@@ -18025,28 +18046,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "KTOS",
-   "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "RCAT",
-   "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 01:26 UTC"
+ "prices_asof": "2026-08-22 02:57 UTC"
 }
