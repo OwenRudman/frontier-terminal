@@ -1138,15 +1138,15 @@
        "date": "2026-08-21"
       },
       {
-       "h": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html",
-       "date": "2026-08-22"
+       "h": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html",
+       "date": "2026-08-21"
       },
       {
-       "h": "Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says \"Turning Over the Most Rocks\" Is the Key to Winning.",
+       "h": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-beat-p-500-140500143.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stephen-mandel-just-loaded-162000251.html",
        "date": "2026-08-22"
       }
      ]
@@ -5866,6 +5866,12 @@
      },
      "news": [
       {
+       "h": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-l-coming-153500730.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "Elon Musk Is No Longer a Trillionaire, but He Could Still Give Every Person on Earth $69.420 and Stay the World's Richest",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-no-longer-trillionaire-233204052.html",
@@ -5875,12 +5881,6 @@
        "h": "Tesla Controls 59% of the U.S. EV Market -- Its Highest Share Since 2023",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-controls-59-u-ev-222500240.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-nvidia-stock-221700655.html",
        "date": "2026-08-21"
       }
      ],
@@ -15144,6 +15144,12 @@
      "social": null,
      "news": [
       {
+       "h": "How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/77-old-collects-9-700-152331323.html",
+       "date": "2026-08-22"
+      },
+      {
        "h": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html",
@@ -15153,12 +15159,6 @@
        "h": "Why Exelon (EXC) is a Top Dividend Stock for Your Portfolio",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-exelon-exc-top-dividend-154501686.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "EXC or DTE: Which Is the Better Value Stock Right Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exc-dte-better-value-stock-154003806.html",
        "date": "2026-08-20"
       }
      ],
@@ -17777,23 +17777,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
+   "h": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stephen-mandel-just-loaded-162000251.html",
    "date": "2026-08-22"
   },
   {
    "tk": "NVDA",
-   "h": "Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says \"Turning Over the Most Rocks\" Is the Key to Winning.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-beat-p-500-140500143.html",
+   "h": "Oppenheimer has a blunt Nvidia stock message ahead of earnings",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-blunt-nvidia-stock-message-161700429.html",
    "date": "2026-08-22"
   },
   {
-   "tk": "NVDA",
-   "h": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
+   "tk": "TSLA",
+   "h": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/teslas-model-y-l-coming-153500730.html",
+   "date": "2026-08-22"
+  },
+  {
+   "tk": "EXC",
+   "h": "How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/stock-quietly-becoming-ai-powerhouse-140051503.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/77-old-collects-9-700-152331323.html",
    "date": "2026-08-22"
   },
   {
@@ -18014,13 +18021,6 @@
    "date": "2026-08-21"
   },
   {
-   "tk": "TSLA",
-   "h": "US Stock Indices End Week Lower On Pressure From Elevated Long-Duration Treasury Yields \u2014 PSKY, MSTR, WMT, TSLA, NVDA In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-indices-end-week-214844698.html",
-   "date": "2026-08-21"
-  },
-  {
    "tk": "ONDS",
    "h": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
    "pub": "Insider Monkey",
@@ -18056,5 +18056,5 @@
    "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-22 14:25 UTC"
+ "prices_asof": "2026-08-22 16:29 UTC"
 }
