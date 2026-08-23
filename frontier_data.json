@@ -1144,9 +1144,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)",
+       "h": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-know-3-things-140500411.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-spent-23-162000632.html",
        "date": "2026-08-23"
       }
      ]
@@ -5866,6 +5866,12 @@
      },
      "news": [
       {
+       "h": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-2027-why-think-093500285.html",
@@ -5876,12 +5882,6 @@
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
        "date": "2026-08-23"
-      },
-      {
-       "h": "Paul Graham Says Tesla Buyers Are Getting More Range, More Car For Less Money Than A Decade Ago: \u2018People Who Think They Dislike Capitalism\u2026\u2019",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/paul-graham-says-tesla-buyers-233052774.html",
-       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -17797,16 +17797,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)",
+   "h": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-know-3-things-140500411.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-spent-23-162000632.html",
    "date": "2026-08-23"
   },
   {
    "tk": "NVDA",
-   "h": "PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?",
+   "h": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/pennantpark-vs-pennantpark-floating-rate-140053927.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
    "date": "2026-08-23"
   },
   {
@@ -17919,13 +17926,6 @@
    "h": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "TSLA",
-   "h": "JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform\u2014FSD V15 a \u2018Step-Change\u2019 From Previous Versions",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-tesla-confident-scaling-213147223.html",
    "date": "2026-08-22"
   },
   {
@@ -18076,5 +18076,5 @@
    "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-23 14:27 UTC"
+ "prices_asof": "2026-08-23 16:30 UTC"
 }
