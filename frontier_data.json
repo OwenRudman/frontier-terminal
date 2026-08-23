@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+       "h": "1 Overlooked Dividend King With a 63-Year Winning Streak Worth Buying Now",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/brookfield-renewable-better-buy-now-062500760.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-overlooked-dividend-king-63-081500482.html",
        "date": "2026-08-23"
       },
       {
-       "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
+       "h": "Is Walmart Stock a Buy as It Sinks to Nearly $100 per Share? Here's the Answer.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-buy-sinks-nearly-081000934.html",
        "date": "2026-08-23"
       },
       {
-       "h": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
+       "h": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-amazon-cheaper-p-500-080500110.html",
        "date": "2026-08-23"
       }
      ]
@@ -3060,6 +3060,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Red Cat (RCAT) Stock Could Be Above Fair Value As Tariff News Lifts Sentiment",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-rcat-stock-could-080812634.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Is Red Cat Holdings (RCAT) Quietly Recasting Its Identity From Drone Maker To Full Autonomy Platform?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-quietly-050939225.html",
@@ -3069,12 +3075,6 @@
        "h": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-expands-031631916.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Quantum Computing vs. Red Cat: Which High-Growth Innovation Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
        "date": "2026-08-23"
       }
      ],
@@ -17797,16 +17797,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+   "h": "1 Overlooked Dividend King With a 63-Year Winning Streak Worth Buying Now",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/brookfield-renewable-better-buy-now-062500760.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-overlooked-dividend-king-63-081500482.html",
    "date": "2026-08-23"
   },
   {
    "tk": "NVDA",
-   "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
+   "h": "Is Walmart Stock a Buy as It Sinks to Nearly $100 per Share? Here's the Answer.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-buy-sinks-nearly-081000934.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Red Cat (RCAT) Stock Could Be Above Fair Value As Tariff News Lifts Sentiment",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-rcat-stock-could-080812634.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-amazon-cheaper-p-500-080500110.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Down 32% or More in 2026, Are Any of These Top Cryptocurrencies Worth Buying Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/down-32-more-2026-top-065500724.html",
    "date": "2026-08-23"
   },
   {
@@ -17814,20 +17835,6 @@
    "h": "Is Red Cat Holdings (RCAT) Quietly Recasting Its Identity From Drone Maker To Full Autonomy Platform?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-quietly-050939225.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
    "date": "2026-08-23"
   },
   {
@@ -17863,13 +17870,6 @@
    "h": "Quantum Computing vs. Red Cat: Which High-Growth Innovation Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "RCAT",
-   "h": "Red Cat CEO Jeffrey Thompson Sells 150,000 Shares for $1.6 Million as the Stock Soars 24%",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-jeffrey-thompson-004544572.html",
    "date": "2026-08-23"
   },
   {
@@ -18076,5 +18076,5 @@
    "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-23 06:48 UTC"
+ "prices_asof": "2026-08-23 08:35 UTC"
 }
