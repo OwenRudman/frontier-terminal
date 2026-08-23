@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Senators Plan a Clarity Act Vote on Sept. 15. What Happens Next for Crypto?",
+       "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/senators-plan-clarity-act-vote-011100746.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
        "date": "2026-08-23"
       },
       {
-       "h": "Nebius Just Raised $5 Billion in Convertible Notes Against a $1.4 Billion Revenue Base. Are We In a Bubble?",
+       "h": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-raised-5-billion-010701161.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html",
        "date": "2026-08-23"
       },
       {
-       "h": "Cisco & Cerebras Orders Up, Stocks Down",
+       "h": "IPO Fever Heats Up for OpenAI and Anthropic",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-cerebras-orders-stocks-down-003343430.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-fever-heats-openai-anthropic-012852848.html",
        "date": "2026-08-23"
       }
      ]
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
@@ -1783,12 +1789,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/?src=A00220&yptr=yahoo",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -3060,6 +3060,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Quantum Computing vs. Red Cat: Which High-Growth Innovation Stock Is a Better Buy in 2026?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Red Cat CEO Jeffrey Thompson Sells 150,000 Shares for $1.6 Million as the Stock Soars 24%",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-jeffrey-thompson-004544572.html",
@@ -3069,12 +3075,6 @@
        "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Ondas vs. Red Cat: Which Drone Stock Is the Better Pick Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-vs-red-cat-drone-150600591.html",
        "date": "2026-08-21"
       }
      ],
@@ -11214,6 +11214,12 @@
      },
      "news": [
       {
+       "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
@@ -11224,12 +11230,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-end-093500306.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/stock-lists/ibd-big-cap-20/palantir-stock-clears-buy-zone-but-could-offer-alternative-entry/?src=A00220&yptr=yahoo",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -17777,16 +17777,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Senators Plan a Clarity Act Vote on Sept. 15. What Happens Next for Crypto?",
+   "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/senators-plan-clarity-act-vote-011100746.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
    "date": "2026-08-23"
   },
   {
    "tk": "NVDA",
-   "h": "Nebius Just Raised $5 Billion in Convertible Notes Against a $1.4 Billion Revenue Base. Are We In a Bubble?",
+   "h": "Solana Is Beating Ethereum in Tokenized Assets. That Might Not Make It the Better Buy.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-raised-5-billion-010701161.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/solana-beating-ethereum-tokenized-assets-013700957.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Quantum Computing vs. Red Cat: Which High-Growth Innovation Stock Is a Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "IPO Fever Heats Up for OpenAI and Anthropic",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ipo-fever-heats-openai-anthropic-012852848.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Senators Plan a Clarity Act Vote on Sept. 15. What Happens Next for Crypto?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/senators-plan-clarity-act-vote-011100746.html",
    "date": "2026-08-23"
   },
   {
@@ -17794,20 +17822,6 @@
    "h": "Red Cat CEO Jeffrey Thompson Sells 150,000 Shares for $1.6 Million as the Stock Soars 24%",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-jeffrey-thompson-004544572.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Cisco & Cerebras Orders Up, Stocks Down",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-cerebras-orders-stocks-down-003343430.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "$5,000 in Bloom Energy at Its COVID-Era Low Would Be Worth This Much Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-bloom-energy-covid-002500741.html",
    "date": "2026-08-23"
   },
   {
@@ -18040,21 +18054,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html",
    "date": "2026-08-21"
-  },
-  {
-   "tk": "ASTS",
-   "h": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-   "date": "2026-08-21"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-23 01:40 UTC"
+ "prices_asof": "2026-08-23 03:06 UTC"
 }
