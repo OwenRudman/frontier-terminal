@@ -610,9 +610,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 130,
+      "m": 1,
+      "m0": 3,
+      "rk": 659,
       "up": 5
      },
      "news": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 154,
-      "m0": 95,
-      "rk": 2,
-      "up": 439
+      "m": 70,
+      "m0": 155,
+      "rk": 1,
+      "up": 428
      },
      "thesis": {
       "bull": [
@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
+       "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
+       "date": "2026-08-23"
+      },
+      {
+       "h": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/apple-cut-standard-eu-app-034301930.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Why Keysight Technologies Stock Sank This Week",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-keysight-technologies-stock-sank-032352331.html",
        "date": "2026-08-23"
       }
      ]
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 10,
-      "rk": 18,
-      "up": 69
+      "m": 3,
+      "m0": 29,
+      "rk": 62,
+      "up": 27
      },
      "thesis": {
       "bull": [
@@ -2029,12 +2029,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 350,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2324,8 +2319,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 262,
+      "m0": 0,
+      "rk": 174,
       "up": 1
      },
      "streetNotes": [
@@ -2481,8 +2476,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 365,
+      "m0": 1,
+      "rk": 274,
       "up": 2
      },
      "thesis": {
@@ -2829,7 +2824,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 710,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -3060,6 +3060,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Is Red Cat Holdings (RCAT) Quietly Recasting Its Identity From Drone Maker To Full Autonomy Platform?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-quietly-050939225.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-expands-031631916.html",
@@ -3069,12 +3075,6 @@
        "h": "Quantum Computing vs. Red Cat: Which High-Growth Innovation Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Red Cat CEO Jeffrey Thompson Sells 150,000 Shares for $1.6 Million as the Stock Soars 24%",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-ceo-jeffrey-thompson-004544572.html",
        "date": "2026-08-23"
       }
      ],
@@ -3142,10 +3142,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 1,
       "m0": 6,
-      "rk": 72,
-      "up": 8
+      "rk": 775,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4033,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 15,
-      "rk": 23,
-      "up": 102
+      "m": 2,
+      "m0": 22,
+      "rk": 68,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 458,
-      "up": 3
+      "rk": 83,
+      "up": 23
      },
      "news": [
       {
@@ -4718,8 +4718,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 744,
-      "up": 4
+      "rk": 647,
+      "up": 3
      },
      "news": [
       {
@@ -5859,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 92,
-      "m0": 30,
-      "rk": 5,
-      "up": 207
+      "m": 5,
+      "m0": 93,
+      "rk": 44,
+      "up": 8
      },
      "news": [
       {
@@ -5947,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 150,
-      "up": 3
+      "rk": 340,
+      "up": 1
      },
      "news": [
       {
@@ -6034,12 +6034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 427,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
@@ -7094,12 +7089,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 267,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Qualcomm (QCOM) Hands Sergio Buniac A Bigger Role In Mobile And AI",
@@ -7239,7 +7229,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 716,
+      "up": 1
+     },
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7747,10 +7742,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 69,
-      "m0": 31,
+      "m": 14,
+      "m0": 69,
       "rk": 10,
-      "up": 153
+      "up": 20
      },
      "news": [
       {
@@ -8256,10 +8251,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 28,
-      "rk": 43,
-      "up": 24
+      "m": 1,
+      "m0": 12,
+      "rk": 673,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -8559,8 +8554,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 478,
-      "up": 3
+      "rk": 381,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9151,10 +9146,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 168,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 707,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -9495,10 +9490,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 39,
-      "rk": 19,
-      "up": 54
+      "m": 2,
+      "m0": 28,
+      "rk": 75,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -10383,7 +10378,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 768,
+      "up": 12
+     },
      "news": [
       {
        "h": "Intuitive Machines Misses Big on Earnings. Stifel Upgrades It Anyway",
@@ -10534,9 +10534,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 202,
-      "up": 1
+      "m0": 0,
+      "rk": 117,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10644,8 +10644,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 262,
+      "m0": 0,
+      "rk": 174,
       "up": 1
      },
      "streetNotes": [
@@ -10753,9 +10753,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 193,
-      "up": -3
+      "m0": 0,
+      "rk": 106,
+      "up": 1
      },
      "news": [
       {
@@ -10840,10 +10840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 458,
-      "up": 3
+      "rk": 83,
+      "up": 23
      },
      "news": [
       {
@@ -11207,10 +11207,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 10,
-      "rk": 18,
-      "up": 69
+      "m": 3,
+      "m0": 29,
+      "rk": 62,
+      "up": 27
      },
      "news": [
       {
@@ -11295,12 +11295,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 554,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Space ETFs as Ukraine Dominates Russia in Orbital War",
@@ -12339,9 +12334,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 500,
-      "up": 4
+      "m0": 1,
+      "rk": 406,
+      "up": 2
      },
      "news": [
       {
@@ -12532,9 +12527,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 430,
-      "up": 1
+      "m0": 1,
+      "rk": 333,
+      "up": 0
      },
      "news": [
       {
@@ -12652,10 +12647,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 149,
-      "up": 0
+      "rk": 332,
+      "up": -1
      },
      "news": [
       {
@@ -12735,10 +12730,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 9,
-      "rk": 47,
-      "up": 11
+      "m": 22,
+      "m0": 11,
+      "rk": 7,
+      "up": 117
      },
      "news": [
       {
@@ -13008,7 +13003,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 648,
+      "up": 5
+     },
      "news": [
       {
        "h": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",
@@ -13086,7 +13086,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 741,
+      "up": 7
+     },
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13329,10 +13334,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 89,
-      "up": 8
+      "m": 1,
+      "m0": 5,
+      "rk": 782,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13569,7 +13574,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 726,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power (SMR) Shares Moved, So What Is Behind the Attention?",
@@ -14054,7 +14064,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 798,
+      "up": 2
+     },
      "news": [
       {
        "h": "GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.",
@@ -14594,7 +14609,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 279,
+      "up": 1
+     },
      "news": [
       {
        "h": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran",
@@ -14909,10 +14929,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 1,
       "m0": 6,
-      "rk": 67,
-      "up": 12
+      "rk": 181,
+      "up": 2
      },
      "news": [
       {
@@ -15082,8 +15102,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 302,
-      "up": 1
+      "rk": 210,
+      "up": 0
      },
      "news": [
       {
@@ -17496,7 +17516,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-22",
+ "social_asof": "2026-08-23",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17777,6 +17797,27 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Is Red Cat Holdings (RCAT) Quietly Recasting Its Identity From Drone Maker To Full Autonomy Platform?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-quietly-050939225.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
    "h": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
@@ -17797,24 +17838,10 @@
    "date": "2026-08-23"
   },
   {
-   "tk": "NVDA",
-   "h": "Why Keysight Technologies Stock Sank This Week",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-keysight-technologies-stock-sank-032352331.html",
-   "date": "2026-08-23"
-  },
-  {
    "tk": "RCAT",
    "h": "Red Cat Holdings (RCAT) Expands Blue Ops Integration, Is The Upside Already Priced In?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-expands-031631916.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
    "date": "2026-08-23"
   },
   {
@@ -18047,14 +18074,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-shares-moved-001654625.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "HSAI",
-   "h": "Hesai (HSAI) Is Moving Beyond LiDAR. Can Robotics Become a Second Profit Pool?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/hesai-hsai-moving-beyond-lidar-233613779.html",
-   "date": "2026-08-21"
   }
  ],
- "prices_asof": "2026-08-23 04:41 UTC"
+ "prices_asof": "2026-08-23 06:22 UTC"
 }
