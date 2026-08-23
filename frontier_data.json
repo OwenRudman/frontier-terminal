@@ -1144,9 +1144,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+       "h": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
+       "link": "https://finance.yahoo.com/healthcare/articles/better-dividend-king-buy-now-202000465.html",
        "date": "2026-08-23"
       }
      ]
@@ -5872,15 +5872,15 @@
        "date": "2026-08-23"
       },
       {
-       "h": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-2027-why-think-093500285.html",
+       "h": "500 Reasons to Buy Einride Stock Today",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
        "date": "2026-08-23"
       },
       {
-       "h": "Tesla Recalls Nearly 3 Million EVs in China Over Door Releases That Could Trap Occupants",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-recalls-nearly-3-million-023122678.html",
+       "h": "Tesla Stock in 2027: Why I Think It Still Has Room to Run",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-2027-why-think-093500285.html",
        "date": "2026-08-23"
       }
      ],
@@ -5954,6 +5954,12 @@
      },
      "news": [
       {
+       "h": "Uber faces fine of nearly $1B over automated driver suspensions",
+       "pub": "TechCrunch",
+       "link": "https://finance.yahoo.com/technology/articles/uber-faces-fine-nearly-1b-193000400.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html",
@@ -5963,12 +5969,6 @@
        "h": "MarketBeat Week in Review \u2013 08/17 - 08/21",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html",
-       "date": "2026-08-22"
-      },
-      {
-       "h": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-sells-lyft-042000321.html",
        "date": "2026-08-22"
       }
      ],
@@ -14529,6 +14529,12 @@
      "social": null,
      "news": [
       {
+       "h": "2 Energy Stocks Riding the Data Center Power Crunch",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-riding-data-185500169.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Constellation Energy vs. Vistra: Who Leads the AI Power Revenue Race?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/constellation-energy-vs-vistra-leads-121804679.html",
@@ -14539,12 +14545,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/week-energy-transition-ai-powers-113703972.html",
        "date": "2026-08-20"
-      },
-      {
-       "h": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-plunge-tuesday-oklo-031219159.html",
-       "date": "2026-08-19"
       }
      ],
      "awards": [
@@ -14617,6 +14617,12 @@
      },
      "news": [
       {
+       "h": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/vistra-quietest-big-winner-ai-193900847.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "S&P 500 Posts First Weekly Loss Since July Amid US Warning to Iran",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-first-weekly-204508360.html",
@@ -14626,12 +14632,6 @@
        "h": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Constellation Energy vs. Vistra: Who Leads the AI Power Revenue Race?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/constellation-energy-vs-vistra-leads-121804679.html",
        "date": "2026-08-21"
       }
      ],
@@ -17797,9 +17797,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+   "h": "Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/better-dividend-king-buy-now-202000465.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-amazon-better-ai-201300850.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "VST",
+   "h": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/vistra-quietest-big-winner-ai-193900847.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber faces fine of nearly $1B over automated driver suspensions",
+   "pub": "TechCrunch",
+   "link": "https://finance.yahoo.com/technology/articles/uber-faces-fine-nearly-1b-193000400.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "CEG",
+   "h": "2 Energy Stocks Riding the Data Center Power Crunch",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-riding-data-185500169.html",
    "date": "2026-08-23"
   },
   {
@@ -17807,13 +17835,6 @@
    "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html",
    "date": "2026-08-23"
   },
   {
@@ -17842,6 +17863,13 @@
    "h": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "TSLA",
+   "h": "500 Reasons to Buy Einride Stock Today",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/500-reasons-buy-einride-stock-130002262.html",
    "date": "2026-08-23"
   },
   {
@@ -17927,13 +17955,6 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-vs-red-cat-013157039.html",
    "date": "2026-08-23"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Paul Graham Says Tesla Buyers Are Getting More Range, More Car For Less Money Than A Decade Ago: \u2018People Who Think They Dislike Capitalism\u2026\u2019",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/articles/paul-graham-says-tesla-buyers-233052774.html",
-   "date": "2026-08-22"
   },
   {
    "tk": "GEV",
@@ -18053,28 +18074,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/technology/articles/rocket-labs-haste-flying-hypersonic-092000691.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX's $289 Billion Backlog, Explained",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtxs-289-billion-backlog-explained-072500728.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab (RKLB) Stock May Be 38% Undervalued Despite Fresh Space Force Wins",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-stock-may-071443065.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "VSAT",
-   "h": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-23 18:34 UTC"
+ "prices_asof": "2026-08-23 20:28 UTC"
 }
