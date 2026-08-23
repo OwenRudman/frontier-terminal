@@ -1132,6 +1132,12 @@
      },
      "news": [
       {
+       "h": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/brookfield-renewable-better-buy-now-062500760.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
@@ -1141,12 +1147,6 @@
        "h": "Micron Stock Is Up 30% From Its Recent Low. Here's How Much a $5,000 Investment Today Could Be Worth by Next Year, According to Wall Street Analysts.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-30-recent-low-045000023.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Mark Zuckerberg Published a 6,500-Word AI Manifesto This Week Defending Meta's Unrestricted AI Buildout. Here's Why Investors Should Care.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-published-6-500-042000088.html",
        "date": "2026-08-23"
       }
      ]
@@ -17797,6 +17797,13 @@
  "news": [
   {
    "tk": "NVDA",
+   "h": "Is Brookfield Renewable a Better Buy Now Than It Was 6 Months Ago?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/brookfield-renewable-better-buy-now-062500760.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "NVDA",
    "h": "Got $500? 1 Cryptocurrency to Buy Hand Over Fist in the Second Half of 2026",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/crypto/articles/got-500-1-cryptocurrency-buy-060500271.html",
@@ -17828,13 +17835,6 @@
    "h": "Unusual Machines (UMAC) Changes Stockholder Voting Rules",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-changes-stockholder-041523900.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Apple Cut Its Standard EU App Store Commission From 30% to 26%",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/apple-cut-standard-eu-app-034301930.html",
    "date": "2026-08-23"
   },
   {
@@ -18076,5 +18076,5 @@
    "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-23 06:22 UTC"
+ "prices_asof": "2026-08-23 06:48 UTC"
 }
