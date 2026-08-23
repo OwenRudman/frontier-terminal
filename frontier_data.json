@@ -1144,9 +1144,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
+       "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-spent-23-162000632.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
        "date": "2026-08-23"
       }
      ]
@@ -5954,6 +5954,12 @@
      },
      "news": [
       {
+       "h": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "MarketBeat Week in Review \u2013 08/17 - 08/21",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html",
@@ -5963,12 +5969,6 @@
        "h": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-sells-lyft-042000321.html",
-       "date": "2026-08-22"
-      },
-      {
-       "h": "Uber (UBER) Hit With \u20ac825 Million GDPR Fine Over Driver Suspensions",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-hit-825-million-011150734.html",
        "date": "2026-08-22"
       }
      ],
@@ -13582,6 +13582,12 @@
      },
      "news": [
       {
+       "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "NuScale Power (SMR) Shares Moved, So What Is Behind the Attention?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-smr-shares-moved-001654625.html",
@@ -13591,12 +13597,6 @@
        "h": "A Major Short Squeeze Could Be Brewing in Oklo Stock",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/major-short-squeeze-could-brewing-153145930.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "OKLO Vs SMR Vs NNE: All Three Nuclear Stocks Got A Price Target Cut \u2013 But Here\u2019s The One This Analyst Still Favors",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-smr-vs-nne-012437808.html",
        "date": "2026-08-21"
       }
      ]
@@ -17797,16 +17797,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.",
+   "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-spent-23-162000632.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "SMR",
+   "h": "I Love NuScale Stock for 1 Reason, and It's Not What You Think",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/love-nuscale-stock-1-reason-181400628.html",
    "date": "2026-08-23"
   },
   {
    "tk": "NVDA",
-   "h": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
+   "h": "Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/target-just-reported-earnings-heres-180000119.html",
+   "date": "2026-08-23"
+  },
+  {
+   "tk": "UBER",
+   "h": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html",
    "date": "2026-08-23"
   },
   {
@@ -18060,21 +18074,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "UBER",
-   "h": "Billionaire David Tepper Sells Lyft in Favor of Its Biggest Rival, Which Has 30% Upside, According to Wall Street",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-sells-lyft-042000321.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing (BA) Names A New Controller, Is The Stock 34% Overvalued?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-names-controller-stock-041858774.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-23 16:30 UTC"
+ "prices_asof": "2026-08-23 18:34 UTC"
 }
