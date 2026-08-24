@@ -1144,9 +1144,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "Dow sell-side Futures Waver; Nvidia, Tariffs, Warsh In Focus",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+       "h": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
        "date": "2026-08-24"
       }
      ]
@@ -7749,6 +7749,12 @@
      },
      "news": [
       {
+       "h": "SLS Stock Charges Ahead As AML Trial Buzz Builds: Report Claims Regal Hit 80th Event \u2014 Retail Isn\u2019t Convinced",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-charges-ahead-aml-033655213.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-clocks-three-straight-211931656.html",
@@ -7758,12 +7764,6 @@
        "h": "Is SELLAS (SLS) Turning Sector Hype Into a Durable Cancer Vaccine Story Despite Ongoing Losses?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/healthcare/articles/sellas-sls-turning-sector-hype-061048111.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sellas-life-sciences-group-sls-050931079.html",
        "date": "2026-08-21"
       }
      ]
@@ -17797,16 +17797,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Dow sell-side Futures Waver; Nvidia, Tariffs, Warsh In Focus",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+   "h": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
    "date": "2026-08-24"
   },
   {
    "tk": "NVDA",
-   "h": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
+   "h": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-seen-biggest-customer-drop-024601920.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-rode-estimated-70-jump-035801474.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS Stock Charges Ahead As AML Trial Buzz Builds: Report Claims Regal Hit 80th Event \u2014 Retail Isn\u2019t Convinced",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-charges-ahead-aml-033655213.html",
    "date": "2026-08-24"
   },
   {
@@ -18067,14 +18074,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-ndaa-compliant-120917088.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "TLN",
-   "h": "These 3 AI stocks are bought by both hedge funds and mutual funds",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-24 03:07 UTC"
+ "prices_asof": "2026-08-24 04:50 UTC"
 }
