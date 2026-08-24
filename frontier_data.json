@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 659,
-      "up": 5
+      "m0": 1,
+      "rk": 563,
+      "up": 6
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 621,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 70,
-      "m0": 155,
+      "m": 112,
+      "m0": 71,
       "rk": 1,
-      "up": 428
+      "up": 344
      },
      "thesis": {
       "bull": [
@@ -1144,9 +1149,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
+       "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-indicts-9-over-alleged-062457847.html",
        "date": "2026-08-24"
       }
      ]
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 29,
-      "rk": 62,
-      "up": 27
+      "m": 7,
+      "m0": 3,
+      "rk": 38,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -2319,8 +2324,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 174,
+      "m0": 1,
+      "rk": 190,
       "up": 1
      },
      "streetNotes": [
@@ -2477,7 +2482,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 274,
+      "rk": 271,
       "up": 2
      },
      "thesis": {
@@ -2827,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 710,
-      "up": 1
+      "rk": 605,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3141,12 +3146,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 775,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4033,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 22,
-      "rk": 68,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 642,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 83,
-      "up": 23
+      "m": 1,
+      "m0": 2,
+      "rk": 333,
+      "up": 3
      },
      "news": [
       {
@@ -4718,7 +4718,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 647,
+      "rk": 553,
       "up": 3
      },
      "news": [
@@ -5859,29 +5859,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 93,
-      "rk": 44,
-      "up": 8
+      "m": 9,
+      "m0": 5,
+      "rk": 30,
+      "up": 20
      },
      "news": [
+      {
+       "h": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst \u2014 Crypto Prediction Market Weighs 2026 Launch Odds",
+       "pub": "Benzinga Prediction Markets",
+       "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-tesla-massive-advantage-052928037.html",
+       "date": "2026-08-24"
+      },
+      {
+       "h": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-headlines-tesla-tsla-still-052000663.html",
+       "date": "2026-08-24"
+      },
       {
        "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Tesla just set a date for its riskiest launch yet",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/articles/tesla-just-set-date-riskiest-010300220.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-maintained-majority-u-ev-215600710.html",
-       "date": "2026-08-23"
       }
      ],
      "awards": [
@@ -5948,8 +5948,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 340,
+      "m0": 1,
+      "rk": 316,
       "up": 1
      },
      "news": [
@@ -6975,8 +6975,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 503,
+      "up": 8
+     },
      "news": [
+      {
+       "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-app-cms-mvis-050423733.html",
+       "date": "2026-08-24"
+      },
       {
        "h": "Why Did GME, MVIS, CPRI Stocks Hit 52-Week Lows Today?",
        "pub": "Stocktwits",
@@ -6987,12 +6998,6 @@
        "h": "Microvision Inc (MVIS) (Q2 2026) Earnings Call Highlights: Revenue Surges 650% as Gross Margin ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-inc-mvis-q2-2026-051115941.html",
-       "date": "2026-08-07"
-      },
-      {
-       "h": "Microvision Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/microvision-q2-earnings-call-highlights-050400943.html",
        "date": "2026-08-07"
       }
      ]
@@ -7229,12 +7234,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 716,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7742,10 +7742,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 69,
-      "rk": 10,
-      "up": 20
+      "m": 58,
+      "m0": 14,
+      "rk": 3,
+      "up": 1194
      },
      "news": [
       {
@@ -8251,10 +8251,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 12,
-      "rk": 673,
-      "up": 3
+      "m": 3,
+      "m0": 1,
+      "rk": 86,
+      "up": 86
      },
      "thesis": {
       "bull": [
@@ -8551,12 +8551,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 381,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9147,9 +9142,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 707,
-      "up": 4
+      "m0": 1,
+      "rk": 602,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9490,10 +9485,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 28,
-      "rk": 75,
-      "up": 4
+      "m": 8,
+      "m0": 2,
+      "rk": 34,
+      "up": 23
      },
      "thesis": {
       "bull": [
@@ -10379,10 +10374,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 768,
-      "up": 12
+      "rk": 89,
+      "up": 16
      },
      "news": [
       {
@@ -10534,8 +10529,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 117,
+      "m0": 1,
+      "rk": 140,
       "up": 3
      },
      "streetNotes": [
@@ -10644,8 +10639,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 174,
+      "m0": 1,
+      "rk": 190,
       "up": 1
      },
      "streetNotes": [
@@ -10753,8 +10748,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 106,
+      "m0": 1,
+      "rk": 130,
       "up": 1
      },
      "news": [
@@ -10840,10 +10835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 83,
-      "up": 23
+      "m": 1,
+      "m0": 2,
+      "rk": 333,
+      "up": 3
      },
      "news": [
       {
@@ -11207,10 +11202,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 29,
-      "rk": 62,
-      "up": 27
+      "m": 7,
+      "m0": 3,
+      "rk": 38,
+      "up": 15
      },
      "news": [
       {
@@ -12332,12 +12327,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 406,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -12528,7 +12518,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 333,
+      "rk": 310,
       "up": 0
      },
      "news": [
@@ -12648,9 +12638,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 332,
-      "up": -1
+      "m0": 0,
+      "rk": 309,
+      "up": 2
      },
      "news": [
       {
@@ -12730,10 +12720,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 11,
-      "rk": 7,
-      "up": 117
+      "m": 7,
+      "m0": 22,
+      "rk": 39,
+      "up": 9
      },
      "news": [
       {
@@ -13005,8 +12995,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 648,
+      "m0": 1,
+      "rk": 554,
       "up": 5
      },
      "news": [
@@ -13089,7 +13079,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 741,
+      "rk": 627,
       "up": 7
      },
      "news": [
@@ -13334,10 +13324,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 782,
-      "up": 1
+      "m": 5,
+      "m0": 1,
+      "rk": 57,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -13577,7 +13567,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 726,
+      "rk": 619,
       "up": 1
      },
      "news": [
@@ -14064,12 +14054,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 798,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
@@ -14611,9 +14596,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 279,
-      "up": 1
+      "m0": 1,
+      "rk": 276,
+      "up": 2
      },
      "news": [
       {
@@ -14929,10 +14914,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 181,
-      "up": 2
+      "m": 6,
+      "m0": 1,
+      "rk": 40,
+      "up": 13
      },
      "news": [
       {
@@ -15100,10 +15085,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 210,
-      "up": 0
+      "rk": 50,
+      "up": 6
      },
      "news": [
       {
@@ -15328,7 +15313,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 456,
+      "up": 2
+     },
      "news": [
       {
        "h": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",
@@ -17516,7 +17506,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-23",
+ "social_asof": "2026-08-24",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17797,16 +17787,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "How Farmers & Merchants Bancorp\u2019s Dividend Hike Shapes FMCB\u2019s Capital Return Strategy for Investors",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/farmers-merchants-bancorp-dividend-hike-042949456.html",
+   "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-indicts-9-over-alleged-062457847.html",
    "date": "2026-08-24"
   },
   {
    "tk": "NVDA",
-   "h": "Sandisk Rode an Estimated 70% Jump in NAND Prices. TrendForce Sees 10% to 15% This Quarter.",
+   "h": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-rode-estimated-70-jump-035801474.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-stanley-druckenmiller-sold-060500943.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst \u2014 Crypto Prediction Market Weighs 2026 Launch Odds",
+   "pub": "Benzinga Prediction Markets",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-tesla-massive-advantage-052928037.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-headlines-tesla-tsla-still-052000663.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "MVIS",
+   "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-app-cms-mvis-050423733.html",
    "date": "2026-08-24"
   },
   {
@@ -17873,13 +17884,6 @@
    "date": "2026-08-23"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-maintained-majority-u-ev-215600710.html",
-   "date": "2026-08-23"
-  },
-  {
    "tk": "UBER",
    "h": "Does Billionaire Bill Ackman Know Something Wall Street Doesn\u2019t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
    "pub": "Motley Fool",
@@ -17919,13 +17923,6 @@
    "h": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
    "pub": "TheStreet",
    "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "TSLA",
-   "h": "The $1.7 Trillion Job Apocalypse: Why Investors Can\u2019t Ignore Humanoid Robots",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/1-7-trillion-job-apocalypse-161742006.html",
    "date": "2026-08-23"
   },
   {
@@ -18067,14 +18064,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Is Unusual Machines\u2019 (UMAC) NDAA-Compliant Expansion Redefining Its Long-Term Defense Drone Investment Profile?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-ndaa-compliant-120917088.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-24 04:50 UTC"
+ "prices_asof": "2026-08-24 06:35 UTC"
 }
