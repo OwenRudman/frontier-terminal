@@ -1144,9 +1144,9 @@
        "date": "2026-08-23"
       },
       {
-       "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
+       "h": "Dow sell-side Futures Waver; Nvidia, Tariffs, Warsh In Focus",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
        "date": "2026-08-24"
       }
      ]
@@ -1773,6 +1773,12 @@
      },
      "news": [
       {
+       "h": "Peter Thiel\u2019s Fund Shows the Next Big AI Bet Is Power, Not Chips",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-fund-shows-next-020715134.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html",
@@ -1782,12 +1788,6 @@
        "h": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
        "date": "2026-08-23"
       }
      ],
@@ -8462,6 +8462,12 @@
      ],
      "news": [
       {
+       "h": "RKLB Stock Rockets Toward Best Month Since May: \u2018Hungry Hippo\u2019 Begins Flight-Like Testing Ahead Of Neutron Debut",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Trump Orders 1,000 Space Launches a Year by 2030 \u2014 That's 5x Today's Pace",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/trump-orders-1-000-space-094555877.html",
@@ -8471,12 +8477,6 @@
        "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
-       "date": "2026-08-22"
-      },
-      {
-       "h": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/rocket-labs-haste-flying-hypersonic-092000691.html",
        "date": "2026-08-22"
       }
      ],
@@ -9887,6 +9887,12 @@
      "social": null,
      "news": [
       {
+       "h": "RKLB Stock Rockets Toward Best Month Since May: \u2018Hungry Hippo\u2019 Begins Flight-Like Testing Ahead Of Neutron Debut",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
@@ -9896,12 +9902,6 @@
        "h": "As Starlink Passes 11,000 Satellites, These 5 Stocks Will Feel It First",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/starlink-passes-11-000-satellites-130053119.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "Viavi Sees AI Optics, CPO Testing Driving Path Toward $500M Quarterly Revenue",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/viavi-sees-ai-optics-cpo-040157165.html",
        "date": "2026-08-20"
       }
      ],
@@ -11214,6 +11214,12 @@
      },
      "news": [
       {
+       "h": "Peter Thiel\u2019s Fund Shows the Next Big AI Bet Is Power, Not Chips",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-fund-shows-next-020715134.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html",
@@ -11223,12 +11229,6 @@
        "h": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Palantir Keeps 55 Cents of Every Revenue Dollar as Profit",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-keeps-55-cents-every-015801983.html",
        "date": "2026-08-23"
       }
      ],
@@ -17797,9 +17797,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
+   "h": "Dow sell-side Futures Waver; Nvidia, Tariffs, Warsh In Focus",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Broadcom Has Seen Its Biggest Customer Drop a Key Chip Before. History Says What the Stock Did Next.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-seen-biggest-customer-drop-024601920.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Peter Thiel\u2019s Fund Shows the Next Big AI Bet Is Power, Not Chips",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-fund-shows-next-020715134.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "RKLB",
+   "h": "RKLB Stock Rockets Toward Best Month Since May: \u2018Hungry Hippo\u2019 Begins Flight-Like Testing Ahead Of Neutron Debut",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "VSAT",
+   "h": "RKLB Stock Rockets Toward Best Month Since May: \u2018Hungry Hippo\u2019 Begins Flight-Like Testing Ahead Of Neutron Debut",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
    "date": "2026-08-24"
   },
   {
@@ -17807,13 +17835,6 @@
    "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Dow sell-side Futures Waver; Nvidia, Tariffs, Warsh In Focus",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo",
    "date": "2026-08-24"
   },
   {
@@ -18048,33 +18069,12 @@
    "date": "2026-08-22"
   },
   {
-   "tk": "PLTR",
-   "h": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo",
-   "date": "2026-08-22"
-  },
-  {
    "tk": "TLN",
    "h": "These 3 AI stocks are bought by both hedge funds and mutual funds",
    "pub": "Investing.com",
    "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "RTX",
-   "h": "MarketBeat Week in Review \u2013 08/17 - 08/21",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "UBER",
-   "h": "MarketBeat Week in Review \u2013 08/17 - 08/21",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-24 01:38 UTC"
+ "prices_asof": "2026-08-24 03:07 UTC"
 }
