@@ -1137,22 +1137,22 @@
      },
      "news": [
       {
-       "h": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "How investors should approach Nvidia\u2019s earnings",
+       "h": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
+       "link": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
        "date": "2026-08-24"
       },
       {
-       "h": "Nvidia earnings and Jackson Hole: What to watch this week",
+       "h": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
-       "date": "2026-08-23"
+       "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+       "date": "2026-08-24"
+      },
+      {
+       "h": "Nvidia earnings may come down to guidance and Jensen Huang's confidence",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/nvidia-earnings-may-come-down-140000999.html",
+       "date": "2026-08-24"
       }
      ]
     },
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "How to Find the Market's Long-Term Winners",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
@@ -1787,12 +1793,6 @@
        "h": "PLTR vs. PATH: Which AI-Driven Software Stock is the Better Buy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-path-ai-driven-180200462.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Cathie Wood Pours $28 Million Into Tech Stock in One Week",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-pours-28-million-170730742.html",
        "date": "2026-08-24"
       }
      ],
@@ -2734,6 +2734,12 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
@@ -2744,12 +2750,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -5866,21 +5866,21 @@
      },
      "news": [
       {
+       "h": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html",
        "date": "2026-08-24"
       },
       {
-       "h": "Tesla stops selling solar roofs a decade after launch",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Tesla Just Took a Blow to Its AI Chip Plans",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
+       "h": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-other-electric-vehicle-companies-215401569.html",
        "date": "2026-08-24"
       }
      ],
@@ -7097,21 +7097,21 @@
      "social": null,
      "news": [
       {
-       "h": "NVIDIA Stock Can Fall By A Third Or Rise By Half And Still Be Normal",
+       "h": "What You Actually Pay To Join The MU Run",
        "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/nvidia-stock-fall-third-rise-135759158.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html",
        "date": "2026-08-24"
       },
       {
-       "h": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-opportunity-qualcomm-investors-may-133001759.html",
+       "h": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/recent-stumble-broadcom-stock-opportunity-213457266.html",
        "date": "2026-08-24"
       },
       {
-       "h": "Nvidia\u2019s Trillion-Dollar Chip Market\u00a0Has Friends and Foes Closing In",
-       "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-trillion-dollar-chip-market-120003930.html",
+       "h": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-more-tripled-211152650.html",
        "date": "2026-08-24"
       }
      ],
@@ -10754,15 +10754,15 @@
      },
      "news": [
       {
-       "h": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-stock-dominated-2026-193940631.html",
+       "h": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/economy/policy/articles/boeing-awarded-contract-ceiling-value-222011098.html",
        "date": "2026-08-24"
       },
       {
-       "h": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+       "h": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-stock-dominated-2026-193940631.html",
        "date": "2026-08-24"
       },
       {
@@ -11209,6 +11209,12 @@
      },
      "news": [
       {
+       "h": "How to Find the Market's Long-Term Winners",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
@@ -11218,12 +11224,6 @@
        "h": "PLTR vs. PATH: Which AI-Driven Software Stock is the Better Buy?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-path-ai-driven-180200462.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Cathie Wood Pours $28 Million Into Tech Stock in One Week",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-pours-28-million-170730742.html",
        "date": "2026-08-24"
       }
      ],
@@ -12330,6 +12330,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Cameco vs. Denison: Which Uranium Stock Has an Edge Right Now?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-denison-uranium-stock-160400641.html",
@@ -12340,12 +12346,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-etfs-just-crashed-30-164123495.html",
        "date": "2026-08-18"
-      },
-      {
-       "h": "Standard Nuclear Stock Hit Its High Ahead Of The Numbers",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/standard-nuclear-stock-hit-high-180015770.html",
-       "date": "2026-08-17"
       }
      ]
     },
@@ -12388,6 +12388,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "2 Nuclear Stocks to Buy and What Each One Needs to Go Right",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/2-nuclear-stocks-buy-one-150500479.html",
@@ -12398,12 +12404,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/insider-sheds-over-55-000-132501217.html",
        "date": "2026-08-11"
-      },
-      {
-       "h": "Prediction: $1,000 in Uranium Energy Corp Will Be Worth This Much in 5 Years",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-uranium-energy-232500610.html",
-       "date": "2026-08-10"
       }
      ]
     },
@@ -12446,6 +12446,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "How Much Upside is Left in NexGen Energy (NXE)? Wall Street Analysts Think 45.83%",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-nexgen-energy-135503417.html",
@@ -12456,12 +12462,6 @@
        "pub": "InvestorsHub",
        "link": "https://finance.yahoo.com/markets/commodities/articles/stallion-uranium-drilling-delivering-goods-100000937.html",
        "date": "2026-08-20"
-      },
-      {
-       "h": "Is NexGen Energy (NXE) Stock Outpacing Its Basic Materials Peers This Year?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nexgen-energy-nxe-stock-outpacing-134003757.html",
-       "date": "2026-08-18"
       }
      ],
      "awards": [
@@ -12581,6 +12581,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "From Yellowcake to Commercial Scale: Can Ur-Energy (URG) Live Up to Its Uranium Hype?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/yellowcake-commercial-scale-ur-energy-085956708.html",
@@ -12591,12 +12597,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ur-energy-urg-q2-2026-013048220.html",
        "date": "2026-08-18"
-      },
-      {
-       "h": "Ur-Energy Inc (URG) (Q2 2026) Earnings Call Highlights: Production Surges 47% as Shirley Basin ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ur-energy-inc-urg-q2-230109696.html",
-       "date": "2026-08-11"
       }
      ]
     },
@@ -12644,6 +12644,12 @@
      },
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "MP Materials Stock Moved On The Theme, Not On Mountain Pass",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-moved-theme-185254049.html",
@@ -12653,12 +12659,6 @@
        "h": "MP's Materials Segment 1H26 Revenues Jump 80%: Can This Momentum Last?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mps-materials-segment-1h26-revenues-165800037.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "US Rare Earth Pure Play: Fireside with Tactical Resources CEO Ranjeet Sundher",
-       "pub": "IPO-Edge.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/us-rare-earth-pure-play-fireside-with-tactical-resources-ceo-ranjeet-sundher-150549835.html",
        "date": "2026-08-20"
       }
      ],
@@ -12727,6 +12727,12 @@
      },
      "news": [
       {
+       "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Aura Minerals (AUGO) Q2 Earnings and Revenues Miss Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aura-minerals-augo-q2-earnings-003516647.html",
@@ -12737,12 +12743,6 @@
        "pub": "Mining Technology",
        "link": "https://finance.yahoo.com/energy/articles/encore-energy-gets-blm-approval-081419585.html",
        "date": "2026-06-19"
-      },
-      {
-       "h": "enCore Energy Announces Completion of Construction at the Upper Spring Creek ISR Uranium Project",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/sectors/energy/articles/encore-energy-announces-completion-construction-130115116.html",
-       "date": "2026-06-04"
       }
      ]
     },
@@ -13001,6 +13001,12 @@
      },
      "news": [
       {
+       "h": "Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/green-plains-liberty-energy-nabors-205736768.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Keep This Renewable Energy Stock Close Until November",
        "pub": "Schaeffer's Investment Research",
        "link": "https://finance.yahoo.com/markets/stocks/articles/keep-renewable-energy-stock-close-192608417.html",
@@ -13011,12 +13017,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-buy-wall-110047698.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What\u2019s Behind the Nuclear Stock Selloff?",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-oklo-drop-5-173717296.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
@@ -14514,6 +14514,12 @@
      "social": null,
      "news": [
       {
+       "h": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-24"
+      },
+      {
        "h": "3 Nuclear Energy Stocks for the AI Power Era",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-ai-110045927.html",
@@ -14523,12 +14529,6 @@
        "h": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "2 Energy Stocks Riding the Data Center Power Crunch",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/2-energy-stocks-riding-data-185500169.html",
        "date": "2026-08-23"
       }
      ],
@@ -15149,6 +15149,12 @@
      "social": null,
      "news": [
       {
+       "h": "How to Build $8,200 a Month in Dividend Income (And the Tax Bill Almost Nobody Plans For)",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/build-8-200-month-dividend-210235481.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "4 High-Yield Stocks That Hand the IRS Nothing Inside a Roth",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-stocks-hand-110143143.html",
@@ -15159,12 +15165,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-dividend-stocks-110047375.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Exelon (EXC) Stock Looks Below Fair Value on Current Earnings",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-stock-looks-below-160855060.html",
-       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -17786,6 +17786,139 @@
  ],
  "news": [
   {
+   "tk": "BA",
+   "h": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/economy/policy/articles/boeing-awarded-contract-ceiling-value-222011098.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "AVAV",
+   "h": "Here's Why AeroVironment (AVAV) Fell More Than Broader Market",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-aerovironment-avav-fell-221502410.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-other-electric-vehicle-companies-215401569.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "QCOM",
+   "h": "What You Actually Pay To Join The MU Run",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "CEG",
+   "h": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "QCOM",
+   "h": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/recent-stumble-broadcom-stock-opportunity-213457266.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NVDA",
+   "h": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "EU",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NXE",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "UEC",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "URG",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "UUUU",
+   "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-more-tripled-211152650.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "EXC",
+   "h": "How to Build $8,200 a Month in Dividend Income (And the Tax Bill Almost Nobody Plans For)",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/build-8-200-month-dividend-210235481.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "LEU",
+   "h": "Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/green-plains-liberty-energy-nabors-205736768.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "PLTR",
+   "h": "How to Find the Market's Long-Term Winners",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "How to Find the Market's Long-Term Winners",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+   "date": "2026-08-24"
+  },
+  {
    "tk": "AVAV",
    "h": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
    "pub": "StockStory",
@@ -17814,17 +17947,17 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "BA",
-   "h": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "LEU",
    "h": "Keep This Renewable Energy Stock Close Until November",
    "pub": "Schaeffer's Investment Research",
    "link": "https://finance.yahoo.com/markets/stocks/articles/keep-renewable-energy-stock-close-192608417.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
    "date": "2026-08-24"
   },
   {
@@ -17842,13 +17975,6 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla stops selling solar roofs a decade after launch",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "SERV",
    "h": "QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?",
    "pub": "Insider Monkey",
@@ -17856,24 +17982,10 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla Just Took a Blow to Its AI Chip Plans",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "PLTR",
    "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
    "pub": "Benzinga Prediction Markets",
    "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why Tesla (TSLA) Is Up 6.9% After Robotaxi Approvals And 500 Semi Deal News - And What's Next",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-tsla-6-9-181537600.html",
    "date": "2026-08-24"
   },
   {
@@ -17952,119 +18064,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
    "date": "2026-08-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber's Robotaxi Push Gains Pace in Dubai: Baidu's Vehicles Debut",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/articles/ubers-robotaxi-push-gains-pace-163000092.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "Dutch regulator fines Uber \u20ac824.99m over automated driver dismissals",
-   "pub": "Just Auto",
-   "link": "https://finance.yahoo.com/technology/ai/articles/dutch-regulator-fines-uber-824-161256664.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "SLS",
-   "h": "SLS Traders Eye This Important Resistance Zone Ahead Of Key AML Data Readout",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sls-traders-eye-important-resistance-161219199.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Cameco vs. Denison: Which Uranium Stock Has an Edge Right Now?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-denison-uranium-stock-160400641.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "DNN",
-   "h": "Cameco vs. Denison: Which Uranium Stock Has an Edge Right Now?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-denison-uranium-stock-160400641.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "HII",
-   "h": "3 Reasons to Avoid HII and 1 Stock to Buy Instead",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-hii-1-153736169.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "RTX",
-   "h": "Do Howmet's Strong Q2 Margins Signal Further Upside for the Stock?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/howmets-strong-q2-margins-signal-152800766.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "SAIC",
-   "h": "ACN or SAIC: Which IT Services Stock Should You Buy Currently?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/acn-saic-services-stock-buy-145900549.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "How investors should approach Nvidia\u2019s earnings",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "MP",
-   "h": "Is MP Materials Stock a Buy After Earnings?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-buy-earnings-145000917.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "AUR",
-   "h": "The Smart Money Is Sending a Mixed Signal on AI Stocks",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/smart-money-sending-mixed-signal-143041651.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "Why Tesla\u2019s Nevada Robo-Taxi Approval Can\u2019t Save the Stock",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/tesla-stock-price-nevada-robo-taxi-approval-3648e0e0?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Snowflake Stock Is Priced For Growth That Arrives At A Lower Gross Margin",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-stock-priced-growth-arrives-141550328.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "LMT vs. NOC: Which Defense Stock Offers Better Growth Prospects?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lmt-vs-noc-defense-stock-141500198.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NOC",
-   "h": "LMT vs. NOC: Which Defense Stock Offers Better Growth Prospects?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lmt-vs-noc-defense-stock-141500198.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Is Oklo (OKLO) Undervalued After First Revenue And A Reactor Milestone?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-oklo-undervalued-first-revenue-140827868.html",
-   "date": "2026-08-24"
   }
  ],
- "prices_asof": "2026-08-24 20:35 UTC"
+ "prices_asof": "2026-08-24 22:30 UTC"
 }
