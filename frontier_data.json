@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after US-Canada talks break down",
+       "h": "This Nvidia earnings fact will frustrate you",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+       "link": "https://finance.yahoo.com/markets/stocks/article/this-nvidia-earnings-fact-will-frustrate-you-103234712.html",
        "date": "2026-08-24"
       },
       {
-       "h": "Oil falls as Trump pledges economic war on Iran",
-       "pub": "AFP",
-       "link": "https://finance.yahoo.com/energy/articles/oil-falls-trump-pledges-economic-030019769.html",
-       "date": "2026-08-24"
+       "h": "Nvidia's Q2 earnings to test resurgent AI trade",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+       "date": "2026-08-23"
       },
       {
-       "h": "Will Nvidia Stock Soar After Aug. 26? Here's What History Shows.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soar-aug-26-084401610.html",
+       "h": "Tech, Media & Telecom Roundup: Market Talk",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-24"
       }
      ]
@@ -5866,6 +5866,12 @@
      },
      "news": [
       {
+       "h": "1 Profitable Stock to Own for Decades and 2 We Turn Down",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-own-decades-092936123.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Elon Musk's Tesla Has 'Massive Advantage' Before Selling Optimus in the Market, Says This Analyst \u2014 Crypto Prediction Market Weighs 2026 Launch Odds",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-tesla-massive-advantage-052928037.html",
@@ -5875,12 +5881,6 @@
        "h": "Forget the Headlines: Tesla (TSLA) Is Still a Hold Based on What the Data Shows",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/forget-headlines-tesla-tsla-still-052000663.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
        "date": "2026-08-24"
       }
      ],
@@ -8462,6 +8462,12 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab CEO Says Successful Neutron Launch Could Put It On Track For Positive EBITDA The Next Quarter",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ceo-says-successful-084740613.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "RKLB Stock Rockets Toward Best Month Since May: \u2018Hungry Hippo\u2019 Begins Flight-Like Testing Ahead Of Neutron Debut",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
@@ -8472,12 +8478,6 @@
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/trump-orders-1-000-space-094555877.html",
        "date": "2026-08-23"
-      },
-      {
-       "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
-       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -14057,6 +14057,12 @@
      "social": null,
      "news": [
       {
+       "h": "GE Vernova to supply technology for stage three of Supernode BESS project",
+       "pub": "Power Technology",
+       "link": "https://finance.yahoo.com/energy/articles/ge-vernova-supply-technology-stage-091717960.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Is GE Vernova Under $1,000 a Bargain or a Trap? Here's the Honest Answer.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-under-1-000-130300789.html",
@@ -14067,12 +14073,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernovas-backlog-bigger-countries-232500776.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Mixed Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -17787,23 +17787,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Oil falls as Trump pledges economic war on Iran",
-   "pub": "AFP",
-   "link": "https://finance.yahoo.com/energy/articles/oil-falls-trump-pledges-economic-030019769.html",
+   "h": "This Nvidia earnings fact will frustrate you",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/this-nvidia-earnings-fact-will-frustrate-you-103234712.html",
    "date": "2026-08-24"
   },
   {
    "tk": "NVDA",
-   "h": "Will Nvidia Stock Soar After Aug. 26? Here's What History Shows.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soar-aug-26-084401610.html",
+   "h": "Tech, Media & Telecom Roundup: Market Talk",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-24"
   },
   {
    "tk": "NVDA",
-   "h": "Anthropic Has a $65 Billion Run Rate. Buy These Stocks to Profit From It.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-65-billion-run-rate-084400523.html",
+   "h": "US Equity Investors to Focus on Nvidia's Earnings, Chair Warsh's Jackson Hole Speech, PCE Inflation This Week",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-nvidia-102436982.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "TSLA",
+   "h": "1 Profitable Stock to Own for Decades and 2 We Turn Down",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-own-decades-092936123.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "GEV",
+   "h": "GE Vernova to supply technology for stage three of Supernode BESS project",
+   "pub": "Power Technology",
+   "link": "https://finance.yahoo.com/energy/articles/ge-vernova-supply-technology-stage-091717960.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab CEO Says Successful Neutron Launch Could Put It On Track For Positive EBITDA The Next Quarter",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ceo-says-successful-084740613.html",
    "date": "2026-08-24"
   },
   {
@@ -17811,13 +17832,6 @@
    "h": "1 Cash-Producing Stock for Long-Term Investors and 2 We Question",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-long-083336643.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after US-Canada talks break down",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
    "date": "2026-08-24"
   },
   {
@@ -17888,13 +17902,6 @@
    "h": "A New SEC Filing Reveals Exactly How Many Shares of SpaceX Elon Musk Owns. Here's Why It Matters.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-reveals-exactly-many-012000845.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla just set a date for its riskiest launch yet",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/tesla-just-set-date-riskiest-010300220.html",
    "date": "2026-08-24"
   },
   {
@@ -17975,6 +17982,13 @@
    "date": "2026-08-23"
   },
   {
+   "tk": "NVDA",
+   "h": "Nvidia's Q2 earnings to test resurgent AI trade",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+   "date": "2026-08-23"
+  },
+  {
    "tk": "MP",
    "h": "MP Materials vs. The Metals Company: Which Rare-Earth Bet Actually Pays Off First?",
    "pub": "Motley Fool",
@@ -18050,21 +18064,7 @@
    "pub": "Benzinga",
    "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "EXC",
-   "h": "Exelon (EXC) Stock Looks Below Fair Value on Current Earnings",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-stock-looks-below-160855060.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "EXC",
-   "h": "How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/77-old-collects-9-700-152331323.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-24 08:53 UTC"
+ "prices_asof": "2026-08-24 10:40 UTC"
 }
