@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Nvidia's Q2 earnings to test resurgent AI trade",
+       "h": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after US-Canada talks break down",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-       "date": "2026-08-23"
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+       "date": "2026-08-24"
       },
       {
-       "h": "Nvidia earnings and Jackson Hole: What to watch this week",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
-       "date": "2026-08-23"
+       "h": "Oil falls as Trump pledges economic war on Iran",
+       "pub": "AFP",
+       "link": "https://finance.yahoo.com/energy/articles/oil-falls-trump-pledges-economic-030019769.html",
+       "date": "2026-08-24"
       },
       {
-       "h": "Li Lu, \"the Chinese Warren Buffett,\" Has Invested 70% of Himalaya's Capital in Just 2 Stocks",
+       "h": "Will Nvidia Stock Soar After Aug. 26? Here's What History Shows.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/li-lu-chinese-warren-buffett-065000793.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soar-aug-26-084401610.html",
        "date": "2026-08-24"
       }
      ]
@@ -6037,6 +6037,12 @@
      "social": null,
      "news": [
       {
+       "h": "Alibaba, YMTC Fundraising Hits China Tech Stocks on Supply Woes",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes-043714832.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html",
@@ -6047,12 +6053,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-sinks-7-75-capex-154347067.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "iQIYI Is Betting Big on AI as Its Core Business Comes Under Pressure",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/iqiyi-betting-big-ai-core-123010515.html",
-       "date": "2026-08-20"
       }
      ]
     },
@@ -10754,6 +10754,12 @@
      },
      "news": [
       {
+       "h": "A Win-Win Deal: Here's Why the Archer Aviation and Boeing Deal Adds Value to Both Stocks",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/win-win-deal-heres-why-070500059.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "Elon Musk Says China Is \u2018By Far\u2019 Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-china-far-180108378.html",
@@ -10764,12 +10770,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-names-controller-stock-041858774.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Boeing Engineers, Technical Workers Reject Four-Year Contract Offer",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/business/boeing-engineers-technical-workers-reject-four-year-contract-offer-1a683686?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -14140,6 +14140,12 @@
      "social": null,
      "news": [
       {
+       "h": "1 Cash-Producing Stock for Long-Term Investors and 2 We Question",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-long-083336643.html",
+       "date": "2026-08-24"
+      },
+      {
        "h": "2 Small-Cap Stocks to Consider Right Now and 1 We Ignore",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-small-cap-stocks-consider-201157758.html",
@@ -14150,12 +14156,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-q2-earnings-call-050359616.html",
        "date": "2026-07-30"
-      },
-      {
-       "h": "Mirion Technologies Inc (MIR) Q2 2026 Earnings Call Highlights: Robust Revenue Growth and ...",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-technologies-inc-mir-q2-210410483.html",
-       "date": "2026-07-29"
       }
      ],
      "awards": [
@@ -17787,16 +17787,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Li Lu, \"the Chinese Warren Buffett,\" Has Invested 70% of Himalaya's Capital in Just 2 Stocks",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/li-lu-chinese-warren-buffett-065000793.html",
+   "h": "Oil falls as Trump pledges economic war on Iran",
+   "pub": "AFP",
+   "link": "https://finance.yahoo.com/energy/articles/oil-falls-trump-pledges-economic-030019769.html",
    "date": "2026-08-24"
   },
   {
    "tk": "NVDA",
-   "h": "Nvidia reportedly in talks to back Perplexity at more than $30bn valuation",
-   "pub": "Proactive",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-talks-back-perplexity-062900162.html",
+   "h": "Will Nvidia Stock Soar After Aug. 26? Here's What History Shows.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soar-aug-26-084401610.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Anthropic Has a $65 Billion Run Rate. Buy These Stocks to Profit From It.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-65-billion-run-rate-084400523.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "MIR",
+   "h": "1 Cash-Producing Stock for Long-Term Investors and 2 We Question",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-long-083336643.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after US-Canada talks break down",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "BA",
+   "h": "A Win-Win Deal: Here's Why the Archer Aviation and Boeing Deal Adds Value to Both Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/win-win-deal-heres-why-070500059.html",
    "date": "2026-08-24"
   },
   {
@@ -17818,6 +17846,13 @@
    "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-app-cms-mvis-050423733.html",
+   "date": "2026-08-24"
+  },
+  {
+   "tk": "BIDU",
+   "h": "Alibaba, YMTC Fundraising Hits China Tech Stocks on Supply Woes",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-ymtc-fundraising-hits-china-tech-stocks-on-supply-woes-043714832.html",
    "date": "2026-08-24"
   },
   {
@@ -17940,24 +17975,10 @@
    "date": "2026-08-23"
   },
   {
-   "tk": "NVDA",
-   "h": "Nvidia's Q2 earnings to test resurgent AI trade",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-   "date": "2026-08-23"
-  },
-  {
    "tk": "MP",
    "h": "MP Materials vs. The Metals Company: Which Rare-Earth Bet Actually Pays Off First?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-vs-metals-company-111000010.html",
-   "date": "2026-08-23"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia earnings and Jackson Hole: What to watch this week",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/nvidia-earnings-and-jackson-hole-what-to-watch-this-week-100000082.html",
    "date": "2026-08-23"
   },
   {
@@ -18043,28 +18064,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/77-old-collects-9-700-152331323.html",
    "date": "2026-08-22"
-  },
-  {
-   "tk": "LDOS",
-   "h": "3 Stocks Came Roaring Back\u2014Now They\u2019re Flashing Warning Signs",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-came-roaring-back-142000084.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "IRDM",
-   "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
-   "date": "2026-08-22"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-trades-59-times-134701934.html",
-   "date": "2026-08-22"
   }
  ],
- "prices_asof": "2026-08-24 07:06 UTC"
+ "prices_asof": "2026-08-24 08:53 UTC"
 }
