@@ -1137,15 +1137,15 @@
      },
      "news": [
       {
-       "h": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
-       "date": "2026-08-24"
+       "h": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+       "date": "2026-08-25"
       },
       {
-       "h": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
+       "h": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
        "date": "2026-08-24"
       },
       {
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Bull of the Day: Palantir Technologies (PLTR)",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/ai/articles/bull-day-palantir-technologies-pltr-083000678.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "How to Find the Market's Long-Term Winners",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
@@ -1787,12 +1793,6 @@
        "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "PLTR vs. PATH: Which AI-Driven Software Stock is the Better Buy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-path-ai-driven-180200462.html",
        "date": "2026-08-24"
       }
      ],
@@ -5883,9 +5883,9 @@
        "date": "2026-08-24"
       },
       {
-       "h": "Tesla (TSLA)\u2019s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/energy/articles/tesla-tsla-solar-roof-shutdown-014101772.html",
+       "h": "Tesla\u2019s $5,000 Cybertruck Price Hike Sparks A Bigger Question: Is Demand Really Strong?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-5-000-cybertruck-price-072415391.html",
        "date": "2026-08-25"
       }
      ],
@@ -7107,21 +7107,21 @@
      },
      "news": [
       {
+       "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+       "date": "2026-08-25"
+      },
+      {
+       "h": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "What You Actually Pay To Join The MU Run",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/recent-stumble-broadcom-stock-opportunity-213457266.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-more-tripled-211152650.html",
        "date": "2026-08-24"
       }
      ],
@@ -9696,6 +9696,12 @@
      },
      "news": [
       {
+       "h": "US Stock Market Today: S&P 500 Futures Edge Lower As Strong PMI Complicates Fed Path",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081741008.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "Archer Aviation vs. AST SpaceMobile: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-ast-spacemobile-223401633.html",
@@ -9706,12 +9712,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-falls-3-despite-trump-132448656.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Rocket Lab and AST SpaceMobile Are Priced for the Big Bang. One Space Stock Already Delivered.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ast-spacemobile-priced-230002883.html",
-       "date": "2026-08-21"
       }
      ]
     },
@@ -10779,6 +10779,12 @@
      },
      "news": [
       {
+       "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "Boeing Wins $131B F-15 Contract From US Air Force \u2014 BA Stock Gains After-Hours",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-wins-131b-f-15-231425805.html",
@@ -10788,12 +10794,6 @@
        "h": "Archer Aviation vs. AST SpaceMobile: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-ast-spacemobile-223401633.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Boeing awarded contract with ceiling value of $131.2 billion for F-15 program",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/economy/policy/articles/boeing-awarded-contract-ceiling-value-222011098.html",
        "date": "2026-08-24"
       }
      ],
@@ -11068,6 +11068,12 @@
      ],
      "news": [
       {
+       "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "3 Stocks Came Roaring Back\u2014Now They\u2019re Flashing Warning Signs",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-came-roaring-back-142000084.html",
@@ -11078,12 +11084,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-leidos-shares-falling-225115816.html",
        "date": "2026-08-20"
-      },
-      {
-       "h": "Are Wall Street Analysts Bullish on Leidos Holdings Stock?",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-leidos-141709601.html",
-       "date": "2026-08-19"
       }
      ],
      "awards": [
@@ -11239,6 +11239,12 @@
      },
      "news": [
       {
+       "h": "Bull of the Day: Palantir Technologies (PLTR)",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/ai/articles/bull-day-palantir-technologies-pltr-083000678.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "How to Find the Market's Long-Term Winners",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
@@ -11248,12 +11254,6 @@
        "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "PLTR vs. PATH: Which AI-Driven Software Stock is the Better Buy?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-path-ai-driven-180200462.html",
        "date": "2026-08-24"
       }
      ],
@@ -13026,6 +13026,12 @@
      "social": null,
      "news": [
       {
+       "h": "Did Government\u2011Backed Piketon Expansion Just Shift Centrus Energy's (LEU) Investment Narrative?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/did-government-backed-piketon-expansion-070615012.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/green-plains-liberty-energy-nabors-205736768.html",
@@ -13035,12 +13041,6 @@
        "h": "Keep This Renewable Energy Stock Close Until November",
        "pub": "Schaeffer's Investment Research",
        "link": "https://finance.yahoo.com/markets/stocks/articles/keep-renewable-energy-stock-close-192608417.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "3 Growth Stocks to Buy Before Wall Street Catches On",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-buy-wall-110047698.html",
        "date": "2026-08-24"
       }
      ],
@@ -17816,6 +17816,69 @@
  ],
  "news": [
   {
+   "tk": "PLTR",
+   "h": "Bull of the Day: Palantir Technologies (PLTR)",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/technology/ai/articles/bull-day-palantir-technologies-pltr-083000678.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "ASTS",
+   "h": "US Stock Market Today: S&P 500 Futures Edge Lower As Strong PMI Complicates Fed Path",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081741008.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "BA",
+   "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "LDOS",
+   "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Prediction: TSMC Stock Will Soar After Aug. 26 Thanks to Nvidia\u2019s Historic Quarter",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-soar-aug-074301218.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla\u2019s $5,000 Cybertruck Price Hike Sparks A Bigger Question: Is Demand Really Strong?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-5-000-cybertruck-price-072415391.html",
+   "date": "2026-08-25"
+  },
+  {
+   "tk": "LEU",
+   "h": "Did Government\u2011Backed Piketon Expansion Just Shift Centrus Energy's (LEU) Investment Narrative?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/did-government-backed-piketon-expansion-070615012.html",
+   "date": "2026-08-25"
+  },
+  {
    "tk": "OKLO",
    "h": "Prediction: SpaceX's Power Needs Will Turn It Into Oklo's Biggest Customer",
    "pub": "Motley Fool",
@@ -17900,13 +17963,6 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-other-electric-vehicle-companies-215401569.html",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "QCOM",
    "h": "What You Actually Pay To Join The MU Run",
    "pub": "Trefis",
@@ -17925,13 +17981,6 @@
    "h": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/recent-stumble-broadcom-stock-opportunity-213457266.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
    "date": "2026-08-24"
   },
   {
@@ -17977,13 +18026,6 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "QCOM",
-   "h": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-stock-more-tripled-211152650.html",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "EXC",
    "h": "How to Build $8,200 a Month in Dividend Income (And the Tax Bill Almost Nobody Plans For)",
    "pub": "24/7 Wall St.",
@@ -18026,13 +18068,6 @@
    "date": "2026-08-24"
   },
   {
-   "tk": "BA",
-   "h": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-defense-stock-dominated-2026-193940631.html",
-   "date": "2026-08-24"
-  },
-  {
    "tk": "RTX",
    "h": "Which Aerospace and Defense Stock Has Dominated in 2026: GE Aerospace, Boeing, or RTX?",
    "pub": "24/7 Wall St.",
@@ -18044,13 +18079,6 @@
    "h": "Keep This Renewable Energy Stock Close Until November",
    "pub": "Schaeffer's Investment Research",
    "link": "https://finance.yahoo.com/markets/stocks/articles/keep-renewable-energy-stock-close-192608417.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
    "date": "2026-08-24"
   },
   {
@@ -18066,35 +18094,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-moved-theme-185254049.html",
    "date": "2026-08-24"
-  },
-  {
-   "tk": "SERV",
-   "h": "QuikBot vs. Serve Robotics (NASDAQ:SERV): Will Physical AI Be Won by Robots or the Infrastructure Behind Them?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/quikbot-vs-serve-robotics-nasdaq-183745322.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "EXCLUSIVE: How AI's $220 Billion Bond Boom Competes With the Treasury",
-   "pub": "Benzinga Prediction Markets",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exclusive-ais-220-billion-bond-182105442.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "PLTR vs. PATH: Which AI-Driven Software Stock is the Better Buy?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/ai/articles/pltr-vs-path-ai-driven-180200462.html",
-   "date": "2026-08-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "SpaceX Has Already Won More Than $8 Billion From Golden Dome. This Could Be Just the Beginning",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-already-won-more-8-175533478.html",
-   "date": "2026-08-24"
   }
  ],
- "prices_asof": "2026-08-25 06:55 UTC"
+ "prices_asof": "2026-08-25 08:49 UTC"
 }
