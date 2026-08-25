@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 563,
-      "up": 6
+      "rk": 102,
+      "up": 7
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 621,
-      "up": 2
+      "m0": 1,
+      "rk": 678,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 112,
-      "m0": 71,
+      "m": 379,
+      "m0": 99,
       "rk": 1,
-      "up": 344
+      "up": 3074
      },
      "thesis": {
       "bull": [
@@ -1591,9 +1591,9 @@
      "geo": "US",
      "social": {
       "m": 7,
-      "m0": 3,
-      "rk": 38,
-      "up": 15
+      "m0": 7,
+      "rk": 66,
+      "up": 1190
      },
      "thesis": {
       "bull": [
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 190,
+      "rk": 252,
       "up": 1
      },
      "streetNotes": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 271,
-      "up": 2
+      "rk": 115,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -2832,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 605,
-      "up": 2
+      "rk": 663,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -3146,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 714,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -4033,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 642,
-      "up": 6
+      "m": 5,
+      "m0": 1,
+      "rk": 87,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -4384,9 +4389,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 333,
-      "up": 3
+      "m0": 1,
+      "rk": 383,
+      "up": 1
      },
      "news": [
       {
@@ -4717,9 +4722,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 553,
-      "up": 3
+      "m0": 0,
+      "rk": 611,
+      "up": 1
      },
      "news": [
       {
@@ -5859,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 5,
-      "rk": 30,
-      "up": 20
+      "m": 33,
+      "m0": 7,
+      "rk": 16,
+      "up": 92
      },
      "news": [
       {
@@ -5947,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 316,
-      "up": 1
+      "m": 2,
+      "m0": 0,
+      "rk": 152,
+      "up": 5
      },
      "news": [
       {
@@ -6977,9 +6982,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 503,
-      "up": 8
+      "m0": 1,
+      "rk": 546,
+      "up": 2
      },
      "news": [
       {
@@ -7094,7 +7099,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 259,
+      "up": 2
+     },
      "news": [
       {
        "h": "What You Actually Pay To Join The MU Run",
@@ -7653,7 +7663,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 755,
+      "up": 0
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7665,6 +7680,12 @@
      "hold": null,
      "news": [
       {
+       "h": "AVEX Stock Jumps Overnight: CEO Sees Low-Cost Drones 'Deployed In Every Major Combat' Hereafter",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/avex-stock-jumps-overnight-ceo-042713589.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "Why Is AVEX Stock Rising Overnight?",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-avex-stock-rising-overnight-062641047.html",
@@ -7675,12 +7696,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-65-135504473.html",
        "date": "2026-08-17"
-      },
-      {
-       "h": "AEVEX (AVEX) Stock Still Looks Cheap On Earnings While Returns Stay Weak",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-stock-still-looks-081208193.html",
-       "date": "2026-08-15"
       }
      ],
      "awards": [
@@ -7742,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 58,
-      "m0": 14,
-      "rk": 3,
-      "up": 1194
+      "m": 43,
+      "m0": 58,
+      "rk": 10,
+      "up": 97
      },
      "news": [
       {
@@ -8251,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 86,
-      "up": 86
+      "m": 25,
+      "m0": 3,
+      "rk": 25,
+      "up": 56
      },
      "thesis": {
       "bull": [
@@ -8991,7 +9006,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 750,
+      "up": 1
+     },
      "news": [
       {
        "h": "ASTS, RKLB, LUNR, RDW In Focus: Elon Musk Says Space Boom Will Be \u2018Much Bigger\u2019 Than sell-side\u2019s $1.8 Trillion Forecast",
@@ -9143,8 +9163,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 602,
-      "up": 5
+      "rk": 661,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9400,7 +9420,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 607,
+      "up": 2
+     },
      "news": [
       {
        "h": "This Small-Cap Space Stock Could Be a Long-Term Moonshot",
@@ -9485,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 34,
-      "up": 23
+      "m": 38,
+      "m0": 8,
+      "rk": 13,
+      "up": 1929
      },
      "thesis": {
       "bull": [
@@ -10374,10 +10399,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 89,
-      "up": 16
+      "m": 1,
+      "m0": 2,
+      "rk": 706,
+      "up": 12
      },
      "news": [
       {
@@ -10530,7 +10555,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 140,
+      "rk": 204,
       "up": 3
      },
      "streetNotes": [
@@ -10640,7 +10665,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 190,
+      "rk": 252,
       "up": 1
      },
      "streetNotes": [
@@ -10749,7 +10774,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 130,
+      "rk": 192,
       "up": 1
      },
      "news": [
@@ -10836,9 +10861,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 333,
-      "up": 3
+      "m0": 1,
+      "rk": 383,
+      "up": 1
      },
      "news": [
       {
@@ -10922,7 +10947,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 280,
+      "up": 1
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11203,9 +11233,9 @@
      "geo": "US",
      "social": {
       "m": 7,
-      "m0": 3,
-      "rk": 38,
-      "up": 15
+      "m0": 7,
+      "rk": 66,
+      "up": 1190
      },
      "news": [
       {
@@ -12516,10 +12546,10 @@
      "conf": "est",
      "geo": "Canada",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 310,
-      "up": 0
+      "m": 2,
+      "m0": 0,
+      "rk": 150,
+      "up": 3
      },
      "news": [
       {
@@ -12638,8 +12668,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 309,
+      "m0": 1,
+      "rk": 368,
       "up": 2
      },
      "news": [
@@ -12720,10 +12750,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 22,
-      "rk": 39,
-      "up": 9
+      "m": 25,
+      "m0": 7,
+      "rk": 26,
+      "up": 148
      },
      "news": [
       {
@@ -12993,12 +13023,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 554,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Green Plains, Liberty Energy, Nabors Industries, Centrus Energy, and Oceaneering Shares Are Falling, What You Need To Know",
@@ -13076,12 +13101,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 627,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13324,10 +13344,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 57,
-      "up": 18
+      "m": 4,
+      "m0": 5,
+      "rk": 106,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -13567,7 +13587,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 619,
+      "rk": 675,
       "up": 1
      },
      "news": [
@@ -13977,7 +13997,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 335,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14511,7 +14536,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 660,
+      "up": 2
+     },
      "news": [
       {
        "h": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
@@ -14597,8 +14627,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 276,
-      "up": 2
+      "rk": 331,
+      "up": 4
      },
      "news": [
       {
@@ -14914,10 +14944,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 40,
-      "up": 13
+      "m": 4,
+      "m0": 6,
+      "rk": 91,
+      "up": 52
      },
      "news": [
       {
@@ -15085,10 +15115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 50,
-      "up": 6
+      "m": 1,
+      "m0": 5,
+      "rk": 286,
+      "up": 3
      },
      "news": [
       {
@@ -15315,9 +15345,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 456,
-      "up": 2
+      "m0": 1,
+      "rk": 490,
+      "up": 1
      },
      "news": [
       {
@@ -17506,7 +17536,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-24",
+ "social_asof": "2026-08-25",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17786,6 +17816,13 @@
  ],
  "news": [
   {
+   "tk": "AVEX",
+   "h": "AVEX Stock Jumps Overnight: CEO Sees Low-Cost Drones 'Deployed In Every Major Combat' Hereafter",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avex-stock-jumps-overnight-ceo-042713589.html",
+   "date": "2026-08-25"
+  },
+  {
    "tk": "RKLB",
    "h": "Why Peter Beck Thinks Rocket Lab Can Become \u2018Really, Really Big\u2019 \u2014 Even As Investors Fixate On Neutron\u2019s Delays",
    "pub": "Stocktwits",
@@ -18057,14 +18094,7 @@
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/manufacturing-stocks-picks-roundtable-7c264514?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Cathie Wood Pours $28 Million Into Tech Stock in One Week",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-pours-28-million-170730742.html",
-   "date": "2026-08-24"
   }
  ],
- "prices_asof": "2026-08-25 04:42 UTC"
+ "prices_asof": "2026-08-25 06:26 UTC"
 }
