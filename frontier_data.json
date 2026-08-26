@@ -1143,15 +1143,15 @@
        "date": "2026-08-26"
       },
       {
+       "h": "Nvidia's Q2 earnings to test resurgent AI trade",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+       "date": "2026-08-23"
+      },
+      {
        "h": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
        "pub": "Yahoo Finance Video",
        "link": "https://finance.yahoo.com/video/story-nvidias-margins-balance-sheet-200000914.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Why Nvidia rival AMD may see a 40% rip in its stock",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html",
        "date": "2026-08-25"
       }
      ]
@@ -5867,15 +5867,15 @@
        "date": "2026-08-25"
       },
       {
-       "h": "PSNY Stock Loses August Race To Chinese EV Rivals \u2014 Unexplained US Ban Deals Polestar A Fresh Blow",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/psny-stock-loses-august-race-051018842.html",
+       "h": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
        "date": "2026-08-26"
       },
       {
-       "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-races-past-nvda-031929100.html",
+       "h": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/jason-calacanis-says-tslas-optimus-092100231.html",
        "date": "2026-08-26"
       }
      ],
@@ -7102,6 +7102,12 @@
      },
      "news": [
       {
+       "h": "3 Semiconductor Stocks We Steer Clear Of",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-steer-clear-085913198.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "What You Actually Pay To Join The AMD Run",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-amd-run-223427146.html",
@@ -7111,12 +7117,6 @@
        "h": "Can You Stomach The Plunge In Micron Stock?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-micron-stock-222344363.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Is QUALCOMM (QCOM) Undervalued As Its New Mobile And AI Chief Takes Charge?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-undervalued-mobile-ai-221911793.html",
        "date": "2026-08-25"
       }
      ],
@@ -11146,6 +11146,12 @@
      "social": null,
      "news": [
       {
+       "h": "Science Applications International (SAIC), Why Are Analysts Sending Mixed Signals?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-international-saic-why-091033069.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "3 Value Stocks with Warning Signs",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-warning-signs-095844712.html",
@@ -11155,12 +11161,6 @@
        "h": "ACN or SAIC: Which IT Services Stock Should You Buy Currently?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/acn-saic-services-stock-buy-145900549.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "Is Science Applications International (SAIC) Stock Undervalued Right Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-international-saic-stock-134004513.html",
        "date": "2026-08-24"
       }
      ],
@@ -13026,6 +13026,12 @@
      "social": null,
      "news": [
       {
+       "h": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Brush Off",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-101913303.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
@@ -13035,12 +13041,6 @@
        "h": "Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-may-found-234755356.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Is Centrus Energy (LEU) Fully Priced Despite Its $900m DOE Win?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-fully-priced-190556745.html",
        "date": "2026-08-25"
       }
      ],
@@ -17836,6 +17836,41 @@
  ],
  "news": [
   {
+   "tk": "LEU",
+   "h": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Brush Off",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-101913303.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/ai/articles/jason-calacanis-says-tslas-optimus-092100231.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "SAIC",
+   "h": "Science Applications International (SAIC), Why Are Analysts Sending Mixed Signals?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-international-saic-why-091033069.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "3 Semiconductor Stocks We Steer Clear Of",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-steer-clear-085913198.html",
+   "date": "2026-08-26"
+  },
+  {
    "tk": "NVDA",
    "h": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
    "pub": "Yahoo Finance",
@@ -17931,13 +17966,6 @@
    "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
-   "date": "2026-08-26"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-races-past-nvda-031929100.html",
    "date": "2026-08-26"
   },
   {
@@ -18067,13 +18095,6 @@
    "date": "2026-08-25"
   },
   {
-   "tk": "TSLA",
-   "h": "Bernie Sanders Says He Was Labeled 'Radical,' 'Crazy' and an Extremist for His Data Center Moratorium Push: 'Today 75% of Americans Agree'",
-   "pub": "Benzinga",
-   "link": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-labeled-radical-213105098.html",
-   "date": "2026-08-25"
-  },
-  {
    "tk": "SO",
    "h": "Utility Stocks Are Historically Unloved\u2014and the Case for Buying Is Getting Stronger",
    "pub": "Barrons.com",
@@ -18093,28 +18114,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/boeing-air-force-f15-contract-131-billion-ba-stock-parsons-dod-booz-allen-analyst-targets/?src=A00220&yptr=yahoo",
    "date": "2026-08-25"
-  },
-  {
-   "tk": "NEE",
-   "h": "2 Dividend Stocks Compounding Quietly While Oil Headlines Distract Everyone",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/2-dividend-stocks-compounding-quietly-203000300.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "RTX",
-   "h": "Top Stock Reports for Berkshire Hathaway, Roche & RTX",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-201400047.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "SMR",
-   "h": "Sector Update: Energy Stocks Fall Tuesday",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
-   "date": "2026-08-25"
   }
  ],
- "prices_asof": "2026-08-26 08:49 UTC"
+ "prices_asof": "2026-08-26 10:39 UTC"
 }
