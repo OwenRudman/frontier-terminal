@@ -1137,16 +1137,16 @@
      },
      "news": [
       {
-       "h": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+       "h": "Nvidia earnings, PCE data: What investors need to watch Wednesday",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/nvidia-earnings-pce-data-investors-120000582.html",
        "date": "2026-08-26"
       },
       {
-       "h": "Nvidia's Q2 earnings to test resurgent AI trade",
+       "h": "4 reasons Nvidia stock is lagging",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-       "date": "2026-08-23"
+       "link": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
+       "date": "2026-08-26"
       },
       {
        "h": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
@@ -1250,6 +1250,12 @@
      ],
      "news": [
       {
+       "h": "Here's How Much a $1000 Investment in ATI Made 10 Years Ago Would Be Worth Today",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-ati-123002568.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Axon vs. Teledyne: Which Defense & Security Stock Should You Bet On?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/axon-vs-teledyne-defense-security-182200866.html",
@@ -1259,12 +1265,6 @@
        "h": "HEICO to Report Q3 Earnings: What's in the Cards for the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heico-report-q3-earnings-whats-161000422.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Teledyne (TDY) Down 2.7% Since Last Earnings Report: Can It Rebound?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/teledyne-tdy-down-2-7-153012044.html",
        "date": "2026-08-21"
       }
      ]
@@ -1339,6 +1339,12 @@
      ],
      "news": [
       {
+       "h": "Leonardo DRS (DRS) Stock Looks Fully Valued Even After Recent Weakness",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-110711351.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Leonardo DRS (DRS) Lands UAE Security Tie As Drone Defense Test Clears Hurdle",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-lands-uae-230903464.html",
@@ -1349,12 +1355,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/down-19-5-4-weeks-133502097.html",
        "date": "2026-08-25"
-      },
-      {
-       "h": "Leonardo DRS and Leidos Shares Are Falling, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-leidos-shares-falling-225115816.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
@@ -1784,15 +1784,15 @@
        "date": "2026-08-25"
       },
       {
-       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
+       "h": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today\u2019s Market",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-26"
       },
       {
-       "h": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-023500694.html",
+       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
        "date": "2026-08-26"
       }
      ],
@@ -2240,16 +2240,16 @@
        "date": "2026-08-26"
       },
       {
+       "h": "3 Contrarian Trades for a Market That Looks Too Hot",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/options/articles/3-contrarian-trades-market-looks-120000796.html",
+       "date": "2026-08-25"
+      },
+      {
        "h": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "General Electric (GE) Could Be 14% Overvalued On Air Force Contract Win And Capital Returns",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-could-14-011106138.html",
-       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -5867,15 +5867,15 @@
        "date": "2026-08-25"
       },
       {
-       "h": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
-       "date": "2026-08-26"
+       "h": "New disclosure: Trump owns SpaceX, Disney shares \u2014 and is reaping profits from oil & gas stocks",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/disclosure-trump-owns-spacex-disney-151222555.html",
+       "date": "2026-08-25"
       },
       {
-       "h": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/ai/articles/jason-calacanis-says-tslas-optimus-092100231.html",
+       "h": "Latest News In Electric Vehicles - Accelerating Growth Amid Challenges In Emerging Markets",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/latest-news-electric-vehicles-accelerating-123714511.html",
        "date": "2026-08-26"
       }
      ],
@@ -7102,6 +7102,12 @@
      },
      "news": [
       {
+       "h": "Broadcom's Real Risk Is Its Customer List",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/technology/ai/articles/broadcoms-real-risk-customer-list-123150324.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "3 Semiconductor Stocks We Steer Clear Of",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-steer-clear-085913198.html",
@@ -7111,12 +7117,6 @@
        "h": "What You Actually Pay To Join The AMD Run",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-amd-run-223427146.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Can You Stomach The Plunge In Micron Stock?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-micron-stock-222344363.html",
        "date": "2026-08-25"
       }
      ],
@@ -10774,6 +10774,12 @@
      },
      "news": [
       {
+       "h": "Boeing (BA) Stock Could Be Undervalued Following Its 10% Slide",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-could-undervalued-110743224.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Boeing Lands $131 Bil F-15 Fighter Jet Contract, Analyst Lifts Booz Allen Targets",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/boeing-air-force-f15-contract-131-billion-ba-stock-parsons-dod-booz-allen-analyst-targets/?src=A00220&yptr=yahoo",
@@ -10783,12 +10789,6 @@
        "h": "Is GE Stock Worth Its Steep Peer Premium?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-worth-steep-peer-173534894.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "A $131 Billion Shot in the Arm: How Boeing\u2019s New F-15 Deal Can Help Shares",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/boeing-stock-f15-contract-c123a415?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-25"
       }
      ],
@@ -11240,15 +11240,15 @@
        "date": "2026-08-25"
       },
       {
-       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
+       "h": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today\u2019s Market",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-26"
       },
       {
-       "h": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-023500694.html",
+       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
        "date": "2026-08-26"
       }
      ],
@@ -13597,21 +13597,21 @@
      },
      "news": [
       {
+       "h": "Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html",
+       "date": "2026-08-26"
+      },
+      {
+       "h": "NuScale Stock Ticks Higher as AI Integration Promises 80% Efficiency Gain",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nuscale-stock-ticks-higher-ai-103245891.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Sector Update: Energy Stocks Fall Tuesday",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "NuScale Power Short Seller Profits Send Stark Warning to Investors",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/energy/articles/nuscale-power-short-seller-profits-154543569.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
        "date": "2026-08-25"
       }
      ]
@@ -15194,6 +15194,12 @@
      "social": null,
      "news": [
       {
+       "h": "How Much Do You Need Invested to Out-Earn the Average American Household Income With Dividends?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/much-invested-earn-average-american-115505508.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "How to Build $8,200 a Month in Dividend Income (And the Tax Bill Almost Nobody Plans For)",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/build-8-200-month-dividend-210235481.html",
@@ -15203,12 +15209,6 @@
        "h": "4 High-Yield Stocks That Hand the IRS Nothing Inside a Roth",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-stocks-hand-110143143.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "5 High-Yield Dividend Stocks for Retirement Income",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-high-yield-dividend-stocks-110047375.html",
        "date": "2026-08-24"
       }
      ],
@@ -17836,6 +17836,76 @@
  ],
  "news": [
   {
+   "tk": "TSLA",
+   "h": "Latest News In Electric Vehicles - Accelerating Growth Amid Challenges In Emerging Markets",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/latest-news-electric-vehicles-accelerating-123714511.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Broadcom's Real Risk Is Its Customer List",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/technology/ai/articles/broadcoms-real-risk-customer-list-123150324.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "TDY",
+   "h": "Here's How Much a $1000 Investment in ATI Made 10 Years Ago Would Be Worth Today",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-ati-123002568.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Caution Ahead: BPTRX and BPTIX's Heavy SpaceX Bet Raises the Stakes",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/caution-ahead-bptrx-bptixs-heavy-120800975.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "SMR",
+   "h": "Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/forget-nuscales-quarterly-numbers-tva-120600685.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia earnings, PCE data: What investors need to watch Wednesday",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/nvidia-earnings-pce-data-investors-120000582.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "EXC",
+   "h": "How Much Do You Need Invested to Out-Earn the Average American Household Income With Dividends?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/much-invested-earn-average-american-115505508.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing (BA) Stock Could Be Undervalued Following Its 10% Slide",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-could-undervalued-110743224.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "DRS",
+   "h": "Leonardo DRS (DRS) Stock Looks Fully Valued Even After Recent Weakness",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-110711351.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale Stock Ticks Higher as AI Integration Promises 80% Efficiency Gain",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nuscale-stock-ticks-higher-ai-103245891.html",
+   "date": "2026-08-26"
+  },
+  {
    "tk": "LEU",
    "h": "1 of Wall Street\u2019s Favorite Stocks to Own for Decades and 2 We Brush Off",
    "pub": "StockStory",
@@ -17843,17 +17913,17 @@
    "date": "2026-08-26"
   },
   {
-   "tk": "TSLA",
-   "h": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
+   "tk": "PLTR",
+   "h": "Salesforce, Intuit, ServiceNow, Palantir, and More Stocks That Explain Today\u2019s Market",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo",
    "date": "2026-08-26"
   },
   {
-   "tk": "TSLA",
-   "h": "Jason Calacanis Says TSLA's Optimus Will Eclipse AAPL's iPhone, Predicts 1 Billion Robots By 2036",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jason-calacanis-says-tslas-optimus-092100231.html",
+   "tk": "NVDA",
+   "h": "4 reasons Nvidia stock is lagging",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
    "date": "2026-08-26"
   },
   {
@@ -17868,13 +17938,6 @@
    "h": "3 Semiconductor Stocks We Steer Clear Of",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-steer-clear-085913198.html",
-   "date": "2026-08-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
    "date": "2026-08-26"
   },
   {
@@ -17917,13 +17980,6 @@
    "h": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/constellation-energy-just-raised-guidance-062500085.html",
-   "date": "2026-08-26"
-  },
-  {
-   "tk": "TSLA",
-   "h": "PSNY Stock Loses August Race To Chinese EV Rivals \u2014 Unexplained US Ban Deals Polestar A Fresh Blow",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/psny-stock-loses-august-race-051018842.html",
    "date": "2026-08-26"
   },
   {
@@ -18058,63 +18114,7 @@
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/economy/policy/articles/crml-jumps-usar-mp-advance-234025696.html",
    "date": "2026-08-25"
-  },
-  {
-   "tk": "NOC",
-   "h": "NOC Stock Inches Ahead \u2014 Northrop CEO Reportedly Eyes \u2018Decent Share\u2019 In Potential $1 Trillion Golden Dome Defense Contracts",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/noc-stock-inches-ahead-northrop-232527138.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "DRS",
-   "h": "Leonardo DRS (DRS) Lands UAE Security Tie As Drone Defense Test Clears Hurdle",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-lands-uae-230903464.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "QCOM",
-   "h": "What You Actually Pay To Join The AMD Run",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-amd-run-223427146.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Can You Stomach The Plunge In Micron Stock?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-micron-stock-222344363.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Is QUALCOMM (QCOM) Undervalued As Its New Mobile And AI Chief Takes Charge?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-undervalued-mobile-ai-221911793.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "SO",
-   "h": "Utility Stocks Are Historically Unloved\u2014and the Case for Buying Is Getting Stronger",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/utility-stocks-buy-ai-data-centers-8237dd33?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Cathie Wood's Biggest Buy Last Week Was SpaceX. She Sold Almost Exactly That Much Palantir the Same Day.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-biggest-buy-last-204701178.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Lands $131 Bil F-15 Fighter Jet Contract, Analyst Lifts Booz Allen Targets",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/boeing-air-force-f15-contract-131-billion-ba-stock-parsons-dod-booz-allen-analyst-targets/?src=A00220&yptr=yahoo",
-   "date": "2026-08-25"
   }
  ],
- "prices_asof": "2026-08-26 10:39 UTC"
+ "prices_asof": "2026-08-26 12:59 UTC"
 }
