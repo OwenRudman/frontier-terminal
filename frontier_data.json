@@ -5883,10 +5883,10 @@
        "date": "2026-08-25"
       },
       {
-       "h": "Bernie Sanders Says He Was Labeled 'Radical,' 'Crazy' and an Extremist for His Data Center Moratorium Push: 'Today 75% of Americans Agree'",
-       "pub": "Benzinga",
-       "link": "https://www.yahoo.com/news/politics/articles/bernie-sanders-says-labeled-radical-213105098.html",
-       "date": "2026-08-25"
+       "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-races-past-nvda-031929100.html",
+       "date": "2026-08-26"
       }
      ],
      "awards": [
@@ -10963,6 +10963,12 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
+       "h": "Why Did XPEV, ONON, LHX Stocks Hit 52-Week Lows Today?",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-xpev-onon-lhx-031743685.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "L3Harris (LHX) Stock Still Trades Below Fair Value After CEO Exit",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-stock-still-trades-021509549.html",
@@ -10972,12 +10978,6 @@
        "h": "\u201cI Don\u2019t Buy IPOs\u201d: Veteran Investor Names 3 Profitable Space Stocks to Own Instead of SpaceX",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-buy-ipos-veteran-135723001.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "RTX vs. LHX: Which Aerospace Player Holds Stronger Momentum Right Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-vs-lhx-aerospace-player-135000062.html",
        "date": "2026-08-25"
       }
      ],
@@ -12815,6 +12815,12 @@
      "social": null,
      "news": [
       {
+       "h": "Paladin Energy H2 Earnings Call Highlights",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/paladin-energy-h2-earnings-call-030243701.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Sigma Lithium Corporation (SGML) Reports Q2 Loss, Beats Revenue Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sigma-lithium-corporation-sgml-reports-130501880.html",
@@ -12825,12 +12831,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/denison-mine-dnn-reports-q2-210502149.html",
        "date": "2026-08-12"
-      },
-      {
-       "h": "Why Paladin Energy (ASX:PDN) Is Up 11.0% After Langer Heinrich Ramp-Up and Higher FY27 Guidance",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-paladin-energy-asx-pdn-170932822.html",
-       "date": "2026-07-23"
       }
      ]
     },
@@ -17816,6 +17816,27 @@
  ],
  "news": [
   {
+   "tk": "TSLA",
+   "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-races-past-nvda-031929100.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "LHX",
+   "h": "Why Did XPEV, ONON, LHX Stocks Hit 52-Week Lows Today?",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-xpev-onon-lhx-031743685.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "PALAF",
+   "h": "Paladin Energy H2 Earnings Call Highlights",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/paladin-energy-h2-earnings-call-030243701.html",
+   "date": "2026-08-26"
+  },
+  {
    "tk": "PLTR",
    "h": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
    "pub": "Motley Fool",
@@ -17939,13 +17960,6 @@
    "h": "Utility Stocks Are Historically Unloved\u2014and the Case for Buying Is Getting Stronger",
    "pub": "Barrons.com",
    "link": "https://www.barrons.com/articles/utility-stocks-buy-ai-data-centers-8237dd33?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla\u2019s Cybertruck Base Version Hits $74,990 \u2014 Nearly 2X Its 2019 Promised Price",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybertruck-version-hits-74-205220285.html",
    "date": "2026-08-25"
   },
   {
@@ -18080,21 +18094,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-lmt-expands-ai-181736357.html",
    "date": "2026-08-25"
-  },
-  {
-   "tk": "MP",
-   "h": "What MP Materials (MP)'s New Defense Gadolinium Deal Means For Shareholders",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-defense-gadolinium-181725147.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "AUR",
-   "h": "Oppenheimer initiates Kodiak AI stock with outperform rating",
-   "pub": "Quartz",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-initiates-kodiak-ai-stock-181411797.html",
-   "date": "2026-08-25"
   }
  ],
- "prices_asof": "2026-08-26 03:09 UTC"
+ "prices_asof": "2026-08-26 04:43 UTC"
 }
