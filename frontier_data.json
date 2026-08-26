@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
+       "h": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+       "date": "2026-08-26"
+      },
+      {
+       "h": "The story that Nvidia's margins, balance sheet tell going into Q2 earnings",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/story-nvidias-margins-balance-sheet-200000914.html",
        "date": "2026-08-25"
       },
       {
-       "h": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "The real question investors should be asking ahead of Nvidia earnings",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html",
+       "h": "Why Nvidia rival AMD may see a 40% rip in its stock",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html",
        "date": "2026-08-25"
       }
      ]
@@ -1784,16 +1784,16 @@
        "date": "2026-08-25"
       },
       {
+       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-023500694.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "Cathie Wood's Biggest Buy Last Week Was SpaceX. She Sold Almost Exactly That Much Palantir the Same Day.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-biggest-buy-last-204701178.html",
-       "date": "2026-08-25"
       }
      ],
      "awards": [
@@ -7759,6 +7759,12 @@
      },
      "news": [
       {
+       "h": "SLS, IBRX Catch The Eye Of A Major US Pension Fund \u2014 And Big Clinical Catalysts Are On The Horizon",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-catch-eye-major-081224242.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "SLS Traders Eye This Important Resistance Zone Ahead Of Key AML Data Readout",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-traders-eye-important-resistance-161219199.html",
@@ -7769,12 +7775,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-charges-ahead-aml-033655213.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/sls-stock-clocks-three-straight-211931656.html",
-       "date": "2026-08-21"
       }
      ]
     }
@@ -8472,22 +8472,22 @@
      ],
      "news": [
       {
+       "h": "What Does Rocket Lab (RKLB) Gain From Its Optical Communications Role?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-lab-rklb-gain-081552975.html",
+       "date": "2026-08-26"
+      },
+      {
+       "h": "Peter Beck's Neutron Rocket Could Slip to 2027. Here's How Much the Delay Actually Matters.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-becks-neutron-rocket-could-072500917.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "ASTS, RKLB, SPCX, LUNR Chase An August Win: What SpaceX\u2019s Falcon 9 Wind-Down Means For Space Stocks",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/asts-rklb-spcx-lunr-chase-014612505.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rises-3-musk-pulls-162211228.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/research/options/rocket-lab-rklb-satellite-space-options-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo",
-       "date": "2026-08-25"
       }
      ],
      "awards": [
@@ -11240,16 +11240,16 @@
        "date": "2026-08-25"
       },
       {
+       "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Peter Thiel Has Steadily Sold Down His Palantir Stake for Years Yet Remains Its Largest Individual Shareholder. Here's What His Selling Pattern Signals for Investors.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-steadily-sold-down-023500694.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "Cathie Wood's Biggest Buy Last Week Was SpaceX. She Sold Almost Exactly That Much Palantir the Same Day.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-biggest-buy-last-204701178.html",
-       "date": "2026-08-25"
       }
      ],
      "awards": [
@@ -13655,6 +13655,12 @@
      "social": null,
      "news": [
       {
+       "h": "Nano Nuclear Energy Bring Microreactors to UAE",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/video/nano-nuclear-energy-bring-microreactors-074211383.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "A Major Short Squeeze Could Be Brewing in Oklo Stock",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/major-short-squeeze-could-brewing-153145930.html",
@@ -13665,12 +13671,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-smr-vs-nne-012437808.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "NANO Nuclear Energy (NNE) Stock Looks Cheap As Shares Fell 34%",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nano-nuclear-energy-nne-stock-011236412.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
@@ -17836,6 +17836,48 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "What Does Rocket Lab (RKLB) Gain From Its Optical Communications Role?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-rocket-lab-rklb-gain-081552975.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "SLS",
+   "h": "SLS, IBRX Catch The Eye Of A Major US Pension Fund \u2014 And Big Clinical Catalysts Are On The Horizon",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-catch-eye-major-081224242.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "NNE",
+   "h": "Nano Nuclear Energy Bring Microreactors to UAE",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/video/nano-nuclear-energy-bring-microreactors-074211383.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Peter Beck's Neutron Rocket Could Slip to 2027. Here's How Much the Delay Actually Matters.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/peter-becks-neutron-rocket-could-072500917.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Why Is Palantir (PLTR) In Focus After Thiel Turned To AI Power Assets?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-focus-thiel-070901257.html",
+   "date": "2026-08-26"
+  },
+  {
    "tk": "CEG",
    "h": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
    "pub": "Motley Fool",
@@ -18072,49 +18114,7 @@
    "pub": "MT Newswires",
    "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html",
    "date": "2026-08-25"
-  },
-  {
-   "tk": "UBER",
-   "h": "Nevada Just Raised Tesla's Las Vegas Robotaxi Cap From 10 Vehicles to 5,000",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/articles/nevada-just-raised-teslas-las-200101304.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Oklo Isn't Exactly an AI Stock. Here's Why I Love It Anyway.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/oklo-isnt-exactly-ai-stock-192500357.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia earnings in focus: Why its networking segment is growing faster than compute",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "LEU",
-   "h": "Is Centrus Energy (LEU) Fully Priced Despite Its $900m DOE Win?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-fully-priced-190556745.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "EH",
-   "h": "EHang Holdings Ltd (EH) (Q2 2026) Earnings Call Highlights: Navigating Regulatory Headwinds ...",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-holdings-ltd-eh-q2-190054184.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova Offers Quick Solution To AI's Power Turbine Quandary",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/ge-vernova-offers-solution-to-ai-data-power-center-quandary/?src=A00220&yptr=yahoo",
-   "date": "2026-08-25"
   }
  ],
- "prices_asof": "2026-08-26 06:56 UTC"
+ "prices_asof": "2026-08-26 08:49 UTC"
 }
