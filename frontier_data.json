@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 102,
-      "up": 7
+      "m": 2,
+      "m0": 4,
+      "rk": 179,
+      "up": 4
      },
      "news": [
       {
@@ -816,7 +816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 678,
+      "rk": 779,
       "up": 3
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 379,
-      "m0": 99,
+      "m": 408,
+      "m0": 387,
       "rk": 1,
-      "up": 3074
+      "up": 1040
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-25"
       },
       {
-       "h": "Elon Musk says SpaceX's Nvidia-powered orbital data center could be ready next year",
+       "h": "The real question investors should be asking ahead of Nvidia earnings",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/elon-musk-says-spacexs-nvidia-135333519.html",
+       "link": "https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html",
        "date": "2026-08-25"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
+      "m": 13,
       "m0": 7,
-      "rk": 66,
-      "up": 1190
+      "rk": 49,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -2234,6 +2234,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "nLIGHT, AAON, AeroVironment, Kratos, and ChargePoint Shares Are Falling, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nlight-aaon-aerovironment-kratos-chargepoint-202536841.html",
@@ -2244,12 +2250,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-could-14-011106138.html",
        "date": "2026-08-22"
-      },
-      {
-       "h": "Trump\u2019s New Drone Tariffs Give AeroVironment, Kratos and Red Cat a Policy Tailwind",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/economy/policy/articles/trump-drone-tariffs-aerovironment-kratos-182409976.html",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -2322,12 +2322,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 252,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2351,6 +2346,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "NOC Stock Inches Ahead \u2014 Northrop CEO Reportedly Eyes \u2018Decent Share\u2019 In Potential $1 Trillion Golden Dome Defense Contracts",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/noc-stock-inches-ahead-northrop-232527138.html",
@@ -2360,12 +2361,6 @@
        "h": "Is GE Stock Worth Its Steep Peer Premium?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-worth-steep-peer-173534894.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "\u201cI Don\u2019t Buy IPOs\u201d: Veteran Investor Names 3 Profitable Space Stocks to Own Instead of SpaceX",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-buy-ipos-veteran-135723001.html",
        "date": "2026-08-25"
       }
      ],
@@ -2480,10 +2475,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 115,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 360,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 663,
+      "rk": 755,
       "up": 0
      },
      "thesis": {
@@ -3146,12 +3141,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 714,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4037,12 +4027,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 87,
-      "up": 13
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4390,7 +4375,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 383,
+      "rk": 431,
       "up": 1
      },
      "news": [
@@ -4626,7 +4611,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 189,
+      "up": 8
+     },
      "news": [
       {
        "h": "ParaZero Secures First DefendAir Order From U.S. Federal Agency",
@@ -4722,8 +4712,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 611,
+      "m0": 1,
+      "rk": 698,
       "up": 1
      },
      "news": [
@@ -5864,23 +5854,23 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 7,
-      "rk": 16,
-      "up": 92
+      "m": 28,
+      "m0": 34,
+      "rk": 21,
+      "up": 99
      },
      "news": [
       {
-       "h": "New disclosure: Trump owns SpaceX, Disney shares \u2014 and is reaping profits from oil & gas stocks",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/disclosure-trump-owns-spacex-disney-151222555.html",
+       "h": "SpaceX unveils Starbase launch site in Louisiana, moves up orbital data center launch timeline",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/spacex-unveils-starbase-launch-site-in-louisiana-moves-up-orbital-data-center-launch-timeline-142539276.html",
        "date": "2026-08-25"
       },
       {
-       "h": "Coca-Cola's new CEO can boast about something that 'Magnificent 7' members Elon Musk and Mark Zuckerberg can't",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/coca-colas-new-ceo-can-boast-about-something-that-magnificent-7-members-elon-musk-and-mark-zuckerberg-cant-094242694.html",
-       "date": "2026-08-25"
+       "h": "PSNY Stock Loses August Race To Chinese EV Rivals \u2014 Unexplained US Ban Deals Polestar A Fresh Blow",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/psny-stock-loses-august-race-051018842.html",
+       "date": "2026-08-26"
       },
       {
        "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
@@ -5952,10 +5942,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 152,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 414,
+      "up": 2
      },
      "news": [
       {
@@ -6266,7 +6256,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 115,
+      "up": 50
+     },
      "thesis": {
       "bull": [
        {
@@ -6983,8 +6978,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 546,
-      "up": 2
+      "rk": 621,
+      "up": 5
      },
      "news": [
       {
@@ -7101,9 +7096,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 259,
-      "up": 2
+      "m0": 1,
+      "rk": 279,
+      "up": 1
      },
      "news": [
       {
@@ -7426,7 +7421,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 786,
+      "up": 13
+     },
      "news": [
       {
        "h": "3 Growth Stocks to Buy Before Wall Street Catches On",
@@ -7663,12 +7663,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 755,
-      "up": 0
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7757,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 43,
-      "m0": 58,
-      "rk": 10,
-      "up": 97
+      "m": 16,
+      "m0": 43,
+      "rk": 39,
+      "up": 24
      },
      "news": [
       {
@@ -8266,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 3,
-      "rk": 25,
-      "up": 56
+      "m": 34,
+      "m0": 25,
+      "rk": 16,
+      "up": 96
      },
      "thesis": {
       "bull": [
@@ -9006,12 +9001,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 750,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "ASTS, RKLB, LUNR, RDW In Focus: Elon Musk Says Space Boom Will Be \u2018Much Bigger\u2019 Than sell-side\u2019s $1.8 Trillion Forecast",
@@ -9163,7 +9153,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 661,
+      "rk": 751,
       "up": 1
      },
      "streetNotes": [
@@ -9260,7 +9250,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 726,
+      "up": 1
+     },
      "news": [
       {
        "h": "5 Space Stocks Ready to Rocket Higher After the SpaceX Hangover",
@@ -9343,7 +9338,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 767,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9422,8 +9422,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 607,
+      "m0": 1,
+      "rk": 690,
       "up": 2
      },
      "news": [
@@ -9510,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 8,
-      "rk": 13,
-      "up": 1929
+      "m": 37,
+      "m0": 38,
+      "rk": 15,
+      "up": 77
      },
      "thesis": {
       "bull": [
@@ -9988,7 +9988,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 400,
+      "up": 1
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10398,12 +10403,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 706,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "ASTS, RKLB, SPCX, LUNR Chase An August Win: What SpaceX\u2019s Falcon 9 Wind-Down Means For Space Stocks",
@@ -10554,9 +10554,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 204,
-      "up": 3
+      "m0": 0,
+      "rk": 219,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10662,12 +10662,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 252,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10691,6 +10686,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "NOC Stock Inches Ahead \u2014 Northrop CEO Reportedly Eyes \u2018Decent Share\u2019 In Potential $1 Trillion Golden Dome Defense Contracts",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/noc-stock-inches-ahead-northrop-232527138.html",
@@ -10700,12 +10701,6 @@
        "h": "Is GE Stock Worth Its Steep Peer Premium?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-stock-worth-steep-peer-173534894.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "\u201cI Don\u2019t Buy IPOs\u201d: Veteran Investor Names 3 Profitable Space Stocks to Own Instead of SpaceX",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-buy-ipos-veteran-135723001.html",
        "date": "2026-08-25"
       }
      ],
@@ -10773,8 +10768,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 192,
+      "m0": 0,
+      "rk": 206,
       "up": 1
      },
      "news": [
@@ -10862,7 +10857,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 383,
+      "rk": 431,
       "up": 1
      },
      "news": [
@@ -10949,9 +10944,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 280,
-      "up": 1
+      "m0": 1,
+      "rk": 308,
+      "up": 0
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -11232,10 +11227,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
+      "m": 13,
       "m0": 7,
-      "rk": 66,
-      "up": 1190
+      "rk": 49,
+      "up": 17
      },
      "news": [
       {
@@ -11320,7 +11315,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 518,
+      "up": 15
+     },
      "news": [
       {
        "h": "Bet on These Space ETFs as Ukraine Dominates Russia in Orbital War",
@@ -12360,6 +12360,12 @@
      "social": null,
      "news": [
       {
+       "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
@@ -12370,12 +12376,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-denison-uranium-stock-160400641.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/commodities/articles/uranium-etfs-just-crashed-30-164123495.html",
-       "date": "2026-08-18"
       }
      ]
     },
@@ -12546,10 +12546,10 @@
      "conf": "est",
      "geo": "Canada",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 150,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 409,
+      "up": 2
      },
      "news": [
       {
@@ -12667,12 +12667,18 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 368,
-      "up": 2
+      "m": 3,
+      "m0": 0,
+      "rk": 128,
+      "up": 7
      },
      "news": [
+      {
+       "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+       "date": "2026-08-26"
+      },
       {
        "h": "MP's Operating Cash Flow Turns Positive in Q2: More Upside Ahead?",
        "pub": "Zacks",
@@ -12683,12 +12689,6 @@
        "h": "Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-stock-priced-pounds-212339551.html",
-       "date": "2026-08-24"
-      },
-      {
-       "h": "MP Materials Stock Moved On The Theme, Not On Mountain Pass",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-moved-theme-185254049.html",
        "date": "2026-08-24"
       }
      ],
@@ -12750,10 +12750,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 7,
-      "rk": 26,
-      "up": 148
+      "m": 23,
+      "m0": 23,
+      "rk": 28,
+      "up": 102
      },
      "news": [
       {
@@ -13026,6 +13026,12 @@
      "social": null,
      "news": [
       {
+       "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Centrus Energy (LEU) May Have Found its Next Major Growth Opportunity",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-may-found-234755356.html",
@@ -13035,12 +13041,6 @@
        "h": "Is Centrus Energy (LEU) Fully Priced Despite Its $900m DOE Win?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/centrus-energy-leu-fully-priced-190556745.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "Can X-Energy's Xe-100 Capture the Growing Demand for Reliable AI Power?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/x-energys-xe-100-capture-142400972.html",
        "date": "2026-08-25"
       }
      ],
@@ -13101,7 +13101,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 789,
+      "up": 0
+     },
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13344,10 +13349,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 5,
-      "rk": 106,
-      "up": 7
+      "m": 7,
+      "m0": 4,
+      "rk": 74,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -13585,9 +13590,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 675,
+      "m": 6,
+      "m0": 0,
+      "rk": 80,
       "up": 1
      },
      "news": [
@@ -13999,9 +14004,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 335,
-      "up": 1
+      "m0": 1,
+      "rk": 371,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -14017,6 +14022,12 @@
      ],
      "news": [
       {
+       "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+       "date": "2026-08-26"
+      },
+      {
        "h": "Can BWXT's National Laboratory Role Expand Its Government Services?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/small-business/articles/bwxts-national-laboratory-role-expand-142000503.html",
@@ -14026,12 +14037,6 @@
        "h": "Mercury Systems, BWX, Kratos, Parsons, and Huntington Ingalls Shares Plummet, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-bwx-kratos-parsons-221115869.html",
-       "date": "2026-08-20"
-      },
-      {
-       "h": "BWX Technologies (BWXT) Stock May Be Fully Priced Despite Nuclear Growth Hopes",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-bwxt-stock-may-101011959.html",
        "date": "2026-08-20"
       }
      ],
@@ -14079,7 +14084,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 193,
+      "up": 14
+     },
      "news": [
       {
        "h": "GE Vernova Offers Quick Solution To AI's Power Turbine Quandary",
@@ -14245,7 +14255,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 459,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14538,11 +14553,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 660,
-      "up": 2
+      "m0": 1,
+      "rk": 750,
+      "up": 3
      },
      "news": [
+      {
+       "h": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/constellation-energy-just-raised-guidance-062500085.html",
+       "date": "2026-08-26"
+      },
       {
        "h": "Will Rising Revenues Support Constellation Energy's Long-Term Growth?",
        "pub": "Zacks",
@@ -14554,12 +14575,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/falling-falling-falling-why-one-124136854.html",
        "date": "2026-08-25"
-      },
-      {
-       "h": "Data Center Politics Could Help an Unlikely Industry: Bitcoin Miners",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/data-centers-ai-bitcoin-miners-6bc2cd51?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-24"
       }
      ],
      "awards": [
@@ -14627,8 +14642,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 331,
-      "up": 4
+      "rk": 364,
+      "up": 2
      },
      "news": [
       {
@@ -14943,12 +14958,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 6,
-      "rk": 91,
-      "up": 52
-     },
+     "social": null,
      "news": [
       {
        "h": "Utility Stocks Are Historically Unloved\u2014and the Case for Buying Is Getting Stronger",
@@ -15031,7 +15041,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 298,
+      "up": 1
+     },
      "news": [
       {
        "h": "2 Dividend Stocks Compounding Quietly While Oil Headlines Distract Everyone",
@@ -15116,9 +15131,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 286,
-      "up": 3
+      "m0": 1,
+      "rk": 313,
+      "up": 9
      },
      "news": [
       {
@@ -15346,7 +15361,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 490,
+      "rk": 557,
       "up": 1
      },
      "news": [
@@ -15464,7 +15479,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 501,
+      "up": 3
+     },
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -17536,7 +17556,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-25",
+ "social_asof": "2026-08-26",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17816,6 +17836,62 @@
  ],
  "news": [
   {
+   "tk": "CEG",
+   "h": "Constellation Energy Just Raised Guidance. Here's What's Driving It.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/constellation-energy-just-raised-guidance-062500085.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "PSNY Stock Loses August Race To Chinese EV Rivals \u2014 Unexplained US Ban Deals Polestar A Fresh Blow",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/psny-stock-loses-august-race-051018842.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "BWXT",
+   "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "CCJ",
+   "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "LEU",
+   "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "UUUU",
+   "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "KTOS",
+   "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
+   "date": "2026-08-26"
+  },
+  {
+   "tk": "NOC",
+   "h": "Northrop Grumman (NOC) Could Be 16% Undervalued On Dividend And Contract News",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
+   "date": "2026-08-26"
+  },
+  {
    "tk": "TSLA",
    "h": "TSLA Stock Races Past NVDA, GOOG In August Rally: Elon Musk\u2019s TeraFab And Semi Bets Shift Into High Gear",
    "pub": "Stocktwits",
@@ -18038,63 +18114,7 @@
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/news/ge-vernova-offers-solution-to-ai-data-power-center-quandary/?src=A00220&yptr=yahoo",
    "date": "2026-08-25"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Baidu (BIDU) Sank 12.7% After Earnings. Is Its AI Transition Losing Momentum?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/baidu-bidu-sank-12-7-185529842.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "AVEX",
-   "h": "AEVEX (AVEX) Doubled Revenue, then Announced a $650M Acquisition. Is Growth Outrunning Dilution?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-doubled-revenue-then-184029081.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "LAZR",
-   "h": "Photonics ETFs: The Next Big AI Infrastructure Opportunity?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/ai/articles/photonics-etfs-next-big-ai-183600006.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "GEV",
-   "h": "AI Data Centers Need More Power and Bloom Energy Could Be a Big Winner",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/ai-data-centers-more-power-183010995.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "TDY",
-   "h": "Axon vs. Teledyne: Which Defense & Security Stock Should You Bet On?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/axon-vs-teledyne-defense-security-182200866.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm (QCOM) Positioned to Harness Immense AI Opportunity",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-positioned-harness-immense-181737114.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "FLY",
-   "h": "Lockheed Martin (LMT) Expands Into AI Airspace Monitoring And Sea Launch",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-lmt-expands-ai-181736357.html",
-   "date": "2026-08-25"
-  },
-  {
-   "tk": "LMT",
-   "h": "Lockheed Martin (LMT) Expands Into AI Airspace Monitoring And Sea Launch",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-lmt-expands-ai-181736357.html",
-   "date": "2026-08-25"
   }
  ],
- "prices_asof": "2026-08-26 04:43 UTC"
+ "prices_asof": "2026-08-26 06:29 UTC"
 }
