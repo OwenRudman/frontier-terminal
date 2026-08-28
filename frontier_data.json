@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 132,
-      "up": 11
+      "m": 1,
+      "m0": 4,
+      "rk": 729,
+      "up": 0
      },
      "news": [
       {
@@ -687,6 +687,12 @@
      "social": null,
      "news": [
       {
+       "h": "ALB vs. SQM: Which Lithium Stock Should You Bet on Now?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/alb-vs-sqm-lithium-stock-125200364.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Will Albemarle's Cash Strength Support Higher Shareholder Returns?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarles-cash-strength-support-higher-122400296.html",
@@ -697,12 +703,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-looks-below-043417399.html",
        "date": "2026-08-19"
-      },
-      {
-       "h": "What Albemarle (ALB)'s Profits Rebound and Higher 2026 Outlook Means For Shareholders",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-profits-rebound-higher-171538999.html",
-       "date": "2026-08-18"
       }
      ],
      "awards": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1722,
-      "m0": 586,
-      "rk": 1,
-      "up": 7461
+      "m": 436,
+      "m0": 1682,
+      "rk": 2,
+      "up": 3474
      },
      "thesis": {
       "bull": [
@@ -1132,22 +1132,22 @@
      },
      "news": [
       {
-       "h": "Just how big of a problem area is China for Nvidia?",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/just-big-problem-area-china-205642327.html",
+       "h": "Stock market today: Dow, S&P 500, Nasdaq moderate as markets digest Warsh's Jackson Hole speech",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Nvidia could hit a $13 trillion market cap, analyst says",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-could-hit-a-13-trillion-market-cap-analyst-says-180519193.html",
        "date": "2026-08-27"
       },
       {
-       "h": "Nvidia says it's building an ecosystem that can't fail",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/technology/article/nvidia-says-its-building-an-ecosystem-that-cant-fail-153001892.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Nvidia posted a blowout quarter. China remains a quagmire.",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-posted-a-blowout-quarter-china-remains-a-quagmire-122920310.html",
-       "date": "2026-08-27"
+       "h": "Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-breaks-ranks-chip-stocks-174824369.html",
+       "date": "2026-08-28"
       }
      ]
     },
@@ -1245,6 +1245,12 @@
      ],
      "news": [
       {
+       "h": "Will Strength in Dedrone Platform Continue to Drive AXON's Growth?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/strength-dedrone-platform-continue-drive-150200158.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Do Wall Street Analysts Like Teledyne Technologies Stock?",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-teledyne-technologies-144827142.html",
@@ -1255,12 +1261,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/why-teledyne-technologies-tdy-drawing-090737404.html",
        "date": "2026-08-27"
-      },
-      {
-       "h": "Varex Imaging (VREX) Stock Jumps 50% on Teledyne (TDY) Buyout Deal Just as Its Turnaround Gains Traction",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/varex-imaging-vrex-stock-jumps-195250589.html",
-       "date": "2026-08-26"
       }
      ]
     },
@@ -1334,6 +1334,12 @@
      ],
      "news": [
       {
+       "h": "1 Industrials Stock for Long-Term Investors and 2 We Avoid",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-103252746.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "1 of Wall Street\u2019s Favorite Stocks to Keep an Eye On and 2 We Turn Down",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-154507067.html",
@@ -1344,12 +1350,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-stock-looks-110711351.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "Leonardo DRS (DRS) Lands UAE Security Tie As Drone Defense Test Clears Hurdle",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leonardo-drs-drs-lands-uae-230903464.html",
-       "date": "2026-08-25"
       }
      ],
      "awards": [
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 74,
-      "m0": 8,
-      "rk": 14,
-      "up": 130
+      "m": 40,
+      "m0": 76,
+      "rk": 16,
+      "up": 128
      },
      "thesis": {
       "bull": [
@@ -1773,21 +1773,21 @@
      },
      "news": [
       {
-       "h": "Twilio, Palantir Technologies, Zoom, PagerDuty, and nCino Shares Are Soaring, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-palantir-technologies-zoom-pagerduty-051307238.html",
+       "h": "Palantir\u2019s Pentagon AI surge comes with a question investors can\u2019t ignore",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pentagon-ai-surge-comes-171700371.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Dow sell-side Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
+       "h": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles\u2019 Heel: Steve Eisman\u2019s Concentration Warning Explained",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "As Palantir Stock Jumps, An Income-Generating Trade Aims For A Big Annualized Return",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Corporate America Cut Big Checks to Trump. Now CEOs Fear Subpoenas Are Coming.",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/politics/elections/trump-corporate-donors-election-2026-572c1b28?siteid=yhoof2&yptr=yahoo",
+       "link": "https://www.investors.com/research/options/as-palantir-stock-jumps-an-income-generating-trade-aims-for-a-big-annualized-return/?src=A00220&yptr=yahoo",
        "date": "2026-08-28"
       }
      ],
@@ -2229,6 +2229,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "If You Invested $1000 in Kratos a Decade Ago, This is How Much It'd Be Worth Now",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-kratos-decade-ago-123002020.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Kratos Defense vs. Elbit Systems: Which One Is the Better Defense Bet?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-vs-elbit-systems-120000436.html",
@@ -2239,12 +2245,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-noc-could-16-043716937.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "3 Contrarian Trades for a Market That Looks Too Hot",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/options/articles/3-contrarian-trades-market-looks-120000796.html",
-       "date": "2026-08-25"
       }
      ],
      "awards": [
@@ -2317,7 +2317,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 272,
+      "up": 332
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2341,21 +2346,21 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "General Dynamics (GD) Down 0.6% Since Last Earnings Report: Can It Rebound?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-down-0-153012962.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Is RKLB Stock A Buy Or A High-Beta Trap?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-buy-high-beta-163922694.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Why Is Boeing (BA) Down 0.9% Since Last Earnings Report?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-boeing-ba-down-0-153006721.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Does Boeing Stock Have a Margin Problem Hiding in Plain Sight?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-stock-margin-problem-145723188.html",
        "date": "2026-08-27"
       }
      ],
@@ -2472,8 +2477,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 375,
-      "up": 1
+      "rk": 379,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2724,21 +2729,21 @@
      "take": "The anchor if you want drone exposure without betting the farm. The only drone-first name big enough to absorb a bad quarter, and forward valuation isn't crazy. The catch: you're now also buying lasers and space, and the deal must pay off. Core holding, not a moonshot.",
      "news": [
       {
+       "h": "Is New Switchblade 600 Order And Mars Helicopter Work Altering The Investment Case For AeroVironment (AVAV)?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/switchblade-600-order-mars-helicopter-170751717.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "3 Small-Cap Stocks That Fall Short",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-fall-120052992.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "AVAV Stock Gains As NASA Taps AeroVironment For Three Mars Helicopters For 2028 Mission \u2014 Here\u2019s What They\u2019ll Be Looking For Under The Martian Surface",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-gains-nasa-taps-175605881.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Unusual Machines Jumps 8%, Ondas Holdings Rises 6% as Risk Appetite Returns to Drone Stocks",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-jumps-8-ondas-155712239.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "AVAV Stock Rises Overnight: AeroVironment Pockets $51M Army Contract Ahead Of Q1 Earnings",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/avav-stock-rises-overnight-aerovironment-063946616.html",
        "date": "2026-08-27"
       }
      ],
@@ -2819,7 +2824,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 784,
+      "up": 4
+     },
      "thesis": {
       "bull": [
        {
@@ -3050,6 +3060,12 @@
      "take": "Cleanest \"why this company wins\" story \u2014 the Army chose its drone \u2014 with real franchise potential if deliveries scale. But it carries baggage: a public short campaign and a big raise. Reward if SRR becomes a multi-year, tens-of-thousands franchise is large; risk if the short critiques prove right is equally real. High-conviction-or-skip \u2014 read the short report first.",
      "news": [
       {
+       "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
@@ -3059,12 +3075,6 @@
        "h": "Red Cat (RCAT) Stock Could Be Above Fair Value As Tariff News Lifts Sentiment",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-rcat-stock-could-080812634.html",
-       "date": "2026-08-23"
-      },
-      {
-       "h": "Is Red Cat Holdings (RCAT) Quietly Recasting Its Identity From Drone Maker To Full Autonomy Platform?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-rcat-quietly-050939225.html",
        "date": "2026-08-23"
       }
      ],
@@ -3131,7 +3141,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 6,
+      "m0": 1,
+      "rk": 94,
+      "up": 8
+     },
      "thesis": {
       "bull": [
        {
@@ -3395,6 +3410,12 @@
      "take": "The cleverest idea on the list, with the cash to build it. But be honest about the math: ~$1B of value on ~$30M of revenue, with a \"profit\" that came from investments. A venture-style bet dressed as a stock. Own only with money you can watch swing 30% in a week.",
      "news": [
       {
+       "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Unusual Machines Jumps 8%, Ondas Holdings Rises 6% as Risk Appetite Returns to Drone Stocks",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-jumps-8-ondas-155712239.html",
@@ -3405,12 +3426,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-slide-risk-appetite-163543035.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Unusual Machines (UMAC) Changes Stockholder Voting Rules",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-umac-changes-stockholder-041523900.html",
-       "date": "2026-08-23"
       }
      ]
     },
@@ -3726,6 +3741,12 @@
      "take": "The wild card \u2014 and the one name that's really a different theme (passenger air mobility, not defense). The upside is the largest here if urban air taxis happen; the timeline and China risk make it a long-dated bet. Only as a small \"future of flight\" speculation, separate from the defense names \u2014 don't confuse it with them.",
      "news": [
       {
+       "h": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Baozun, Commerce Bancshares, Element Solutions, Evolution Petroleum, Petrobras, Rythm Pharmaceuticals, Terawulf, UMB Financial, Workday, and More",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115003686.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "EHang (EH) Withdrew Its 2026 Revenue Guidance Amid Regulatory Delays. Can Overseas Growth Fill the Gap?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-eh-withdrew-2026-revenue-023636071.html",
@@ -3735,12 +3756,6 @@
        "h": "EHang Holdings Ltd (EH) (Q2 2026) Earnings Call Highlights: Navigating Regulatory Headwinds ...",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-holdings-ltd-eh-q2-190054184.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "EHang Q2 Earnings Call Highlights",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-q2-earnings-call-highlights-140335903.html",
        "date": "2026-08-25"
       }
      ],
@@ -4018,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 134,
-      "up": 8
+      "m": 5,
+      "m0": 4,
+      "rk": 108,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4288,6 +4303,12 @@
      "take": "Best theme on the list, and the backlog jump genuinely strengthens the bull case I underrated before \u2014 trailing P/S really is the wrong lens here. But \"the growth is real\" and \"the stock is expensive\" can both be true: a lot of upside is already priced, and acquisitions dilute. A high-conviction thematic bet \u2014 size it like a speculation, watch the share count.",
      "news": [
       {
+       "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Unusual Machines Jumps 8%, Ondas Holdings Rises 6% as Risk Appetite Returns to Drone Stocks",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-jumps-8-ondas-155712239.html",
@@ -4297,12 +4318,6 @@
        "h": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/high-growth-high-cash-burn-213535172.html",
-       "date": "2026-08-21"
-      },
-      {
-       "h": "Ondas vs. Red Cat: Which Drone Stock Is the Better Pick Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ondas-vs-red-cat-drone-150600591.html",
        "date": "2026-08-21"
       }
      ],
@@ -4368,29 +4383,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 111,
-      "up": 361
+      "m": 2,
+      "m0": 5,
+      "rk": 173,
+      "up": 334
      },
      "news": [
       {
-       "h": "Can GE Aerospace Boost Profit Margin Amid Cost Pressures?",
+       "h": "Is RTX (RTX) Undervalued As Its $22.9 Billion Missile Contract Expands Backlog?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-undervalued-22-9-170813441.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Is TransDigm's Commercial Aftermarket Strength Driving Growth?",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-boost-profit-margin-162100571.html",
-       "date": "2026-08-27"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/transdigms-commercial-aftermarket-strength-driving-153600041.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Does Boeing Stock Have a Margin Problem Hiding in Plain Sight?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-stock-margin-problem-145723188.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Raytheon\u2019s Missile Windfall: What the Navy\u2019s Record Tomahawk Order Means for RTX Corporation (RTX)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/raytheon-missile-windfall-navy-record-214418523.html",
-       "date": "2026-08-26"
+       "h": "Are Aerospace Stocks Lagging  RTX Corporation (RTX) This Year?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-lagging-rtx-corporation-134004386.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -4701,10 +4716,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 748,
-      "up": 2
+      "rk": 183,
+      "up": 16
      },
      "news": [
       {
@@ -4824,6 +4839,12 @@
      "take": "My favorite of the new additions for a quality-minded investor. It's the only small-cap here that's already profitable and growing fast , in a domain (undersea) the others ignore entirely \u2014 useful diversification away from the crowded flying-drone trade. The frictions are real (OTC listing, big acquisition). A strong \"growth specialist\" position \u2014 different risks than the rest, which is the point.",
      "news": [
       {
+       "h": "Kraken Robotics Inc (KRKNF) (Q2 2026) Earnings Call Highlights: Record Orders and Covelya ...",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-inc-krknf-q2-150114573.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Kraken Robotics Q2 Revenue Rises as $355 Million Order Total Supports Growth Outlook",
        "pub": "InvestorsHub",
        "link": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-q2-revenue-rises-142814285.html",
@@ -4834,12 +4855,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-tsxv-png-stock-131454367.html",
        "date": "2026-08-13"
-      },
-      {
-       "h": "Kraken Robotics Announces $35 Million in New Orders, Bringing 2026 Product Orders to $327 Million",
-       "pub": "InvestorsHub",
-       "link": "https://finance.yahoo.com/energy/articles/kraken-robotics-announces-35-million-145732711.html",
-       "date": "2026-07-20"
       }
      ],
      "awards": [
@@ -5093,6 +5108,12 @@
      "social": null,
      "news": [
       {
+       "h": "Are Wall Street Analysts Bullish on Huntington Ingalls Stock?",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-huntington-055811270.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "3 Reasons to Avoid HII and 1 Stock to Buy Instead",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-hii-1-153736169.html",
@@ -5103,17 +5124,11 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-stock-101628549.html",
        "date": "2026-08-21"
-      },
-      {
-       "h": "Huntington Ingalls Industries (HII) Landed A $2.2 Billion Defense Task Order",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-landed-231323121.html",
-       "date": "2026-08-20"
       }
      ],
      "awards": [
       {
-       "amt": 12779497658.85,
+       "amt": 12779512658.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5844,29 +5859,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 29,
-      "rk": 33,
-      "up": 133
+      "m": 21,
+      "m0": 24,
+      "rk": 32,
+      "up": 30
      },
      "news": [
       {
-       "h": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'\u2014Is the Robovan Finally Coming?",
-       "pub": "Benzinga",
-       "link": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-teases-tesla-vehicle-033111749.html",
+       "h": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalls-3-million-162300534.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Tesla Stock Sits Nearly 30% Below Its High and Still Trades at 330 Times Earnings",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-sits-nearly-30-031101076.html",
+       "h": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-huge-catalyst-ahead-160004955.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/optimus-just-entered-production-fremont-232500834.html",
-       "date": "2026-08-27"
+       "h": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-falls-6-cfo-departs-153238047.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -5932,29 +5947,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 184,
-      "up": 4
+      "m": 5,
+      "m0": 2,
+      "rk": 99,
+      "up": 36
      },
      "news": [
+      {
+       "h": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-huge-catalyst-ahead-160004955.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Tesla and Uber Won Robotaxi Permits\u2014Why Citizens Kept Both Ratings Unchanged",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-uber-won-robotaxi-permits-113220799.html",
+       "date": "2026-08-28"
+      },
       {
        "h": "Jim Cramer recommends another beaten-down market giant",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-another-beaten-033300972.html",
        "date": "2026-08-28"
-      },
-      {
-       "h": "Uber (UBER)\u2019s $966 Million Fine: A Temporary Headwind or Bigger Regulatory Threat?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/articles/uber-uber-966-million-fine-001504395.html",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Uber's AI Usage Jumped 9.4x Without Sending Costs Higher",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/technology/ai/articles/ubers-ai-usage-jumped-9-193457577.html",
-       "date": "2026-08-27"
       }
      ],
      "awards": [
@@ -6021,8 +6036,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 429,
+      "m0": 1,
+      "rk": 430,
       "up": 1
      },
      "news": [
@@ -6251,7 +6266,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 188,
+      "up": 21
+     },
      "thesis": {
       "bull": [
        {
@@ -6794,7 +6814,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 768,
+      "up": 4
+     },
      "news": [
       {
        "h": "Ouster Vs. Aeva: Which is the Better Physical AI Lidar Bet Now?",
@@ -6965,12 +6990,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 677,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
@@ -7087,22 +7107,22 @@
      "social": null,
      "news": [
       {
-       "h": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/ai/articles/vietnam-urges-qualcomm-samsung-deepen-035324366.html",
+       "h": "Why Qualcomm (QCOM) Is Moving Beyond Smartphones",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-moving-beyond-164228903.html",
        "date": "2026-08-28"
       },
       {
-       "h": "What Does Applied Materials (AMAT) Gain From Its New Board Appointment?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-applied-materials-amat-gain-221344664.html",
-       "date": "2026-08-27"
+       "h": "Qualcomm (QCOM) Up 8.7% Since Last Earnings Report: Can It Continue?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-8-7-since-153029363.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Google agrees to settle UK app developers' lawsuit for $353 million",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/articles/google-agrees-settle-uk-app-161127465.html",
-       "date": "2026-08-27"
+       "h": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-ran-150708131.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -7732,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 11,
-      "rk": 30,
-      "up": 307
+      "m": 18,
+      "m0": 25,
+      "rk": 38,
+      "up": 33
      },
      "news": [
       {
@@ -8094,6 +8114,12 @@
      ],
      "news": [
       {
+       "h": "Why Karman Holdings Stock Was Sliding This Week",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-karman-holdings-stock-sliding-065929175.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Karman Holdings (KRMN) Q2 2026 Earnings Call Transcript",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-q2-2026-215853087.html",
@@ -8104,12 +8130,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-ceo-transition-140912240.html",
        "date": "2026-08-12"
-      },
-      {
-       "h": "Karman Holdings (KRMN) Could Be 45% Undervalued On Q2 Earnings And Higher Guidance",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-could-45-211419599.html",
-       "date": "2026-08-08"
       }
      ]
     },
@@ -8241,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 26,
-      "rk": 44,
-      "up": 59
+      "m": 37,
+      "m0": 16,
+      "rk": 18,
+      "up": 528
      },
      "thesis": {
       "bull": [
@@ -8452,22 +8472,22 @@
      ],
      "news": [
       {
-       "h": "RKLB Stock Heads For Third Weekly Loss After 7 Bruising Sessions: SpaceX Raises Red Flag Over Iridium Deal",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-heads-third-weekly-015136385.html",
+       "h": "Here's Why Rocket Lab Corporation (RKLB) Could be Great Choice for a Bottom Fisher",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rocket-lab-corporation-135502370.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Super Micro Stock And 2 AI Infrastructure Names Trading Below Fair Value",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-2-ai-001730952.html",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Rocket Lab CFO Sells Nearly 10,000 Shares Amid a Rising Stock Price",
+       "h": "Rocket Lab Just Hit 93 Electron Launches. Is the Neutron Timeline Still the Stock's Biggest Risk?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-cfo-sells-nearly-212001338.html",
-       "date": "2026-08-27"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-hit-93-130500548.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Rocket Lab's HASTE Is Flying Hypersonic Missions for the Pentagon. Here's the Defense Business Hiding Inside a Space Stock.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-labs-haste-flying-hypersonic-101500350.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -8544,7 +8564,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 478,
+      "rk": 479,
       "up": 2
      },
      "streetNotes": [
@@ -8727,8 +8747,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 767,
+      "m0": 1,
+      "rk": 738,
       "up": -8
      },
      "thesis": {
@@ -9140,7 +9160,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 779,
+      "up": -19
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9155,6 +9180,12 @@
      ],
      "news": [
       {
+       "h": "2 Cash-Producing Stocks for Long-Term Investors and 1 We Question",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-cash-producing-stocks-long-100852985.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Is RKLB Stock A Buy Or A High-Beta Trap?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-buy-high-beta-163922694.html",
@@ -9165,12 +9196,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-vs-pl-space-stock-143600499.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "Rocket Lab Stock's Twelve-Month Gain Hides A Long Slide From Its High",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-twelve-month-185123222.html",
-       "date": "2026-08-21"
       }
      ],
      "awards": [
@@ -9238,8 +9263,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 775,
-      "up": 1
+      "rk": 745,
+      "up": 0
      },
      "news": [
       {
@@ -9323,7 +9348,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 794,
+      "up": 4
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9400,12 +9430,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 739,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "This Small-Cap Space Stock Could Be a Long-Term Moonshot",
@@ -9490,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 39,
-      "rk": 28,
-      "up": 77
+      "m": 38,
+      "m0": 28,
+      "rk": 17,
+      "up": 382
      },
      "thesis": {
       "bull": [
@@ -9887,6 +9912,12 @@
      "social": null,
      "news": [
       {
+       "h": "1 Small-Cap Stock to Own for Decades and 2 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-small-cap-stock-own-113652606.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Why Rocket Lab (RKLB) Could Outpace Viasat (VSAT) as Defense Space Spending Accelerates",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-could-232107886.html",
@@ -9897,12 +9928,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rockets-toward-best-013042910.html",
        "date": "2026-08-24"
-      },
-      {
-       "h": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-rklb-lands-spot-060837344.html",
-       "date": "2026-08-22"
       }
      ],
      "awards": [
@@ -9968,12 +9993,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 422,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10130,6 +10150,12 @@
      "social": null,
      "news": [
       {
+       "h": "Should IDCC Stock Be in Your Portfolio After Solid Q2 Results?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/idcc-stock-portfolio-solid-q2-140700308.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Does ASTS Stock Warrant Caution After Lackluster Q2 Performance?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-asts-stock-warrant-caution-150000499.html",
@@ -10139,12 +10165,6 @@
        "h": "Comtech (CMTL) Down 37.8% Since Last Earnings Report: Can It Rebound?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/comtech-cmtl-down-37-8-153001368.html",
-       "date": "2026-07-15"
-      },
-      {
-       "h": "Down 37.8% in 4 Weeks, Here's Why Comtech (CMTL) Looks Ripe for a Turnaround",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/down-37-8-4-weeks-133501545.html",
        "date": "2026-07-15"
       }
      ],
@@ -10384,10 +10404,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 208,
-      "up": 6
+      "m": 4,
+      "m0": 2,
+      "rk": 124,
+      "up": 10
      },
      "news": [
       {
@@ -10540,8 +10560,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 232,
-      "up": 1
+      "rk": 215,
+      "up": 332
      },
      "streetNotes": [
       {
@@ -10647,7 +10667,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 272,
+      "up": 332
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10671,21 +10696,21 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "General Dynamics (GD) Down 0.6% Since Last Earnings Report: Can It Rebound?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-down-0-153012962.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Is RKLB Stock A Buy Or A High-Beta Trap?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-buy-high-beta-163922694.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Why Is Boeing (BA) Down 0.9% Since Last Earnings Report?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-boeing-ba-down-0-153006721.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Does Boeing Stock Have a Margin Problem Hiding in Plain Sight?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-stock-margin-problem-145723188.html",
        "date": "2026-08-27"
       }
      ],
@@ -10754,27 +10779,27 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 223,
+      "rk": 207,
       "up": 1
      },
      "news": [
       {
-       "h": "Boeing lands $131 billion deal, but Americans should read the fine print",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-lands-131-billion-deal-023300753.html",
+       "h": "What Is The Real Risk Still Haunting JOBY Stock?",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/real-risk-still-haunting-joby-155844167.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Boeing vs. Joby Aviation: Which Airplane Manufacturing Stock Promises High-Flying Profits?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-joby-aviation-airplane-212101870.html",
-       "date": "2026-08-27"
+       "h": "Boeing (BA) Engineers, Technical Workers Reject Contract Offer",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-engineers-technical-workers-144621684.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Archer Aviation vs. Space Exploration Technologies: Which High Flying Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-space-exploration-195749003.html",
-       "date": "2026-08-27"
+       "h": "BA vs. GD: Which Defense Contractor Has Stronger Growth Prospects?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ba-vs-gd-defense-contractor-122700221.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -10840,29 +10865,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 111,
-      "up": 361
+      "m": 2,
+      "m0": 5,
+      "rk": 173,
+      "up": 334
      },
      "news": [
       {
-       "h": "Can GE Aerospace Boost Profit Margin Amid Cost Pressures?",
+       "h": "Is RTX (RTX) Undervalued As Its $22.9 Billion Missile Contract Expands Backlog?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-undervalued-22-9-170813441.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Is TransDigm's Commercial Aftermarket Strength Driving Growth?",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-boost-profit-margin-162100571.html",
-       "date": "2026-08-27"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/transdigms-commercial-aftermarket-strength-driving-153600041.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Does Boeing Stock Have a Margin Problem Hiding in Plain Sight?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-stock-margin-problem-145723188.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Raytheon\u2019s Missile Windfall: What the Navy\u2019s Record Tomahawk Order Means for RTX Corporation (RTX)",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/raytheon-missile-windfall-navy-record-214418523.html",
-       "date": "2026-08-26"
+       "h": "Are Aerospace Stocks Lagging  RTX Corporation (RTX) This Year?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aerospace-stocks-lagging-rtx-corporation-134004386.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -10927,12 +10952,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 315,
-      "up": 0
-     },
+     "social": null,
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -10943,22 +10963,22 @@
      "take": "If your brother believes the next phase of drone warfare is about defending against swarms (a very reasonable view), LHX is the scaled, profitable way to own that without micro-cap risk. Same caveat as NOC: it's a slice of a giant. A lower-risk satellite position, paired with one pure-play.",
      "news": [
       {
-       "h": "Is RKLB Stock A Buy Or A High-Beta Trap?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-buy-high-beta-163922694.html",
-       "date": "2026-08-27"
+       "h": "Why Is L3Harris (LHX) Down 3.7% Since Last Earnings Report?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-l3harris-lhx-down-3-153013634.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Can Redwire's Space and Defense Portfolio Drive a New Growth Phase?",
+       "h": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
        "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/redwires-space-defense-portfolio-drive-141100088.html",
-       "date": "2026-08-26"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Can Electronic Warfare Demand Boost L3Harris' Growth Prospects?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/electronic-warfare-demand-boost-l3harris-132000079.html",
-       "date": "2026-08-26"
+       "h": "CEO Exit Leaves L3Harris Stock in the Discount Bin",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026/card/ceo-exit-leaves-l3harris-stock-in-the-discount-bin-14uQThMv3qZV3RsktEIm?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -11080,7 +11100,7 @@
        "date": "2009-04-28"
       },
       {
-       "amt": 3116039041.48,
+       "amt": 3129062649.79,
        "ag": "National Science Foundation",
        "desc": "SCIENCE OPERATION AND MAINTENANCE SUPPORT FOR THE UNITED STATES ANTARCTIC PROGRAM",
        "date": "2011-12-23"
@@ -11131,6 +11151,12 @@
      "social": null,
      "news": [
       {
+       "h": "Science Applications International Corporation (SAIC) Hits Fresh High: Is There Still Room to Run?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-international-corporation-saic-131503949.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "1 Profitable Stock to Keep an Eye On and 2 That Underwhelm",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-keep-eye-131307829.html",
@@ -11140,12 +11166,6 @@
        "h": "Nutanix (NTNX) Q4 Earnings and Revenues Surpass Estimates",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nutanix-ntnx-q4-earnings-revenues-212003193.html",
-       "date": "2026-08-26"
-      },
-      {
-       "h": "Science Applications International (SAIC), Why Are Analysts Sending Mixed Signals?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/science-applications-international-saic-why-091033069.html",
        "date": "2026-08-26"
       }
      ],
@@ -11212,28 +11232,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 74,
-      "m0": 8,
-      "rk": 14,
-      "up": 130
+      "m": 40,
+      "m0": 76,
+      "rk": 16,
+      "up": 128
      },
      "news": [
       {
-       "h": "Twilio, Palantir Technologies, Zoom, PagerDuty, and nCino Shares Are Soaring, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-palantir-technologies-zoom-pagerduty-051307238.html",
+       "h": "Palantir\u2019s Pentagon AI surge comes with a question investors can\u2019t ignore",
+       "pub": "TheStreet",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pentagon-ai-surge-comes-171700371.html",
        "date": "2026-08-28"
       },
       {
-       "h": "Dow sell-side Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
+       "h": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles\u2019 Heel: Steve Eisman\u2019s Concentration Warning Explained",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "As Palantir Stock Jumps, An Income-Generating Trade Aims For A Big Annualized Return",
        "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Corporate America Cut Big Checks to Trump. Now CEOs Fear Subpoenas Are Coming.",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/politics/elections/trump-corporate-donors-election-2026-572c1b28?siteid=yhoof2&yptr=yahoo",
+       "link": "https://www.investors.com/research/options/as-palantir-stock-jumps-an-income-generating-trade-aims-for-a-big-annualized-return/?src=A00220&yptr=yahoo",
        "date": "2026-08-28"
       }
      ],
@@ -11302,8 +11322,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 563,
+      "m0": 1,
+      "rk": 549,
       "up": 1
      },
      "news": [
@@ -12345,6 +12365,12 @@
      "social": null,
      "news": [
       {
+       "h": "Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-tests-nuclear-150904536.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "CCJ's Uranium Production Down 5% in 1H26: Will 2026 Targets be Met?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/ccjs-uranium-production-down-5-162200895.html",
@@ -12355,12 +12381,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/us-army-microreactor-bet-catalyst-nuclear-stocks-60cc308a?siteid=yhoof2&yptr=yahoo",
        "date": "2026-08-27"
-      },
-      {
-       "h": "Cameco Owns the Refinery at the Center of Canada's Uranium Threat",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-owns-refinery-center-canadas-193201917.html",
-       "date": "2026-08-26"
       }
      ]
     },
@@ -12533,8 +12553,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 432,
-      "up": 4
+      "rk": 433,
+      "up": 2
      },
      "news": [
       {
@@ -12653,11 +12673,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 431,
-      "up": 2
+      "m0": 1,
+      "rk": 432,
+      "up": 4
      },
      "news": [
+      {
+       "h": "Is Energy Fuels (UUUU) a Buy as Wall Street Analysts Look Optimistic?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-buy-wall-133001514.html",
+       "date": "2026-08-28"
+      },
       {
        "h": "CCJ's Uranium Production Down 5% in 1H26: Will 2026 Targets be Met?",
        "pub": "Zacks",
@@ -12668,12 +12694,6 @@
        "h": "UUUU vs. LEU: Which Uranium Stock Offers Better Potential?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/uuuu-vs-leu-uranium-stock-164000604.html",
-       "date": "2026-08-26"
-      },
-      {
-       "h": "UUUU, LEU, CCJ, BWXT Stocks In Focus: Trump\u2019s Saudi Nuclear Push Reportedly Faces Congress Debate And Israel Hurdle",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/energy/articles/uuuu-leu-ccj-bwxt-stocks-045300343.html",
        "date": "2026-08-26"
       }
      ],
@@ -12735,10 +12755,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 24,
-      "rk": 52,
-      "up": 22
+      "m": 3,
+      "m0": 14,
+      "rk": 150,
+      "up": 10
      },
      "news": [
       {
@@ -13329,10 +13349,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
+      "m": 5,
       "m0": 6,
-      "rk": 92,
-      "up": 11
+      "rk": 109,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -13506,6 +13526,12 @@
      },
      "news": [
       {
+       "h": "1 Reason I Passed on Oklo Even After Its Big Rally",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-reason-passed-oklo-even-062500885.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-nuscale-power-shed-combined-002500694.html",
@@ -13515,12 +13541,6 @@
        "h": "Oklo's Meta Deal Calls For a 1.2-Gigawatt Reactor in Ohio. Here's When It's Slated to Come Online.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/oklos-meta-deal-calls-1-215500034.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-rises-4-oklo-154637877.html",
        "date": "2026-08-27"
       }
      ],
@@ -13572,22 +13592,22 @@
      "social": null,
      "news": [
       {
-       "h": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?",
+       "h": "Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-nuscale-power-shed-combined-002500694.html",
+       "link": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-nuscale-power-150301085.html",
        "date": "2026-08-28"
       },
       {
-       "h": "NuScale Power Is Launching AI Tools for Nuclear Power. How to Play SMR Stock Here.",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-launching-ai-tools-195429893.html",
-       "date": "2026-08-27"
+       "h": "NNE or SMR: Which Nuclear Energy Stock Gets the Buy Call?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nne-smr-nuclear-energy-stock-125600977.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-rises-4-oklo-154637877.html",
-       "date": "2026-08-27"
+       "h": "NuScale Wouldn't Own a Reactor in the Deal Driving Its Stock",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-wouldnt-own-reactor-deal-114401397.html",
+       "date": "2026-08-28"
       }
      ]
     },
@@ -13980,8 +14000,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 387,
-      "up": 7
+      "rk": 389,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -14059,30 +14079,25 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 2,
-      "rk": 211,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
-       "h": "RIVN Stock Slips After-Hours As CFO Exits For GE Vernova Amid R2 Ramp",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivn-stock-slips-hours-cfo-220943996.html",
-       "date": "2026-08-27"
+       "h": "Rivian Shares Tumble After CFO Departure",
+       "pub": "GuruFocus.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-shares-tumble-cfo-departure-172126443.html",
+       "date": "2026-08-28"
       },
       {
-       "h": "Archer Aviation vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
+       "h": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-falls-6-cfo-departs-153238047.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "GE Vernova vs. Bloom Energy: Which AI-Power Bet Has More Upside Ahead?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-ge-aerospace-215001436.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Rivian\u2019s CFO is leaving the company",
-       "pub": "TechCrunch",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-cfo-leaving-company-202310094.html",
-       "date": "2026-08-27"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-vs-bloom-energy-135000929.html",
+       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -14233,7 +14248,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 491,
+      "rk": 494,
       "up": 2
      },
      "awards": [
@@ -14264,6 +14279,12 @@
      ],
      "news": [
       {
+       "h": "3 Market-Beating Stocks for Long-Term Investors",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-long-124052804.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "What to Know About Curtiss-Wright EVP Disposing of $641,000 in Stock",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/know-curtiss-wright-evp-disposing-044349220.html",
@@ -14273,12 +14294,6 @@
        "h": "Curtiss-Wright (CW) Loses 17.3% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-loses-17-133502259.html",
-       "date": "2026-08-25"
-      },
-      {
-       "h": "3 High-Flying Stocks Worth Your Attention",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-flying-stocks-worth-085444038.html",
        "date": "2026-08-25"
       }
      ]
@@ -14321,6 +14336,12 @@
      "social": null,
      "news": [
       {
+       "h": "Fluor to wrap $5B Alabama plant construction",
+       "pub": "Construction Dive",
+       "link": "https://finance.yahoo.com/real-estate/articles/fluor-wrap-5b-alabama-plant-112709126.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "Is TPC Stock The Construction Sector's Next Big Takeover Target?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tpc-stock-construction-sectors-next-234832187.html",
@@ -14331,25 +14352,19 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/small-business/articles/bwxts-national-laboratory-role-expand-142000503.html",
        "date": "2026-08-25"
-      },
-      {
-       "h": "NuScale Power Falls 6% With Q2 Revenue Drop to $75,000 and a New $750M Share Sale",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-falls-6-q2-163346713.html",
-       "date": "2026-08-18"
       }
      ],
      "awards": [
       {
-       "amt": 14752575287.21,
-       "ag": "Department of Energy",
-       "desc": "MANAGEMENT AND OPERATION OF THE NAVAL NUCLEAR LABORATORY AND NAVAL NUCLEAR PROPULSION PROGRAM SUPPORT",
+       "amt": 14911941111.9,
+       "ag": "Department of Defense",
+       "desc": "NAVAL NUCLEAR LABORATORY",
        "date": "2018-07-12"
       },
       {
-       "amt": 14678900833.9,
-       "ag": "Department of Defense",
-       "desc": "NAVAL NUCLEAR LABORATORY",
+       "amt": 14748175287.21,
+       "ag": "Department of Energy",
+       "desc": "MANAGEMENT AND OPERATION OF THE NAVAL NUCLEAR LABORATORY AND NAVAL NUCLEAR PROPULSION PROGRAM SUPPORT",
        "date": "2018-07-12"
       },
       {
@@ -14526,7 +14541,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 778,
+      "up": 2
+     },
      "news": [
       {
        "h": "Constellation's New Power Deals Are Piling Up. Here's Why the Stock Isn't Reflecting It Yet.",
@@ -14612,8 +14632,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 380,
-      "up": 1
+      "rk": 383,
+      "up": 2
      },
      "news": [
       {
@@ -14848,6 +14868,12 @@
      "social": null,
      "news": [
       {
+       "h": "WYFI Stock Jumps 12% in 6 Months: Here's What You Should Know",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wyfi-stock-jumps-12-6-142100436.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "VST Stock Underperforms Industry in the Past 6 Months: Buy or Hold?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vst-stock-underperforms-industry-past-164300837.html",
@@ -14858,12 +14884,6 @@
        "pub": "Utility Dive",
        "link": "https://finance.yahoo.com/energy/articles/duke-energy-florida-asks-punt-103851579.html",
        "date": "2026-08-27"
-      },
-      {
-       "h": "CEG Stock Outperforms Industry in the Past Month: Buy, Hold or Sell",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-outperforms-industry-past-180000686.html",
-       "date": "2026-08-26"
       }
      ],
      "awards": [
@@ -14929,29 +14949,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 72,
-      "up": 50
+      "m": 3,
+      "m0": 8,
+      "rk": 131,
+      "up": 21
      },
      "news": [
+      {
+       "h": "Southern's Unit Wins Regulatory Approval for OpenAI Power Deal",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/ai/articles/southerns-unit-wins-regulatory-approval-154900023.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Southern (SO) Stock May Trade At A Discount After AI Power Deal Approval",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-may-trade-discount-102130032.html",
+       "date": "2026-08-28"
+      },
       {
        "h": "3 Time-Tested Dividend Stocks to Build Annual Income",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-time-tested-dividend-stocks-181555183.html",
        "date": "2026-08-27"
-      },
-      {
-       "h": "CEG Stock Outperforms Industry in the Past Month: Buy, Hold or Sell",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-outperforms-industry-past-180000686.html",
-       "date": "2026-08-26"
-      },
-      {
-       "h": "Utility Stocks Hit Record Lows vs. S&P 500: Why It\u2019s Time to Buy",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/utility-stocks-record-low-sp500-buying-opportunity-8237dd33?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-26"
       }
      ],
      "awards": [
@@ -15018,28 +15038,28 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 308,
+      "m0": 0,
+      "rk": 296,
       "up": 1
      },
      "news": [
+      {
+       "h": "NextEra Energy vs. AEP: Which Electric Power Stock Has More Upside?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aep-electric-164700566.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Cashing Out a Pension or Taking the Monthly Check? The Dividend Answer for a $610,000 Lump Sum",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/options/articles/cashing-pension-taking-monthly-check-134100359.html",
+       "date": "2026-08-28"
+      },
       {
        "h": "VST Stock Underperforms Industry in the Past 6 Months: Buy or Hold?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vst-stock-underperforms-industry-past-164300837.html",
        "date": "2026-08-27"
-      },
-      {
-       "h": "NextEra Outperforms Industry in a Year: Should You Buy the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-outperforms-industry-buy-stock-175500292.html",
-       "date": "2026-08-26"
-      },
-      {
-       "h": "OKLO's Aurora Reactor: New Design, Proven Nuclear Principles",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/energy/articles/oklos-aurora-reactor-design-proven-125400671.html",
-       "date": "2026-08-26"
       }
      ],
      "awards": [
@@ -15105,10 +15125,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 143,
-      "up": 7
+      "m": 2,
+      "m0": 3,
+      "rk": 163,
+      "up": 3
      },
      "news": [
       {
@@ -15252,6 +15272,12 @@
      "social": null,
      "news": [
       {
+       "h": "Why Is Entergy (ETR) Down 1.4% Since Last Earnings Report?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-entergy-etr-down-1-153013478.html",
+       "date": "2026-08-28"
+      },
+      {
        "h": "George Soros Is Betting Big on Utility Stocks as AI Power Demand Surges",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/george-soros-betting-big-utility-184735423.html",
@@ -15262,12 +15288,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/xels-strategic-capital-investments-drive-164500359.html",
        "date": "2026-08-26"
-      },
-      {
-       "h": "Here's Why You Should Hold ICFI Stock in Your Portfolio Now",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-icfi-stock-163700871.html",
-       "date": "2026-08-24"
       }
      ],
      "awards": [
@@ -15335,8 +15355,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 614,
+      "m0": 1,
+      "rk": 601,
       "up": 2
      },
      "news": [
@@ -15454,12 +15474,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 543,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "The Smartest AI Growth ETF to Buy With $1,000",
@@ -17531,7 +17546,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-27",
+ "social_asof": "2026-08-28",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17811,285 +17826,285 @@
  ],
  "news": [
   {
-   "tk": "PLTR",
-   "h": "Twilio, Palantir Technologies, Zoom, PagerDuty, and nCino Shares Are Soaring, What You Need To Know",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/twilio-palantir-technologies-zoom-pagerduty-051307238.html",
+   "tk": "NVDA",
+   "h": "Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-breaks-ranks-chip-stocks-174824369.html",
    "date": "2026-08-28"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Dow sell-side Futures Rise With Fed Chief Warsh Due; Nvidia, These 7 Stocks Are In Buy Zones",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-warsh-speech-nvidia-jumps-software-sector-on-fire/?src=A00220&yptr=yahoo",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "CW",
-   "h": "What to Know About Curtiss-Wright EVP Disposing of $641,000 in Stock",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/know-curtiss-wright-evp-disposing-044349220.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "ASTS",
-   "h": "ASTS Stock Takes Flight After 3-Day Skid As BlueBirds Deploy, New Zealand Gateway Opens",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/asts-stock-takes-flight-3-040640830.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/technology/ai/articles/vietnam-urges-qualcomm-samsung-deepen-035324366.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "UBER",
-   "h": "Jim Cramer recommends another beaten-down market giant",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-recommends-another-beaten-033300972.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Teases Tesla Vehicle 'Way Cooler Than a Minivan'\u2014Is the Robovan Finally Coming?",
-   "pub": "Benzinga",
-   "link": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musk-teases-tesla-vehicle-033111749.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla Stock Sits Nearly 30% Below Its High and Still Trades at 330 Times Earnings",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-sits-nearly-30-031101076.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "EH",
-   "h": "EHang (EH) Withdrew Its 2026 Revenue Guidance Amid Regulatory Delays. Can Overseas Growth Fill the Gap?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ehang-eh-withdrew-2026-revenue-023636071.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing lands $131 billion deal, but Americans should read the fine print",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-lands-131-billion-deal-023300753.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "IRDM",
-   "h": "RKLB Stock Heads For Third Weekly Loss After 7 Bruising Sessions: SpaceX Raises Red Flag Over Iridium Deal",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-heads-third-weekly-015136385.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "RKLB",
-   "h": "RKLB Stock Heads For Third Weekly Loss After 7 Bruising Sessions: SpaceX Raises Red Flag Over Iridium Deal",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-heads-third-weekly-015136385.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Corporate America Cut Big Checks to Trump. Now CEOs Fear Subpoenas Are Coming.",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/politics/elections/trump-corporate-donors-election-2026-572c1b28?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-nuscale-power-shed-combined-002500694.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "SMR",
-   "h": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-nuscale-power-shed-combined-002500694.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Super Micro Stock And 2 AI Infrastructure Names Trading Below Fair Value",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-2-ai-001730952.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber (UBER)\u2019s $966 Million Fine: A Temporary Headwind or Bigger Regulatory Threat?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/uber-uber-966-million-fine-001504395.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "FLR",
-   "h": "Is TPC Stock The Construction Sector's Next Big Takeover Target?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tpc-stock-construction-sectors-next-234832187.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "J",
-   "h": "Is TPC Stock The Construction Sector's Next Big Takeover Target?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tpc-stock-construction-sectors-next-234832187.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "PLTR",
-   "h": "3 Software Stocks Recently Raising Guidance",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-software-stocks-recently-raising-234200412.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/optimus-just-entered-production-fremont-232500834.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "QCOM",
-   "h": "What Does Applied Materials (AMAT) Gain From Its New Board Appointment?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-applied-materials-amat-gain-221344664.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "GEV",
-   "h": "RIVN Stock Slips After-Hours As CFO Exits For GE Vernova Amid R2 Ramp",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivn-stock-slips-hours-cfo-220943996.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Oklo's Meta Deal Calls For a 1.2-Gigawatt Reactor in Ohio. Here's When It's Slated to Come Online.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/oklos-meta-deal-calls-1-215500034.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "GEV",
-   "h": "Archer Aviation vs. GE Aerospace: Which Industrials Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-ge-aerospace-215001436.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing vs. Joby Aviation: Which Airplane Manufacturing Stock Promises High-Flying Profits?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-joby-aviation-airplane-212101870.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab CFO Sells Nearly 10,000 Shares Amid a Rising Stock Price",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-cfo-sells-nearly-212001338.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Stock: Bull vs. Bear",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-bull-vs-212000609.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Cathie Wood\u2019s ARK Just Dumped AMD Stock. What She\u2019s Buying Instead.",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/cathie-wood-ark-sells-amd-stock-476a7789?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-08-27"
   },
   {
    "tk": "NVDA",
-   "h": "Just how big of a problem area is China for Nvidia?",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/just-big-problem-area-china-205642327.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile vs. Firefly Aerospace: Which Outer Space Upstart Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-firefly-aerospace-205401056.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "FLY",
-   "h": "AST SpaceMobile vs. Firefly Aerospace: Which Outer Space Upstart Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-firefly-aerospace-205401056.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "FLY",
-   "h": "Archer Aviation vs. Firefly Aerospace: Which Aerospace Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-firefly-aerospace-202701766.html",
-   "date": "2026-08-27"
+   "h": "The Fed Just Admitted Inflation Is Still Stubborn and Still Sticky. Savers Should Be Worried.",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-admitted-inflation-still-174025989.html",
+   "date": "2026-08-28"
   },
   {
    "tk": "GEV",
-   "h": "Rivian\u2019s CFO is leaving the company",
-   "pub": "TechCrunch",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-cfo-leaving-company-202310094.html",
-   "date": "2026-08-27"
+   "h": "Rivian Shares Tumble After CFO Departure",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-shares-tumble-cfo-departure-172126443.html",
+   "date": "2026-08-28"
   },
   {
-   "tk": "BA",
-   "h": "Archer Aviation vs. Space Exploration Technologies: Which High Flying Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-space-exploration-195749003.html",
-   "date": "2026-08-27"
+   "tk": "PLTR",
+   "h": "Palantir\u2019s Pentagon AI surge comes with a question investors can\u2019t ignore",
+   "pub": "TheStreet",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-pentagon-ai-surge-comes-171700371.html",
+   "date": "2026-08-28"
   },
   {
-   "tk": "SMR",
-   "h": "NuScale Power Is Launching AI Tools for Nuclear Power. How to Play SMR Stock Here.",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nuscale-power-launching-ai-tools-195429893.html",
-   "date": "2026-08-27"
+   "tk": "PLTR",
+   "h": "NVIDIA (NVDA), Palantir Technologies (PLTR), and the AI Achilles\u2019 Heel: Steve Eisman\u2019s Concentration Warning Explained",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "RTX",
+   "h": "Is RTX (RTX) Undervalued As Its $22.9 Billion Missile Contract Expands Backlog?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-undervalued-22-9-170813441.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "AVAV",
+   "h": "Is New Switchblade 600 Order And Mars Helicopter Work Altering The Investment Case For AeroVironment (AVAV)?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/switchblade-600-order-mars-helicopter-170751717.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "As Palantir Stock Jumps, An Income-Generating Trade Aims For A Big Annualized Return",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/research/options/as-palantir-stock-jumps-an-income-generating-trade-aims-for-a-big-annualized-return/?src=A00220&yptr=yahoo",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "NEE",
+   "h": "NextEra Energy vs. AEP: Which Electric Power Stock Has More Upside?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aep-electric-164700566.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Why Qualcomm (QCOM) Is Moving Beyond Smartphones",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-moving-beyond-164228903.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir's Rule of 40 Surge Signals Strong AI-Driven Performance",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantirs-rule-40-surge-signals-162900196.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla (TSLA) Recalls 3 Million China EVs Over Door Handles, Driver Monitoring",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-recalls-3-million-162300534.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-huge-catalyst-ahead-160004955.html",
+   "date": "2026-08-28"
   },
   {
    "tk": "UBER",
-   "h": "Uber's AI Usage Jumped 9.4x Without Sending Costs Higher",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ubers-ai-usage-jumped-9-193457577.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "VST",
-   "h": "Is Vistra (VST) Undervalued As Power Demand Expectations Stay In Focus?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/vistra-vst-undervalued-power-demand-191231844.html",
-   "date": "2026-08-27"
-  },
-  {
-   "tk": "ETR",
-   "h": "George Soros Is Betting Big on Utility Stocks as AI Power Demand Surges",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/george-soros-betting-big-utility-184735423.html",
-   "date": "2026-08-27"
+   "h": "Tesla Stock Has a Huge Catalyst Ahead. Here\u2019s How High It Could Go",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-huge-catalyst-ahead-160004955.html",
+   "date": "2026-08-28"
   },
   {
    "tk": "BA",
-   "h": "Boeing Has No Rival on a New $131 Billion F-15 Contract. Should Investors Chase BA Stock?",
+   "h": "What Is The Real Risk Still Haunting JOBY Stock?",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/real-risk-still-haunting-joby-155844167.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "SO",
+   "h": "Southern's Unit Wins Regulatory Approval for OpenAI Power Deal",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/technology/ai/articles/southerns-unit-wins-regulatory-approval-154900023.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "ONDS",
+   "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
    "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-no-rival-131-billion-182010181.html",
-   "date": "2026-08-27"
+   "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "RCAT",
+   "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "UMAC",
+   "h": "Drone Stocks Drop While Broad Market Rises: Unusual Machines Sinks 9%, Ondas Falls 6%, Red Cat Slides 5%",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/drone-stocks-drop-while-broad-154115806.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "RTX",
+   "h": "Is TransDigm's Commercial Aftermarket Strength Driving Growth?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/transdigms-commercial-aftermarket-strength-driving-153600041.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "GEV",
+   "h": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-falls-6-cfo-departs-153238047.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Rivian Falls 6% as CFO Departs for GE Vernova; Lucid Slips, Tesla Holds Steady",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-falls-6-cfo-departs-153238047.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm (QCOM) Up 8.7% Since Last Earnings Report: Can It Continue?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-8-7-since-153029363.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "ETR",
+   "h": "Why Is Entergy (ETR) Down 1.4% Since Last Earnings Report?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-entergy-etr-down-1-153013478.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "LHX",
+   "h": "Why Is L3Harris (LHX) Down 3.7% Since Last Earnings Report?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-l3harris-lhx-down-3-153013634.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "NOC",
+   "h": "General Dynamics (GD) Down 0.6% Since Last Earnings Report: Can It Rebound?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-gd-down-0-153012962.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX (SPCX) is Hiring for Natural Gas Trading to Back Up Energy Needs",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/spacex-spcx-hiring-natural-gas-151134562.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "LHX",
+   "h": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "NOC",
+   "h": "Can Viper Shield Expand L3Harris' Electronic Warfare Growth?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/viper-shield-expand-l3harris-electronic-151000190.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Cameco (TSX:CCO) Tests Nuclear Growth Hopes On A Fair Value Gap",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-tsx-cco-tests-nuclear-150904536.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-ran-150708131.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "SMR",
+   "h": "Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/bloom-energy-vs-nuscale-power-150301085.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "TDY",
+   "h": "Will Strength in Dedrone Platform Continue to Drive AXON's Growth?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/strength-dedrone-platform-continue-drive-150200158.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Tobii AB (TBIIF) (Q2 2026) Earnings Call Highlights: Strategic Pivots and AutoSense Momentum ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tobii-ab-tbiif-q2-2026-150126561.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "KRKNF",
+   "h": "Kraken Robotics Inc (KRKNF) (Q2 2026) Earnings Call Highlights: Record Orders and Covelya ...",
+   "pub": "GuruFocus.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kraken-robotics-inc-krknf-q2-150114573.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing (BA) Engineers, Technical Workers Reject Contract Offer",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-engineers-technical-workers-144621684.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "DUK",
+   "h": "WYFI Stock Jumps 12% in 6 Months: Here's What You Should Know",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wyfi-stock-jumps-12-6-142100436.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "CMTL",
+   "h": "Should IDCC Stock Be in Your Portfolio After Solid Q2 Results?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/idcc-stock-portfolio-solid-q2-140700308.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Here's Why Rocket Lab Corporation (RKLB) Could be Great Choice for a Bottom Fisher",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rocket-lab-corporation-135502370.html",
+   "date": "2026-08-28"
+  },
+  {
+   "tk": "GEV",
+   "h": "GE Vernova vs. Bloom Energy: Which AI-Power Bet Has More Upside Ahead?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-vs-bloom-energy-135000929.html",
+   "date": "2026-08-28"
   }
  ],
- "prices_asof": "2026-08-28 06:01 UTC"
+ "prices_asof": "2026-08-28 17:52 UTC"
 }
