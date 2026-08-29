@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 729,
-      "up": 0
+      "m0": 5,
+      "rk": 649,
+      "up": 2
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 722,
+      "up": 12
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 436,
-      "m0": 1682,
-      "rk": 2,
-      "up": 3474
+      "m": 324,
+      "m0": 690,
+      "rk": 1,
+      "up": 943
      },
      "thesis": {
       "bull": [
@@ -1132,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "6 things investors need to watch in the week ahead",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "If a Bear Market Is Coming, History Says the Smartest Investors Are All Making This 1 Move Right Now",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-103200888.html",
+       "h": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
        "date": "2026-08-29"
       },
       {
-       "h": "If a Bear Market Is Coming, History Has Good News for Investors",
+       "h": "AI lobbying gains new foothold with Nvidia PAC ahead of midterm elections",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/ai-lobbying-gains-foothold-nvidia-140622855.html",
+       "date": "2026-08-28"
+      },
+      {
+       "h": "Breakfast News: To Buy Nvidia or Not to Buy",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-good-102000573.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-buy-nvidia-not-115000037.html",
        "date": "2026-08-29"
       }
      ]
@@ -1366,16 +1371,16 @@
        "date": "2023-08-15"
       },
       {
+       "amt": 27791700.98,
+       "ag": "Department of Defense",
+       "desc": "PROCUREMENT OF SPARE DETECTOR COOLER BENCH (DCB)",
+       "date": "2023-08-15"
+      },
+      {
        "amt": 21179727.02,
        "ag": "Department of Defense",
        "desc": "M-LIDS TO 16",
        "date": "2025-07-25"
-      },
-      {
-       "amt": 10104122.46,
-       "ag": "Department of Defense",
-       "desc": "EARLY ENTRY DISTRIBUTION SYSTEM (E2FDS) - ORDER AND FUND TWO 5-MILE SETS",
-       "date": "2024-10-18"
       }
      ]
     },
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 40,
-      "m0": 76,
-      "rk": 16,
-      "up": 128
+      "m": 14,
+      "m0": 100,
+      "rk": 35,
+      "up": 27
      },
      "thesis": {
       "bull": [
@@ -1853,7 +1858,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 794,
+      "up": 2
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2319,9 +2329,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 272,
-      "up": 332
+      "m0": 1,
+      "rk": 249,
+      "up": 610
      },
      "streetNotes": [
       {
@@ -2378,7 +2388,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8487358060.67,
+       "amt": 8485334619.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2477,8 +2487,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 379,
-      "up": 2
+      "rk": 356,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2827,8 +2837,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 784,
-      "up": 4
+      "rk": 699,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3142,10 +3152,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 94,
-      "up": 8
+      "m": 2,
+      "m0": 5,
+      "rk": 172,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4034,8 +4044,8 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 4,
-      "rk": 108,
+      "m0": 7,
+      "rk": 81,
       "up": 7
      },
      "thesis": {
@@ -4383,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 173,
-      "up": 334
+      "m": 3,
+      "m0": 3,
+      "rk": 115,
+      "up": 616
      },
      "news": [
       {
@@ -4716,10 +4726,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 183,
-      "up": 16
+      "m": 1,
+      "m0": 2,
+      "rk": 642,
+      "up": 2
      },
      "news": [
       {
@@ -5134,13 +5144,13 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319540724.83,
+       "amt": 8319609066.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6946330984.74,
+       "amt": 6946586577.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5859,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 24,
-      "rk": 32,
-      "up": 30
+      "m": 25,
+      "m0": 33,
+      "rk": 22,
+      "up": 107
      },
      "news": [
       {
@@ -5947,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 99,
-      "up": 36
+      "m": 1,
+      "m0": 5,
+      "rk": 414,
+      "up": 33
      },
      "news": [
       {
@@ -6037,7 +6047,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 430,
+      "rk": 404,
       "up": 1
      },
      "news": [
@@ -6267,10 +6277,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 188,
-      "up": 21
+      "m": 1,
+      "m0": 4,
+      "rk": 695,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -6502,7 +6512,7 @@
        "date": "2025-06-18"
       },
       {
-       "amt": 1564373.95,
+       "amt": 1564242.74,
        "ag": "Department of Transportation",
        "desc": "SURVEILLANCE SYSTEMS & AGENCY SUPPORT PROGRAMS RIO SUPPORT",
        "date": "2023-12-07"
@@ -6817,8 +6827,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 768,
-      "up": 4
+      "rk": 681,
+      "up": 5
      },
      "news": [
       {
@@ -7187,7 +7197,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 354,
+      "up": 2
+     },
      "news": [
       {
        "h": "Gorilla Sinks 11% Despite Guiding 2027 Revenue Up to 29% Above Consensus, Evolv Technologies and Ambarella Tick Up",
@@ -7426,7 +7441,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 726,
+      "up": 6
+     },
      "news": [
       {
        "h": "Symbotic's CTO Sells Nearly 4,000 Shares Amid a Declining Stock Price",
@@ -7752,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 25,
-      "rk": 38,
-      "up": 33
+      "m": 11,
+      "m0": 36,
+      "rk": 39,
+      "up": 25
      },
      "news": [
       {
@@ -8261,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 16,
-      "rk": 18,
-      "up": 528
+      "m": 26,
+      "m0": 20,
+      "rk": 20,
+      "up": 410
      },
      "thesis": {
       "bull": [
@@ -8564,8 +8584,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 479,
-      "up": 2
+      "rk": 451,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8745,12 +8765,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 738,
-      "up": -8
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9161,10 +9176,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 779,
-      "up": -19
+      "rk": 165,
+      "up": 8
      },
      "streetNotes": [
       {
@@ -9263,7 +9278,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 745,
+      "rk": 664,
       "up": 0
      },
      "news": [
@@ -9351,7 +9366,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 794,
+      "rk": 704,
       "up": 4
      },
      "news": [
@@ -9433,6 +9448,12 @@
      "social": null,
      "news": [
       {
+       "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
+       "date": "2026-08-29"
+      },
+      {
        "h": "This Small-Cap Space Stock Could Be a Long-Term Moonshot",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/small-cap-space-stock-could-173000727.html",
@@ -9443,12 +9464,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spire-global-spir-q2-2026-211338232.html",
        "date": "2026-08-19"
-      },
-      {
-       "h": "Spire Global, Inc. Q2 2026 Earnings Call Summary",
-       "pub": "Moby",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spire-global-inc-q2-2026-123000807.html",
-       "date": "2026-08-13"
       }
      ],
      "awards": [
@@ -9515,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 28,
-      "rk": 17,
-      "up": 382
+      "m": 33,
+      "m0": 22,
+      "rk": 16,
+      "up": 66
      },
      "thesis": {
       "bull": [
@@ -10178,6 +10193,12 @@
       {
        "amt": 163880122.29,
        "ag": "Department of Defense",
+       "desc": "BASE FMS.",
+       "date": "2021-01-12"
+      },
+      {
+       "amt": 163880122.29,
+       "ag": "Department of Defense",
        "desc": "AWARD OF RTEP 7580 GTACS II VSAT III SATELLITE SYSTEMS AND SERVICES",
        "date": "2021-01-12"
       },
@@ -10186,12 +10207,6 @@
        "ag": "Department of Defense",
        "desc": "TASK ORDER 0007 ON CONTRACT W15P7T-13-D-0018 PROVIDES FOR THE SUSTAINMENT OF AN/TSC-198 VERY SMALL APERTURE TERMINAL (VSAT) SYSTEM TO INCLUDE SPARE PARTS, REPAIRS, UPGRADES, REFURBISHMENTS AND TRAINING.",
        "date": "2018-02-01"
-      },
-      {
-       "amt": 81688456.95,
-       "ag": "Department of Defense",
-       "desc": "VERY SMALL APERATURE TERMINAL (VSAT) SUSTAINMENT TO INCLUDE SPARE PARTS, REPAIRS, UPGRADES, REFURBISHMENTS AND TRAINING.",
-       "date": "2015-09-17"
       }
      ]
     },
@@ -10404,10 +10419,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 124,
-      "up": 10
+      "m": 2,
+      "m0": 3,
+      "rk": 171,
+      "up": 6
      },
      "news": [
       {
@@ -10560,8 +10575,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 215,
-      "up": 332
+      "rk": 196,
+      "up": 612
      },
      "streetNotes": [
       {
@@ -10578,6 +10593,12 @@
      ],
      "news": [
       {
+       "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
+       "date": "2026-08-29"
+      },
+      {
        "h": "Is RKLB Stock A Buy Or A High-Beta Trap?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-buy-high-beta-163922694.html",
@@ -10587,12 +10608,6 @@
        "h": "Does Boeing Stock Have a Margin Problem Hiding in Plain Sight?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/does-boeing-stock-margin-problem-145723188.html",
-       "date": "2026-08-27"
-      },
-      {
-       "h": "Lockheed Martin Europe CEO on Rheinmetall & Transatlantic Deterrence",
-       "pub": "Bloomberg",
-       "link": "https://finance.yahoo.com/video/lockheed-martin-europe-ceo-rheinmetall-102456677.html",
        "date": "2026-08-27"
       }
      ],
@@ -10669,9 +10684,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 272,
-      "up": 332
+      "m0": 1,
+      "rk": 249,
+      "up": 610
      },
      "streetNotes": [
       {
@@ -10728,7 +10743,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8487358060.67,
+       "amt": 8485334619.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10779,26 +10794,26 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 207,
+      "rk": 185,
       "up": 1
      },
      "news": [
       {
+       "h": "Boeing's Back in the Defense Business With a Big $131.2 Billion Order for New F-15 Fighters",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-back-defense-business-big-115000186.html",
+       "date": "2026-08-29"
+      },
+      {
+       "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
+       "date": "2026-08-29"
+      },
+      {
        "h": "Dual Fuel for U.S. Manufacturing",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/dual-fuel-for-u-s-manufacturing-4ceecb33?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "What Is The Real Risk Still Haunting JOBY Stock?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/real-risk-still-haunting-joby-155844167.html",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Boeing (BA) Engineers, Technical Workers Reject Contract Offer",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-engineers-technical-workers-144621684.html",
        "date": "2026-08-28"
       }
      ],
@@ -10865,10 +10880,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 173,
-      "up": 334
+      "m": 3,
+      "m0": 3,
+      "rk": 115,
+      "up": 616
      },
      "news": [
       {
@@ -11232,10 +11247,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 40,
-      "m0": 76,
-      "rk": 16,
-      "up": 128
+      "m": 14,
+      "m0": 100,
+      "rk": 35,
+      "up": 27
      },
      "news": [
       {
@@ -11320,12 +11335,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 549,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Space ETFs as Ukraine Dominates Russia in Orbital War",
@@ -12553,7 +12563,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 433,
+      "rk": 406,
       "up": 2
      },
      "news": [
@@ -12672,10 +12682,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 432,
-      "up": 4
+      "rk": 141,
+      "up": 5
      },
      "news": [
       {
@@ -12755,10 +12765,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 14,
-      "rk": 150,
-      "up": 10
+      "m": 6,
+      "m0": 9,
+      "rk": 69,
+      "up": 25
      },
      "news": [
       {
@@ -13349,10 +13359,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 6,
-      "rk": 109,
-      "up": 31
+      "m": 10,
+      "m0": 1,
+      "rk": 42,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -13589,7 +13599,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 717,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power May Sign a Deal That Will Change Everything for SMRs -- Here's Why",
@@ -13647,7 +13662,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 779,
+      "up": 2
+     },
      "news": [
       {
        "h": "The US Army Is Driving the Next Big Breakthrough in Nuclear Power",
@@ -14000,8 +14020,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 389,
-      "up": 2
+      "rk": 364,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -14079,7 +14099,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 792,
+      "up": 1
+     },
      "news": [
       {
        "h": "General Electric (GE) Names Claire McDonough As GE Vernova CFO",
@@ -14245,12 +14270,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 494,
-      "up": 2
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14544,7 +14564,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 778,
+      "rk": 694,
       "up": 2
      },
      "news": [
@@ -14632,8 +14652,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 383,
-      "up": 2
+      "rk": 358,
+      "up": 5
      },
      "news": [
       {
@@ -14823,10 +14843,10 @@
        "date": "2019-11-19"
       },
       {
-       "amt": 2837409.11,
-       "ag": "Department of Energy",
-       "desc": "IGF::OT::IGF PROVIDE NATURAL GAS SERVICE TO MORGANTOWN, WV.",
-       "date": "2014-02-27"
+       "amt": 5252286.44,
+       "ag": "Department of Justice",
+       "desc": "QUANTICO ELECTRIC",
+       "date": "2026-01-01"
       }
      ]
     },
@@ -14948,12 +14968,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 8,
-      "rk": 131,
-      "up": 21
-     },
+     "social": null,
      "news": [
       {
        "h": "Stock Market Today, Aug. 28: PG&E Falls 8% on Wildfire-Liability Uncertainty Ahead of Aug. 31 Deadline",
@@ -15036,12 +15051,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 296,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NextEra (NEE) Wants Dominion (D) But States Push Back",
@@ -15126,9 +15136,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 3,
-      "rk": 163,
-      "up": 3
+      "m0": 1,
+      "rk": 135,
+      "up": 4
      },
      "news": [
       {
@@ -15356,7 +15366,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 601,
+      "rk": 548,
       "up": 2
      },
      "news": [
@@ -17546,7 +17556,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-08-28",
+ "social_asof": "2026-08-29",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17827,9 +17837,51 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "If a Bear Market Is Coming, History Says the Smartest Investors Are All Making This 1 Move Right Now",
+   "h": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing's Back in the Defense Business With a Big $131.2 Billion Order for New F-15 Fighters",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-103200888.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-back-defense-business-big-115000186.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Breakfast News: To Buy Nvidia or Not to Buy",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-buy-nvidia-not-115000037.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Boeing's Back in the Defense Business With a Big $131.2 Billion Order for New F-15 Fighters",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-back-defense-business-big-115000186.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "BA",
+   "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "LMT",
+   "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "SPIR",
+   "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
    "date": "2026-08-29"
   },
   {
@@ -17837,20 +17889,6 @@
    "h": "Russian strike kills 27 near Kyiv as Moscow militarizes schools",
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/world/articles/russian-strike-kills-27-near-102419707.html",
-   "date": "2026-08-29"
-  },
-  {
-   "tk": "NVDA",
-   "h": "If a Bear Market Is Coming, History Has Good News for Investors",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-good-102000573.html",
-   "date": "2026-08-29"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Billionaire Stanley Druckenmiller Has Roughly 17% of His $5.2 Billion Duquesne Portfolio in Natera Stock. Is It Still a Buy After an 80% Run?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-roughly-17-101200878.html",
    "date": "2026-08-29"
   },
   {
@@ -17987,13 +18025,6 @@
    "date": "2026-08-28"
   },
   {
-   "tk": "NVDA",
-   "h": "6 things investors need to watch in the week ahead",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html",
-   "date": "2026-08-28"
-  },
-  {
    "tk": "PLTR",
    "h": "Dow sell-side Futures: Microsoft, Titans Mask Market Weakness. Here's What To Do.",
    "pub": "Investor's Business Daily",
@@ -18083,28 +18114,7 @@
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-falls-6-spacex-180203574.html",
    "date": "2026-08-28"
-  },
-  {
-   "tk": "IRDM",
-   "h": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5%",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-falls-6-spacex-180203574.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5%",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-falls-6-spacex-180203574.html",
-   "date": "2026-08-28"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5%",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-falls-6-spacex-180203574.html",
-   "date": "2026-08-28"
   }
  ],
- "prices_asof": "2026-08-29 10:56 UTC"
+ "prices_asof": "2026-08-29 11:56 UTC"
 }
