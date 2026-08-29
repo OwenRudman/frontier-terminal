@@ -1149,9 +1149,9 @@
        "date": "2026-08-28"
       },
       {
-       "h": "A Judge Just Called This Pentagon AI Ban Illegal. Why Palantir Could Rally",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/judge-just-called-pentagon-ai-162027148.html",
+       "h": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html",
        "date": "2026-08-29"
       }
      ]
@@ -5876,6 +5876,12 @@
      },
      "news": [
       {
+       "h": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/optimus-just-entered-production-fremont-183500372.html",
+       "date": "2026-08-29"
+      },
+      {
        "h": "Meta Continues to Trade Jobs for AI: Robots Are \u201cComing For Us All\u201d",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/meta-continues-trade-jobs-ai-153152757.html",
@@ -5885,12 +5891,6 @@
        "h": "Why Tesla's Optimus Robot Might Have a Hollywood \"Problem\"",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/technology/ai/articles/why-teslas-optimus-robot-might-145000645.html",
-       "date": "2026-08-29"
-      },
-      {
-       "h": "Stock Market Week Ahead: Chips, Cybersecurity And Jobs",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-chips-cybersecurity-and-jobs/?src=A00220&yptr=yahoo",
        "date": "2026-08-29"
       }
      ],
@@ -17837,9 +17837,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "A Judge Just Called This Pentagon AI Ban Illegal. Why Palantir Could Rally",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/judge-just-called-pentagon-ai-162027148.html",
+   "h": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Should Stronger Analyst Focus On Earnings Power In Astera Labs\u2019 AI Story (ALAB) Require Action From Investors?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html",
+   "date": "2026-08-29"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Optimus Just Entered Production at Fremont. Here's What Changes for Tesla Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/optimus-just-entered-production-fremont-183500372.html",
    "date": "2026-08-29"
   },
   {
@@ -17847,13 +17861,6 @@
    "h": "A Judge Just Called This Pentagon AI Ban Illegal. Why Palantir Could Rally",
    "pub": "24/7 Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/judge-just-called-pentagon-ai-162027148.html",
-   "date": "2026-08-29"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Rocket Lab Just Sold Its First Full Neutron Flight to Kepler Communications. Here's What That Means in Its Competition With SpaceX.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-sold-first-162000376.html",
    "date": "2026-08-29"
   },
   {
@@ -17917,13 +17924,6 @@
    "h": "Could a Chinese Blacklist Be Bullish for Rare-Earth Stocks?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/could-chinese-blacklist-bullish-rare-122000432.html",
-   "date": "2026-08-29"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Most Investors Want to Dump Tesla. I'm Not One of Them.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/most-investors-want-dump-tesla-120800042.html",
    "date": "2026-08-29"
   },
   {
@@ -18116,5 +18116,5 @@
    "date": "2026-08-28"
   }
  ],
- "prices_asof": "2026-08-29 16:29 UTC"
+ "prices_asof": "2026-08-29 20:42 UTC"
 }
