@@ -1149,10 +1149,10 @@
        "date": "2026-08-30"
       },
       {
-       "h": "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/newly-public-nuclear-ipo-already-202500169.html",
-       "date": "2026-08-30"
+       "h": "Dow sell-side Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
+       "date": "2026-08-31"
       }
      ]
     },
@@ -1778,10 +1778,10 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures Due Amid Bullish, Bearish Market Signals. What To Do Now.",
+       "h": "Dow sell-side Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-       "date": "2026-08-30"
+       "date": "2026-08-31"
       },
       {
        "h": "Palantir Technologies (PLTR) Courts Democrats Ahead Of 2026 Midterms Scrutiny",
@@ -5876,6 +5876,12 @@
      },
      "news": [
       {
+       "h": "Musk, Altman, Huang All Set to Speak at US-Hosted G20 Tech Meeting",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/articles/musk-altman-huang-set-speak-223126177.html",
+       "date": "2026-08-30"
+      },
+      {
        "h": "The Biggest Risk Facing Tesla Stock Right Now",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-facing-tesla-stock-193400146.html",
@@ -5885,12 +5891,6 @@
        "h": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
        "pub": "TechCrunch",
        "link": "https://finance.yahoo.com/energy/articles/musk-faster-path-more-gas-165425015.html",
-       "date": "2026-08-30"
-      },
-      {
-       "h": "Tesla's 500-Semi Einride Order Finally Gets a Timeline: '75 Approximately' This Year, CEO Says",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/teslas-500-semi-einride-order-151529733.html",
        "date": "2026-08-30"
       }
      ],
@@ -7112,6 +7112,12 @@
      "social": null,
      "news": [
       {
+       "h": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/schd-nearly-30-yield-back-222525996.html",
+       "date": "2026-08-30"
+      },
+      {
        "h": "Why Qualcomm (QCOM) Is Moving Beyond Smartphones",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-moving-beyond-164228903.html",
@@ -7121,12 +7127,6 @@
        "h": "Qualcomm (QCOM) Up 8.7% Since Last Earnings Report: Can It Continue?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-8-7-since-153029363.html",
-       "date": "2026-08-28"
-      },
-      {
-       "h": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-ran-150708131.html",
        "date": "2026-08-28"
       }
      ],
@@ -8492,6 +8492,12 @@
      ],
      "news": [
       {
+       "h": "A Rocket Lab President Sells Over 15,000 Shares After a 54% One-Year Return",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-president-sells-over-212001919.html",
+       "date": "2026-08-30"
+      },
+      {
        "h": "Rocket Lab COO Frank Klein Sells 35,558 Shares for $2.4 Million",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-coo-frank-klein-112001700.html",
@@ -8501,12 +8507,6 @@
        "h": "Rocket Lab Just Sold Its First Full Neutron Flight to Kepler Communications. Here's What That Means in Its Competition With SpaceX.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-just-sold-first-162000376.html",
-       "date": "2026-08-29"
-      },
-      {
-       "h": "MarketBeat Week in Review \u2013 08/24 - 08/28",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-24-110000738.html",
        "date": "2026-08-29"
       }
      ],
@@ -11249,10 +11249,10 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures Due Amid Bullish, Bearish Market Signals. What To Do Now.",
+       "h": "Dow sell-side Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
-       "date": "2026-08-30"
+       "date": "2026-08-31"
       },
       {
        "h": "Palantir Technologies (PLTR) Courts Democrats Ahead Of 2026 Midterms Scrutiny",
@@ -17842,16 +17842,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/newly-public-nuclear-ipo-already-202500169.html",
-   "date": "2026-08-30"
+   "h": "Dow sell-side Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
+   "date": "2026-08-31"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Dow sell-side Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
+   "date": "2026-08-31"
   },
   {
    "tk": "NVDA",
-   "h": "Viking Therapeutics Stock Is Down 66% From Its Peak. Here's What Comes Next.",
+   "h": "According to BlackRock, Bitcoin Is Still a Great Portfolio Diversifier. So How Much Bitcoin Should You Be Holding in Your Portfolio?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-stock-down-66-200500057.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/according-blackrock-bitcoin-still-great-235000591.html",
+   "date": "2026-08-30"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Musk, Altman, Huang All Set to Speak at US-Hosted G20 Tech Meeting",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/articles/musk-altman-huang-set-speak-223126177.html",
+   "date": "2026-08-30"
+  },
+  {
+   "tk": "QCOM",
+   "h": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/schd-nearly-30-yield-back-222525996.html",
+   "date": "2026-08-30"
+  },
+  {
+   "tk": "RKLB",
+   "h": "A Rocket Lab President Sells Over 15,000 Shares After a 54% One-Year Return",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-president-sells-over-212001919.html",
    "date": "2026-08-30"
   },
   {
@@ -17922,20 +17950,6 @@
    "h": "Should Entergy\u2019s Earnings Beat Yet Lower EPS YoY Prompt Portfolio Changes From Entergy (ETR) Investors?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-earnings-beat-yet-lower-150717626.html",
-   "date": "2026-08-30"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Prediction: This Is What a $5,000 Investment in SpaceX Will Be Worth by 2030",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-5-000-investment-spacex-142500856.html",
-   "date": "2026-08-30"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Dow sell-side Futures Due Amid Bullish, Bearish Market Signals. What To Do Now.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo",
    "date": "2026-08-30"
   },
   {
@@ -18105,21 +18119,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/could-chinese-blacklist-bullish-rare-122000432.html",
    "date": "2026-08-29"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing's Back in the Defense Business With a Big $131.2 Billion Order for New F-15 Fighters",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-back-defense-business-big-115000186.html",
-   "date": "2026-08-29"
-  },
-  {
-   "tk": "LMT",
-   "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/defense-aerospace-stock-leaders-2026-sifco-ducommun-ati-spire-astronics-space-contractors-lmt-ba-rtx/?src=A00220&yptr=yahoo",
-   "date": "2026-08-29"
   }
  ],
- "prices_asof": "2026-08-30 20:48 UTC"
+ "prices_asof": "2026-08-31 00:18 UTC"
 }
