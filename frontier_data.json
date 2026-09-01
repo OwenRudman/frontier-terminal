@@ -1149,9 +1149,9 @@
        "date": "2026-08-31"
       },
       {
-       "h": "Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Stock Still a Buy?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-slid-5-post-103500903.html",
+       "h": "Nvidia\u2019s (NVDA) Record Quarter Comes With A New Kind Of Bet",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-record-quarter-comes-111205824.html",
        "date": "2026-09-01"
       }
      ]
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-now-nvidia-105430354.html",
+       "date": "2026-09-01"
+      },
+      {
        "h": "Prediction: This Will Be Palantir's Stock Price in a Year (Hint: It Implies a Big Move)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-hint-093200881.html",
@@ -1787,12 +1793,6 @@
        "h": "Palantir (PLTR) Stock May Be 2% Undervalued As AI Data Ownership Debate Grows",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-2-061500458.html",
-       "date": "2026-09-01"
-      },
-      {
-       "h": "5-star Analyst Doubles Down On Palantir Stock After Event",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-doubles-down-024030025.html",
        "date": "2026-09-01"
       }
      ],
@@ -5882,15 +5882,15 @@
        "date": "2026-08-31"
       },
       {
-       "h": "Elon Musk's Tesla vs. Jamie Dimon's JPMorgan Chase: Which Stock Has Performed Better Over the Past 5 Years?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-vs-jamie-092000693.html",
+       "h": "Market Chatter: Tesla's Internal Engineering Platforms May be Accessed by Court-Appointed Expert in Australia Class Action Lawsuit",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-apos-internal-110513521.html",
        "date": "2026-09-01"
       },
       {
-       "h": "Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",
+       "h": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
        "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-084533888.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-now-nvidia-105430354.html",
        "date": "2026-09-01"
       }
      ],
@@ -11249,6 +11249,12 @@
      },
      "news": [
       {
+       "h": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-now-nvidia-105430354.html",
+       "date": "2026-09-01"
+      },
+      {
        "h": "Prediction: This Will Be Palantir's Stock Price in a Year (Hint: It Implies a Big Move)",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-hint-093200881.html",
@@ -11258,12 +11264,6 @@
        "h": "Palantir (PLTR) Stock May Be 2% Undervalued As AI Data Ownership Debate Grows",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-may-2-061500458.html",
-       "date": "2026-09-01"
-      },
-      {
-       "h": "5-star Analyst Doubles Down On Palantir Stock After Event",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-doubles-down-024030025.html",
        "date": "2026-09-01"
       }
      ],
@@ -15302,6 +15302,12 @@
      "social": null,
      "news": [
       {
+       "h": "ONE Nuclear secures Louisiana site for 2.88GW Project Cayman in US",
+       "pub": "Energy Monitor",
+       "link": "https://finance.yahoo.com/energy/articles/one-nuclear-secures-louisiana-2-111812729.html",
+       "date": "2026-09-01"
+      },
+      {
        "h": "Should Entergy\u2019s Earnings Beat Yet Lower EPS YoY Prompt Portfolio Changes From Entergy (ETR) Investors?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-earnings-beat-yet-lower-150717626.html",
@@ -15311,12 +15317,6 @@
        "h": "Entergy (ETR) Stock May Trade At A 29% Premium As Dividend Growth Drives Value",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-stock-may-trade-070621224.html",
-       "date": "2026-08-30"
-      },
-      {
-       "h": "Entergy (ETR) Beat Estimates And Reaffirmed Guidance, Is The Stock Still Cheap?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-beat-estimates-reaffirmed-010708095.html",
        "date": "2026-08-30"
       }
      ],
@@ -17866,17 +17866,52 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Stock Still a Buy?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-slid-5-post-103500903.html",
+   "tk": "ETR",
+   "h": "ONE Nuclear secures Louisiana site for 2.88GW Project Cayman in US",
+   "pub": "Energy Monitor",
+   "link": "https://finance.yahoo.com/energy/articles/one-nuclear-secures-louisiana-2-111812729.html",
    "date": "2026-09-01"
   },
   {
    "tk": "NVDA",
-   "h": "This Brilliant Dividend ETF Can Build Passive Income While You Sleep. Here's How.",
+   "h": "Nvidia\u2019s (NVDA) Record Quarter Comes With A New Kind Of Bet",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-record-quarter-comes-111205824.html",
+   "date": "2026-09-01"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Bill Gates Warns That AI Will Cause \"Many Jobs to Disappear Forever.\" Is He Right?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/brilliant-dividend-etf-build-passive-102000246.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/bill-gates-warns-ai-cause-111100325.html",
+   "date": "2026-09-01"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Market Chatter: Tesla's Internal Engineering Platforms May be Accessed by Court-Appointed Expert in Australia Class Action Lawsuit",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-apos-internal-110513521.html",
+   "date": "2026-09-01"
+  },
+  {
+   "tk": "PLTR",
+   "h": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-now-nvidia-105430354.html",
+   "date": "2026-09-01"
+  },
+  {
+   "tk": "TSLA",
+   "h": "What Is Cathie Wood Buying Now? Nvidia, SpaceX And Crypto Stocks Led ARK\u2019s August Trades \u2013 While Cutting These Growth Stocks",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buying-now-nvidia-105430354.html",
+   "date": "2026-09-01"
+  },
+  {
+   "tk": "TSLA",
+   "h": "BYD\u2019s Domestic Sales Plunge. China\u2019s Car Market Continues to Struggle.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/byd-stock-china-august-ev-sales-li-xpeng-nio-21cea150?siteid=yhoof2&yptr=yahoo",
    "date": "2026-09-01"
   },
   {
@@ -17891,13 +17926,6 @@
    "h": "Prediction: This Will Be Palantir's Stock Price in a Year (Hint: It Implies a Big Move)",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantirs-stock-price-hint-093200881.html",
-   "date": "2026-09-01"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's Tesla vs. Jamie Dimon's JPMorgan Chase: Which Stock Has Performed Better Over the Past 5 Years?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-vs-jamie-092000693.html",
    "date": "2026-09-01"
   },
   {
@@ -17926,13 +17954,6 @@
    "h": "PL Stock In Focus After SpaceX Transporter-18 Rideshare Launch Update: Retail Lauds Planet Labs' 'Consistent Demand' Ahead Of Earnings",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/pl-stock-focus-spacex-transporter-085848555.html",
-   "date": "2026-09-01"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Nasdaq, Dow, S&P 500 Futures Begin September On Weak Footing: Why NVDA, AAPL, TSLA, PANW, DELL, SLS, HUT Are In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-084533888.html",
    "date": "2026-09-01"
   },
   {
@@ -17989,13 +18010,6 @@
    "h": "Why Are XOM, CVX, GEV Stocks Rising Overnight?",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/energy/articles/why-xom-cvx-gev-stocks-070327062.html",
-   "date": "2026-09-01"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Ather Energy\u2019s 130% Stock Surge Leaves Tesla and BYD Behind in 2026",
-   "pub": "Bloomberg",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ather-energy-130-stock-surge-065116645.html",
    "date": "2026-09-01"
   },
   {
@@ -18069,13 +18083,6 @@
    "date": "2026-09-01"
   },
   {
-   "tk": "PLTR",
-   "h": "Why Analysts Are Bullish on Palantir Stock?",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-bullish-palantir-stock-020639623.html",
-   "date": "2026-09-01"
-  },
-  {
    "tk": "CEG",
    "h": "Vistra Stock Is Down, But Is This Power Producer's Dip An Opportunity?",
    "pub": "Trefis",
@@ -18137,14 +18144,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-ge-stock-011409488.html",
    "date": "2026-09-01"
-  },
-  {
-   "tk": "RTX",
-   "h": "What History Says About Buying GE Stock After a Pullback",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-ge-stock-011409488.html",
-   "date": "2026-09-01"
   }
  ],
- "prices_asof": "2026-09-01 10:44 UTC"
+ "prices_asof": "2026-09-01 11:23 UTC"
 }
