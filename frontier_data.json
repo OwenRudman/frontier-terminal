@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 79,
-      "up": 133
+      "m": 1,
+      "m0": 6,
+      "rk": 644,
+      "up": 0
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 623,
-      "up": 4
+      "m0": 1,
+      "rk": 708,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 73,
-      "m0": 57,
-      "rk": 5,
-      "up": 610
+      "m": 87,
+      "m0": 77,
+      "rk": 6,
+      "up": 2869
      },
      "thesis": {
       "bull": [
@@ -1137,15 +1137,15 @@
      },
      "news": [
       {
-       "h": "Two deals, one Nvidia strategy: What's behind the chip giant's recent partnerships",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/two-deals-one-nvidia-strategy-193213308.html",
-       "date": "2026-09-01"
+       "h": "Nvidia's next act is bigger than selling AI chips: Chart of the Day",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html",
+       "date": "2026-09-02"
       },
       {
-       "h": "Stocks slip as 10-year Treasury yield hits highest level since January 2025: AlphaCheck",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/stocks-slip-as-10-year-treasury-yield-hits-highest-level-since-january-2025-alphacheck-134150677.html",
+       "h": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html",
        "date": "2026-09-01"
       },
       {
@@ -1234,7 +1234,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 408,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 8,
-      "rk": 24,
-      "up": 30
+      "m": 20,
+      "m0": 19,
+      "rk": 33,
+      "up": 77
      },
      "thesis": {
       "bull": [
@@ -1860,9 +1865,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 661,
-      "up": 1
+      "m0": 1,
+      "rk": 764,
+      "up": 2
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
@@ -2039,7 +2044,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 350,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2259,7 +2269,7 @@
      ],
      "awards": [
       {
-       "amt": 362500192.6,
+       "amt": 363224829.6,
        "ag": "General Services Administration",
        "desc": "COSMIC AES SBIR III CONTRACT 47QFCA20C0019. THIS CONTRACT IS FOR OTHER FUNCTIONS.",
        "date": "2020-06-11"
@@ -2327,12 +2337,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 245,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2356,6 +2361,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "1 Large-Cap Stock with Exciting Potential and 2 We Find Risky",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-exciting-082826324.html",
+       "date": "2026-09-02"
+      },
+      {
        "h": "The Zacks Analyst Blog Highlights Lockheed Martin, RTX, Northrop Grumman, ITA, PPA and XAR",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lockheed-131100072.html",
@@ -2366,12 +2377,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-ge-stock-011409488.html",
        "date": "2026-09-01"
-      },
-      {
-       "h": "Kratos MUX TACAIR Win With Northrop Grumman Could Be A Game Changer For Northrop (NOC)",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-mux-tacair-win-northrop-210626947.html",
-       "date": "2026-08-31"
       }
      ],
      "awards": [
@@ -2487,7 +2492,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 315,
+      "rk": 362,
       "up": 1
      },
      "thesis": {
@@ -2837,7 +2842,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 605,
+      "rk": 688,
       "up": 3
      },
      "thesis": {
@@ -3582,8 +3587,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 629,
+      "m0": 1,
+      "rk": 723,
       "up": 1
      },
      "streetNotes": [
@@ -4043,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 3,
-      "rk": 140,
-      "up": 6
+      "m": 11,
+      "m0": 4,
+      "rk": 54,
+      "up": 21
      },
      "thesis": {
       "bull": [
@@ -4395,7 +4400,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
+      "rk": 422,
       "up": 12
      },
      "news": [
@@ -4727,9 +4732,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 557,
-      "up": 120
+      "m0": 1,
+      "rk": 637,
+      "up": 1
      },
      "news": [
       {
@@ -5150,7 +5155,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6946586577.74,
+       "amt": 6947651550.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5869,28 +5874,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 169,
-      "m0": 12,
-      "rk": 2,
-      "up": 295
+      "m": 25,
+      "m0": 170,
+      "rk": 27,
+      "up": 39
      },
      "news": [
+      {
+       "h": "Tesla set to hold Cybercab event in Austin, Texas",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/news/tesla-set-hold-cybercab-event-100346187.html",
+       "date": "2026-09-02"
+      },
+      {
+       "h": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ranking-magnificent-seven-most-least-092600192.html",
+       "date": "2026-09-02"
+      },
       {
        "h": "Tesla Stopped Reporting Solar Numbers 10 Quarters Ago. Now the Solar Roof Is Gone, Too.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/tesla-stopped-reporting-solar-numbers-050101598.html",
-       "date": "2026-09-02"
-      },
-      {
-       "h": "Tesla Could Make Robotaxis 60x Bigger, Cathie Wood\u2019s ARK Says \u2014 But Gary Black Thinks Uber Will Win The Race",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-could-robotaxis-60x-bigger-033712227.html",
-       "date": "2026-09-02"
-      },
-      {
-       "h": "Elon Musk Says SpaceX Can Accelerate Natural Gas Turbines by 18 Months: 'Profound Game-Changer' for AI Power",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-spacex-accelerate-013108422.html",
        "date": "2026-09-02"
       }
      ],
@@ -5957,10 +5962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 127,
-      "up": 5
+      "m": 12,
+      "m0": 3,
+      "rk": 50,
+      "up": 16
      },
      "news": [
       {
@@ -6047,8 +6052,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 348,
-      "up": 1
+      "rk": 399,
+      "up": 2
      },
      "news": [
       {
@@ -6278,9 +6283,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 600,
-      "up": 3
+      "m0": 1,
+      "rk": 683,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -7110,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 0,
-      "rk": 54,
-      "up": 93
+      "m": 1,
+      "m0": 9,
+      "rk": 278,
+      "up": -1
      },
      "news": [
       {
@@ -7762,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 13,
-      "rk": 21,
-      "up": 31
+      "m": 9,
+      "m0": 21,
+      "rk": 64,
+      "up": 21
      },
      "news": [
       {
@@ -8271,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 9,
-      "rk": 45,
-      "up": 33
+      "m": 31,
+      "m0": 12,
+      "rk": 25,
+      "up": 174
      },
      "thesis": {
       "bull": [
@@ -8572,10 +8577,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 110,
-      "up": 5
+      "m": 1,
+      "m0": 4,
+      "rk": 438,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -8755,7 +8760,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 655,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -9018,9 +9028,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 686,
-      "up": 1
+      "m0": 1,
+      "rk": 790,
+      "up": 3
      },
      "news": [
       {
@@ -9171,10 +9181,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 596,
-      "up": 7
+      "rk": 61,
+      "up": 22
      },
      "streetNotes": [
       {
@@ -9353,7 +9363,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 696,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic (SATL) Q2 2026 Earnings Call Transcript",
@@ -9515,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
+      "m": 84,
       "m0": 14,
-      "rk": 37,
-      "up": 35
+      "rk": 8,
+      "up": 939
      },
      "thesis": {
       "bull": [
@@ -10297,8 +10312,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 601,
+      "m0": 1,
+      "rk": 684,
       "up": 1
      },
      "news": [
@@ -10409,10 +10424,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 141,
-      "up": 8
+      "m": 5,
+      "m0": 3,
+      "rk": 113,
+      "up": 11
      },
      "news": [
       {
@@ -10565,8 +10580,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 198,
-      "up": 1
+      "rk": 225,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10672,12 +10687,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 245,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10701,6 +10711,12 @@
      "take": "NOC is \"drone exposure without the drama.\" If your brother wants the theme inside a portfolio anchor that pays a dividend and won't crater on one bad headline, this is it. The trade-off is obvious: drones move maybe a few percent of revenue, so the upside is muted. A ballast position, not a thesis trade.",
      "news": [
       {
+       "h": "1 Large-Cap Stock with Exciting Potential and 2 We Find Risky",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-exciting-082826324.html",
+       "date": "2026-09-02"
+      },
+      {
        "h": "The Zacks Analyst Blog Highlights Lockheed Martin, RTX, Northrop Grumman, ITA, PPA and XAR",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lockheed-131100072.html",
@@ -10711,12 +10727,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-ge-stock-011409488.html",
        "date": "2026-09-01"
-      },
-      {
-       "h": "Kratos MUX TACAIR Win With Northrop Grumman Could Be A Game Changer For Northrop (NOC)",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-mux-tacair-win-northrop-210626947.html",
-       "date": "2026-08-31"
       }
      ],
      "awards": [
@@ -10784,8 +10794,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 196,
-      "up": 491
+      "rk": 220,
+      "up": 3
      },
      "news": [
       {
@@ -10872,7 +10882,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
+      "rk": 422,
       "up": 12
      },
      "news": [
@@ -11154,10 +11164,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 107,
-      "up": 5
+      "m": 1,
+      "m0": 4,
+      "rk": 420,
+      "up": 2
      },
      "news": [
       {
@@ -11242,10 +11252,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 8,
-      "rk": 24,
-      "up": 30
+      "m": 20,
+      "m0": 19,
+      "rk": 33,
+      "up": 77
      },
      "news": [
       {
@@ -11332,8 +11342,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 429,
+      "m0": 1,
+      "rk": 500,
       "up": 1
      },
      "news": [
@@ -12679,7 +12689,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 350,
+      "rk": 401,
       "up": 1
      },
      "news": [
@@ -12760,10 +12770,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 11,
-      "rk": 22,
-      "up": 354
+      "m": 9,
+      "m0": 19,
+      "rk": 60,
+      "up": 19
      },
      "news": [
       {
@@ -13033,12 +13043,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 558,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?",
@@ -13359,10 +13364,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 655,
-      "up": 2
+      "rk": 89,
+      "up": 55
      },
      "thesis": {
       "bull": [
@@ -13600,10 +13605,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 622,
-      "up": 2
+      "rk": 91,
+      "up": 22
      },
      "news": [
       {
@@ -14013,10 +14018,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 325,
-      "up": 3
+      "rk": 103,
+      "up": 11
      },
      "streetNotes": [
       {
@@ -14095,12 +14100,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 143,
-      "up": 137
+      "m": 2,
+      "m0": 3,
+      "rk": 210,
+      "up": 5
      },
      "news": [
+      {
+       "h": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/gas-turbine-prices-track-nearly-092000538.html",
+       "date": "2026-09-02"
+      },
       {
        "h": "Top 3 Nuclear Stocks To Watch In September 2026",
        "pub": "Simply Wall St.",
@@ -14111,12 +14122,6 @@
        "h": "How SpaceX\u2019s Speed and Ambition Are Threatening Legacy Defense and Telecom",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/spacex-new-amazon-elon-musk-disrupting-manufacturing-200ccb67?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-01"
-      },
-      {
-       "h": "Elon Musk Sees a Power Crisis Coming and Other Takeaways From His G-20 Speech",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/elon-musk-g20-speech-power-crisis-b7eb0b15?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-01"
       }
      ],
@@ -14267,9 +14272,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 381,
-      "up": 1
+      "m0": 1,
+      "rk": 445,
+      "up": 3
      },
      "awards": [
       {
@@ -14355,8 +14360,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 376,
+      "m0": 1,
+      "rk": 439,
       "up": 1
      },
      "news": [
@@ -14387,7 +14392,7 @@
        "date": "2018-07-12"
       },
       {
-       "amt": 14748175287.21,
+       "amt": 14753060287.21,
        "ag": "Department of Energy",
        "desc": "MANAGEMENT AND OPERATION OF THE NAVAL NUCLEAR LABORATORY AND NAVAL NUCLEAR PROPULSION PROGRAM SUPPORT",
        "date": "2018-07-12"
@@ -14568,9 +14573,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 595,
-      "up": 129
+      "m0": 1,
+      "rk": 680,
+      "up": 8
      },
      "news": [
       {
@@ -14655,10 +14660,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 1,
       "m0": 5,
-      "rk": 90,
-      "up": 8
+      "rk": 366,
+      "up": 3
      },
      "news": [
       {
@@ -14745,8 +14750,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 662,
-      "up": 3
+      "rk": 765,
+      "up": 2
      },
      "news": [
       {
@@ -14897,8 +14902,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 262,
+      "m0": 1,
+      "rk": 297,
       "up": 0
      },
      "news": [
@@ -14986,8 +14991,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 252,
-      "up": 5
+      "rk": 284,
+      "up": 1
      },
      "news": [
       {
@@ -15011,7 +15016,7 @@
      ],
      "awards": [
       {
-       "amt": 90644872.56,
+       "amt": 90686234.31,
        "ag": "Department of Defense",
        "desc": "200612!009621!97AS!SP0600!DEFENSE ENERGY SUPPORT CENTER   !SP060006C8250  !A!N! !N!             !      !20060922!20060922!006924989!006924989!006925341!N!GEORGIA POWER COMPANY         !241 RALPH MCGILL BLVD NE  !ATLANTA             !GA!30308!30844!073!13!FORT GORDON         !COLUMBIA              !GEORGIA   !+000004491000!N!N!000000000000!S112!ELECTRIC SERVICES                                 !S1 !SERVICES                            !000 !NOT DISCERNABLE               !221122!E! !3! ! ! ! ! !99990909!B! ! !A! !A!U!J!2!002!B!  !Z!N!Z! !  !Y!C!N! ! ! !A!A!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "2006-09-22"
@@ -15157,7 +15162,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 271,
+      "rk": 307,
       "up": 1
      },
      "news": [
@@ -15383,12 +15388,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 462,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Oklo Sinks 5% as PJM Pulls Its Meta-Backed Ohio Project, NuScale Power Barely Budges",
@@ -15446,12 +15446,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 435,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15512,7 +15507,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 417,
+      "rk": 485,
       "up": 0
      },
      "news": [
@@ -17586,7 +17581,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-01",
+ "social_asof": "2026-09-02",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17867,9 +17862,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "3 Words From Fed Chair Kevin Warsh That Are Sending Shockwaves Through Wall Street",
+   "h": "This Is the 1 Move Every Long-Term Investor Should Make Right Now, According to History",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/3-words-fed-chair-kevin-082600984.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-move-every-long-term-100500254.html",
+   "date": "2026-09-02"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla set to hold Cybercab event in Austin, Texas",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/news/tesla-set-hold-cybercab-event-100346187.html",
+   "date": "2026-09-02"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia's next act is bigger than selling AI chips: Chart of the Day",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/nvidias-next-act-is-bigger-than-selling-ai-chips-chart-of-the-day-100000072.html",
+   "date": "2026-09-02"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ranking-magnificent-seven-most-least-092600192.html",
+   "date": "2026-09-02"
+  },
+  {
+   "tk": "GEV",
+   "h": "Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/gas-turbine-prices-track-nearly-092000538.html",
+   "date": "2026-09-02"
+  },
+  {
+   "tk": "NOC",
+   "h": "1 Large-Cap Stock with Exciting Potential and 2 We Find Risky",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-exciting-082826324.html",
    "date": "2026-09-02"
   },
   {
@@ -18006,13 +18036,6 @@
    "date": "2026-09-02"
   },
   {
-   "tk": "TSLA",
-   "h": "Elon Musk Says SpaceX Can Accelerate Natural Gas Turbines by 18 Months: 'Profound Game-Changer' for AI Power",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/energy/articles/elon-musk-says-spacex-accelerate-013108422.html",
-   "date": "2026-09-02"
-  },
-  {
    "tk": "RKLB",
    "h": "RKLB Stock Slips After $700M NASA Snub: Cathie Wood Buys The Dip As Retail Blames Neutron Delays",
    "pub": "Stocktwits",
@@ -18025,13 +18048,6 @@
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
    "date": "2026-09-02"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Zuckerberg, Musk Press G20 Ministers on AI Data Center Power, Labor Needs",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-musk-press-g20-ministers-233922801.html",
-   "date": "2026-09-01"
   },
   {
    "tk": "NEE",
@@ -18123,28 +18139,7 @@
    "pub": "The Telegraph",
    "link": "https://finance.yahoo.com/news/palantir-boss-backs-zelensky-critic-204403693.html",
    "date": "2026-09-01"
-  },
-  {
-   "tk": "CW",
-   "h": "William Blair Says These Stocks Are Must-Own Picks",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/william-blair-says-stocks-must-202818420.html",
-   "date": "2026-09-01"
-  },
-  {
-   "tk": "MP",
-   "h": "William Blair Says These Stocks Are Must-Own Picks",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/william-blair-says-stocks-must-202818420.html",
-   "date": "2026-09-01"
-  },
-  {
-   "tk": "GEV",
-   "h": "How SpaceX\u2019s Speed and Ambition Are Threatening Legacy Defense and Telecom",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/spacex-new-amazon-elon-musk-disrupting-manufacturing-200ccb67?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-09-01"
   }
  ],
- "prices_asof": "2026-09-02 08:37 UTC"
+ "prices_asof": "2026-09-02 10:09 UTC"
 }
