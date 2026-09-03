@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 644,
+      "m0": 1,
+      "rk": 696,
       "up": 0
      },
      "news": [
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 708,
-      "up": 3
+      "rk": 170,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 87,
-      "m0": 77,
-      "rk": 6,
-      "up": 2869
+      "m": 267,
+      "m0": 85,
+      "rk": 2,
+      "up": 662
      },
      "thesis": {
       "bull": [
@@ -1137,9 +1137,15 @@
      },
      "news": [
       {
-       "h": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
+       "h": "How Nvidia is still making history",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/how-nvidia-is-still-making-history-100126626.html",
+       "date": "2026-09-03"
+      },
+      {
+       "h": "Dell's revenue guidance exceeded Wall Street forecasts and then some",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
+       "link": "https://finance.yahoo.com/video/dells-revenue-guidance-exceeded-wall-140000348.html",
        "date": "2026-09-02"
       },
       {
@@ -1147,12 +1153,6 @@
        "pub": "Yahoo Finance",
        "link": "https://finance.yahoo.com/technology/article/nvidia-didnt-like-wall-streets-estimates-so-it-tried-to-reset-them-122218541.html",
        "date": "2026-09-02"
-      },
-      {
-       "h": "If I Only Had $1,000 to Invest Right Now, This Is the ETF I'd Buy Without Any Hesitation",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/only-had-1-000-invest-083500272.html",
-       "date": "2026-09-03"
       }
      ]
     },
@@ -1236,8 +1236,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 408,
+      "m0": 1,
+      "rk": 421,
       "up": 2
      },
      "streetNotes": [
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 19,
-      "rk": 33,
-      "up": 77
+      "m": 52,
+      "m0": 20,
+      "rk": 13,
+      "up": 98
      },
      "thesis": {
       "bull": [
@@ -1863,12 +1863,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 764,
-      "up": 2
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2046,8 +2041,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 350,
+      "m0": 1,
+      "rk": 349,
       "up": 1
      },
      "thesis": {
@@ -2492,8 +2487,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 362,
-      "up": 1
+      "rk": 364,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2840,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 688,
-      "up": 3
+      "rk": 164,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -3588,7 +3583,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 723,
+      "rk": 777,
       "up": 1
      },
      "streetNotes": [
@@ -4048,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 4,
-      "rk": 54,
-      "up": 21
+      "m": 7,
+      "m0": 11,
+      "rk": 64,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -4397,12 +4392,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 422,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Rides on Commercial Engines Unit Strength: Will the Uptrend Continue?",
@@ -4733,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 637,
-      "up": 1
+      "rk": 685,
+      "up": 4
      },
      "news": [
       {
@@ -5155,7 +5145,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6947651550.74,
+       "amt": 6947801550.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5874,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 170,
-      "rk": 27,
-      "up": 39
+      "m": 38,
+      "m0": 24,
+      "rk": 17,
+      "up": 66
      },
      "news": [
       {
@@ -5887,15 +5877,15 @@
        "date": "2026-09-02"
       },
       {
-       "h": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-083835067.html",
+       "h": "France starts tests on Tesla's\u00a0self-driving tech",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/news/france-starts-tests-teslas-self-100809331.html",
        "date": "2026-09-03"
       },
       {
-       "h": "TSLA Stock Revs Up Slowly As Elon Musk Tells A \u2018Storm Of Cybercabs\u2019 Are Coming \u2014 Analyst Says \u2018Never Short A Great Company\u2019",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-revs-slowly-elon-071416674.html",
+       "h": "From $300,000 EVs to dancing bots: The El Segundo firm sliding into Tesla's slipstream",
+       "pub": "LA Times",
+       "link": "https://finance.yahoo.com/technology/ai/articles/300-000-evs-dancing-bots-100000497.html",
        "date": "2026-09-03"
       }
      ],
@@ -5962,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 3,
-      "rk": 50,
-      "up": 16
+      "m": 2,
+      "m0": 12,
+      "rk": 142,
+      "up": 3
      },
      "news": [
       {
@@ -5975,15 +5965,15 @@
        "date": "2026-08-31"
       },
       {
-       "h": "Uber and AI firm Wayve launch first self-driving robotaxis in London",
-       "pub": "PA Media: Money",
-       "link": "https://finance.yahoo.com/news/uber-ai-firm-wayve-launch-075433535.html",
+       "h": "Company News for Sep 3, 2026",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-3-2026-100400152.html",
        "date": "2026-09-03"
       },
       {
-       "h": "Uber to cut 3,300 jobs as it strips out management layers",
-       "pub": "Proactive",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-cut-3-300-jobs-014900413.html",
+       "h": "Uber plans 10% workforce reduction as revenue and profit rise",
+       "pub": "Just Auto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-plans-10-workforce-reduction-093705570.html",
        "date": "2026-09-03"
       }
      ],
@@ -6052,7 +6042,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 399,
+      "rk": 410,
       "up": 2
      },
      "news": [
@@ -6282,10 +6272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 683,
-      "up": 18
+      "rk": 163,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -7116,9 +7106,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 9,
-      "rk": 278,
-      "up": -1
+      "m0": 1,
+      "rk": 266,
+      "up": 0
      },
      "news": [
       {
@@ -7678,7 +7668,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 179,
+      "up": 4
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7767,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 21,
-      "rk": 64,
-      "up": 21
+      "m": 8,
+      "m0": 9,
+      "rk": 60,
+      "up": 18
      },
      "news": [
       {
@@ -8276,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 12,
-      "rk": 25,
-      "up": 174
+      "m": 34,
+      "m0": 31,
+      "rk": 21,
+      "up": 94
      },
      "thesis": {
       "bull": [
@@ -8578,9 +8573,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 438,
-      "up": 3
+      "m0": 1,
+      "rk": 449,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8762,9 +8757,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 655,
-      "up": 3
+      "m0": 1,
+      "rk": 708,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -8978,16 +8973,16 @@
        "date": "2021-06-21"
       },
       {
+       "amt": 15857020.0,
+       "ag": "Department of Defense",
+       "desc": "TACTICAL UNCREWED AIRCRAFT SYSTEMS (TUAS) LONG RANGE RECONNAISSANCE (LRR) PROGRAM",
+       "date": "2026-06-03"
+      },
+      {
        "amt": 10248703.0,
        "ag": "Department of Defense",
        "desc": "EXPERIMENT FOR LONG LIFE INNOVATIVE ENERGY",
        "date": "2019-12-23"
-      },
-      {
-       "amt": 7938607.6,
-       "ag": "National Aeronautics and Space Administration",
-       "desc": "ADVANCED PLANT HABITAT (APH) MISSION INTEGRATION AND OPERATIONS AND SUSTAINING ENGINEERING SERVICES FOR SPACE BIOLOGY TASK ORDER",
-       "date": "2018-03-14"
       }
      ]
     },
@@ -9026,12 +9021,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 790,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Automation Stocks With Revenue Growth Up To 30%",
@@ -9181,10 +9171,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 61,
-      "up": 22
+      "m": 12,
+      "m0": 9,
+      "rk": 45,
+      "up": 29
      },
      "streetNotes": [
       {
@@ -9365,9 +9355,9 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 696,
-      "up": 1
+      "m0": 1,
+      "rk": 747,
+      "up": 0
      },
      "news": [
       {
@@ -9530,10 +9520,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 84,
-      "m0": 14,
-      "rk": 8,
-      "up": 939
+      "m": 67,
+      "m0": 84,
+      "rk": 10,
+      "up": 155
      },
      "thesis": {
       "bull": [
@@ -9716,6 +9706,12 @@
      },
      "news": [
       {
+       "h": "AST Spacemobile Just Moved Its Commercial Launch Target to 2027. Is That Bad News for Its Stock?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-094800599.html",
+       "date": "2026-09-03"
+      },
+      {
        "h": "US Stock Futures Rangebound After S&P 500, Dow Snap Three-Day Losing Streak As Oil Steadies \u2014 MSFT, DELL, UBER, ASTS, AVGO In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rangebound-p-001250255.html",
@@ -9725,12 +9721,6 @@
        "h": "AST SpaceMobile Stock Soars on New Buy Call",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/ast-spacemobile-stock-buy-rating-price-146b0862?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-02"
-      },
-      {
-       "h": "Why Is AST SpaceMobile Stock Up 13% Today?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ast-spacemobile-stock-13-194411469.html",
        "date": "2026-09-02"
       }
      ]
@@ -10313,7 +10303,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 684,
+      "rk": 738,
       "up": 1
      },
      "news": [
@@ -10424,12 +10414,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 113,
-      "up": 11
+      "m": 1,
+      "m0": 5,
+      "rk": 796,
+      "up": 2
      },
      "news": [
+      {
+       "h": "Intuitive Machines Has 7 NASA Missions on the Manifest. Is the Stock Finally Worth Owning?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-7-nasa-missions-094500330.html",
+       "date": "2026-09-03"
+      },
       {
        "h": "Why Intuitive Machines (LUNR) Is Down 7.8% After Landing New IM 300 Spacecraft Contract - And What's Next",
        "pub": "Simply Wall St.",
@@ -10440,12 +10436,6 @@
        "h": "Intuitive Machines (LUNR) Could Be 36% Undervalued Following Its New IM 300 Contract",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-could-36-161337634.html",
-       "date": "2026-09-02"
-      },
-      {
-       "h": "Intuitive Machines (LUNR) Stock May Be Fully Priced Following New Space Contracts",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-may-052031741.html",
        "date": "2026-09-02"
       }
      ],
@@ -10580,8 +10570,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 225,
-      "up": 2
+      "rk": 200,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -10794,8 +10784,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 220,
-      "up": 3
+      "rk": 192,
+      "up": 1
      },
      "news": [
       {
@@ -10879,12 +10869,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 422,
-      "up": 12
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Rides on Commercial Engines Unit Strength: Will the Uptrend Continue?",
@@ -11165,8 +11150,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 420,
+      "m0": 1,
+      "rk": 429,
       "up": 2
      },
      "news": [
@@ -11252,10 +11237,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 19,
-      "rk": 33,
-      "up": 77
+      "m": 52,
+      "m0": 20,
+      "rk": 13,
+      "up": 98
      },
      "news": [
       {
@@ -11343,7 +11328,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 500,
+      "rk": 520,
       "up": 1
      },
      "news": [
@@ -12686,12 +12671,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 401,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Uranium Stocks To Watch In September 2026",
@@ -12770,10 +12750,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 19,
-      "rk": 60,
-      "up": 19
+      "m": 4,
+      "m0": 9,
+      "rk": 110,
+      "up": 3
      },
      "news": [
       {
@@ -13363,12 +13343,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 89,
-      "up": 55
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -13605,10 +13580,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 91,
-      "up": 22
+      "m": 4,
+      "m0": 6,
+      "rk": 109,
+      "up": 5
      },
      "news": [
       {
@@ -14018,10 +13993,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 103,
-      "up": 11
+      "m": 1,
+      "m0": 5,
+      "rk": 374,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -14101,9 +14076,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 3,
-      "rk": 210,
-      "up": 5
+      "m0": 2,
+      "rk": 175,
+      "up": 3
      },
      "news": [
       {
@@ -14273,7 +14248,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 445,
+      "rk": 458,
       "up": 3
      },
      "awards": [
@@ -14358,12 +14333,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 439,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Fluor (FLR) Stock Looks Cheap On Cash Flow But Recent Returns Impress",
@@ -14574,8 +14544,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 680,
-      "up": 8
+      "rk": 735,
+      "up": 2
      },
      "news": [
       {
@@ -14661,9 +14631,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 366,
-      "up": 3
+      "m0": 1,
+      "rk": 369,
+      "up": 1
      },
      "news": [
       {
@@ -14747,12 +14717,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 765,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra Won\u2019t Stop Declining in 2026: Why Does This Prominent Wall Street Firm Expect 120% Returns?",
@@ -14903,7 +14868,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 297,
+      "rk": 293,
       "up": 0
      },
      "news": [
@@ -14989,10 +14954,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 284,
-      "up": 1
+      "rk": 119,
+      "up": 9
      },
      "news": [
       {
@@ -15162,7 +15127,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 307,
+      "rk": 305,
       "up": 1
      },
      "news": [
@@ -15507,7 +15472,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
+      "rk": 502,
       "up": 0
      },
      "news": [
@@ -17581,7 +17546,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-02",
+ "social_asof": "2026-09-03",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17861,6 +17826,69 @@
  ],
  "news": [
   {
+   "tk": "TSLA",
+   "h": "France starts tests on Tesla's\u00a0self-driving tech",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/news/france-starts-tests-teslas-self-100809331.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "UBER",
+   "h": "Company News for Sep 3, 2026",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-3-2026-100400152.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "How Nvidia is still making history",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/how-nvidia-is-still-making-history-100126626.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Meta Platforms May Have Escaped the Worst of a Landmark Teen-Safety Lawsuit. But the Ramifications Could Be Much Worse for Snap.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-may-escaped-worst-100000400.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "From $300,000 EVs to dancing bots: The El Segundo firm sliding into Tesla's slipstream",
+   "pub": "LA Times",
+   "link": "https://finance.yahoo.com/technology/ai/articles/300-000-evs-dancing-bots-100000497.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "ASTS",
+   "h": "AST Spacemobile Just Moved Its Commercial Launch Target to 2027. Is That Bad News for Its Stock?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-just-moved-commercial-094800599.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Intuitive Machines Has 7 NASA Missions on the Manifest. Is the Stock Finally Worth Owning?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-7-nasa-missions-094500330.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber plans 10% workforce reduction as revenue and profit rise",
+   "pub": "Just Auto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-plans-10-workforce-reduction-093705570.html",
+   "date": "2026-09-03"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Market Chatter: Global Corporate Giants Draw Regulatory Attention to Blacklisted Groups in Supply Chains",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/economy/policy/articles/market-chatter-global-corporate-giants-090928361.html",
+   "date": "2026-09-03"
+  },
+  {
    "tk": "PLTR",
    "h": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
    "pub": "Stocktwits",
@@ -17868,38 +17896,10 @@
    "date": "2026-09-03"
   },
   {
-   "tk": "TSLA",
-   "h": "Why Are Nasdaq, S&P 500 Futures Rising Premarket? TSLA, AVGO, SNOW, HPE, PLTR, LULU Stocks In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-p-500-futures-083835067.html",
-   "date": "2026-09-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "If I Only Had $1,000 to Invest Right Now, This Is the ETF I'd Buy Without Any Hesitation",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/only-had-1-000-invest-083500272.html",
-   "date": "2026-09-03"
-  },
-  {
-   "tk": "NVDA",
-   "h": "President Donald Trump Claims Kevin Warsh Will \"Do What He Has to Do\" Over Interest Rates, but Keeps Throwing the Fed Under the Bus",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-claims-kevin-082600560.html",
-   "date": "2026-09-03"
-  },
-  {
    "tk": "UBER",
    "h": "Uber and AI firm Wayve launch first self-driving robotaxis in London",
    "pub": "PA Media: Money",
    "link": "https://finance.yahoo.com/news/uber-ai-firm-wayve-launch-075433535.html",
-   "date": "2026-09-03"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA Stock Revs Up Slowly As Elon Musk Tells A \u2018Storm Of Cybercabs\u2019 Are Coming \u2014 Analyst Says \u2018Never Short A Great Company\u2019",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-revs-slowly-elon-071416674.html",
    "date": "2026-09-03"
   },
   {
@@ -17945,13 +17945,6 @@
    "date": "2026-09-03"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla uses data transparency to get what it wants",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-uses-data-transparency-wants-031700279.html",
-   "date": "2026-09-03"
-  },
-  {
    "tk": "DUK",
    "h": "Two Utility Dividend Plays Are Quietly Beating XOM, CVX On Yield Amid Iran-Driven Oil Rally \u2014 Does Retail Know?",
    "pub": "Stocktwits",
@@ -17970,20 +17963,6 @@
    "h": "US energy firms dominate Venezuela deals worth billions",
    "pub": "AFP",
    "link": "https://finance.yahoo.com/energy/articles/us-energy-firms-dominate-venezuela-205423983.html",
-   "date": "2026-09-03"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber to cut 3,300 jobs as it strips out management layers",
-   "pub": "Proactive",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-cut-3-300-jobs-014900413.html",
-   "date": "2026-09-03"
-  },
-  {
-   "tk": "UBER",
-   "h": "Better High-Growth Stock for 2026: Amazon.com vs. Uber Technologies",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/better-high-growth-stock-2026-014857096.html",
    "date": "2026-09-03"
   },
   {
@@ -18106,13 +18085,6 @@
    "date": "2026-09-02"
   },
   {
-   "tk": "NVDA",
-   "h": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/broadcoms-q3-earnings-beat-just-204909744.html",
-   "date": "2026-09-02"
-  },
-  {
    "tk": "QCOM",
    "h": "Broadcom's Q3 earnings beat just isn't 'enough' to keep investors happy",
    "pub": "Yahoo Finance Video",
@@ -18132,14 +18104,7 @@
    "pub": "GuruFocus.com",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-flashes-major-202645715.html",
    "date": "2026-09-02"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile Stock Soars on New Buy Call",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/ast-spacemobile-stock-buy-rating-price-146b0862?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-09-02"
   }
  ],
- "prices_asof": "2026-09-03 08:46 UTC"
+ "prices_asof": "2026-09-03 10:21 UTC"
 }
