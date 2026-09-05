@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 170,
-      "up": 9
+      "m": 11,
+      "m0": 2,
+      "rk": 53,
+      "up": 33
      },
      "news": [
       {
@@ -815,8 +815,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 780,
+      "m0": 1,
+      "rk": 778,
       "up": 1
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 160,
-      "m0": 270,
+      "m": 158,
+      "m0": 162,
       "rk": 3,
-      "up": 1028
+      "up": 430
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-08-31"
       },
       {
-       "h": "The Stock Market Just Did Something for the First Time Ever. History Says Investors Should Be Worried. But Could This Time Be Different?",
+       "h": "Here's How Many Shares of Apple (AAPL) Stock You'd Need for $12,000 in Yearly Dividends",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-did-something-080501482.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-apple-aapl-092500216.html",
        "date": "2026-09-05"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 51,
+      "m": 28,
+      "m0": 47,
       "rk": 18,
-      "up": 100
+      "up": 46
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 373,
+      "rk": 344,
       "up": -2
      },
      "thesis": {
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 389,
-      "up": 2
+      "rk": 109,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -2831,8 +2831,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 754,
+      "m0": 1,
+      "rk": 752,
       "up": 1
      },
      "thesis": {
@@ -4033,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 7,
-      "rk": 67,
-      "up": 33
+      "m": 5,
+      "m0": 9,
+      "rk": 105,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -4384,8 +4384,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 451,
+      "m0": 1,
+      "rk": 437,
       "up": 0
      },
      "news": [
@@ -4717,8 +4717,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 692,
+      "m0": 1,
+      "rk": 688,
       "up": 2
      },
      "news": [
@@ -5128,7 +5128,7 @@
      ],
      "awards": [
       {
-       "amt": 12779515340.85,
+       "amt": 12794098672.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5211,16 +5211,16 @@
        "date": "2024-11-12"
       },
       {
+       "amt": 521619148.0,
+       "ag": "Department of Defense",
+       "desc": "JOINT STRIKE MISSILE LOT 2 AND OPTION LOT 3",
+       "date": "2025-12-12"
+      },
+      {
        "amt": 292565263.94,
        "ag": "Department of Defense",
        "desc": "UCA LONG LEAD MATERIALS AND SERVICES",
        "date": "2024-11-04"
-      },
-      {
-       "amt": 240904098.0,
-       "ag": "Department of Defense",
-       "desc": "JOINT STRIKE MISSILE LOT 2 AND OPTION LOT 3",
-       "date": "2025-12-12"
       },
       {
        "amt": 209846578.0,
@@ -5266,10 +5266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 0,
-      "rk": 87,
-      "up": 5
+      "m": 1,
+      "m0": 6,
+      "rk": 606,
+      "up": 1
      },
      "news": [
       {
@@ -5864,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 130,
-      "m0": 37,
-      "rk": 6,
-      "up": 333
+      "m": 109,
+      "m0": 128,
+      "rk": 5,
+      "up": 311
      },
      "news": [
       {
@@ -5883,9 +5883,9 @@
        "date": "2026-09-04"
       },
       {
-       "h": "Tesla (TSLA) Faces NHTSA Cybercab Safety Probe After Austin Robotaxi Rollout",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-faces-nhtsa-cybercab-061245889.html",
+       "h": "A Used EV Is the Way to Get Those Luxury Wheels",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/ev-luxury-used-bargains-lease-f501dcc7?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-05"
       }
      ],
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 435,
-      "up": -2
+      "m": 4,
+      "m0": 1,
+      "rk": 111,
+      "up": 14
      },
      "news": [
       {
@@ -6267,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 135,
-      "up": 10
+      "m": 4,
+      "m0": 3,
+      "rk": 118,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -7100,10 +7100,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 105,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 265,
+      "up": 6
      },
      "news": [
       {
@@ -7188,10 +7188,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 0,
-      "rk": 71,
-      "up": 10
+      "m": 1,
+      "m0": 8,
+      "rk": 358,
+      "up": 1
      },
      "news": [
       {
@@ -7757,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 8,
-      "rk": 66,
-      "up": 13
+      "m": 10,
+      "m0": 9,
+      "rk": 60,
+      "up": 211
      },
      "news": [
       {
@@ -8266,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 32,
-      "rk": 33,
-      "up": 40
+      "m": 14,
+      "m0": 23,
+      "rk": 42,
+      "up": 485
      },
      "thesis": {
       "bull": [
@@ -8566,12 +8566,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 472,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8753,8 +8748,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 720,
-      "up": 2
+      "rk": 715,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -9166,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 58,
-      "m0": 11,
-      "rk": 12,
-      "up": 94
+      "m": 9,
+      "m0": 58,
+      "rk": 65,
+      "up": 17
      },
      "streetNotes": [
       {
@@ -9351,7 +9346,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 762,
+      "rk": 763,
       "up": 0
      },
      "news": [
@@ -9515,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 67,
-      "rk": 40,
-      "up": 35
+      "m": 20,
+      "m0": 16,
+      "rk": 25,
+      "up": 52
      },
      "thesis": {
       "bull": [
@@ -10404,10 +10399,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 100,
-      "up": 9
+      "m": 2,
+      "m0": 5,
+      "rk": 174,
+      "up": 19
      },
      "news": [
       {
@@ -10558,9 +10553,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 117,
+      "m": 1,
+      "m0": 3,
+      "rk": 202,
       "up": 1
      },
      "streetNotes": [
@@ -10774,8 +10769,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 196,
-      "up": 2
+      "rk": 190,
+      "up": 1
      },
      "news": [
       {
@@ -10861,8 +10856,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 451,
+      "m0": 1,
+      "rk": 437,
       "up": 0
      },
      "news": [
@@ -10947,7 +10942,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 297,
+      "up": 3
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11227,10 +11227,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 47,
-      "m0": 51,
+      "m": 28,
+      "m0": 47,
       "rk": 18,
-      "up": 100
+      "up": 46
      },
      "news": [
       {
@@ -11318,8 +11318,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 534,
-      "up": 2
+      "rk": 524,
+      "up": 3
      },
      "news": [
       {
@@ -12662,10 +12662,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 430,
-      "up": 3
+      "m": 17,
+      "m0": 1,
+      "rk": 31,
+      "up": 157
      },
      "news": [
       {
@@ -12745,10 +12745,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 4,
-      "rk": 63,
-      "up": 10
+      "m": 9,
+      "m0": 11,
+      "rk": 66,
+      "up": 39
      },
      "news": [
       {
@@ -13020,8 +13020,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 694,
+      "m0": 1,
+      "rk": 689,
       "up": -2
      },
      "news": [
@@ -13344,10 +13344,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 181,
-      "up": 29
+      "m": 4,
+      "m0": 2,
+      "rk": 121,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -13585,10 +13585,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 137,
-      "up": 25
+      "m": 1,
+      "m0": 3,
+      "rk": 773,
+      "up": 3
      },
      "news": [
       {
@@ -14000,8 +14000,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 396,
-      "up": 0
+      "rk": 370,
+      "up": -2
      },
      "streetNotes": [
       {
@@ -14079,12 +14079,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 116,
-      "up": 27
-     },
+     "social": null,
      "news": [
       {
        "h": "T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September",
@@ -14169,8 +14164,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 747,
+      "m0": 1,
+      "rk": 741,
       "up": 2
      },
      "news": [
@@ -14555,10 +14550,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 114,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 748,
+      "up": -2
      },
      "news": [
       {
@@ -14643,10 +14638,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 82,
-      "up": 9
+      "m": 3,
+      "m0": 5,
+      "rk": 134,
+      "up": 25
      },
      "news": [
       {
@@ -14836,7 +14831,7 @@
        "date": "2019-11-19"
       },
       {
-       "amt": 5252286.44,
+       "amt": 4910124.48,
        "ag": "Department of Justice",
        "desc": "QUANTICO ELECTRIC",
        "date": "2026-01-01"
@@ -14962,10 +14957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 91,
-      "up": 5
+      "m": 3,
+      "m0": 5,
+      "rk": 125,
+      "up": 13
      },
      "news": [
       {
@@ -15051,9 +15046,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 303,
-      "up": 10
+      "m0": 1,
+      "rk": 285,
+      "up": 8
      },
      "news": [
       {
@@ -15140,8 +15135,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 324,
-      "up": 1
+      "rk": 302,
+      "up": 3
      },
      "news": [
       {
@@ -15311,7 +15306,7 @@
        "date": "2010-09-30"
       },
       {
-       "amt": 23086054.04,
+       "amt": 23135990.11,
        "ag": "Department of Defense",
        "desc": "UTILITY PRIVATIZATION FOR THE ELECTRICAL UTILITY SYSTEM AT LITTLE ROCK AFB.",
        "date": "2009-09-30"
@@ -17554,7 +17549,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-04",
+ "social_asof": "2026-09-05",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17835,16 +17830,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "The Stock Market Just Did Something for the First Time Ever. History Says Investors Should Be Worried. But Could This Time Be Different?",
+   "h": "Here's How Many Shares of Apple (AAPL) Stock You'd Need for $12,000 in Yearly Dividends",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-did-something-080501482.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-apple-aapl-092500216.html",
    "date": "2026-09-05"
   },
   {
    "tk": "NVDA",
-   "h": "3 Unstoppable Dow Stocks to Buy in September",
+   "h": "Is Greg Abel Betting on Lower Interest Rates? The Berkshire Hathaway CEO Just Trimmed Bank Stocks Like Bank of America and Bought 3 Stocks That Would Benefit From Lower Yields.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-dow-stocks-buy-080500367.html",
+   "link": "https://finance.yahoo.com/economy/policy/articles/greg-abel-betting-lower-interest-092000700.html",
+   "date": "2026-09-05"
+  },
+  {
+   "tk": "TSLA",
+   "h": "A Used EV Is the Way to Get Those Luxury Wheels",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/ev-luxury-used-bargains-lease-f501dcc7?siteid=yhoof2&yptr=yahoo",
    "date": "2026-09-05"
   },
   {
@@ -17901,13 +17903,6 @@
    "h": "Lockheed Martin (LMT) Stock Still Looks Below Fair Value After A 74% Run",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-stock-still-041623805.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "TSLA",
-   "h": "SpaceX is now in your 401(k), and Musk is the risk",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-now-401-k-musk-020300712.html",
    "date": "2026-09-05"
   },
   {
@@ -18114,5 +18109,5 @@
    "date": "2026-09-04"
   }
  ],
- "prices_asof": "2026-09-05 08:13 UTC"
+ "prices_asof": "2026-09-05 09:38 UTC"
 }
