@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 2,
-      "rk": 53,
-      "up": 33
+      "m": 1,
+      "m0": 11,
+      "rk": 615,
+      "up": 1
      },
      "news": [
       {
@@ -816,7 +816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 778,
+      "rk": 694,
       "up": 1
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 158,
-      "m0": 162,
+      "m": 33,
+      "m0": 158,
       "rk": 3,
-      "up": 430
+      "up": 81
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1137,21 @@
      },
      "news": [
       {
-       "h": "McDonald's Has Raised Its Dividend Every Year Since 1976. Here Are 3 Reasons I'd Buy It and Never Sell.",
+       "h": "Target Stock at $165: Here's Why Investors Should Pause.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-raised-dividend-every-since-081500009.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/target-stock-165-heres-why-094000576.html",
        "date": "2026-09-06"
       },
       {
-       "h": "Aptiv (APTV) Could Be 39% Undervalued As Nvidia Tie Up Lifts Interest",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-aptv-could-39-undervalued-081051974.html",
+       "h": "ETF Inflows Set a Record in July. The Fee Mix Moved at the Same Time.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/etf-inflows-set-record-july-093500703.html",
        "date": "2026-09-06"
       },
       {
-       "h": "After a 17% Surge, Is Snowflake Stock Still a Buy as Revenue Growth Accelerates?",
+       "h": "PepsiCo Loses to 30-year U.S. Treasury Bonds on Yield. Here's Why It Wins on Everything Else.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/17-surge-snowflake-stock-still-075500249.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-loses-30-u-treasury-092500094.html",
        "date": "2026-09-06"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 47,
-      "rk": 18,
-      "up": 46
+      "m": 4,
+      "m0": 28,
+      "rk": 37,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 344,
+      "rk": 254,
       "up": -2
      },
      "thesis": {
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 109,
-      "up": 11
+      "m": 2,
+      "m0": 4,
+      "rk": 79,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 752,
+      "rk": 674,
       "up": 1
      },
      "thesis": {
@@ -3146,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 740,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -4033,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 9,
-      "rk": 105,
-      "up": 12
+      "m": 1,
+      "m0": 5,
+      "rk": 727,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4385,7 +4390,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
+      "rk": 353,
       "up": 0
      },
      "news": [
@@ -4718,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 688,
-      "up": 2
+      "rk": 600,
+      "up": 1
      },
      "news": [
       {
@@ -5265,12 +5270,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 606,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Palantir Rallies 7% as PwC Alliance Counters Michael Burry Bear Case, ServiceNow Climbs 5%, Salesforce Gains 3%",
@@ -5864,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 109,
-      "m0": 128,
-      "rk": 5,
-      "up": 311
+      "m": 26,
+      "m0": 109,
+      "rk": 4,
+      "up": 37
      },
      "news": [
       {
@@ -5952,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 111,
-      "up": 14
+      "m": 1,
+      "m0": 4,
+      "rk": 332,
+      "up": 1
      },
      "news": [
       {
@@ -6267,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 118,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 672,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -7101,9 +7101,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 265,
-      "up": 6
+      "m0": 1,
+      "rk": 171,
+      "up": 1
      },
      "news": [
       {
@@ -7189,8 +7189,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 358,
+      "m0": 1,
+      "rk": 268,
       "up": 1
      },
      "news": [
@@ -7668,7 +7668,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 791,
+      "up": 1
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7757,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 9,
-      "rk": 60,
-      "up": 211
+      "m": 1,
+      "m0": 10,
+      "rk": 522,
+      "up": 2
      },
      "news": [
       {
@@ -8266,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 23,
-      "rk": 42,
-      "up": 485
+      "m": 9,
+      "m0": 14,
+      "rk": 21,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -8566,7 +8571,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 373,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8748,7 +8758,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 715,
+      "rk": 628,
       "up": 3
      },
      "thesis": {
@@ -9161,10 +9171,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 58,
-      "rk": 65,
-      "up": 17
+      "m": 1,
+      "m0": 9,
+      "rk": 669,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -9343,12 +9353,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 763,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Stock Market Today, Sept. 4: Planet Labs Dips 1% Despite Earnings Beat, Full-Year Guidance Raise",
@@ -9510,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 16,
-      "rk": 25,
-      "up": 52
+      "m": 11,
+      "m0": 20,
+      "rk": 15,
+      "up": 19
      },
      "thesis": {
       "bull": [
@@ -10071,7 +10076,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 256,
+      "up": 1
+     },
      "news": [
       {
        "h": "Gilat Satellite Networks Targets Defense, In-Flight Growth With Comtech Deal",
@@ -10399,10 +10409,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 174,
-      "up": 19
+      "m": 1,
+      "m0": 2,
+      "rk": 730,
+      "up": 2
      },
      "news": [
       {
@@ -10554,8 +10564,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 202,
+      "m0": 1,
+      "rk": 110,
       "up": 1
      },
      "streetNotes": [
@@ -10766,12 +10776,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 190,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AerCap Holdings (AER) Inspires Confidence with 100th Boeing 787 Delivery",
@@ -10857,7 +10862,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
+      "rk": 353,
       "up": 0
      },
      "news": [
@@ -10944,8 +10949,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 297,
+      "m0": 1,
+      "rk": 205,
       "up": 3
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11227,10 +11232,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 47,
-      "rk": 18,
-      "up": 46
+      "m": 4,
+      "m0": 28,
+      "rk": 37,
+      "up": 14
      },
      "news": [
       {
@@ -11318,8 +11323,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 524,
-      "up": 3
+      "rk": 438,
+      "up": 1
      },
      "news": [
       {
@@ -12662,10 +12667,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 1,
-      "rk": 31,
-      "up": 157
+      "m": 3,
+      "m0": 17,
+      "rk": 54,
+      "up": 4
      },
      "news": [
       {
@@ -12745,10 +12750,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 11,
-      "rk": 66,
-      "up": 39
+      "m": 4,
+      "m0": 9,
+      "rk": 35,
+      "up": 11
      },
      "news": [
       {
@@ -13021,7 +13026,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 689,
+      "rk": 601,
       "up": -2
      },
      "news": [
@@ -13344,10 +13349,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 121,
-      "up": 10
+      "m": 1,
+      "m0": 4,
+      "rk": 744,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -13586,9 +13591,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 773,
-      "up": 3
+      "m0": 1,
+      "rk": 690,
+      "up": 2
      },
      "news": [
       {
@@ -14000,7 +14005,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 370,
+      "rk": 281,
       "up": -2
      },
      "streetNotes": [
@@ -14079,7 +14084,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 756,
+      "up": 3
+     },
      "news": [
       {
        "h": "T Mobile US (TMUS) Sets Up CFO Handover With Jessica Uhl Joining In September",
@@ -14162,12 +14172,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 741,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "1 Stock Under $50 with Promising Prospects and 2 We Avoid",
@@ -14551,9 +14556,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 748,
-      "up": -2
+      "m0": 1,
+      "rk": 668,
+      "up": 3
      },
      "news": [
       {
@@ -14638,10 +14643,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 134,
-      "up": 25
+      "m": 6,
+      "m0": 3,
+      "rk": 28,
+      "up": 10
      },
      "news": [
       {
@@ -14957,10 +14962,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 125,
-      "up": 13
+      "m": 1,
+      "m0": 3,
+      "rk": 173,
+      "up": 3
      },
      "news": [
       {
@@ -15047,7 +15052,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 285,
+      "rk": 192,
       "up": 8
      },
      "news": [
@@ -15135,8 +15140,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 302,
-      "up": 3
+      "rk": 210,
+      "up": 0
      },
      "news": [
       {
@@ -17549,7 +17554,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-05",
+ "social_asof": "2026-09-06",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17830,30 +17835,30 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "McDonald's Has Raised Its Dividend Every Year Since 1976. Here Are 3 Reasons I'd Buy It and Never Sell.",
+   "h": "Target Stock at $165: Here's Why Investors Should Pause.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-raised-dividend-every-since-081500009.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/target-stock-165-heres-why-094000576.html",
    "date": "2026-09-06"
   },
   {
    "tk": "NVDA",
-   "h": "Aptiv (APTV) Could Be 39% Undervalued As Nvidia Tie Up Lifts Interest",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-aptv-could-39-undervalued-081051974.html",
+   "h": "ETF Inflows Set a Record in July. The Fee Mix Moved at the Same Time.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/etf-inflows-set-record-july-093500703.html",
    "date": "2026-09-06"
   },
   {
    "tk": "NVDA",
-   "h": "After a 17% Surge, Is Snowflake Stock Still a Buy as Revenue Growth Accelerates?",
+   "h": "PepsiCo Loses to 30-year U.S. Treasury Bonds on Yield. Here's Why It Wins on Everything Else.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/17-surge-snowflake-stock-still-075500249.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pepsico-loses-30-u-treasury-092500094.html",
    "date": "2026-09-06"
   },
   {
    "tk": "NVDA",
-   "h": "The Stock Market Has Done This Only 2 Times Since 1871 \u2014 and Both Times Ended Badly. Could Trump\u2019s Policies Raise the Risk of Another Market Meltdown?",
+   "h": "Prediction: Greg Abel Announces Another Whole-Company Acquisition Before Year-End",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-done-only-2-073201496.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-greg-abel-announces-another-092000668.html",
    "date": "2026-09-06"
   },
   {
@@ -18109,5 +18114,5 @@
    "date": "2026-09-05"
   }
  ],
- "prices_asof": "2026-09-06 08:31 UTC"
+ "prices_asof": "2026-09-06 09:53 UTC"
 }
