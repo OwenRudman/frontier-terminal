@@ -1143,16 +1143,16 @@
        "date": "2026-09-06"
       },
       {
-       "h": "What a $10,000 Investment in the Vanguard S&P 500 ETF (VOO) a Decade Ago Is Worth Today",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-vanguard-p-232500297.html",
-       "date": "2026-09-06"
-      },
-      {
        "h": "Dow sell-side Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-       "date": "2026-09-06"
+       "date": "2026-09-07"
+      },
+      {
+       "h": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-data-center-passes-70-024601235.html",
+       "date": "2026-09-07"
       }
      ]
     },
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Palantir\u2019s Alex Karp: The Real AI Leak Isn't Data, It's Your 'Alpha'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-alex-karp-real-ai-013013347.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "Michael Burry sends a strong warning to Palantir stock investors",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-strong-warning-143700436.html",
@@ -1788,12 +1794,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-palantirs-books-034601232.html",
        "date": "2026-09-06"
-      },
-      {
-       "h": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-hardware-rallied-while-adobe-220725248.html",
-       "date": "2026-09-05"
       }
      ],
      "awards": [
@@ -5871,21 +5871,21 @@
      },
      "news": [
       {
+       "h": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-2-biggest-positions-012401868.html",
+       "date": "2026-09-07"
+      },
+      {
+       "h": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "sell-side sees Cybercab giving Tesla a cost advantage in robotaxis",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/technology/ai/articles/goldman-sees-cybercab-giving-tesla-214658906.html",
-       "date": "2026-09-06"
-      },
-      {
-       "h": "Should You Forget SpaceX (SPCX) Stock?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-spacex-spcx-stock-195300290.html",
-       "date": "2026-09-06"
-      },
-      {
-       "h": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-delivered-just-185000237.html",
        "date": "2026-09-06"
       }
      ],
@@ -5959,6 +5959,12 @@
      },
      "news": [
       {
+       "h": "Japan's Go President Eyes Expansion in Asia, Robotaxis",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/video/japans-president-eyes-expansion-asia-000744890.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "Three Of Credit's Biggest Names Are In Talks On Waymo's $3 Billion Debt Raise",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/markets/stocks/articles/three-credits-biggest-names-talks-193034091.html",
@@ -5968,12 +5974,6 @@
        "h": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
        "pub": "TechCrunch",
        "link": "https://finance.yahoo.com/technology/articles/travis-kalanick-atoms-might-getting-164500551.html",
-       "date": "2026-09-06"
-      },
-      {
-       "h": "Everyone Says to Go Into the Trades to Make Good Money. This 48-Year-Old Auto Mechanic With Worn-Out Knees Is Looking for a Way Out",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/small-business/articles/everyone-says-trades-good-money-140008447.html",
        "date": "2026-09-06"
       }
      ],
@@ -10779,7 +10779,13 @@
      "social": null,
      "news": [
       {
-       "h": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
+       "h": "United Airlines (UAL) is Sitting on Hundreds of Premium Seats for a Plane that Still Hasn\u2019t Arrived",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-sitting-hundreds-234400437.html",
+       "date": "2026-09-06"
+      },
+      {
+       "h": "Amazon cargo plane crash at Miami airport kills five",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/weather-news/articles/boeing-767-cargo-plane-bearing-195644607.html",
        "date": "2026-09-06"
@@ -10788,12 +10794,6 @@
        "h": "AerCap Holdings (AER) Inspires Confidence with 100th Boeing 787 Delivery",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aercap-holdings-aer-inspires-confidence-180405092.html",
-       "date": "2026-09-05"
-      },
-      {
-       "h": "White House reviewed potential replacements for Pentagon deputy Feinberg - Reuters",
-       "pub": "Investing.com",
-       "link": "https://www.yahoo.com/news/politics/articles/white-house-reviewed-potential-replacements-054023976.html",
        "date": "2026-09-05"
       }
      ],
@@ -11239,6 +11239,12 @@
      },
      "news": [
       {
+       "h": "Palantir\u2019s Alex Karp: The Real AI Leak Isn't Data, It's Your 'Alpha'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-alex-karp-real-ai-013013347.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "Michael Burry sends a strong warning to Palantir stock investors",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-strong-warning-143700436.html",
@@ -11249,12 +11255,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-palantirs-books-034601232.html",
        "date": "2026-09-06"
-      },
-      {
-       "h": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ai-hardware-rallied-while-adobe-220725248.html",
-       "date": "2026-09-05"
       }
      ],
      "awards": [
@@ -14092,6 +14092,12 @@
      },
      "news": [
       {
+       "h": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-rivn-loses-cfo-ge-001507183.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
@@ -14102,12 +14108,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-sets-010638972.html",
        "date": "2026-09-05"
-      },
-      {
-       "h": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday After August Jobs Report Tops Estimates",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-133330774.html",
-       "date": "2026-09-04"
       }
      ],
      "awards": [
@@ -14562,6 +14562,12 @@
      },
      "news": [
       {
+       "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "BWX Technologies Already Builds Reactors for the Navy. Why Is It Still the Cheapest Nuclear Stock?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
@@ -14572,12 +14578,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
        "date": "2026-09-05"
-      },
-      {
-       "h": "Is Constellation Energy Stock Underperforming the Dow?",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-underperforming-dow-145042412.html",
-       "date": "2026-09-04"
       }
      ],
      "awards": [
@@ -14650,6 +14650,12 @@
      },
      "news": [
       {
+       "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "Vistra\u2019s CEO Bought $1.17 Million of Stock After the Selloff. Is AI Power Demand Mispriced?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-ceo-bought-1-17-054858384.html",
@@ -14659,12 +14665,6 @@
        "h": "Can Vistra (VST) Still Look Cheap After a Very Large Run?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-still-look-cheap-224109898.html",
-       "date": "2026-09-03"
-      },
-      {
-       "h": "Peter Thiel\u2019s Fund Disclosed $59 Million in This Beaten-Down Power Stock",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-fund-disclosed-59-185030291.html",
        "date": "2026-09-03"
       }
      ],
@@ -17835,23 +17835,79 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "What a $10,000 Investment in the Vanguard S&P 500 ETF (VOO) a Decade Ago Is Worth Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-vanguard-p-232500297.html",
-   "date": "2026-09-06"
-  },
-  {
-   "tk": "NVDA",
    "h": "Dow sell-side Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-   "date": "2026-09-06"
+   "date": "2026-09-07"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029",
+   "h": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-taiwan-semiconductors-market-value-225101856.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-data-center-passes-70-024601235.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "CEG",
+   "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "VST",
+   "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir\u2019s Alex Karp: The Real AI Leak Isn't Data, It's Your 'Alpha'",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-alex-karp-real-ai-013013347.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-2-biggest-positions-012401868.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "GEV",
+   "h": "Rivian (RIVN) Loses its CFO to GE Vernova (GEV) Right in the Middle of its Biggest Bet Yet",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-rivn-loses-cfo-ge-001507183.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "UBER",
+   "h": "Japan's Go President Eyes Expansion in Asia, Robotaxis",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/video/japans-president-eyes-expansion-asia-000744890.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "BA",
+   "h": "United Airlines (UAL) is Sitting on Hundreds of Premium Seats for a Plane that Still Hasn\u2019t Arrived",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/united-airlines-ual-sitting-hundreds-234400437.html",
    "date": "2026-09-06"
   },
   {
@@ -17877,7 +17933,7 @@
   },
   {
    "tk": "BA",
-   "h": "Boeing 767 cargo plane bearing Amazon logo overruns Miami runway, halts flights",
+   "h": "Amazon cargo plane crash at Miami airport kills five",
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/weather-news/articles/boeing-767-cargo-plane-bearing-195644607.html",
    "date": "2026-09-06"
@@ -17894,13 +17950,6 @@
    "h": "Three Of Credit's Biggest Names Are In Talks On Waymo's $3 Billion Debt Raise",
    "pub": "Benzinga",
    "link": "https://finance.yahoo.com/markets/stocks/articles/three-credits-biggest-names-talks-193034091.html",
-   "date": "2026-09-06"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Cathie Wood's Ark Has Delivered Just a 13.8% Annualized Return Since 2014, Roughly Matching the S&P 500. Should You Trust Her Bold Predictions for 2030?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-delivered-just-185000237.html",
    "date": "2026-09-06"
   },
   {
@@ -17922,13 +17971,6 @@
    "h": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
    "pub": "TechCrunch",
    "link": "https://finance.yahoo.com/technology/articles/travis-kalanick-atoms-might-getting-164500551.html",
-   "date": "2026-09-06"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk's Tesla Cybertruck Has A New Ford Rival That Wants To Outsell It 5-To-1",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-cybertruck-ford-160016241.html",
    "date": "2026-09-06"
   },
   {
@@ -18070,49 +18112,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-10-000-investment-222000389.html",
    "date": "2026-09-05"
-  },
-  {
-   "tk": "UMAC",
-   "h": "Unusual Machines CFO Brian Hoff Sells 11,413 Shares",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/unusual-machines-cfo-brian-hoff-221502095.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "PLTR",
-   "h": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-hardware-rallied-while-adobe-220725248.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "DUK",
-   "h": "Dividends vs. Annuity: Which Turns $930,000 Into More Monthly Income for Life?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dividends-vs-annuity-turns-930-220124502.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "CW",
-   "h": "Curtiss Wright (CW) Stock Trades At A Premium On Cash Flow And Earnings",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-stock-trades-210710683.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "CCJ",
-   "h": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
-   "date": "2026-09-05"
-  },
-  {
-   "tk": "CEG",
-   "h": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
-   "date": "2026-09-05"
   }
  ],
- "prices_asof": "2026-09-06 23:38 UTC"
+ "prices_asof": "2026-09-07 03:49 UTC"
 }
