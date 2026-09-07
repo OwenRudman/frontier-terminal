@@ -1143,15 +1143,15 @@
        "date": "2026-09-06"
       },
       {
-       "h": "Dow sell-side Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+       "h": "A Once-in-a-Generation Market Warning Just Flashed. What History Says Happens Next.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/once-generation-market-warning-just-084800770.html",
        "date": "2026-09-07"
       },
       {
-       "h": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+       "h": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-data-center-passes-70-024601235.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-34-high-083300167.html",
        "date": "2026-09-07"
       }
      ]
@@ -14424,6 +14424,12 @@
      "social": null,
      "news": [
       {
+       "h": "Jacobs (J) Backlog Hits $28.9B As Guidance Rises Again",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-j-backlog-hits-28-060312706.html",
+       "date": "2026-09-07"
+      },
+      {
        "h": "Owens Corning (OC) Down 10.6% Since Last Earnings Report: Can It Rebound?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/owens-corning-oc-down-10-153022253.html",
@@ -14434,12 +14440,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-services-stocks-own-decades-131810588.html",
        "date": "2026-09-04"
-      },
-      {
-       "h": "Why Is Jacobs Solutions (J) Up 1.7% Since Last Earnings Report?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-jacobs-solutions-j-1-153016250.html",
-       "date": "2026-09-03"
       }
      ],
      "awards": [
@@ -17835,27 +17835,34 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Dow sell-side Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+   "h": "A Once-in-a-Generation Market Warning Just Flashed. What History Says Happens Next.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/once-generation-market-warning-just-084800770.html",
    "date": "2026-09-07"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+   "h": "SpaceX Stock Is Down 34% From Its High. History Suggests a $10,000 Investment Will Be Worth This Much by Mid-2027.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-data-center-passes-70-024601235.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-34-high-083300167.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Hut 8 Corp. (HUT)\u2019s AI Pivot Gets a Major Boost From the $35 Billion Anthropic Deal",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/hut-8-corp-hut-ai-083054752.html",
+   "date": "2026-09-07"
+  },
+  {
+   "tk": "J",
+   "h": "Jacobs (J) Backlog Hits $28.9B As Guidance Rises Again",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jacobs-j-backlog-hits-28-060312706.html",
    "date": "2026-09-07"
   },
   {
    "tk": "CEG",
-   "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
-   "date": "2026-09-07"
-  },
-  {
-   "tk": "NVDA",
    "h": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html",
@@ -18105,14 +18112,7 @@
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-lifts-guidance-010707585.html",
    "date": "2026-09-06"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Prediction: Here's What a $10,000 Investment in Rocket Lab Will Be Worth in 5 Years",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-10-000-investment-222000389.html",
-   "date": "2026-09-05"
   }
  ],
- "prices_asof": "2026-09-07 03:49 UTC"
+ "prices_asof": "2026-09-07 09:08 UTC"
 }
