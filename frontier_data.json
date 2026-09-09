@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 544,
+      "rk": 639,
       "up": 1
      },
      "news": [
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 599,
-      "up": 10
+      "m0": 0,
+      "rk": 710,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 30,
-      "rk": 6,
-      "up": 76
+      "m": 129,
+      "m0": 41,
+      "rk": 3,
+      "up": 702
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-09-08"
       },
       {
-       "h": "3 Quantum Computing Stocks Have Issued a $63 Million Warning This Year That Wall Street Cannot Ignore",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-quantum-computing-stocks-issued-083500218.html",
+       "h": "Dow sell-side Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
        "date": "2026-09-09"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 26,
       "m0": 4,
-      "rk": 57,
-      "up": 8
+      "rk": 21,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -1778,22 +1778,22 @@
      },
      "news": [
       {
+       "h": "Why Palantir Rallied Over 50% in August",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-rallied-over-50-094000055.html",
+       "date": "2026-09-09"
+      },
+      {
+       "h": "Palantir and Nebius form sovereign AI infrastructure partnership",
+       "pub": "Verdict",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nebius-form-sovereign-ai-090717769.html",
+       "date": "2026-09-09"
+      },
+      {
        "h": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html",
        "date": "2026-09-09"
-      },
-      {
-       "h": "Palantir Stock Continues to Grow on the Back of Enterprise Partnerships",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-continues-grow-back-223139549.html",
-       "date": "2026-09-08"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) Falls More Steeply Than Broader Market: What Investors Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-falls-214503368.html",
-       "date": "2026-09-08"
       }
      ],
      "awards": [
@@ -1858,12 +1858,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 634,
-      "up": -3
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2042,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 255,
+      "rk": 335,
       "up": 1
      },
      "thesis": {
@@ -2334,8 +2329,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 182,
+      "m0": 1,
+      "rk": 252,
       "up": 1
      },
      "streetNotes": [
@@ -2490,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
+      "m": 9,
+      "m0": 4,
       "rk": 54,
-      "up": 16
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -2839,12 +2834,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 591,
-      "up": 3
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3158,9 +3148,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 625,
-      "up": 1
+      "m0": 1,
+      "rk": 741,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4048,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 77,
-      "up": 7
+      "m": 5,
+      "m0": 3,
+      "rk": 96,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -4400,7 +4390,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 334,
+      "rk": 414,
       "up": 1
      },
      "news": [
@@ -4579,7 +4569,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 115,
+      "up": 12
+     },
      "news": [
       {
        "h": "Mobix Labs Secures Initial F-16 Component Order, Expanding Defense Aircraft Footprint",
@@ -4730,7 +4725,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 630,
+      "up": 3
+     },
      "news": [
       {
        "h": "Will GeoCue Partnership Accelerate Ouster's Lidar Growth?",
@@ -5144,13 +5144,13 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319609066.83,
+       "amt": 8319609652.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6947801550.74,
+       "amt": 6948164177.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5869,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 11,
-      "rk": 12,
-      "up": 63
+      "m": 53,
+      "m0": 24,
+      "rk": 8,
+      "up": 985
      },
      "news": [
       {
@@ -5957,28 +5957,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 10,
       "m0": 1,
-      "rk": 319,
-      "up": 0
+      "rk": 48,
+      "up": 325
      },
      "news": [
+      {
+       "h": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/inside-ceo-cristiano-amon-vision-100000680.html",
+       "date": "2026-09-09"
+      },
+      {
+       "h": "Update: Market Chatter: Uber Targets 4 Billion Euros From Five-Tranche Euro Bond Deal, Deal Size Could Increase",
+       "pub": "MT Newswires",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-targets-4-092920356.html",
+       "date": "2026-09-09"
+      },
       {
        "h": "Market Chatter: Uber to Apply for Hong Kong Ride-Hailing License by October",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-apply-hong-073635748.html",
-       "date": "2026-09-09"
-      },
-      {
-       "h": "Rivian R2 Demand Tops Expectations as Autonomy and Robotaxi Plans Advance",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-r2-demand-tops-expectations-060201738.html",
-       "date": "2026-09-09"
-      },
-      {
-       "h": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-settles-major-lawsuit-010028284.html",
        "date": "2026-09-09"
       }
      ],
@@ -6046,8 +6046,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 312,
+      "m0": 1,
+      "rk": 390,
       "up": 2
      },
      "news": [
@@ -6277,10 +6277,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 590,
-      "up": 1
+      "m": 2,
+      "m0": 0,
+      "rk": 183,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -7110,12 +7110,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 23,
       "m0": 1,
-      "rk": 189,
-      "up": 2
+      "rk": 23,
+      "up": 25
      },
      "news": [
+      {
+       "h": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/inside-ceo-cristiano-amon-vision-100000680.html",
+       "date": "2026-09-09"
+      },
       {
        "h": "Qualcomm and Amazon ink deal for custom data center chips",
        "pub": "Yahoo Finance",
@@ -7126,12 +7132,6 @@
        "h": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-083915010.html",
-       "date": "2026-09-09"
-      },
-      {
-       "h": "QCOM Stock Rises Premarket: CFO Touts \u2018Well-Priced\u2019 Shares After Amazon Deal And  \u2018Port Once\u2019 AI Stack For Rival Chips",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-rises-premarket-cfo-081002402.html",
        "date": "2026-09-09"
       }
      ],
@@ -7198,10 +7198,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 94,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 349,
+      "up": 1
      },
      "news": [
       {
@@ -7387,7 +7387,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 328,
+      "rk": 408,
       "up": 1
      },
      "news": [
@@ -7683,12 +7683,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 663,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7777,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 33,
-      "up": 14
+      "m": 5,
+      "m0": 8,
+      "rk": 91,
+      "up": 19
      },
      "news": [
       {
@@ -8286,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 37,
       "m0": 3,
-      "rk": 74,
-      "up": 7
+      "rk": 17,
+      "up": 233
      },
      "thesis": {
       "bull": [
@@ -8589,7 +8584,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 351,
+      "rk": 434,
       "up": 3
      },
      "streetNotes": [
@@ -8770,7 +8765,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 647,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -9088,7 +9088,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 667,
+      "up": 36
+     },
      "news": [
       {
        "h": "Sidus Space (SIDU) Moved, So What Is Catching The Market\u2019s Attention?",
@@ -9181,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 588,
-      "up": 0
+      "rk": 94,
+      "up": 9
      },
      "streetNotes": [
       {
@@ -9363,7 +9368,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 701,
+      "up": 1
+     },
      "news": [
       {
        "h": "Satellogic taps former US geospatial-intelligence chief as president",
@@ -9525,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 25,
-      "up": 19
+      "m": 32,
+      "m0": 10,
+      "rk": 20,
+      "up": 275
      },
      "thesis": {
       "bull": [
@@ -10240,7 +10250,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 688,
+      "up": 1
+     },
      "news": [
       {
        "h": "Telesat (TSAT) Q2 2026 Earnings Call Transcript",
@@ -10305,7 +10320,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 693,
+      "up": 1
+     },
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10413,7 +10433,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 6,
+      "m0": 0,
+      "rk": 79,
+      "up": 50
+     },
      "news": [
       {
        "h": "SpaceX Rises 4% as Pivotal Research Launches Coverage at $220, Intuitive Machines Climbs 5%, Rocket Lab Gains 3%",
@@ -10563,10 +10588,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 84,
-      "up": 2
+      "m": 1,
+      "m0": 2,
+      "rk": 209,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10674,8 +10699,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 182,
+      "m0": 1,
+      "rk": 252,
       "up": 1
      },
      "streetNotes": [
@@ -10784,7 +10809,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 132,
+      "rk": 200,
       "up": 2
      },
      "news": [
@@ -10872,7 +10897,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 334,
+      "rk": 414,
       "up": 1
      },
      "news": [
@@ -10957,12 +10982,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 210,
-      "up": 1
-     },
+     "social": null,
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11242,29 +11262,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 26,
       "m0": 4,
-      "rk": 57,
-      "up": 8
+      "rk": 21,
+      "up": 41
      },
      "news": [
+      {
+       "h": "Why Palantir Rallied Over 50% in August",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-rallied-over-50-094000055.html",
+       "date": "2026-09-09"
+      },
+      {
+       "h": "Palantir and Nebius form sovereign AI infrastructure partnership",
+       "pub": "Verdict",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nebius-form-sovereign-ai-090717769.html",
+       "date": "2026-09-09"
+      },
       {
        "h": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html",
        "date": "2026-09-09"
-      },
-      {
-       "h": "Palantir Stock Continues to Grow on the Back of Enterprise Partnerships",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-continues-grow-back-223139549.html",
-       "date": "2026-09-08"
-      },
-      {
-       "h": "Palantir Technologies Inc. (PLTR) Falls More Steeply Than Broader Market: What Investors Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-falls-214503368.html",
-       "date": "2026-09-08"
       }
      ],
      "awards": [
@@ -12369,8 +12389,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 366,
+      "m0": 1,
+      "rk": 450,
       "up": 1
      },
      "news": [
@@ -12677,10 +12697,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 99,
-      "up": 6
+      "m": 7,
+      "m0": 2,
+      "rk": 66,
+      "up": 7
      },
      "news": [
       {
@@ -12760,10 +12780,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 10,
-      "rk": 23,
-      "up": 3
+      "m": 13,
+      "m0": 11,
+      "rk": 35,
+      "up": 44
      },
      "news": [
       {
@@ -13035,8 +13055,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 535,
+      "m0": 1,
+      "rk": 631,
       "up": 1
      },
      "news": [
@@ -13118,9 +13138,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 603,
-      "up": 1
+      "m0": 1,
+      "rk": 714,
+      "up": 3
      },
      "news": [
       {
@@ -13364,10 +13384,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 80,
-      "up": 43
+      "m": 2,
+      "m0": 3,
+      "rk": 187,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -13605,10 +13625,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 10,
       "m0": 5,
-      "rk": 49,
-      "up": 9
+      "rk": 52,
+      "up": 12
      },
      "news": [
       {
@@ -13669,9 +13689,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 629,
-      "up": -1
+      "m0": 1,
+      "rk": 744,
+      "up": 1
      },
      "news": [
       {
@@ -14025,7 +14045,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 275,
+      "rk": 357,
       "up": 2
      },
      "streetNotes": [
@@ -14105,10 +14125,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 121,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 752,
+      "up": 2
      },
      "news": [
       {
@@ -14194,8 +14214,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 578,
+      "m0": 1,
+      "rk": 679,
       "up": 2
      },
      "news": [
@@ -14582,8 +14602,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 587,
-      "up": 2
+      "rk": 690,
+      "up": 1
      },
      "news": [
       {
@@ -14668,10 +14688,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 65,
-      "up": 4
+      "m": 2,
+      "m0": 3,
+      "rk": 161,
+      "up": 5
      },
      "news": [
       {
@@ -14987,10 +15007,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 3,
-      "rk": 39,
-      "up": 9
+      "m": 2,
+      "m0": 6,
+      "rk": 153,
+      "up": 18
      },
      "news": [
       {
@@ -15076,8 +15096,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 203,
+      "m0": 1,
+      "rk": 272,
       "up": 1
      },
      "news": [
@@ -15162,12 +15182,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 214,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "PSEG (PEG) Down 2.9% Since Last Earnings Report: Can It Rebound?",
@@ -17579,7 +17594,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-08",
+ "social_asof": "2026-09-09",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17859,6 +17874,55 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Dow sell-side Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Can Micron Catch Up to Nvidia's $5.5 Trillion Market Cap?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-catch-nvidias-5-5-100700144.html",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/inside-ceo-cristiano-amon-vision-100000680.html",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "UBER",
+   "h": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
+   "pub": "Yahoo Finance Video",
+   "link": "https://finance.yahoo.com/video/inside-ceo-cristiano-amon-vision-100000680.html",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Why Palantir Rallied Over 50% in August",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-palantir-rallied-over-50-094000055.html",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "UBER",
+   "h": "Update: Market Chatter: Uber Targets 4 Billion Euros From Five-Tranche Euro Bond Deal, Deal Size Could Increase",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-uber-targets-4-092920356.html",
+   "date": "2026-09-09"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir and Nebius form sovereign AI infrastructure partnership",
+   "pub": "Verdict",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nebius-form-sovereign-ai-090717769.html",
+   "date": "2026-09-09"
+  },
+  {
    "tk": "QCOM",
    "h": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
    "pub": "Stocktwits",
@@ -17877,20 +17941,6 @@
    "h": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-083915010.html",
-   "date": "2026-09-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "3 Quantum Computing Stocks Have Issued a $63 Million Warning This Year That Wall Street Cannot Ignore",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-quantum-computing-stocks-issued-083500218.html",
-   "date": "2026-09-09"
-  },
-  {
-   "tk": "NVDA",
-   "h": "If You're on Social Security, Mark This Key Date on Your Calendar",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/youre-social-security-mark-key-082900068.html",
    "date": "2026-09-09"
   },
   {
@@ -17971,13 +18021,6 @@
    "date": "2026-09-09"
   },
   {
-   "tk": "QCOM",
-   "h": "MRVL Stock Keeps Climbing As CEO Shrugs Off Qualcomm-Amazon Threat: 'We Are The Switzerland Of This Entire Market'",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-keeps-climbing-ceo-035839876.html",
-   "date": "2026-09-09"
-  },
-  {
    "tk": "RKLB",
    "h": "Rocket Lab's Next Neutron Milestone Is a Pad Delivery, Not a Launch. I'd Hold Off on Buying the Stock.",
    "pub": "Motley Fool",
@@ -18031,13 +18074,6 @@
    "h": "Centrus Energy, SM Energy, BKV, Select Water Solutions, and ProFrac Stocks Trade Up, What You Need To Know",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/energy/articles/centrus-energy-sm-energy-bkv-011118972.html",
-   "date": "2026-09-09"
-  },
-  {
-   "tk": "UBER",
-   "h": "Meta Platforms Settles Major Lawsuit, Pays $18 Billion",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-settles-major-lawsuit-010028284.html",
    "date": "2026-09-09"
   },
   {
@@ -18116,28 +18152,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-uuuu-rises-market-214507343.html",
    "date": "2026-09-08"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Technologies Inc. (PLTR) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-inc-pltr-falls-214503368.html",
-   "date": "2026-09-08"
-  },
-  {
-   "tk": "VSAT",
-   "h": "DAL Stock Drops: sell-side Sees Possible Snag To In-Cabin Experience Owing To SPCX-VSAT Spectrum Fight",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dal-stock-drops-jefferies-sees-213830650.html",
-   "date": "2026-09-08"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing Rises Even as August Deliveries Fall 11%",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-rises-even-august-deliveries-213100771.html",
-   "date": "2026-09-08"
   }
  ],
- "prices_asof": "2026-09-09 08:54 UTC"
+ "prices_asof": "2026-09-09 10:21 UTC"
 }
