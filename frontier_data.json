@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 639,
-      "up": 1
+      "rk": 668,
+      "up": 8
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 710,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 173,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 129,
-      "m0": 41,
-      "rk": 3,
-      "up": 702
+      "m": 74,
+      "m0": 129,
+      "rk": 6,
+      "up": 166
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-09-09"
       },
       {
-       "h": "Market Chatter: Justice Department Probes Nvidia Licensing Deal With Groq",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-justice-department-probes-084549477.html",
+       "h": "Here's Where Wall Street Analysts See Nvidia's Share Price Going",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/heres-where-wall-street-analysts-095000898.html",
        "date": "2026-09-10"
       }
      ]
@@ -1365,10 +1365,10 @@
        "date": "2016-05-11"
       },
       {
-       "amt": 27791700.98,
+       "amt": 30056895.63,
        "ag": "Department of Defense",
-       "desc": "PROCUREMENT OF SPARE DETECTOR COOLER BENCH (DCB)",
-       "date": "2023-08-15"
+       "desc": "TUNNER LOADER OVERHAUL",
+       "date": "2020-12-30"
       },
       {
        "amt": 27791700.98,
@@ -1377,10 +1377,10 @@
        "date": "2023-08-15"
       },
       {
-       "amt": 23641529.0,
+       "amt": 27791700.98,
        "ag": "Department of Defense",
-       "desc": "M-LIDS TO 16",
-       "date": "2025-07-25"
+       "desc": "PROCUREMENT OF SPARE DETECTOR COOLER BENCH (DCB)",
+       "date": "2023-08-15"
       }
      ]
     },
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 4,
-      "rk": 21,
-      "up": 41
+      "m": 30,
+      "m0": 26,
+      "rk": 23,
+      "up": 67
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sold-2-popular-090801060.html",
+       "date": "2026-09-10"
+      },
+      {
        "h": "Jim Cramer Compares Palantir (PLTR) to an NFL Wide Receiver",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-compares-palantir-pltr-230017699.html",
@@ -1787,12 +1793,6 @@
        "h": "Q2 Data Analytics Earnings Review: First Prize Goes to Palantir Technologies (NASDAQ:PLTR)",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q2-data-analytics-earnings-review-203438095.html",
-       "date": "2026-09-09"
-      },
-      {
-       "h": "Meet the AI Software Stock That\u2019s Crushing Palantir (Hint: It\u2019s Significantly Cheaper)",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/meet-ai-software-stock-crushing-194902140.html",
        "date": "2026-09-09"
       }
      ],
@@ -2034,12 +2034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 335,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2330,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 252,
+      "rk": 250,
       "up": 1
      },
      "streetNotes": [
@@ -2485,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 4,
-      "rk": 54,
-      "up": 13
+      "m": 55,
+      "m0": 9,
+      "rk": 9,
+      "up": 105
      },
      "thesis": {
       "bull": [
@@ -3149,8 +3144,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 741,
-      "up": 2
+      "rk": 789,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4039,9 +4034,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 3,
-      "rk": 96,
-      "up": 22
+      "m0": 5,
+      "rk": 88,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4387,13 +4382,14 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 414,
-      "up": 1
-     },
+     "social": null,
      "news": [
+      {
+       "h": "Could Laser Fusion Tech Be Used to Shoot Down Missiles and Drones?",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/could-laser-fusion-tech-be-used-to-shoot-down-missiles-and-drones-3c50bcb3?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-10"
+      },
       {
        "h": "GE Expands Mission-Critical Castings Capacity Through CPP Acquisition",
        "pub": "Zacks",
@@ -4405,12 +4401,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-pac-3-award-boost-125900240.html",
        "date": "2026-09-09"
-      },
-      {
-       "h": "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-rises-26-5-date-165100941.html",
-       "date": "2026-09-08"
       }
      ],
      "awards": [
@@ -4570,10 +4560,10 @@
      "hold": null,
      "geo": "Israel",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 115,
-      "up": 12
+      "m": 1,
+      "m0": 4,
+      "rk": 800,
+      "up": 0
      },
      "news": [
       {
@@ -4727,9 +4717,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 630,
-      "up": 3
+      "m0": 1,
+      "rk": 658,
+      "up": 1
      },
      "news": [
       {
@@ -5150,7 +5140,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6948164177.74,
+       "amt": 6954390177.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5275,7 +5265,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 586,
+      "up": 6
+     },
      "news": [
       {
        "h": "Ocean Power Technologies to demonstrate WAM-V platform in US Army coastal testing",
@@ -5438,7 +5433,7 @@
        "date": "1992-10-15"
       },
       {
-       "amt": 4013930856.64,
+       "amt": 4039659148.32,
        "ag": "Department of Defense",
        "desc": "THE FUTURE VERTICAL LIFT (FVL) FLRAA CAPABILITY SET THREE IS A PRE-MAJOR DEFENSE ACQUISITION PROGRAM (ACAT 1C) COMMISSIONED TO DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
        "date": "2022-12-05"
@@ -5869,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 24,
-      "rk": 8,
-      "up": 985
+      "m": 41,
+      "m0": 54,
+      "rk": 15,
+      "up": 78
      },
      "news": [
       {
@@ -5957,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 1,
-      "rk": 48,
-      "up": 325
+      "m": 9,
+      "m0": 10,
+      "rk": 67,
+      "up": 30
      },
      "news": [
       {
@@ -5970,15 +5965,15 @@
        "date": "2026-09-09"
       },
       {
-       "h": "Inside CEO Cristiano Amon\u2019s vision for Qualcomm\u2019s future",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/inside-ceo-cristiano-amon-vision-100000680.html",
-       "date": "2026-09-09"
-      },
-      {
        "h": "Should You Buy Uber Stock Because Its Operating Margin Keeps Climbing?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-uber-stock-because-operating-215028059.html",
+       "date": "2026-09-09"
+      },
+      {
+       "h": "Why Uber Technologies (UBER) Dipped More Than Broader Market Today",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/why-uber-technologies-uber-dipped-214507175.html",
        "date": "2026-09-09"
       }
      ],
@@ -6047,7 +6042,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 390,
+      "rk": 402,
       "up": 2
      },
      "news": [
@@ -6277,10 +6272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 183,
-      "up": 10
+      "m": 1,
+      "m0": 2,
+      "rk": 723,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -6995,7 +6990,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 598,
+      "up": 3
+     },
      "news": [
       {
        "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
@@ -7110,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 23,
-      "m0": 1,
-      "rk": 23,
-      "up": 25
+      "m": 5,
+      "m0": 23,
+      "rk": 94,
+      "up": 9
      },
      "news": [
       {
@@ -7123,15 +7123,15 @@
        "date": "2026-09-09"
       },
       {
-       "h": "iPhone 18 Pro Debuts C2 Modem As Apple Keeps Weaning Off Qualcomm \u2014 Pro Max Isn't Ready to Let Go",
-       "pub": "Benzinga",
-       "link": "https://finance.yahoo.com/technology/articles/iphone-18-pro-debuts-c2-072924002.html",
-       "date": "2026-09-10"
+       "h": "Qualcomm's big bet on 6G technology",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/qualcomms-big-bet-on-6g-technology-110000678.html",
+       "date": "2026-09-09"
       },
       {
-       "h": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-60-billion-deal-reveals-013700748.html",
+       "h": "Nvidia-Backed MediaTek's Sales Soar 44% With AI Chip Momentum",
+       "pub": "Bloomberg",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-mediatek-sales-soar-090359864.html",
        "date": "2026-09-10"
       }
      ],
@@ -7199,8 +7199,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 349,
+      "m0": 1,
+      "rk": 351,
       "up": 1
      },
      "news": [
@@ -7384,12 +7384,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 408,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can Serve Robotics' $240M Liquidity Cushion Fund Its Robot Ambitions?",
@@ -7772,10 +7767,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 8,
-      "rk": 91,
-      "up": 19
+      "m": 3,
+      "m0": 5,
+      "rk": 126,
+      "up": 6
      },
      "news": [
       {
@@ -8281,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 3,
-      "rk": 17,
-      "up": 233
+      "m": 35,
+      "m0": 37,
+      "rk": 19,
+      "up": 191
      },
      "thesis": {
       "bull": [
@@ -8584,8 +8579,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 434,
-      "up": 3
+      "rk": 448,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -8767,9 +8762,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 647,
-      "up": 1
+      "m0": 1,
+      "rk": 675,
+      "up": 94
      },
      "thesis": {
       "bull": [
@@ -9031,7 +9026,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 179,
+      "up": 14
+     },
      "news": [
       {
        "h": "2 Space Stocks to Buy in September",
@@ -9090,9 +9090,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 667,
-      "up": 36
+      "m0": 1,
+      "rk": 698,
+      "up": 45
      },
      "news": [
       {
@@ -9186,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 94,
-      "up": 9
+      "m": 16,
+      "m0": 5,
+      "rk": 33,
+      "up": 133
      },
      "streetNotes": [
       {
@@ -9285,7 +9285,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 131,
+      "up": 7
+     },
      "news": [
       {
        "h": "Grounded and Falling: Why One Wall Street Pro Says Rocket Lab Will More Than Double Soon",
@@ -9370,9 +9375,9 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 701,
-      "up": 1
+      "m0": 1,
+      "rk": 735,
+      "up": 0
      },
      "news": [
       {
@@ -9535,10 +9540,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 10,
-      "rk": 20,
-      "up": 275
+      "m": 17,
+      "m0": 32,
+      "rk": 31,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -10013,7 +10018,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 394,
+      "up": 1
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10252,8 +10262,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 688,
+      "m0": 1,
+      "rk": 718,
       "up": 1
      },
      "news": [
@@ -10322,8 +10332,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 693,
+      "m0": 1,
+      "rk": 726,
       "up": 1
      },
      "news": [
@@ -10434,10 +10444,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 0,
-      "rk": 79,
-      "up": 50
+      "m": 3,
+      "m0": 6,
+      "rk": 134,
+      "up": 100
      },
      "news": [
       {
@@ -10589,9 +10599,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 209,
-      "up": 1
+      "m0": 1,
+      "rk": 195,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -10700,7 +10710,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 252,
+      "rk": 250,
       "up": 1
      },
      "streetNotes": [
@@ -10806,12 +10816,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 200,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Jim Cramer Discusses the Manufacturing Recovery at GE Aerospace (GE) and Boeing (BA)",
@@ -10894,13 +10899,14 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 414,
-      "up": 1
-     },
+     "social": null,
      "news": [
+      {
+       "h": "Could Laser Fusion Tech Be Used to Shoot Down Missiles and Drones?",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/business/could-laser-fusion-tech-be-used-to-shoot-down-missiles-and-drones-3c50bcb3?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-10"
+      },
       {
        "h": "GE Expands Mission-Critical Castings Capacity Through CPP Acquisition",
        "pub": "Zacks",
@@ -10912,12 +10918,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/l3harris-pac-3-award-boost-125900240.html",
        "date": "2026-09-09"
-      },
-      {
-       "h": "Howmet Rises 26.5% Year to Date: Should Investors Buy the Stock Now?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-rises-26-5-date-165100941.html",
-       "date": "2026-09-08"
       }
      ],
      "awards": [
@@ -11262,12 +11262,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 4,
-      "rk": 21,
-      "up": 41
+      "m": 30,
+      "m0": 26,
+      "rk": 23,
+      "up": 67
      },
      "news": [
+      {
+       "h": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sold-2-popular-090801060.html",
+       "date": "2026-09-10"
+      },
       {
        "h": "Jim Cramer Compares Palantir (PLTR) to an NFL Wide Receiver",
        "pub": "Insider Monkey",
@@ -11278,12 +11284,6 @@
        "h": "Q2 Data Analytics Earnings Review: First Prize Goes to Palantir Technologies (NASDAQ:PLTR)",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q2-data-analytics-earnings-review-203438095.html",
-       "date": "2026-09-09"
-      },
-      {
-       "h": "Meet the AI Software Stock That\u2019s Crushing Palantir (Hint: It\u2019s Significantly Cheaper)",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/meet-ai-software-stock-crushing-194902140.html",
        "date": "2026-09-09"
       }
      ],
@@ -12390,8 +12390,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 450,
-      "up": 1
+      "rk": 467,
+      "up": 3
      },
      "news": [
       {
@@ -12580,7 +12580,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 404,
+      "up": 1
+     },
      "news": [
       {
        "h": "sell-side launches nuclear coverage on $55tn capex outlook to 2100",
@@ -12697,10 +12702,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 2,
-      "rk": 66,
-      "up": 7
+      "m": 8,
+      "m0": 7,
+      "rk": 72,
+      "up": 173
      },
      "news": [
       {
@@ -12780,10 +12785,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
+      "m": 41,
       "m0": 11,
-      "rk": 35,
-      "up": 44
+      "rk": 14,
+      "up": 284
      },
      "news": [
       {
@@ -13056,7 +13061,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 631,
+      "rk": 660,
       "up": 1
      },
      "news": [
@@ -13139,8 +13144,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 714,
-      "up": 3
+      "rk": 755,
+      "up": 2
      },
      "news": [
       {
@@ -13384,10 +13389,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 187,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 793,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13625,10 +13630,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 5,
-      "rk": 52,
-      "up": 12
+      "m": 1,
+      "m0": 10,
+      "rk": 745,
+      "up": 3
      },
      "news": [
       {
@@ -13690,7 +13695,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 744,
+      "rk": 792,
       "up": 1
      },
      "news": [
@@ -14042,12 +14047,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 357,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14124,12 +14124,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 752,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -14212,12 +14207,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 679,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Mirion CFO Brian Schopfer Buys 20,000",
@@ -14602,7 +14592,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 690,
+      "rk": 720,
       "up": 1
      },
      "news": [
@@ -14688,10 +14678,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 161,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 355,
+      "up": 2
      },
      "news": [
       {
@@ -15007,10 +14997,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 153,
-      "up": 18
+      "m": 3,
+      "m0": 3,
+      "rk": 120,
+      "up": 46
      },
      "news": [
       {
@@ -15097,7 +15087,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 272,
+      "rk": 271,
       "up": 1
      },
      "news": [
@@ -17594,7 +17584,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-09",
+ "social_asof": "2026-09-10",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17875,9 +17865,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Market Chatter: Justice Department Probes Nvidia Licensing Deal With Groq",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-justice-department-probes-084549477.html",
+   "h": "Here's Where Wall Street Analysts See Nvidia's Share Price Going",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-where-wall-street-analysts-095000898.html",
+   "date": "2026-09-10"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Understanding Disclosure Documents",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/options/articles/understanding-disclosure-documents-095000586.html",
+   "date": "2026-09-10"
+  },
+  {
+   "tk": "RTX",
+   "h": "Could Laser Fusion Tech Be Used to Shoot Down Missiles and Drones?",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/could-laser-fusion-tech-be-used-to-shoot-down-missiles-and-drones-3c50bcb3?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-10"
+  },
+  {
+   "tk": "PLTR",
+   "h": "President Trump Sold 2 Popular Artificial Intelligence (AI) Stocks. Wall Street Says Investors Should Buy Both.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-sold-2-popular-090801060.html",
+   "date": "2026-09-10"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Nvidia-Backed MediaTek's Sales Soar 44% With AI Chip Momentum",
+   "pub": "Bloomberg",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-mediatek-sales-soar-090359864.html",
    "date": "2026-09-10"
   },
   {
@@ -17885,13 +17903,6 @@
    "h": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of PPI, Jobless Claims: NVDA, AAPL, META, ORCL, TSM, TSLA, SLS In Focus",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-084546432.html",
-   "date": "2026-09-10"
-  },
-  {
-   "tk": "NVDA",
-   "h": "2 No-Brainer Dividend Stocks to Buy Heading Into the Fourth Quarter",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-no-brainer-dividend-stocks-083500149.html",
    "date": "2026-09-10"
   },
   {
@@ -18021,13 +18032,6 @@
    "date": "2026-09-10"
   },
   {
-   "tk": "QCOM",
-   "h": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-60-billion-deal-reveals-013700748.html",
-   "date": "2026-09-10"
-  },
-  {
    "tk": "AVAV",
    "h": "AeroVironment Just Delivered Historic Results. Wall Street Says It's a Buy",
    "pub": "Motley Fool",
@@ -18138,21 +18142,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/red-cat-holdings-director-sells-205001745.html",
    "date": "2026-09-09"
-  },
-  {
-   "tk": "QCOM",
-   "h": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-outperform-204300185.html",
-   "date": "2026-09-09"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Q2 Data Analytics Earnings Review: First Prize Goes to Palantir Technologies (NASDAQ:PLTR)",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/q2-data-analytics-earnings-review-203438095.html",
-   "date": "2026-09-09"
   }
  ],
- "prices_asof": "2026-09-10 08:53 UTC"
+ "prices_asof": "2026-09-10 10:14 UTC"
 }
