@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 668,
-      "up": 8
+      "rk": 171,
+      "up": 73
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 173,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 767,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 74,
-      "m0": 129,
-      "rk": 6,
-      "up": 166
+      "m": 73,
+      "m0": 74,
+      "rk": 7,
+      "up": 384
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-09-10"
       },
       {
-       "h": "Prediction: Morningstar (MORN) Stock Will Be Worth More Than $13 Billion by 2031 -- 73% Higher Than Its Recent Value. Here's the Math.",
+       "h": "The S&P 500 Is Doing Something It Hasn't Done in Decades. This ETF Could Be the Smarter Buy Right Now.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-morningstar-morn-stock-worth-083500759.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-doing-something-hasnt-100500087.html",
        "date": "2026-09-11"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 26,
-      "rk": 23,
-      "up": 67
+      "m": 12,
+      "m0": 29,
+      "rk": 38,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 250,
+      "rk": 259,
       "up": 1
      },
      "streetNotes": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 55,
-      "m0": 9,
-      "rk": 9,
-      "up": 105
+      "m": 27,
+      "m0": 53,
+      "rk": 18,
+      "up": 37
      },
      "thesis": {
       "bull": [
@@ -3141,12 +3141,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 789,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4033,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 6,
       "m0": 5,
-      "rk": 88,
-      "up": 7
+      "rk": 69,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -4382,8 +4377,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 415,
+      "up": 2
+     },
      "news": [
+      {
+       "h": "The Zacks Analyst Blog Highlights sell-side Sachs, RTX, Abbott, NLI and Precipio",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-goldman-092000522.html",
+       "date": "2026-09-11"
+      },
       {
        "h": "Top Research Reports for sell-side Sachs, RTX & Abbott",
        "pub": "Zacks",
@@ -4394,12 +4400,6 @@
        "h": "Strong Orders Drive GE's Defense & Propulsion: Can Momentum Sustain?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-orders-drive-ges-defense-161900768.html",
-       "date": "2026-09-10"
-      },
-      {
-       "h": "Can Hypersonic Weapons Production Boost Leidos' Growth Prospects?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/hypersonic-weapons-production-boost-leidos-161700554.html",
        "date": "2026-09-10"
       }
      ],
@@ -4559,12 +4559,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 800,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Mobix Labs Secures Initial F-16 Component Order, Expanding Defense Aircraft Footprint",
@@ -4718,8 +4713,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 658,
-      "up": 1
+      "rk": 671,
+      "up": 2
      },
      "news": [
       {
@@ -5267,9 +5262,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 586,
-      "up": 6
+      "m0": 1,
+      "rk": 593,
+      "up": 5
      },
      "news": [
       {
@@ -5864,12 +5859,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 54,
-      "rk": 15,
-      "up": 78
+      "m": 25,
+      "m0": 41,
+      "rk": 20,
+      "up": 173
      },
      "news": [
+      {
+       "h": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
+       "date": "2026-09-11"
+      },
       {
        "h": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
        "pub": "Stocktwits",
@@ -5880,12 +5881,6 @@
        "h": "TSLA Stock Rises Premarket On Global Blitz \u2014 Cybercab In Japan, Hotter Model Y In China, Powershare In US",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-rises-premarket-global-080920657.html",
-       "date": "2026-09-11"
-      },
-      {
-       "h": "BYD Outsold Tesla by Roughly 77,000 EVs Again in Q2. Can Tesla Close the Gap?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/byd-outsold-tesla-roughly-77-075000803.html",
        "date": "2026-09-11"
       }
      ],
@@ -5952,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 10,
-      "rk": 67,
-      "up": 30
+      "m": 12,
+      "m0": 9,
+      "rk": 39,
+      "up": 22
      },
      "news": [
       {
@@ -6039,12 +6034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 402,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Here is What to Know Beyond Why Baidu, Inc. (BIDU) is a Trending Stock",
@@ -6273,9 +6263,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 723,
-      "up": 5
+      "m0": 1,
+      "rk": 733,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6992,9 +6982,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 598,
-      "up": 3
+      "m0": 1,
+      "rk": 610,
+      "up": 1
      },
      "news": [
       {
@@ -7111,9 +7101,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 23,
-      "rk": 94,
-      "up": 9
+      "m0": 5,
+      "rk": 84,
+      "up": 8
      },
      "news": [
       {
@@ -7197,12 +7187,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 351,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AXT Stock Falls 22% in Three Months: 3 Reasons the Dip Looks Attractive",
@@ -7384,7 +7369,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 410,
+      "up": 11
+     },
      "news": [
       {
        "h": "Serve Robotics Stock Slides 55% YTD: Should You Buy the Dip or Wait?",
@@ -7768,9 +7758,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 5,
-      "rk": 126,
-      "up": 6
+      "m0": 3,
+      "rk": 118,
+      "up": 11
      },
      "news": [
       {
@@ -8276,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 35,
-      "m0": 37,
-      "rk": 19,
-      "up": 191
+      "m": 10,
+      "m0": 36,
+      "rk": 46,
+      "up": 21
      },
      "thesis": {
       "bull": [
@@ -8507,7 +8497,7 @@
      ],
      "awards": [
       {
-       "amt": 45045522.0,
+       "amt": 51598522.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "VENTURE-CLASS ACQUISITION OF DEDICATED AND RIDESHARE (VADR) UMBRELLA TASK ORDER",
        "date": "2023-03-29"
@@ -8579,7 +8569,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 448,
+      "rk": 438,
       "up": 0
      },
      "streetNotes": [
@@ -8763,8 +8753,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 675,
-      "up": 94
+      "rk": 691,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -8946,6 +8936,12 @@
      },
      "news": [
       {
+       "h": "Should You Buy Redwire While It's Below $13?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-redwire-while-below-13-085000037.html",
+       "date": "2026-09-11"
+      },
+      {
        "h": "How Far Could RKLB Stock Fall In The Next Shock?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/far-could-rklb-stock-fall-164325183.html",
@@ -8955,12 +8951,6 @@
        "h": "Trump Declares the Moon Belongs to the U.S. Here Are 5 Space Stocks to Watch",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/trump-declares-moon-belongs-u-144335611.html",
-       "date": "2026-09-08"
-      },
-      {
-       "h": "Can Redwire's Phased-Array Investment Drive Defense Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/redwires-phased-array-investment-drive-130100463.html",
        "date": "2026-09-08"
       }
      ],
@@ -9026,12 +9016,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 179,
-      "up": 14
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Space Stocks to Buy in September",
@@ -9088,12 +9073,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 698,
-      "up": 45
-     },
+     "social": null,
      "news": [
       {
        "h": "Sidus Space (SIDU) Moved, So What Is Catching The Market\u2019s Attention?",
@@ -9186,10 +9166,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 5,
-      "rk": 33,
-      "up": 133
+      "m": 4,
+      "m0": 16,
+      "rk": 90,
+      "up": 8
      },
      "streetNotes": [
       {
@@ -9286,10 +9266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 131,
-      "up": 7
+      "m": 1,
+      "m0": 3,
+      "rk": 697,
+      "up": 3
      },
      "news": [
       {
@@ -9376,7 +9356,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 735,
+      "rk": 748,
       "up": 0
      },
      "news": [
@@ -9540,9 +9520,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 32,
-      "rk": 31,
+      "m": 15,
+      "m0": 17,
+      "rk": 33,
       "up": 41
      },
      "thesis": {
@@ -10020,8 +10000,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 394,
+      "m0": 1,
+      "rk": 390,
       "up": 1
      },
      "news": [
@@ -10263,7 +10243,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 718,
+      "rk": 729,
       "up": 1
      },
      "news": [
@@ -10330,12 +10310,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 726,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10444,10 +10419,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 6,
-      "rk": 134,
-      "up": 100
+      "m": 1,
+      "m0": 3,
+      "rk": 796,
+      "up": 6
      },
      "news": [
       {
@@ -10600,8 +10575,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 195,
-      "up": 0
+      "rk": 205,
+      "up": 23
      },
      "streetNotes": [
       {
@@ -10710,7 +10685,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 250,
+      "rk": 259,
       "up": 1
      },
      "streetNotes": [
@@ -10816,7 +10791,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 195,
+      "up": 122
+     },
      "news": [
       {
        "h": "Amazon\u2019s Aviation Network Faces a Sobering Test after the Miami Crash",
@@ -10899,8 +10879,19 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 415,
+      "up": 2
+     },
      "news": [
+      {
+       "h": "The Zacks Analyst Blog Highlights sell-side Sachs, RTX, Abbott, NLI and Precipio",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-goldman-092000522.html",
+       "date": "2026-09-11"
+      },
       {
        "h": "Top Research Reports for sell-side Sachs, RTX & Abbott",
        "pub": "Zacks",
@@ -10911,12 +10902,6 @@
        "h": "Strong Orders Drive GE's Defense & Propulsion: Can Momentum Sustain?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/strong-orders-drive-ges-defense-161900768.html",
-       "date": "2026-09-10"
-      },
-      {
-       "h": "Can Hypersonic Weapons Production Boost Leidos' Growth Prospects?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/hypersonic-weapons-production-boost-leidos-161700554.html",
        "date": "2026-09-10"
       }
      ],
@@ -11262,10 +11247,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 26,
-      "rk": 23,
-      "up": 67
+      "m": 12,
+      "m0": 29,
+      "rk": 38,
+      "up": 22
      },
      "news": [
       {
@@ -12390,7 +12375,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 467,
+      "rk": 460,
       "up": 3
      },
      "news": [
@@ -12582,8 +12567,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 404,
+      "m0": 1,
+      "rk": 397,
       "up": 1
      },
      "news": [
@@ -12702,10 +12687,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 7,
-      "rk": 72,
-      "up": 173
+      "m": 2,
+      "m0": 8,
+      "rk": 154,
+      "up": 6
      },
      "news": [
       {
@@ -12785,10 +12770,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 11,
-      "rk": 14,
-      "up": 284
+      "m": 29,
+      "m0": 43,
+      "rk": 16,
+      "up": 252
      },
      "news": [
       {
@@ -13058,12 +13043,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 660,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Centrus Energy (LEU) Stock Trades Down, Here Is Why",
@@ -13144,7 +13124,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 755,
+      "rk": 772,
       "up": 2
      },
      "news": [
@@ -13388,12 +13368,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 793,
-      "up": 3
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -13631,9 +13606,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 10,
-      "rk": 745,
-      "up": 3
+      "m0": 1,
+      "rk": 761,
+      "up": 11
      },
      "news": [
       {
@@ -13692,12 +13667,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 792,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Wall Street Analysts Predict a 129.86% Upside in Nano Nuclear Energy Inc. (NNE): Here's  What You Should Know",
@@ -14127,6 +14097,12 @@
      "social": null,
      "news": [
       {
+       "h": "Elon Musk\u2019s gas turbines could shake up the backlogged sector",
+       "pub": "Financial Times",
+       "link": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
+       "date": "2026-09-11"
+      },
+      {
        "h": "EXCLUSIVE: Kevin Warsh\u2019s Hawkishness Is a \u2018Distraction From His Dovishness,\u2019 Truflation CEO Says",
        "pub": "Benzinga Prediction Markets",
        "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-kevin-warsh-hawkishness-distraction-144339437.html",
@@ -14137,12 +14113,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/gas-turbine-grid-backlog-powers-121945090.html",
        "date": "2026-09-10"
-      },
-      {
-       "h": "GE Vernova (GEV) Suffers a Larger Drop Than the General Market: Key Insights",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-suffers-larger-220004035.html",
-       "date": "2026-09-09"
       }
      ],
      "awards": [
@@ -14396,7 +14366,7 @@
      ],
      "awards": [
       {
-       "amt": 14911941111.9,
+       "amt": 14925550269.48,
        "ag": "Department of Defense",
        "desc": "NAVAL NUCLEAR LABORATORY",
        "date": "2018-07-12"
@@ -14478,6 +14448,12 @@
       }
      ],
      "awards": [
+      {
+       "amt": 154345.23,
+       "ag": "Department of Transportation",
+       "desc": "CO FW RKM 10(1) WILDLIFE DR. & VC PARKING DESIGN TO 0% - 100%",
+       "date": "2022-06-16"
+      },
       {
        "amt": 115640.4,
        "ag": "Department of Transportation",
@@ -14592,8 +14568,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 720,
-      "up": 1
+      "rk": 731,
+      "up": 2
      },
      "news": [
       {
@@ -14678,9 +14654,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 355,
+      "m": 2,
+      "m0": 1,
+      "rk": 147,
       "up": 2
      },
      "news": [
@@ -14830,7 +14806,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 229,
+      "up": 1
+     },
      "news": [
       {
        "h": "Dominion Energy (D) Suffers a Larger Drop Than the General Market: Key Insights",
@@ -14871,7 +14852,7 @@
        "date": "2019-11-19"
       },
       {
-       "amt": 4910124.48,
+       "amt": 5323837.71,
        "ag": "Department of Justice",
        "desc": "QUANTICO ELECTRIC",
        "date": "2026-01-01"
@@ -14997,10 +14978,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 3,
-      "rk": 120,
-      "up": 46
+      "m": 7,
+      "m0": 4,
+      "rk": 64,
+      "up": 15
      },
      "news": [
       {
@@ -15087,7 +15068,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 271,
+      "rk": 283,
       "up": 1
      },
      "news": [
@@ -15172,7 +15153,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 293,
+      "up": 6
+     },
      "news": [
       {
        "h": "Public Service Enterprise Group Stock: Is PEG Underperforming the Utilities Sector?",
@@ -17584,7 +17570,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-10",
+ "social_asof": "2026-09-11",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17865,9 +17851,37 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Prediction: Morningstar (MORN) Stock Will Be Worth More Than $13 Billion by 2031 -- 73% Higher Than Its Recent Value. Here's the Math.",
+   "h": "The S&P 500 Is Doing Something It Hasn't Done in Decades. This ETF Could Be the Smarter Buy Right Now.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-morningstar-morn-stock-worth-083500759.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-doing-something-hasnt-100500087.html",
+   "date": "2026-09-11"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Wall St futures recover as oil slides ahead of inflation test",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html",
+   "date": "2026-09-11"
+  },
+  {
+   "tk": "RTX",
+   "h": "The Zacks Analyst Blog Highlights sell-side Sachs, RTX, Abbott, NLI and Precipio",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-goldman-092000522.html",
+   "date": "2026-09-11"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Zacks Analyst Blog Highlights Tesla, BYD and NIO",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-091300980.html",
+   "date": "2026-09-11"
+  },
+  {
+   "tk": "RDW",
+   "h": "Should You Buy Redwire While It's Below $13?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-redwire-while-below-13-085000037.html",
    "date": "2026-09-11"
   },
   {
@@ -17882,13 +17896,6 @@
    "h": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-dow-p-500-futures-083352033.html",
-   "date": "2026-09-11"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Forget Today's Inflation Report: Fed Chair Kevin Warsh and His Colleagues Have Likely Already Made Up Their Mind for the Sept. 16 FOMC Meeting",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/forget-todays-inflation-report-fed-082601737.html",
    "date": "2026-09-11"
   },
   {
@@ -17917,6 +17924,13 @@
    "h": "PLTR Stock Wins Whether We\u2019re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/technology/ai/articles/pltr-stock-wins-whether-ai-061107583.html",
+   "date": "2026-09-11"
+  },
+  {
+   "tk": "GEV",
+   "h": "Elon Musk\u2019s gas turbines could shake up the backlogged sector",
+   "pub": "Financial Times",
+   "link": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
    "date": "2026-09-11"
   },
   {
@@ -18046,13 +18060,6 @@
    "date": "2026-09-10"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-falls-more-steeply-214505362.html",
-   "date": "2026-09-10"
-  },
-  {
    "tk": "UBER",
    "h": "Uber Stock Pops After CEO Buys Shares Worth $10 Million",
    "pub": "Barrons.com",
@@ -18121,28 +18128,7 @@
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-goldman-sachs-201200445.html",
    "date": "2026-09-10"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab stock moves on solar cell announcement",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-moves-solar-200700217.html",
-   "date": "2026-09-10"
-  },
-  {
-   "tk": "CEG",
-   "h": "Sector Update: Energy Stocks Decline Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html",
-   "date": "2026-09-10"
-  },
-  {
-   "tk": "VST",
-   "h": "Sector Update: Energy Stocks Decline Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html",
-   "date": "2026-09-10"
   }
  ],
- "prices_asof": "2026-09-11 08:47 UTC"
+ "prices_asof": "2026-09-11 10:11 UTC"
 }
