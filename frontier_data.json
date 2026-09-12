@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 171,
-      "up": 73
+      "m": 1,
+      "m0": 2,
+      "rk": 642,
+      "up": 1
      },
      "news": [
       {
@@ -815,9 +815,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 767,
-      "up": 1
+      "m0": 1,
+      "rk": 715,
+      "up": 30
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 73,
+      "m": 44,
       "m0": 74,
-      "rk": 7,
-      "up": 384
+      "rk": 8,
+      "up": 61
      },
      "thesis": {
       "bull": [
@@ -1149,9 +1149,9 @@
        "date": "2026-09-11"
       },
       {
-       "h": "Is a Stock Market Crash Looming Under President Donald Trump? Nearly 156 Years of History Offers Up an Unpleasant Truth for Wall Street.",
+       "h": "Nvidia Stock Could Reach $490 by End of 2027 Based on Current Growth Projections",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-looming-under-082601234.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-reach-490-092300323.html",
        "date": "2026-09-12"
       }
      ]
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 29,
-      "rk": 38,
-      "up": 22
+      "m": 20,
+      "m0": 14,
+      "rk": 18,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
+       "date": "2026-09-12"
+      },
+      {
        "h": "Michael Burry Is Staying Short Nvidia, Palantir, and Tesla, Warning of a Possible \"1987-Type Fall\" for AI Stocks. Should Investors Take the Bet Seriously?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-staying-short-nvidia-055000259.html",
@@ -1787,12 +1793,6 @@
        "h": "Palantir (PLTR)\u2019s CEO Bets his Own Money on Ukraine\u2019s Ousted Tech-Warfare Architect",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-ceo-bets-own-005236786.html",
-       "date": "2026-09-12"
-      },
-      {
-       "h": "Veteran analyst resets Palantir price target for rest of 2026",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-resets-palantir-price-000300267.html",
        "date": "2026-09-12"
       }
      ],
@@ -2322,12 +2322,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 259,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2480,10 +2475,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 53,
-      "rk": 18,
-      "up": 37
+      "m": 2,
+      "m0": 29,
+      "rk": 128,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2829,7 +2824,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 692,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -4028,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 69,
-      "up": 10
+      "m": 2,
+      "m0": 6,
+      "rk": 156,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -4379,9 +4379,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 415,
-      "up": 2
+      "m0": 1,
+      "rk": 398,
+      "up": -1
      },
      "news": [
       {
@@ -4713,7 +4713,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 671,
+      "rk": 624,
       "up": 2
      },
      "news": [
@@ -5123,7 +5123,7 @@
      ],
      "awards": [
       {
-       "amt": 12795288672.85,
+       "amt": 12797497563.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5260,12 +5260,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 593,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power Technologies to execute 1-for-30 reverse stock split",
@@ -5859,10 +5854,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 41,
-      "rk": 20,
-      "up": 173
+      "m": 27,
+      "m0": 25,
+      "rk": 12,
+      "up": 44
      },
      "news": [
       {
@@ -5947,10 +5942,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 9,
-      "rk": 39,
-      "up": 22
+      "m": 4,
+      "m0": 12,
+      "rk": 88,
+      "up": 19
      },
      "news": [
       {
@@ -6264,7 +6259,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 733,
+      "rk": 688,
       "up": 1
      },
      "thesis": {
@@ -6980,12 +6975,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 610,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
@@ -7100,10 +7090,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 6,
       "m0": 5,
-      "rk": 84,
-      "up": 8
+      "rk": 62,
+      "up": 10
      },
      "news": [
       {
@@ -7371,9 +7361,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 410,
-      "up": 11
+      "m0": 1,
+      "rk": 392,
+      "up": 1
      },
      "news": [
       {
@@ -7757,10 +7747,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 31,
       "m0": 3,
-      "rk": 118,
-      "up": 11
+      "rk": 11,
+      "up": 62
      },
      "news": [
       {
@@ -8266,10 +8256,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 36,
-      "rk": 46,
-      "up": 21
+      "m": 13,
+      "m0": 11,
+      "rk": 31,
+      "up": 28
      },
      "thesis": {
       "bull": [
@@ -8569,8 +8559,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 438,
-      "up": 0
+      "rk": 418,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -8753,7 +8743,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 691,
+      "rk": 648,
       "up": 2
      },
      "thesis": {
@@ -9016,7 +9006,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 799,
+      "up": 7
+     },
      "news": [
       {
        "h": "2 Space Stocks to Buy in September",
@@ -9166,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 16,
-      "rk": 90,
-      "up": 8
+      "m": 1,
+      "m0": 4,
+      "rk": 686,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9267,8 +9262,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 697,
+      "m0": 1,
+      "rk": 655,
       "up": 3
      },
      "news": [
@@ -9356,8 +9351,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 748,
-      "up": 0
+      "rk": 704,
+      "up": 1
      },
      "news": [
       {
@@ -9520,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 17,
-      "rk": 33,
-      "up": 41
+      "m": 10,
+      "m0": 16,
+      "rk": 40,
+      "up": 24
      },
      "thesis": {
       "bull": [
@@ -9998,12 +9993,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 390,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10240,12 +10230,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 729,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Telesat (TSAT) Q2 2026 Earnings Call Transcript",
@@ -10418,12 +10403,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 796,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Trump Administration Reveals SPACE Task Force To Boost Commercial Launches",
@@ -10575,7 +10555,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 205,
+      "rk": 182,
       "up": 23
      },
      "streetNotes": [
@@ -10682,12 +10662,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 259,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10793,9 +10768,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 195,
-      "up": 122
+      "m0": 1,
+      "rk": 176,
+      "up": 135
      },
      "news": [
       {
@@ -10881,9 +10856,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 415,
-      "up": 2
+      "m0": 1,
+      "rk": 398,
+      "up": -1
      },
      "news": [
       {
@@ -10967,7 +10942,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 264,
+      "up": 2
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11247,12 +11227,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 29,
-      "rk": 38,
-      "up": 22
+      "m": 20,
+      "m0": 14,
+      "rk": 18,
+      "up": 14
      },
      "news": [
+      {
+       "h": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
+       "date": "2026-09-12"
+      },
       {
        "h": "Michael Burry Is Staying Short Nvidia, Palantir, and Tesla, Warning of a Possible \"1987-Type Fall\" for AI Stocks. Should Investors Take the Bet Seriously?",
        "pub": "Motley Fool",
@@ -11263,12 +11249,6 @@
        "h": "Palantir (PLTR)\u2019s CEO Bets his Own Money on Ukraine\u2019s Ousted Tech-Warfare Architect",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-ceo-bets-own-005236786.html",
-       "date": "2026-09-12"
-      },
-      {
-       "h": "Veteran analyst resets Palantir price target for rest of 2026",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/veteran-analyst-resets-palantir-price-000300267.html",
        "date": "2026-09-12"
       }
      ],
@@ -12372,12 +12352,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 460,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Cameco (CCJ) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -12568,7 +12543,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 397,
+      "rk": 374,
       "up": 1
      },
      "news": [
@@ -12688,9 +12663,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 8,
-      "rk": 154,
-      "up": 6
+      "m0": 2,
+      "rk": 131,
+      "up": 5
      },
      "news": [
       {
@@ -12770,10 +12745,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 43,
-      "rk": 16,
-      "up": 252
+      "m": 13,
+      "m0": 29,
+      "rk": 32,
+      "up": 37
      },
      "news": [
       {
@@ -13043,7 +13018,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 625,
+      "up": 2
+     },
      "news": [
       {
        "h": "Centrus Energy (LEU) Stock Trades Down, Here Is Why",
@@ -13124,8 +13104,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 772,
-      "up": 2
+      "rk": 721,
+      "up": 1
      },
      "news": [
       {
@@ -13368,7 +13348,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 20,
+      "m0": 1,
+      "rk": 19,
+      "up": 44
+     },
      "thesis": {
       "bull": [
        {
@@ -13605,10 +13590,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 761,
-      "up": 11
+      "rk": 47,
+      "up": 23
      },
      "news": [
       {
@@ -13667,7 +13652,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 759,
+      "up": 3
+     },
      "news": [
       {
        "h": "Wall Street Analysts Predict a 129.86% Upside in Nano Nuclear Energy Inc. (NNE): Here's  What You Should Know",
@@ -14094,7 +14084,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 770,
+      "up": 1
+     },
      "news": [
       {
        "h": "GE Vernova Stock Isn\u2019t All About Orders",
@@ -14449,6 +14444,18 @@
      ],
      "awards": [
       {
+       "amt": 940274.72,
+       "ag": "Department of Transportation",
+       "desc": "CA FLAP MAR 223(1) PIERCE POINT ROAD  ENVIRONMENTAL SUPPORT (FIELD WORK, PLANT SURVEYS, MEMOS)",
+       "date": "2023-01-25"
+      },
+      {
+       "amt": 560348.53,
+       "ag": "Department of Transportation",
+       "desc": "CA FW SDB 300(1) SAN DIEGO BAY NWR ENTRANCE ROAD: SCOPING THE PURPOSE OF THIS TASK ORDER IS TO PERFORM SCOPING SERVICES AND DEVELOP THE PROJECT DELIVERY PLAN (PDP).",
+       "date": "2025-11-21"
+      },
+      {
        "amt": 154345.23,
        "ag": "Department of Transportation",
        "desc": "CO FW RKM 10(1) WILDLIFE DR. & VC PARKING DESIGN TO 0% - 100%",
@@ -14568,8 +14575,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 731,
-      "up": 2
+      "rk": 685,
+      "up": 1
      },
      "news": [
       {
@@ -14654,10 +14661,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 147,
-      "up": 2
+      "m": 1,
+      "m0": 2,
+      "rk": 329,
+      "up": 3
      },
      "news": [
       {
@@ -14808,8 +14815,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 229,
+      "m0": 1,
+      "rk": 208,
       "up": 1
      },
      "news": [
@@ -14978,10 +14985,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 64,
-      "up": 15
+      "m": 5,
+      "m0": 6,
+      "rk": 77,
+      "up": 20
      },
      "news": [
       {
@@ -15065,12 +15072,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 283,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NEE Stock Trades at a Premium Valuation: Buy, Hold or Stay Away?",
@@ -15155,9 +15157,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 293,
-      "up": 6
+      "m0": 1,
+      "rk": 267,
+      "up": 7
      },
      "news": [
       {
@@ -15250,16 +15252,16 @@
        "date": "2026-06-12"
       },
       {
+       "amt": 4925000.0,
+       "ag": "Department of Veterans Affairs",
+       "desc": "UTILITIES FOR HINES VA ELECTRICITY",
+       "date": "2025-10-01"
+      },
+      {
        "amt": 4656800.31,
        "ag": "Department of Veterans Affairs",
        "desc": "UTILITIES",
        "date": "2023-10-01"
-      },
-      {
-       "amt": 3537958.96,
-       "ag": "Department of Veterans Affairs",
-       "desc": "NTX DALLAS COUNTY ELECTRICITY CONTRACT 2024-2025",
-       "date": "2024-07-01"
       }
      ]
     },
@@ -17570,7 +17572,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-11",
+ "social_asof": "2026-09-12",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17851,16 +17853,23 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is a Stock Market Crash Looming Under President Donald Trump? Nearly 156 Years of History Offers Up an Unpleasant Truth for Wall Street.",
+   "h": "Nvidia Stock Could Reach $490 by End of 2027 Based on Current Growth Projections",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-looming-under-082601234.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-could-reach-490-092300323.html",
    "date": "2026-09-12"
   },
   {
    "tk": "NVDA",
-   "h": "Billionaire Stanley Druckenmiller Dumped Broadcom, Intel, and Micron for This Chip Stock. Here's Why.",
+   "h": "Warren Buffett Loves Wide Moats: 3 AI Infrastructure Stocks That Fit the Bill",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-dumped-broadcom-082300775.html",
+   "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-loves-wide-moats-092000512.html",
+   "date": "2026-09-12"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-building-sovereign-ai-085205506.html",
    "date": "2026-09-12"
   },
   {
@@ -17959,13 +17968,6 @@
    "h": "Stocks making big moves this week: Solaris Energy Infrastructure, Revolve, AeroVironment, DigitalOcean, and SoFi",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-224305749.html",
-   "date": "2026-09-11"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Co-Founder Peter Thiel's Hedge Fund Just Made a Big Bet on This AI Stock",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-co-founder-peter-thiels-224300794.html",
    "date": "2026-09-11"
   },
   {
@@ -18130,5 +18132,5 @@
    "date": "2026-09-11"
   }
  ],
- "prices_asof": "2026-09-12 08:32 UTC"
+ "prices_asof": "2026-09-12 09:45 UTC"
 }
