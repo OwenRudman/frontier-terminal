@@ -1142,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
+       "h": "This Could Be the Biggest Problem With Retiring in Your 50s",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/articles/could-biggest-problem-retiring-50s-182800179.html",
+       "date": "2026-09-13"
+      },
+      {
+       "h": "McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-yields-3-highest-over-180300081.html",
+       "date": "2026-09-13"
+      },
+      {
+       "h": "sell-side Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
        "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
-       "date": "2026-09-13"
-      },
-      {
-       "h": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-       "date": "2026-09-13"
-      },
-      {
-       "h": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
        "date": "2026-09-13"
       }
      ]
@@ -5866,6 +5866,12 @@
      },
      "news": [
       {
+       "h": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
+       "pub": "BeInCrypto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-uses-spacex-tech-171640194.html",
+       "date": "2026-09-13"
+      },
+      {
        "h": "The Tesla Network Is Dead: JPMorgan\u2019s Bombshell Note Reveals Nearly All Robotaxi Billions Flow to TSLA, Not You",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-network-dead-jpmorgan-bombshell-154133041.html",
@@ -5875,12 +5881,6 @@
        "h": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-       "date": "2026-09-13"
-      },
-      {
-       "h": "Robots Everywhere: sell-side Sachs Now Sees 6.5 Million Humanoid Robots by 2035",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/robots-everywhere-goldman-sachs-now-151711088.html",
        "date": "2026-09-13"
       }
      ],
@@ -5954,6 +5954,12 @@
      },
      "news": [
       {
+       "h": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
+       "date": "2026-09-13"
+      },
+      {
        "h": "MarketBeat Week in Review \u2013 09/07 - 09/11",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html",
@@ -5964,12 +5970,6 @@
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uber-cuts-10-workforce-fund-004236520.html",
        "date": "2026-09-12"
-      },
-      {
-       "h": "Is Uber Stock Cheap, Or Is The Cash Already Spent?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uber-stock-cheap-cash-already-213211524.html",
-       "date": "2026-09-11"
       }
      ],
      "awards": [
@@ -14082,6 +14082,12 @@
      },
      "news": [
       {
+       "h": "Boy, We Were Wrong About SpaceX",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/spacex-stock-valuation-ai-e1607713?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-13"
+      },
+      {
        "h": "Jim Cramer Discussed Taking The Long View For Chevron Corporation (NYSE:CVX)",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/jim-cramer-discussed-taking-long-104953141.html",
@@ -14091,12 +14097,6 @@
        "h": "GE Vernova Stock Isn\u2019t All About Orders",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/ge-vernova-stock-ai-26619760?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-11"
-      },
-      {
-       "h": "Elon Musk's gas turbines could shake up the backlogged sector",
-       "pub": "Financial Times",
-       "link": "https://finance.yahoo.com/energy/articles/elon-musk-gas-turbines-could-040029538.html",
        "date": "2026-09-11"
       }
      ],
@@ -17842,6 +17842,48 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "This Could Be the Biggest Problem With Retiring in Your 50s",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/articles/could-biggest-problem-retiring-50s-182800179.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-yields-3-highest-over-180300081.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "sell-side Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Here Are the Companies in Nvidia's $99 Billion Artificial Intelligence (AI) Portfolio. These 3 Are the Best of the Bunch",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/companies-nvidias-99-billion-artificial-174300735.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "TSLA",
+   "h": "New Tesla Roadster Uses SpaceX Tech. Will It Impact the Stock Price?",
+   "pub": "BeInCrypto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-uses-spacex-tech-171640194.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "GEV",
+   "h": "Boy, We Were Wrong About SpaceX",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/spacex-stock-valuation-ai-e1607713?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-13"
+  },
+  {
    "tk": "TSLA",
    "h": "The Tesla Network Is Dead: JPMorgan\u2019s Bombshell Note Reveals Nearly All Robotaxi Billions Flow to TSLA, Not You",
    "pub": "24/7 Wall St.",
@@ -17849,38 +17891,10 @@
    "date": "2026-09-13"
   },
   {
-   "tk": "NVDA",
-   "h": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html",
-   "date": "2026-09-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-   "date": "2026-09-13"
-  },
-  {
    "tk": "TSLA",
    "h": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-   "date": "2026-09-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
-   "date": "2026-09-13"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Retiring in 2027? 3 Essential Financial Moves to Make",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/articles/retiring-2027-3-essential-financial-152000740.html",
    "date": "2026-09-13"
   },
   {
@@ -17912,17 +17926,17 @@
    "date": "2026-09-13"
   },
   {
+   "tk": "UBER",
+   "h": "Walmart Just Declared War on DoorDash and Uber Eats, But Winning Won't Be Easy for 1 Simple Reason",
+   "pub": "Barchart",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-just-declared-war-doordash-123023266.html",
+   "date": "2026-09-13"
+  },
+  {
    "tk": "RKLB",
    "h": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-rocket-lab-space-rival-112700285.html",
-   "date": "2026-09-13"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Amazon\u2019s Zoox Enters San Francisco\u2019s Crowded Robotaxi Market, Taking Direct Aim at Waymo and Tesla",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/amazon-zoox-enters-san-francisco-112558972.html",
    "date": "2026-09-13"
   },
   {
@@ -18106,21 +18120,7 @@
    "pub": "Proactive",
    "link": "https://finance.yahoo.com/technology/articles/ocean-power-technologies-advances-us-123700108.html",
    "date": "2026-09-12"
-  },
-  {
-   "tk": "LMT",
-   "h": "IBM just placed two very different tech bets in one day",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/technology/articles/ibm-just-placed-two-very-110300391.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "AVAV",
-   "h": "MarketBeat Week in Review \u2013 09/07 - 09/11",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html",
-   "date": "2026-09-12"
   }
  ],
- "prices_asof": "2026-09-13 15:54 UTC"
+ "prices_asof": "2026-09-13 18:39 UTC"
 }
