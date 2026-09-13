@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 642,
-      "up": 1
+      "m0": 1,
+      "rk": 513,
+      "up": 3
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 98,
+      "up": 3
+     },
      "news": [
       {
        "h": "Albemarle (ALB) Stock Slides as Market Rises: Facts to Know Before You Trade",
@@ -816,8 +821,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 715,
-      "up": 30
+      "rk": 566,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 74,
-      "rk": 8,
-      "up": 61
+      "m": 16,
+      "m0": 44,
+      "rk": 4,
+      "up": 68
      },
      "thesis": {
       "bull": [
@@ -1137,21 +1142,21 @@
      },
      "news": [
       {
-       "h": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-chips-ran-97-033801627.html",
+       "h": "Is Superintelligence On The Horizon? Safety Fears Grip Industry Leaders As They Push For A Slowdown",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-horizon-safety-fears-grip-104052728.html",
        "date": "2026-09-13"
       },
       {
-       "h": "Realty Income Has a New Revenue Stream, and It's Growing Fast",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/real-estate/articles/realty-income-revenue-stream-growing-025000301.html",
+       "h": "Nvidia May Put $10 Billion Into Anthropic\u2019s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
        "date": "2026-09-13"
       },
       {
-       "h": "Futures Traders Just Dramatically Repriced the Chances of a Fed Hike Next Week",
+       "h": "Should You Buy Costco Stock Right Now With $2,000 and Hold for 5 Years?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/economy/policy/articles/futures-traders-just-dramatically-repriced-022000479.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-now-2-103500643.html",
        "date": "2026-09-13"
       }
      ]
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 14,
-      "rk": 18,
-      "up": 14
+      "m": 3,
+      "m0": 20,
+      "rk": 44,
+      "up": 23
      },
      "thesis": {
       "bull": [
@@ -2475,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 29,
-      "rk": 128,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 230,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2826,8 +2831,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 692,
+      "m0": 1,
+      "rk": 552,
       "up": 2
      },
      "thesis": {
@@ -4028,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 6,
-      "rk": 156,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 597,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -4378,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 398,
-      "up": -1
+      "rk": 43,
+      "up": 8
      },
      "news": [
       {
@@ -4710,12 +4715,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 624,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster, Inc. (OUST) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -5796,7 +5796,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 626,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uber's AV Ambitions in Spain Gain Momentum: More Growth Ahead?",
@@ -5854,12 +5859,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 25,
-      "rk": 12,
-      "up": 44
+      "m": 2,
+      "m0": 26,
+      "rk": 49,
+      "up": 2
      },
      "news": [
+      {
+       "h": "Musk attacks Britain over \u2018stifling\u2019 driverless car rules",
+       "pub": "The Telegraph",
+       "link": "https://finance.yahoo.com/news/musk-attacks-britain-over-stifling-080000603.html",
+       "date": "2026-09-13"
+      },
       {
        "h": "Tesla Is Reclaiming the U.S. EV Market as Legacy Automakers Retreat",
        "pub": "The Wall Street Journal",
@@ -5870,12 +5881,6 @@
        "h": "Longevity Entrepreneur Peter Diamandis Says He\u2019s Not Trying to Live Longer Because He\u2019s Afraid of Dying \u2014 He\u2019s Just Not Done Being \u2018Curious\u2019",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/healthcare/articles/longevity-entrepreneur-peter-diamandis-says-230019533.html",
-       "date": "2026-09-12"
-      },
-      {
-       "h": "$10,000 in Tesla When It Joined the S&P 500 Would Be About $15,700 Today. An Index Fund Would Have Done Better.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-tesla-joined-p-223801736.html",
        "date": "2026-09-12"
       }
      ],
@@ -5942,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 12,
-      "rk": 88,
-      "up": 19
+      "m": 2,
+      "m0": 4,
+      "rk": 58,
+      "up": 3
      },
      "news": [
       {
@@ -6032,6 +6037,12 @@
      "social": null,
      "news": [
       {
+       "h": "Xi pushes China\u2019s open-source AI vision at BRICS summit",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/xi-pushes-china-open-source-102711002.html",
+       "date": "2026-09-13"
+      },
+      {
        "h": "This AI ETF Is Missing the Biggest AI Winners",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-etf-missing-biggest-ai-142000221.html",
@@ -6042,12 +6053,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-baidu-inc-130003543.html",
        "date": "2026-09-10"
-      },
-      {
-       "h": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-143458454.html",
-       "date": "2026-09-08"
       }
      ]
     },
@@ -6259,7 +6264,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 688,
+      "rk": 551,
       "up": 1
      },
      "thesis": {
@@ -6486,16 +6491,16 @@
        "date": "2019-09-19"
       },
       {
+       "amt": 2354666.1,
+       "ag": "Department of Transportation",
+       "desc": "AURORA TASK ORDER FOR AIR TRAFFIC SYSTEMS AND ENTERPRISE SERVICES RIO SUPPORT (ACASS-X, TAMR, ATS, ADSB)",
+       "date": "2018-08-01"
+      },
+      {
        "amt": 1873489.96,
        "ag": "Department of Transportation",
        "desc": "EFAST PA 25-070-NW; RISK, ISSUE, OPPORTUNITIES (RIO) PMO SUPPORT",
        "date": "2025-06-18"
-      },
-      {
-       "amt": 1564242.74,
-       "ag": "Department of Transportation",
-       "desc": "SURVEILLANCE SYSTEMS & AGENCY SUPPORT PROGRAMS RIO SUPPORT",
-       "date": "2023-12-07"
       }
      ]
     },
@@ -7090,10 +7095,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 62,
-      "up": 10
+      "m": 1,
+      "m0": 6,
+      "rk": 144,
+      "up": 1
      },
      "news": [
       {
@@ -7362,7 +7367,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 392,
+      "rk": 294,
       "up": 1
      },
      "news": [
@@ -7747,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 3,
-      "rk": 11,
-      "up": 62
+      "m": 6,
+      "m0": 31,
+      "rk": 18,
+      "up": 2
      },
      "news": [
       {
@@ -8256,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 11,
-      "rk": 31,
-      "up": 28
+      "m": 2,
+      "m0": 13,
+      "rk": 64,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -8559,8 +8564,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 418,
-      "up": 2
+      "rk": 317,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8743,7 +8748,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 648,
+      "rk": 521,
       "up": 2
      },
      "thesis": {
@@ -9006,12 +9011,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 799,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Space Stocks to Buy in September",
@@ -9162,9 +9162,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 686,
-      "up": 1
+      "m0": 1,
+      "rk": 549,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -9260,12 +9260,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 655,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Grounded and Falling: Why One Wall Street Pro Says Rocket Lab Will More Than Double Soon",
@@ -9351,7 +9346,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 704,
+      "rk": 558,
       "up": 1
      },
      "news": [
@@ -9515,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 16,
-      "rk": 40,
-      "up": 24
+      "m": 2,
+      "m0": 9,
+      "rk": 63,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -10403,7 +10398,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 599,
+      "up": 3
+     },
      "news": [
       {
        "h": "Trump Administration Reveals SPACE Task Force To Boost Commercial Launches",
@@ -10552,12 +10552,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 182,
-      "up": 23
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10769,8 +10764,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 176,
-      "up": 135
+      "rk": 84,
+      "up": 2
      },
      "news": [
       {
@@ -10800,7 +10795,7 @@
        "date": "2011-02-24"
       },
       {
-       "amt": 22442309468.27,
+       "amt": 22652874442.12,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTERNATIONAL SPACE STATION",
        "date": "1993-11-15"
@@ -10855,10 +10850,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 398,
-      "up": -1
+      "rk": 43,
+      "up": 8
      },
      "news": [
       {
@@ -10944,8 +10939,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 264,
+      "m0": 1,
+      "rk": 169,
       "up": 2
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11227,10 +11222,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 14,
-      "rk": 18,
-      "up": 14
+      "m": 3,
+      "m0": 20,
+      "rk": 44,
+      "up": 23
      },
      "news": [
       {
@@ -11315,7 +11310,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 369,
+      "up": 2
+     },
      "news": [
       {
        "h": "Give Me Space: ETFs Seek to Fill a Void",
@@ -12355,21 +12355,21 @@
      "social": null,
      "news": [
       {
+       "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+       "date": "2026-09-13"
+      },
+      {
+       "h": "Cameco Controls the Uranium Refinery That Puts Canada in the Driver's Seat",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/cameco-controls-uranium-refinery-puts-053500466.html",
+       "date": "2026-09-13"
+      },
+      {
        "h": "Cameco (CCJ) Registers a Bigger Fall Than the Market: Important Facts to Note",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-registers-bigger-fall-215002433.html",
-       "date": "2026-09-10"
-      },
-      {
-       "h": "Cameco vs. MP Materials: Which Crucial Renewable Energy Supplier Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/cameco-vs-mp-materials-crucial-191101395.html",
-       "date": "2026-09-10"
-      },
-      {
-       "h": "Cameco vs. TMC The Metals Co: Is a Uranium Stock or Rare Earth Metals Venture the Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/cameco-vs-tmc-metals-co-181251451.html",
        "date": "2026-09-10"
       }
      ]
@@ -12413,6 +12413,12 @@
      "social": null,
      "news": [
       {
+       "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+       "date": "2026-09-13"
+      },
+      {
        "h": "Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-buy-wall-133004333.html",
@@ -12423,12 +12429,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-already-builds-reactors-132500675.html",
        "date": "2026-09-06"
-      },
-      {
-       "h": "Uranium Energy Rose as sell-side Started Coverage",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-rose-jefferies-started-121900247.html",
-       "date": "2026-09-03"
       }
      ]
     },
@@ -12540,12 +12540,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 374,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "sell-side launches nuclear coverage on $55tn capex outlook to 2100",
@@ -12662,10 +12657,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 131,
-      "up": 5
+      "rk": 275,
+      "up": 2
      },
      "news": [
       {
@@ -12745,10 +12740,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 29,
-      "rk": 32,
-      "up": 37
+      "m": 3,
+      "m0": 13,
+      "rk": 47,
+      "up": 10
      },
      "news": [
       {
@@ -13020,11 +13015,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 625,
-      "up": 2
+      "m0": 1,
+      "rk": 502,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+       "date": "2026-09-13"
+      },
       {
        "h": "Centrus Energy (LEU) Stock Trades Down, Here Is Why",
        "pub": "StockStory",
@@ -13036,12 +13037,6 @@
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131756365.html",
        "date": "2026-09-10"
-      },
-      {
-       "h": "Energy Fuels Down 28% in the Past 6 Months: How to Play the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/energy-fuels-down-28-past-153400034.html",
-       "date": "2026-09-09"
       }
      ],
      "awards": [
@@ -13104,7 +13099,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 721,
+      "rk": 573,
       "up": 1
      },
      "news": [
@@ -13349,10 +13344,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 1,
-      "rk": 19,
-      "up": 44
+      "m": 1,
+      "m0": 20,
+      "rk": 611,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13590,29 +13585,29 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 47,
-      "up": 23
+      "m": 1,
+      "m0": 9,
+      "rk": 565,
+      "up": 2
      },
      "news": [
       {
-       "h": "Is NuScale Power a Millionaire Maker?",
+       "h": "Prediction: NuScale Power Stock Doesn't Get Halfway Back to Its Old High Before 2029",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-millionaire-maker-222500086.html",
-       "date": "2026-09-12"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nuscale-power-stock-doesnt-092901509.html",
+       "date": "2026-09-13"
       },
       {
-       "h": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
+       "h": "Prediction: $1,000 in NuScale Power Today Could Be Worth This Much by 2030",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html",
-       "date": "2026-09-12"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-nuscale-power-062500412.html",
+       "date": "2026-09-13"
       },
       {
-       "h": "NuScale Stock Falls 14% as UBS Sees a $95 Million EBITDA Gap",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-stock-falls-14-ubs-195503018.html",
-       "date": "2026-09-11"
+       "h": "NuScale Power's CFO Sells 20,000 Company Shares Amid a 74% Stock Decline Over the Trailing 12 Months",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-cfo-sells-20-055641262.html",
+       "date": "2026-09-13"
       }
      ]
     },
@@ -13652,12 +13647,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 759,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Wall Street Analysts Predict a 129.86% Upside in Nano Nuclear Energy Inc. (NNE): Here's  What You Should Know",
@@ -14087,7 +14077,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 770,
+      "rk": 619,
       "up": 1
      },
      "news": [
@@ -14575,7 +14565,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 685,
+      "rk": 548,
       "up": 1
      },
      "news": [
@@ -14662,9 +14652,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 329,
-      "up": 3
+      "m0": 1,
+      "rk": 234,
+      "up": 1
      },
      "news": [
       {
@@ -14816,7 +14806,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 208,
+      "rk": 114,
       "up": 1
      },
      "news": [
@@ -14985,10 +14975,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 6,
-      "rk": 77,
-      "up": 20
+      "m": 1,
+      "m0": 3,
+      "rk": 150,
+      "up": 6
      },
      "news": [
       {
@@ -15158,8 +15148,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 267,
-      "up": 7
+      "rk": 174,
+      "up": 4
      },
      "news": [
       {
@@ -17572,7 +17562,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-12",
+ "social_asof": "2026-09-13",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17853,30 +17843,93 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-chips-ran-97-033801627.html",
+   "h": "Is Superintelligence On The Horizon? Safety Fears Grip Industry Leaders As They Push For A Slowdown",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/superintelligence-horizon-safety-fears-grip-104052728.html",
    "date": "2026-09-13"
   },
   {
    "tk": "NVDA",
-   "h": "Realty Income Has a New Revenue Stream, and It's Growing Fast",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/real-estate/articles/realty-income-revenue-stream-growing-025000301.html",
+   "h": "Nvidia May Put $10 Billion Into Anthropic\u2019s $2 Trillion IPO. Amazon Already Has Much More Riding on It",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-may-put-10-billion-103618397.html",
    "date": "2026-09-13"
   },
   {
    "tk": "NVDA",
-   "h": "Futures Traders Just Dramatically Repriced the Chances of a Fed Hike Next Week",
+   "h": "Should You Buy Costco Stock Right Now With $2,000 and Hold for 5 Years?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/economy/policy/articles/futures-traders-just-dramatically-repriced-022000479.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-now-2-103500643.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "BIDU",
+   "h": "Xi pushes China\u2019s open-source AI vision at BRICS summit",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/xi-pushes-china-open-source-102711002.html",
    "date": "2026-09-13"
   },
   {
    "tk": "NVDA",
-   "h": "3 Reasons SpaceX Stock Could Crash in Q4 -- and 1 Reason It Won't",
+   "h": "Xi pushes China\u2019s open-source AI vision at BRICS summit",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/xi-pushes-china-open-source-102711002.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "SMR",
+   "h": "Prediction: NuScale Power Stock Doesn't Get Halfway Back to Its Old High Before 2029",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-spacex-stock-could-015000239.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nuscale-power-stock-doesnt-092901509.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "LEU",
+   "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "UEC",
+   "h": "Russia accuses Ukraine of Zaporizhzhia fuel attack as Odesa strikes continue",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Musk attacks Britain over \u2018stifling\u2019 driverless car rules",
+   "pub": "The Telegraph",
+   "link": "https://finance.yahoo.com/news/musk-attacks-britain-over-stifling-080000603.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "SMR",
+   "h": "Prediction: $1,000 in NuScale Power Today Could Be Worth This Much by 2030",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-nuscale-power-062500412.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "SMR",
+   "h": "NuScale Power's CFO Sells 20,000 Company Shares Amid a 74% Stock Decline Over the Trailing 12 Months",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-powers-cfo-sells-20-055641262.html",
+   "date": "2026-09-13"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Cameco Controls the Uranium Refinery That Puts Canada in the Driver's Seat",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/cameco-controls-uranium-refinery-puts-053500466.html",
    "date": "2026-09-13"
   },
   {
@@ -17957,13 +18010,6 @@
    "date": "2026-09-12"
   },
   {
-   "tk": "TSLA",
-   "h": "Ted Lieu Cites Poll, Says 'Blue Tsunami' Could Be Coming as Democrats Hold 11-Point Lead Over Republicans in 2026 House Election Poll",
-   "pub": "Benzinga",
-   "link": "https://www.yahoo.com/news/politics/articles/ted-lieu-cites-poll-says-203020851.html",
-   "date": "2026-09-12"
-  },
-  {
    "tk": "FLY",
    "h": "Firefly Aerospace vs. Joby Aviation: Which Industrials Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
@@ -18014,13 +18060,6 @@
   },
   {
    "tk": "OKLO",
-   "h": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "SMR",
    "h": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-jumps-15-151500537.html",
@@ -18081,56 +18120,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-staying-short-nvidia-055000259.html",
    "date": "2026-09-12"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Stock Remains Attractive Even After a 50% Rally in August",
-   "pub": "Barchart",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-remains-attractive-even-053002026.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "LHX",
-   "h": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/us/articles/u-links-chinese-satellite-imagery-034644374.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "LMT",
-   "h": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/us/articles/u-links-chinese-satellite-imagery-034644374.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "RTX",
-   "h": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
-   "pub": "Investing.com",
-   "link": "https://www.yahoo.com/news/us/articles/u-links-chinese-satellite-imagery-034644374.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "RDW",
-   "h": "1 Cash-Burning Stock Worth Investigating and 2 We Avoid",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-worth-010705920.html",
-   "date": "2026-09-12"
-  },
-  {
-   "tk": "UBER",
-   "h": "Uber Cuts 10% of its Workforce to Fund a $10 Billion Robotaxi Bet",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-cuts-10-workforce-fund-004236520.html",
-   "date": "2026-09-12"
   }
  ],
- "prices_asof": "2026-09-13 04:04 UTC"
+ "prices_asof": "2026-09-13 10:46 UTC"
 }
