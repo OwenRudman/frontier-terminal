@@ -609,12 +609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 652,
-      "up": 9
-     },
+     "social": null,
      "news": [
       {
        "h": "Critical Metals Rallies 5% on Tanbreez Refinery Study Projecting Up to $2.2B in Annual Revenue; USA Rare Earth Inches Higher, MP Materials Unmoved",
@@ -935,10 +930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 81,
-      "m0": 89,
-      "rk": 3,
-      "up": 869
+      "m": 53,
+      "m0": 81,
+      "rk": 7,
+      "up": 130
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1133,15 @@
        "date": "2026-09-16"
       },
       {
-       "h": "Salesforce Unveils AIforce, Expands Agentforce at Dreamforce",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-unveils-aiforce-expands-agentforce-040200094.html",
-       "date": "2026-09-17"
+       "h": "Amodei and Huang lay out paths for AI: \u2018Set standards\u2019 or \u2018pace yourself\u2019?",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/amodei-huang-lay-paths-ai-135114535.html",
+       "date": "2026-09-16"
       },
       {
-       "h": "Snowflake Surging to All-Time Highs",
+       "h": "3 AI Growth Giants That Are Looking Like Value Stocks",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-surging-time-highs-034321952.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-growth-giants-looking-103001174.html",
        "date": "2026-09-17"
       }
      ]
@@ -1307,12 +1302,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 738,
-      "up": 19
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1339,6 +1329,12 @@
      ],
      "news": [
       {
+       "h": "1 Profitable Stock to Own for Decades and 2 We Brush Off",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-own-decades-081017616.html",
+       "date": "2026-09-17"
+      },
+      {
        "h": "Q2 Earnings Highs And Lows: Leonardo DRS (NASDAQ:DRS) Vs The Rest Of The Defense Contractors Stocks",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-leonardo-235918110.html",
@@ -1349,12 +1345,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-surges-43-7-135700002.html",
        "date": "2026-09-02"
-      },
-      {
-       "h": "1 Industrials Stock for Long-Term Investors and 2 We Avoid",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/1-industrials-stock-long-term-103252746.html",
-       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -1590,10 +1580,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 22,
-      "rk": 10,
-      "up": 3
+      "m": 6,
+      "m0": 33,
+      "rk": 80,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -1778,12 +1768,6 @@
      },
      "news": [
       {
-       "h": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
-       "date": "2026-09-16"
-      },
-      {
        "h": "CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On \u2018Ontological Burritos'",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cmg-stock-ticks-ai-food-034047576.html",
@@ -1793,6 +1777,12 @@
        "h": "Nebius Group (NBIS) Is Down 12.9% After Becoming Palantir\u2019s Preferred Sovereign AI Cloud Partner \u2013 Has The Bull Case Changed?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-down-12-011225334.html",
+       "date": "2026-09-17"
+      },
+      {
+       "h": "Inside the White House Tussle to Sway Trump on AI",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-17"
       }
      ],
@@ -1860,8 +1850,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 779,
+      "m0": 1,
+      "rk": 774,
       "up": 1
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
@@ -2039,12 +2029,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 306,
-      "up": 0
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2244,6 +2229,12 @@
      "take": "The highest-quality pure-ish drone bet \u2014 the engine business is a real moat. The drop from ~$134 gives a better entry, but \"cheaper than before\" isn't \"cheap.\" Core-to-aggressive for someone who believes the loyal-wingman future.",
      "news": [
       {
+       "h": "Is Kratos Defense & Security Solutions (KTOS) Undervalued After Its Latest Missile Test Success?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-ktos-051425770.html",
+       "date": "2026-09-17"
+      },
+      {
        "h": "This Stock Can Rise 150%, Plus 12 More Aerospace Buys",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/defense-stock-buys-guggenheim-northrop-grumman-8b568e43?siteid=yhoof2&yptr=yahoo",
@@ -2253,12 +2244,6 @@
        "h": "Can ONDS' GATE & Bron Buyouts Fuel its Defense Growth Engine?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/onds-gate-bron-buyouts-fuel-130300206.html",
-       "date": "2026-09-15"
-      },
-      {
-       "h": "3 Defense Stocks Riding the High-Energy Laser Boom",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-stocks-riding-high-113500870.html",
        "date": "2026-09-15"
       }
      ],
@@ -2335,8 +2320,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 231,
-      "up": 3
+      "rk": 249,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -2491,9 +2476,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 324,
-      "up": 0
+      "m0": 0,
+      "rk": 341,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2842,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 699,
+      "rk": 703,
       "up": 1
      },
      "thesis": {
@@ -3159,8 +3144,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 764,
-      "up": 2
+      "rk": 760,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4048,9 +4033,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 167,
+      "m": 3,
+      "m0": 2,
+      "rk": 146,
       "up": 3
      },
      "thesis": {
@@ -4398,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 399,
-      "up": 3
+      "m": 3,
+      "m0": 1,
+      "rk": 132,
+      "up": 4
      },
      "news": [
       {
@@ -4733,10 +4718,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 643,
+      "rk": 653,
       "up": 1
      },
      "news": [
+      {
+       "h": "Ouster's CEO Sells 30,385 Shares Worth $1 Million Amid a 16% Return Over the Past 12 Months",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ousters-ceo-sells-30-385-060736845.html",
+       "date": "2026-09-17"
+      },
       {
        "h": "Is Ouster (OUST) a Buy as Wall Street Analysts Look Optimistic?",
        "pub": "Zacks",
@@ -4748,12 +4739,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221502788.html",
        "date": "2026-09-15"
-      },
-      {
-       "h": "Is it the Right Time to Buy TTMI Stock at a P/S Multiple of 2.59X?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/time-buy-ttmi-stock-p-163900926.html",
-       "date": "2026-09-14"
       }
      ],
      "awards": [
@@ -5149,7 +5134,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319609652.83,
+       "amt": 8319616033.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5874,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 28,
-      "rk": 18,
-      "up": 156
+      "m": 28,
+      "m0": 24,
+      "rk": 15,
+      "up": 48
      },
      "news": [
       {
@@ -5893,9 +5878,9 @@
        "date": "2026-09-16"
       },
       {
-       "h": "The Competition's Response to Tesla Robotaxi Day",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/ai/articles/competitions-response-tesla-robotaxi-day-033100552.html",
+       "h": "Tesla establishes import/distribution company in Vietnam",
+       "pub": "Just Auto",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-establishes-import-distribution-company-084044859.html",
        "date": "2026-09-17"
       }
      ],
@@ -5962,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 145,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 400,
+      "up": 1
      },
      "news": [
       {
@@ -6007,10 +5992,10 @@
        "date": "2025-04-01"
       },
       {
-       "amt": 105000.0,
+       "amt": 125384.0,
        "ag": "Department of Energy",
-       "desc": "PROVIDE THE U.S. DEPARTMENT OF ENERGY (DOE) WITH RIDESHARE SERVICES UNDER THE GSA RIDESHARE BLANKET PURCHASE AGREEMENT. THIS WILL COMPLETELY TRANSITION DOE'S HEADQUARTERS TRANSPORTATION OFFERINGS FROM A TRADITIONAL SHUTTLE BUS SERVICE TO A SCALA",
-       "date": "2023-02-02"
+       "desc": "PROVIDE THE U.S. DEPARTMENT OF ENERGY (DOE) WITH RIDESHARE SERVICES UNDER THE GSA RIDESHARE/RIDE-HAIL BLANKET PURCHASE AGREEMENT FOR FEDERAL EMPLOYEES WHO ARE TRAVELING WITHIN A 50-MILE RADIUS FROM THEIR DOE WORKSITE OR DUTY STATION FOR OFFICIAL BUSI",
+       "date": "2025-08-01"
       }
      ]
     },
@@ -6052,7 +6037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 375,
+      "rk": 389,
       "up": 9
      },
      "news": [
@@ -6282,10 +6267,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 12,
       "m0": 1,
-      "rk": 695,
-      "up": 1
+      "rk": 43,
+      "up": 49
      },
      "thesis": {
       "bull": [
@@ -6559,7 +6544,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 148,
+      "up": 15
+     },
      "news": [
       {
        "h": "Are You Buying Aurora Innovation's Trucks Or Its Story?",
@@ -6829,12 +6819,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 681,
-      "up": 8
-     },
+     "social": null,
      "news": [
       {
        "h": "Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?",
@@ -7007,9 +6992,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 581,
-      "up": 8
+      "m0": 1,
+      "rk": 591,
+      "up": 3
      },
      "news": [
       {
@@ -7067,12 +7052,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 726,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "CYD or MBLY: Which Is the Better Value Stock Right Now?",
@@ -7130,10 +7110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 4,
-      "rk": 36,
-      "up": 16
+      "m": 1,
+      "m0": 11,
+      "rk": 255,
+      "up": 1
      },
      "news": [
       {
@@ -7399,7 +7379,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 411,
+      "up": 1
+     },
      "news": [
       {
        "h": "Can Serve Robotics' Beacon Overcome Restaurant Integration Barriers?",
@@ -7782,12 +7767,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 21,
-      "rk": 57,
-      "up": 12
+      "m": 4,
+      "m0": 7,
+      "rk": 114,
+      "up": 7
      },
      "news": [
+      {
+       "h": "This Tiny Biotech Is Beating MRNA, IOVA And SLS \u2014 Here's How A Billionaire Fueled Its September Rally",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/healthcare/articles/tiny-biotech-beating-mrna-iova-072155629.html",
+       "date": "2026-09-17"
+      },
       {
        "h": "SLS, IBRX, IOVA In Focus Amid Big Pharma\u2019s Early Cancer-Asset Hunt: J&J Flags M&A \u2018Sweet Spot,\u2019 Pfizer Eyes Phase 1-2 Deals",
        "pub": "Stocktwits",
@@ -7799,12 +7790,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-stocks-draw-investor-084711409.html",
        "date": "2026-09-14"
-      },
-      {
-       "h": "SLS, IBRX In Focus: Canadian Insurance Giant Manulife\u2019s Unit Raises Stakes Ahead Of Key Cancer Catalysts",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/healthcare/articles/sls-ibrx-focus-canadian-insurance-030347139.html",
-       "date": "2026-09-10"
       }
      ]
     }
@@ -8291,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 15,
-      "rk": 12,
-      "up": 496
+      "m": 6,
+      "m0": 32,
+      "rk": 85,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -8591,7 +8576,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 434,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8716,7 +8706,7 @@
        "date": "2025-09-26"
       },
       {
-       "amt": 2370005.0,
+       "amt": 2810005.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTEGRATION AND FLIGHT OF THE T0428 JUNO ROTATING DETONATION ROCKET ENGINE",
        "date": "2025-09-29"
@@ -9034,7 +9024,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 797,
+      "rk": 800,
       "up": 1
      },
      "news": [
@@ -9186,10 +9176,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 162,
-      "up": 2
+      "m": 5,
+      "m0": 2,
+      "rk": 98,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -9370,9 +9360,9 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 706,
-      "up": 2
+      "m0": 1,
+      "rk": 709,
+      "up": 1
      },
      "news": [
       {
@@ -9535,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 9,
-      "rk": 19,
-      "up": 92
+      "m": 9,
+      "m0": 24,
+      "rk": 55,
+      "up": 37
      },
      "thesis": {
       "bull": [
@@ -9860,8 +9850,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 364,
+      "m0": 1,
+      "rk": 381,
       "up": 2
      },
      "news": [
@@ -10435,10 +10425,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 2,
       "m0": 3,
-      "rk": 121,
-      "up": 7
+      "rk": 185,
+      "up": 5
      },
      "news": [
       {
@@ -10591,8 +10581,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 188,
-      "up": 6
+      "rk": 208,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10647,7 +10637,7 @@
        "date": "2001-10-26"
       },
       {
-       "amt": 30140182630.06,
+       "amt": 30154748689.06,
        "ag": "Department of Defense",
        "desc": "THE PURPOSE OF THIS MODIFICATION IS TO AWARD F-35A LRIP 15 USAF  AIRCRAFT* LONG LEAD FUNDING",
        "date": "2019-11-26"
@@ -10701,8 +10691,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 231,
-      "up": 3
+      "rk": 249,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10808,12 +10798,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 179,
-      "up": 6
+      "m": 3,
+      "m0": 0,
+      "rk": 120,
+      "up": 7
      },
      "news": [
+      {
+       "h": "Boeing (BA) Lands Up To Four Freighter Orders And A New Cargo Lease",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-lands-four-freighter-051454747.html",
+       "date": "2026-09-17"
+      },
       {
        "h": "Jim Cramer Sees Boeing (BA) Rising If Oil Peaks",
        "pub": "Insider Monkey",
@@ -10824,12 +10820,6 @@
        "h": "Boeing Stock Skids As CEO Warns Of Further 737 Production Delays",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/news/boeing-stock-jets-planes-aerospace-kelly-ortberg-737-max/?src=A00220&yptr=yahoo",
-       "date": "2026-09-16"
-      },
-      {
-       "h": "Boeing\u2019s Commercial Delays Threaten to Clip Its Wings",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/boeing-s-commercial-delays-threaten-to-clip-its-wings-41MtiteH6h832LniqyN2?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-16"
       }
      ],
@@ -10896,10 +10886,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 399,
-      "up": 3
+      "m": 3,
+      "m0": 1,
+      "rk": 132,
+      "up": 4
      },
      "news": [
       {
@@ -10921,7 +10911,32 @@
        "date": "2026-09-16"
       }
      ],
-     "awards": []
+     "awards": [
+      {
+       "amt": 8688654906.89,
+       "ag": "Department of Defense",
+       "desc": "LOT 12 AAC LONG LEAD FOR PROPULSION SYSTEMS",
+       "date": "2018-03-23"
+      },
+      {
+       "amt": 7498605067.74,
+       "ag": "Department of Defense",
+       "desc": "LOT 15 FMS-1 F135 CTOL PROP SYSTEM",
+       "date": "2020-03-23"
+      },
+      {
+       "amt": 4865962075.84,
+       "ag": "Department of Defense",
+       "desc": "FY21 PBL2",
+       "date": "2020-12-01"
+      },
+      {
+       "amt": 3648685783.01,
+       "ag": "Department of Defense",
+       "desc": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
+       "date": "2008-01-01"
+      }
+     ]
     },
     "LHX": {
      "n": "L3Harris",
@@ -11074,6 +11089,12 @@
      ],
      "news": [
       {
+       "h": "Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquisition. Is This a Quiet AI Winner?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/leidos-just-closed-2-4-065000826.html",
+       "date": "2026-09-17"
+      },
+      {
        "h": "Can Navy Network Modernization Support Leidos' Growth Outlook?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/navy-network-modernization-support-leidos-142200360.html",
@@ -11083,12 +11104,6 @@
        "h": "Can Growing ISR Demand Strengthen HII's Mission Technologies Business?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/growing-isr-demand-strengthen-hiis-142500373.html",
-       "date": "2026-09-15"
-      },
-      {
-       "h": "Leidos Holdings Inc's Dividend Analysis",
-       "pub": "GuruFocus.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-incs-dividend-analysis-111009078.html",
        "date": "2026-09-15"
       }
      ],
@@ -11238,18 +11253,12 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 33,
-      "m0": 22,
-      "rk": 10,
-      "up": 3
+      "m": 6,
+      "m0": 33,
+      "rk": 80,
+      "up": 8
      },
      "news": [
-      {
-       "h": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
-       "date": "2026-09-16"
-      },
       {
        "h": "CMG Stock Ticks Up On AI Food Safety Bet With Palantir: Retail Bullish On \u2018Ontological Burritos'",
        "pub": "Stocktwits",
@@ -11260,6 +11269,12 @@
        "h": "Nebius Group (NBIS) Is Down 12.9% After Becoming Palantir\u2019s Preferred Sovereign AI Cloud Partner \u2013 Has The Bull Case Changed?",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-down-12-011225334.html",
+       "date": "2026-09-17"
+      },
+      {
+       "h": "Inside the White House Tussle to Sway Trump on AI",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/tech/ai/inside-the-white-house-tussle-to-sway-trump-on-ai-0043d567?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-17"
       }
      ],
@@ -11329,8 +11344,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 477,
-      "up": 3
+      "rk": 499,
+      "up": 5
      },
      "news": [
       {
@@ -12426,7 +12441,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 650,
+      "up": 1
+     },
      "news": [
       {
        "h": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -12556,7 +12576,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 393,
+      "up": 3
+     },
      "news": [
       {
        "h": "sell-side launches nuclear coverage on $55tn capex outlook to 2100",
@@ -12673,10 +12698,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 1,
       "m0": 3,
-      "rk": 109,
-      "up": 6
+      "rk": 392,
+      "up": 1
      },
      "news": [
       {
@@ -12756,10 +12781,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 7,
-      "rk": 22,
-      "up": 68
+      "m": 43,
+      "m0": 22,
+      "rk": 9,
+      "up": 1325
      },
      "news": [
       {
@@ -13107,7 +13132,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 727,
+      "up": 1
+     },
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13350,10 +13380,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 68,
-      "up": 9
+      "m": 1,
+      "m0": 6,
+      "rk": 762,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13593,8 +13623,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 721,
-      "up": 4
+      "rk": 719,
+      "up": 1
      },
      "news": [
       {
@@ -13655,8 +13685,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 767,
+      "m0": 1,
+      "rk": 761,
       "up": 1
      },
      "news": [
@@ -14086,12 +14116,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 6,
-      "rk": 778,
-      "up": 1
+      "m": 8,
+      "m0": 1,
+      "rk": 63,
+      "up": 8
      },
      "news": [
+      {
+       "h": "Vineyard Wind, GE Vernova end legal conflict over Massachusetts wind farm",
+       "pub": "Power Technology",
+       "link": "https://finance.yahoo.com/energy/articles/vineyard-wind-ge-vernova-end-090030111.html",
+       "date": "2026-09-17"
+      },
       {
        "h": "GE Vernova and Vineyard Wind Settle $300M-Plus Offshore Wind Dispute",
        "pub": "Oilprice.com",
@@ -14103,12 +14139,6 @@
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/energy/articles/why-fcel-gev-stocks-rising-020833326.html",
        "date": "2026-09-17"
-      },
-      {
-       "h": "Why GE Vernova Stock Crushed it on Wednesday",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-stock-crushed-235602049.html",
-       "date": "2026-09-16"
       }
      ],
      "awards": [
@@ -14425,6 +14455,12 @@
      "social": null,
      "news": [
       {
+       "h": "AECOM (ACM) Lands Ireland\u2019s Biggest Rail Contract Amid A Costly Charge",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aecom-acm-lands-ireland-biggest-061516575.html",
+       "date": "2026-09-17"
+      },
+      {
        "h": "A Look Back at Government & Technical Consulting Stocks\u2019 Q2 Earnings: Jacobs Solutions (NYSE:J) Vs The Rest Of The Pack",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-government-technical-consulting-185252895.html",
@@ -14435,12 +14471,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/drawing-attention-jacobs-solutions-j-211058409.html",
        "date": "2026-09-14"
-      },
-      {
-       "h": "Tutor Perini Stock Rises 20% in the Past 3 Months: Time to Buy Yet?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tutor-perini-stock-rises-20-160500902.html",
-       "date": "2026-09-10"
       }
      ],
      "awards": [
@@ -14573,12 +14603,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 691,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra vs. Constellation vs. Talen Energy: Which Nuclear-Heavy Stock Is the Better AI-Power Bet?",
@@ -14662,10 +14687,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 141,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 344,
+      "up": 1
      },
      "news": [
       {
@@ -14749,12 +14774,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 780,
-      "up": 11
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra vs. Constellation vs. Talen Energy: Which Nuclear-Heavy Stock Is the Better AI-Power Bet?",
@@ -14860,7 +14880,7 @@
        "date": "2019-11-19"
       },
       {
-       "amt": 5323837.71,
+       "amt": 6076727.03,
        "ag": "Department of Justice",
        "desc": "QUANTICO ELECTRIC",
        "date": "2026-01-01"
@@ -14986,10 +15006,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 10,
-      "rk": 135,
-      "up": 20
+      "m": 7,
+      "m0": 2,
+      "rk": 66,
+      "up": 195
      },
      "news": [
       {
@@ -15096,7 +15116,7 @@
      ],
      "awards": [
       {
-       "amt": 15800914.81,
+       "amt": 15885176.81,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15156,12 +15176,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 264,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -15385,7 +15400,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 534,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power Drops 5% as UBS Cuts to Sell on Timeline and Cash Burn, Oklo Slips",
@@ -15443,12 +15463,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 485,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15509,7 +15524,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 463,
+      "rk": 485,
       "up": 2
      },
      "news": [
@@ -17583,7 +17598,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-16",
+ "social_asof": "2026-09-17",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17864,16 +17879,86 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Salesforce Unveils AIforce, Expands Agentforce at Dreamforce",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/technology/ai/articles/salesforce-unveils-aiforce-expands-agentforce-040200094.html",
+   "h": "3 AI Growth Giants That Are Looking Like Value Stocks",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-growth-giants-looking-103001174.html",
    "date": "2026-09-17"
   },
   {
    "tk": "NVDA",
-   "h": "Snowflake Surging to All-Time Highs",
+   "h": "Billionaire Stanley Druckenmiller Dumped Broadcom and 11X'd His Fund's Stake in This Trillion-Dollar Dual-Industry Leader",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-surging-time-highs-034321952.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-dumped-broadcom-102601623.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "GEV",
+   "h": "Vineyard Wind, GE Vernova end legal conflict over Massachusetts wind farm",
+   "pub": "Power Technology",
+   "link": "https://finance.yahoo.com/energy/articles/vineyard-wind-ge-vernova-end-090030111.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla establishes import/distribution company in Vietnam",
+   "pub": "Just Auto",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-establishes-import-distribution-company-084044859.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLA Stock Eyes Red Week: Ross Gerber Spots \u2018Secret\u2019 Waymo Army As Cybercab \u2018Wastes Time\u2019 Amid NHTSA Scrutiny",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-eyes-red-week-081725857.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "DRS",
+   "h": "1 Profitable Stock to Own for Decades and 2 We Brush Off",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-own-decades-081017616.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "SLS",
+   "h": "This Tiny Biotech Is Beating MRNA, IOVA And SLS \u2014 Here's How A Billionaire Fueled Its September Rally",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/healthcare/articles/tiny-biotech-beating-mrna-iova-072155629.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "LDOS",
+   "h": "Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquisition. Is This a Quiet AI Winner?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/leidos-just-closed-2-4-065000826.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "J",
+   "h": "AECOM (ACM) Lands Ireland\u2019s Biggest Rail Contract Amid A Costly Charge",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aecom-acm-lands-ireland-biggest-061516575.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "OUST",
+   "h": "Ouster's CEO Sells 30,385 Shares Worth $1 Million Amid a 16% Return Over the Past 12 Months",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ousters-ceo-sells-30-385-060736845.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing (BA) Lands Up To Four Freighter Orders And A New Cargo Lease",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-lands-four-freighter-051454747.html",
+   "date": "2026-09-17"
+  },
+  {
+   "tk": "KTOS",
+   "h": "Is Kratos Defense & Security Solutions (KTOS) Undervalued After Its Latest Missile Test Success?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kratos-defense-security-solutions-ktos-051425770.html",
    "date": "2026-09-17"
   },
   {
@@ -17888,20 +17973,6 @@
    "h": "RKLB Stock Eyes Ending 5-Week Slide: Iridium Deal Clears First FCC Hurdle, VC Backer Hails Solar Breakthrough",
    "pub": "Stocktwits",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-eyes-ending-5-033928622.html",
-   "date": "2026-09-17"
-  },
-  {
-   "tk": "NVDA",
-   "h": "The Competition's Response to Tesla Robotaxi Day",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/competitions-response-tesla-robotaxi-day-033100552.html",
-   "date": "2026-09-17"
-  },
-  {
-   "tk": "TSLA",
-   "h": "The Competition's Response to Tesla Robotaxi Day",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/technology/ai/articles/competitions-response-tesla-robotaxi-day-033100552.html",
    "date": "2026-09-17"
   },
   {
@@ -17982,13 +18053,6 @@
    "date": "2026-09-17"
   },
   {
-   "tk": "TSLA",
-   "h": "Billionaire Ron Baron is Extremely Bullish on Tesla Stock. What\u2019s His Reason?",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-ron-baron-extremely-bullish-002248689.html",
-   "date": "2026-09-17"
-  },
-  {
    "tk": "PLTR",
    "h": "Inside the White House Tussle to Sway Trump on AI",
    "pub": "The Wall Street Journal",
@@ -18024,17 +18088,17 @@
    "date": "2026-09-16"
   },
   {
-   "tk": "GEV",
-   "h": "GE Vernova (GEV) Stock Is Up, What You Need To Know",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-stock-know-222052205.html",
-   "date": "2026-09-16"
-  },
-  {
    "tk": "UBER",
    "h": "What Does Uber Technologies (UBER) Gain From Its 47 State Delivery Expansion?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/does-uber-technologies-uber-gain-221340945.html",
+   "date": "2026-09-16"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Palantir Technologies (PLTR) Tightens Rules On External Generative AI Models",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-pltr-tightens-rules-221216839.html",
    "date": "2026-09-16"
   },
   {
@@ -18066,13 +18130,6 @@
    "date": "2026-09-16"
   },
   {
-   "tk": "BA",
-   "h": "Why Boeing Stock Is Sliding",
-   "pub": "Barrons.com",
-   "link": "https://www.barrons.com/articles/boeing-stock-737-max-production-6f563f24?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-09-16"
-  },
-  {
    "tk": "RTX",
    "h": "Reflecting On Defense Contractors Stocks\u2019 Q2 Earnings: RTX (NYSE:RTX)",
    "pub": "StockStory",
@@ -18099,49 +18156,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/buy-qualcomm-stock-cash-apple-193004157.html",
    "date": "2026-09-16"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Is Micron Stock Cheap, Or Are Its Profits Borrowed?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-cheap-profits-borrowed-190258688.html",
-   "date": "2026-09-16"
-  },
-  {
-   "tk": "J",
-   "h": "A Look Back at Government & Technical Consulting Stocks\u2019 Q2 Earnings: Jacobs Solutions (NYSE:J) Vs The Rest Of The Pack",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/look-back-government-technical-consulting-185252895.html",
-   "date": "2026-09-16"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-stock-looks-181104094.html",
-   "date": "2026-09-16"
-  },
-  {
-   "tk": "TSLA",
-   "h": "SpaceX stock pops ahead of Starship launch",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html",
-   "date": "2026-09-16"
-  },
-  {
-   "tk": "BIDU",
-   "h": "SoundHound Asia Growth Extends to 5 Quarters: Can Momentum Persist?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/technology/ai/articles/soundhound-asia-growth-extends-5-171800399.html",
-   "date": "2026-09-16"
-  },
-  {
-   "tk": "CEG",
-   "h": "CEG Stock Trails Industry in 6 Months: Should You Buy, Hold or Sell?",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ceg-stock-trails-industry-6-165500041.html",
-   "date": "2026-09-16"
   }
  ],
- "prices_asof": "2026-09-17 04:15 UTC"
+ "prices_asof": "2026-09-17 10:37 UTC"
 }
