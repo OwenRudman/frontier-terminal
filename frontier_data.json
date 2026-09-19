@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 699,
-      "up": 2
+      "m0": 1,
+      "rk": 650,
+      "up": -1
      },
      "news": [
       {
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 60,
-      "m0": 49,
-      "rk": 6,
-      "up": 163
+      "m": 53,
+      "m0": 59,
+      "rk": 8,
+      "up": 239
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1138,15 @@
        "date": "2026-09-18"
       },
       {
-       "h": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/stocks/article/why-salesforce-ceo-marc-benioff-thinks-ai-chip-king-nvidia-is-exquisite-094642002.html",
-       "date": "2026-09-18"
+       "h": "Semiconductor Stocks to Buy and Hold Through 2030",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-buy-hold-2030-093701236.html",
+       "date": "2026-09-19"
       },
       {
-       "h": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
+       "h": "Is SoFi Technologies Stock a Buy, Sell, or Hold 49% Below Its 52-Week High?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-teslas-robotaxi-cybercab-bet-065000566.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-stock-buy-sell-092000976.html",
        "date": "2026-09-19"
       }
      ]
@@ -1309,8 +1309,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 782,
+      "m0": 1,
+      "rk": 724,
       "up": 0
      },
      "streetNotes": [
@@ -1365,16 +1365,16 @@
        "date": "2016-05-11"
       },
       {
+       "amt": 30204680.58,
+       "ag": "Department of Defense",
+       "desc": "M-LIDS TO 14",
+       "date": "2024-07-05"
+      },
+      {
        "amt": 30056895.63,
        "ag": "Department of Defense",
        "desc": "TUNNER LOADER OVERHAUL",
        "date": "2020-12-30"
-      },
-      {
-       "amt": 27791700.98,
-       "ag": "Department of Defense",
-       "desc": "PROCUREMENT OF SPARE DETECTOR COOLER BENCH (DCB)",
-       "date": "2023-08-15"
       },
       {
        "amt": 27791700.98,
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 73,
-      "up": 10
+      "m": 10,
+      "m0": 6,
+      "rk": 42,
+      "up": 22
      },
      "thesis": {
       "bull": [
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 257,
+      "rk": 231,
       "up": 2
      },
      "streetNotes": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 117,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 326,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2832,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 744,
-      "up": 2
+      "rk": 690,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3146,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 757,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -3730,7 +3735,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 610,
+      "up": 3
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4033,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 2,
-      "rk": 178,
-      "up": 3
+      "m": 1,
+      "m0": 3,
+      "rk": 743,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 155,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 392,
+      "up": 0
      },
      "news": [
       {
@@ -4718,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 690,
-      "up": 1
+      "rk": 643,
+      "up": 3
      },
      "news": [
       {
@@ -5134,13 +5144,13 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319616033.83,
+       "amt": 8319625769.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6954390177.74,
+       "amt": 6955101161.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5428,7 +5438,7 @@
        "date": "1992-10-15"
       },
       {
-       "amt": 4039659148.32,
+       "amt": 4035169125.75,
        "ag": "Department of Defense",
        "desc": "THE FUTURE VERTICAL LIFT (FVL) FLRAA CAPABILITY SET THREE IS A PRE-MAJOR DEFENSE ACQUISITION PROGRAM (ACAT 1C) COMMISSIONED TO DEVELOP AND FIELD THE NEXT GENERATION OF AFFORDABLE VERTICAL LIFT TACTICAL ASSAULT / UTILITY AIRCRAFT FOR THE ARMY.",
        "date": "2022-12-05"
@@ -5744,7 +5754,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 781,
+      "up": 1
+     },
      "news": [
       {
        "h": "Waymo to launch robotaxis in Singapore, its first Southeast Asia market, by 2028",
@@ -5801,7 +5816,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 780,
+      "up": 2
+     },
      "news": [
       {
        "h": "Waymo to launch robotaxis in Singapore, its first Southeast Asia market, by 2028",
@@ -5859,10 +5879,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 27,
-      "rk": 14,
-      "up": 101
+      "m": 22,
+      "m0": 36,
+      "rk": 20,
+      "up": 40
      },
      "news": [
       {
@@ -5872,15 +5892,15 @@
        "date": "2026-09-18"
       },
       {
-       "h": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
+       "h": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-teslas-robotaxi-cybercab-bet-065000566.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
        "date": "2026-09-19"
       },
       {
-       "h": "A Nine-Year-Late Sports Car, An Unpriced Robotaxi Pact, Supplier Snags And GM\u2019s Hybrid Gap: The EV Wrap",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nine-sports-car-unpriced-robotaxi-012828436.html",
+       "h": "Intel Corporation (INTC)\u2019s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
        "date": "2026-09-19"
       }
      ],
@@ -5947,10 +5967,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 401,
-      "up": 6
+      "rk": 136,
+      "up": 3
      },
      "news": [
       {
@@ -6262,10 +6282,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 12,
-      "rk": 741,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 113,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -6983,8 +7003,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 629,
-      "up": 2
+      "rk": 586,
+      "up": 0
      },
      "news": [
       {
@@ -7100,10 +7120,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 264,
-      "up": 2
+      "rk": 45,
+      "up": 57
      },
      "news": [
       {
@@ -7372,7 +7392,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 415,
+      "rk": 385,
       "up": 1
      },
      "news": [
@@ -7758,9 +7778,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 618,
-      "up": 2
+      "m0": 1,
+      "rk": 572,
+      "up": 1
      },
      "news": [
       {
@@ -8266,10 +8286,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 6,
-      "rk": 28,
-      "up": 1674
+      "m": 20,
+      "m0": 21,
+      "rk": 27,
+      "up": 63
      },
      "thesis": {
       "bull": [
@@ -8569,8 +8589,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 437,
-      "up": 0
+      "rk": 410,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -8752,9 +8772,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 708,
-      "up": 2
+      "m0": 1,
+      "rk": 656,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -9166,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 130,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 686,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -9185,6 +9205,12 @@
      ],
      "news": [
       {
+       "h": "Planet Labs Stock Is Down 67% From Its High. Time To Buy?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-down-67-082500984.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Is RKLB Stock Paying You Enough For The Swings?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-paying-enough-swings-204950717.html",
@@ -9194,12 +9220,6 @@
        "h": "Rocket Lab Slides 5% as Space Names Give Back Gains; AST SpaceMobile Drops 6%, Planet Labs Sinks 4%",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-slides-5-space-144521987.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "RKLB, ASTS, VOYG, LUNR Steal SpaceX\u2019s Thunder \u2014 Here\u2019s What Lit Up Space Stocks This Week",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-asts-voyg-lunr-steal-064438169.html",
        "date": "2026-09-18"
       }
      ],
@@ -9348,7 +9368,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 91,
+      "up": 6
+     },
      "news": [
       {
        "h": "Satellogic Deepens Slingshot III Role With Six-Satellite Expansion For Low-Latency Maritime Intelligence \u2013 A Look At Key Highlights",
@@ -9510,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 9,
-      "rk": 29,
-      "up": 56
+      "m": 24,
+      "m0": 20,
+      "rk": 17,
+      "up": 64
      },
      "thesis": {
       "bull": [
@@ -10405,10 +10430,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 134,
-      "up": 7
+      "m": 1,
+      "m0": 3,
+      "rk": 749,
+      "up": 0
      },
      "news": [
       {
@@ -10561,8 +10586,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 205,
-      "up": 2
+      "rk": 181,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10671,7 +10696,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 257,
+      "rk": 231,
       "up": 2
      },
      "streetNotes": [
@@ -10778,12 +10803,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 66,
-      "up": 8
+      "m": 1,
+      "m0": 7,
+      "rk": 169,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Is Boeing\u2019s (BA) Freighter And Defense Strength Quietly Rebalancing Its 737 And 787 Risk Profile?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-freighter-defense-strength-071821107.html",
+       "date": "2026-09-19"
+      },
       {
        "h": "NASA weighs more Boeing Starliner missions despite troubled test flight - WSJ",
        "pub": "Investing.com",
@@ -10794,12 +10825,6 @@
        "h": "NASA Explores New Missions With Boeing\u2019s Troubled Starliner Spacecraft",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/science/space-astronomy/nasa-in-talks-for-boeings-starliner-to-handle-new-missions-5726e1e5?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Can A Faster Factory Lift Boeing Stock?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/faster-factory-lift-boeing-stock-215815018.html",
        "date": "2026-09-18"
       }
      ],
@@ -10866,10 +10891,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 155,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 392,
+      "up": 0
      },
      "news": [
       {
@@ -11151,9 +11176,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 418,
-      "up": 5
+      "m0": 1,
+      "rk": 389,
+      "up": 1
      },
      "news": [
       {
@@ -11238,10 +11263,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 73,
-      "up": 10
+      "m": 10,
+      "m0": 6,
+      "rk": 42,
+      "up": 22
      },
      "news": [
       {
@@ -11329,7 +11354,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 513,
+      "rk": 475,
       "up": 2
      },
      "news": [
@@ -12368,7 +12393,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 422,
+      "up": 2
+     },
      "news": [
       {
        "h": "Got $1,000? 2 No-Brainer Nuclear Stocks to Buy Right Now.",
@@ -12429,7 +12459,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 689,
+      "rk": 641,
       "up": 1
      },
      "news": [
@@ -12564,7 +12594,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 394,
+      "rk": 369,
       "up": 2
      },
      "news": [
@@ -12683,10 +12713,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 393,
-      "up": 1
+      "rk": 102,
+      "up": 11
      },
      "news": [
       {
@@ -12766,10 +12796,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 42,
-      "rk": 13,
-      "up": 1539
+      "m": 41,
+      "m0": 38,
+      "rk": 12,
+      "up": 922
      },
      "news": [
       {
@@ -13117,12 +13147,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 767,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13365,10 +13390,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 114,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 764,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13608,8 +13633,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 757,
-      "up": 0
+      "rk": 702,
+      "up": 2
      },
      "news": [
       {
@@ -14020,8 +14045,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 354,
+      "m0": 1,
+      "rk": 334,
       "up": 1
      },
      "streetNotes": [
@@ -14100,7 +14125,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 775,
+      "up": 0
+     },
      "news": [
       {
        "h": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration",
@@ -14372,7 +14402,7 @@
      ],
      "awards": [
       {
-       "amt": 14925550269.48,
+       "amt": 14961089932.48,
        "ag": "Department of Defense",
        "desc": "NAVAL NUCLEAR LABORATORY",
        "date": "2018-07-12"
@@ -14669,7 +14699,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 348,
+      "rk": 328,
       "up": 1
      },
      "news": [
@@ -14822,22 +14852,22 @@
      "social": null,
      "news": [
       {
+       "h": "How AI concerns moved to the center of the midterm debate",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+       "date": "2026-09-19"
+      },
+      {
+       "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html",
        "date": "2026-09-18"
-      },
-      {
-       "h": "Microsoft \u2018preserving its ability\u2019 to challenge data center transmission costs decision",
-       "pub": "Utility Dive",
-       "link": "https://finance.yahoo.com/energy/articles/microsoft-preserving-ability-challenge-data-100913669.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Dominion Energy (D) Beats Stock Market Upswing: What Investors Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-beats-stock-220003197.html",
-       "date": "2026-09-17"
       }
      ],
      "awards": [
@@ -14986,10 +15016,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 102,
-      "up": -1
+      "m": 2,
+      "m0": 4,
+      "rk": 124,
+      "up": 5
      },
      "news": [
       {
@@ -15075,11 +15105,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 279,
+      "m0": 1,
+      "rk": 255,
       "up": 1
      },
      "news": [
+      {
+       "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
+       "date": "2026-09-19"
+      },
       {
        "h": "JPMorgan Sees Investment Banking and Trading Powering Q3 Growth",
        "pub": "Insider Monkey",
@@ -15090,12 +15126,6 @@
        "h": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-140501925.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Jim Cramer says 'take the money and run' on energy titan, up 18%",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/energy/articles/jim-cramer-says-money-run-110300376.html",
        "date": "2026-09-18"
       }
      ],
@@ -15163,9 +15193,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 291,
-      "up": 3
+      "m0": 1,
+      "rk": 266,
+      "up": 0
      },
      "news": [
       {
@@ -15393,7 +15423,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 561,
+      "rk": 524,
       "up": 0
      },
      "news": [
@@ -15514,7 +15544,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 493,
+      "rk": 454,
       "up": 1
      },
      "news": [
@@ -17588,7 +17618,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-18",
+ "social_asof": "2026-09-19",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17869,9 +17899,72 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
+   "h": "Semiconductor Stocks to Buy and Hold Through 2030",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-teslas-robotaxi-cybercab-bet-065000566.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-buy-hold-2030-093701236.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is SoFi Technologies Stock a Buy, Sell, or Hold 49% Below Its 52-Week High?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-technologies-stock-buy-sell-092000976.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: The Hard Times Are Ending for These 3 Leading Cryptocurrencies",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/prediction-hard-times-ending-3-091400903.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "D",
+   "h": "How AI concerns moved to the center of the midterm debate",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "PL",
+   "h": "Planet Labs Stock Is Down 67% From Its High. Time To Buy?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-down-67-082500984.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Intel Corporation (INTC)\u2019s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "D",
+   "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NEE",
+   "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "BA",
+   "h": "Is Boeing\u2019s (BA) Freighter And Defense Strength Quietly Rebalancing Its 737 And 787 Risk Profile?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-freighter-defense-strength-071821107.html",
    "date": "2026-09-19"
   },
   {
@@ -17879,13 +17972,6 @@
    "h": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-teslas-robotaxi-cybercab-bet-065000566.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "3 Wall Street Analysts Predict 100%+ Upside for Plug Power. Here's Why I'm Not Buying.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-analysts-predict-062500772.html",
    "date": "2026-09-19"
   },
   {
@@ -17945,24 +18031,10 @@
    "date": "2026-09-19"
   },
   {
-   "tk": "TSLA",
-   "h": "A Nine-Year-Late Sports Car, An Unpriced Robotaxi Pact, Supplier Snags And GM\u2019s Hybrid Gap: The EV Wrap",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nine-sports-car-unpriced-robotaxi-012828436.html",
-   "date": "2026-09-19"
-  },
-  {
    "tk": "BA",
    "h": "NASA weighs more Boeing Starliner missions despite troubled test flight - WSJ",
    "pub": "Investing.com",
    "link": "https://tech.yahoo.com/science/articles/nasa-weighs-more-boeing-starliner-235247164.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow Drops To Record Worst Week In Six Months Amid Elevated Yields, Oil \u2014 NVDA, TSLA, SPCX, ONON In Focus",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-record-worst-week-233558682.html",
    "date": "2026-09-18"
   },
   {
@@ -18071,13 +18143,6 @@
    "date": "2026-09-18"
   },
   {
-   "tk": "BA",
-   "h": "Boeing Starliner May Get a Bigger NASA Role Despite Leaving Crew Behind As SpaceX Looks Past Dragon, Says Report",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-starliner-may-bigger-nasa-205243094.html",
-   "date": "2026-09-18"
-  },
-  {
    "tk": "LHX",
    "h": "Is RKLB Stock Paying You Enough For The Swings?",
    "pub": "Trefis",
@@ -18111,42 +18176,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-paying-enough-swings-204950717.html",
    "date": "2026-09-18"
-  },
-  {
-   "tk": "CEG",
-   "h": "S&P 500 Posts Slight Weekly Decline as Utilities Weigh",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204640571.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX Slips 1% as Tariffs Raise FAA's Radar Bill",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-slips-1-tariffs-raise-202114828.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "HII",
-   "h": "Defense Contractors Stocks Q2 Earnings: Huntington Ingalls (NYSE:HII) Best of the Bunch",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q2-earnings-201640963.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "TLN",
-   "h": "Talen Energy (TLN) Stock Looks Below Fair Value On Its 3 Year Surge",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-tln-stock-looks-201139924.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "RTX",
-   "h": "RTX (RTX) Stock May Be Undervalued On Its 183% Three Year Run",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-may-undervalued-200944625.html",
-   "date": "2026-09-18"
   }
  ],
- "prices_asof": "2026-09-19 07:10 UTC"
+ "prices_asof": "2026-09-19 09:55 UTC"
 }
