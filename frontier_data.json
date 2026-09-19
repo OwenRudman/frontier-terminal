@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "SpaceX Stock Has Gone Nowhere Since Its First Day of Trading",
+       "h": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-gone-nowhere-since-195701417.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
        "date": "2026-09-19"
       },
       {
-       "h": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
+       "h": "Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
+       "link": "https://finance.yahoo.com/energy/articles/berkshires-energy-holdings-worth-more-232000992.html",
        "date": "2026-09-19"
       },
       {
-       "h": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
+       "h": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html",
        "date": "2026-09-19"
       }
      ]
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-palantir-amd-202500594.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
@@ -1787,12 +1793,6 @@
        "h": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
        "date": "2026-09-18"
       }
      ],
@@ -4400,6 +4400,12 @@
      },
      "news": [
       {
+       "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Can A Faster Factory Lift Boeing Stock?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/faster-factory-lift-boeing-stock-215815018.html",
@@ -4409,12 +4415,6 @@
        "h": "RTX Slips 1% as Tariffs Raise FAA's Radar Bill",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-slips-1-tariffs-raise-202114828.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "RTX (RTX) Stock May Be Undervalued On Its 183% Three Year Run",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-may-undervalued-200944625.html",
        "date": "2026-09-18"
       }
      ],
@@ -5886,21 +5886,21 @@
      },
      "news": [
       {
-       "h": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+       "h": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-ron-baron-213024671.html",
+       "date": "2026-09-19"
+      },
+      {
+       "h": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-never-sold-arks-212500140.html",
        "date": "2026-09-19"
       },
       {
-       "h": "Delivery Outlook Shows Tesla (TSLA)\u2019s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
-       "date": "2026-09-19"
-      },
-      {
-       "h": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/options/articles/coinbase-files-cftc-list-us-151111791.html",
+       "h": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar",
+       "pub": "Benzinga",
+       "link": "https://finance.yahoo.com/energy/articles/tesla-killed-solar-roof-now-203031022.html",
        "date": "2026-09-19"
       }
      ],
@@ -10604,6 +10604,12 @@
      ],
      "news": [
       {
+       "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "U.S. approves potential $2.7 billion air defense sale to Ukraine",
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/politics/articles/u-approves-potential-2-7-040351365.html",
@@ -10614,12 +10620,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-marks-first-021008914.html",
        "date": "2026-09-19"
-      },
-      {
-       "h": "He Left SpaceX to Rebuild the American Factory",
-       "pub": "The Hustle",
-       "link": "https://finance.yahoo.com/video/left-spacex-rebuild-american-factory-223312166.html",
-       "date": "2026-09-18"
       }
      ],
      "awards": [
@@ -10898,6 +10898,12 @@
      },
      "news": [
       {
+       "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Can A Faster Factory Lift Boeing Stock?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/faster-factory-lift-boeing-stock-215815018.html",
@@ -10907,12 +10913,6 @@
        "h": "RTX Slips 1% as Tariffs Raise FAA's Radar Bill",
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-slips-1-tariffs-raise-202114828.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "RTX (RTX) Stock May Be Undervalued On Its 183% Three Year Run",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-rtx-stock-may-undervalued-200944625.html",
        "date": "2026-09-18"
       }
      ],
@@ -11270,6 +11270,12 @@
      },
      "news": [
       {
+       "h": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-palantir-amd-202500594.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
@@ -11279,12 +11285,6 @@
        "h": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
        "date": "2026-09-18"
       }
      ],
@@ -17899,9 +17899,72 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "SpaceX Stock Has Gone Nowhere Since Its First Day of Trading",
+   "h": "I Think IBM Stock Will Be Higher in 5 Years. I Still Wouldn't Buy It Today.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-gone-nowhere-since-195701417.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/think-ibm-stock-higher-5-234301197.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/berkshires-energy-holdings-worth-more-232000992.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dgrw-pays-dividends-every-month-225737231.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "LMT",
+   "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "RTX",
+   "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-ron-baron-213024671.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Cathie Wood Never Sold Ark's Core Stake in Tesla Despite the Stock Trailing Every Other Magnificent Seven Name in 2026. Here's Why Her Multi-Year Conviction Hasn't Wavered.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-never-sold-arks-212500140.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Killed Its Solar Roof. Now Elon Musk Wants 100 GW of Solar",
+   "pub": "Benzinga",
+   "link": "https://finance.yahoo.com/energy/articles/tesla-killed-solar-roof-now-203031022.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-palantir-amd-202500594.html",
    "date": "2026-09-19"
   },
   {
@@ -17916,20 +17979,6 @@
    "h": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "AbbVie's Migraine Franchise Scored a Big Win. Is This Dividend King a No-Brainer Buy Right Now?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/healthcare/articles/abbvies-migraine-franchise-scored-big-192000630.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
    "date": "2026-09-19"
   },
   {
@@ -17954,13 +18003,6 @@
    "date": "2026-09-19"
   },
   {
-   "tk": "NVDA",
-   "h": "Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-isnt-perfect-still-compelling-182500408.html",
-   "date": "2026-09-19"
-  },
-  {
    "tk": "OKLO",
    "h": "Oklo (OKLO) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risk",
    "pub": "Simply Wall St.",
@@ -17968,31 +18010,10 @@
    "date": "2026-09-19"
   },
   {
-   "tk": "TSLA",
-   "h": "Delivery Outlook Shows Tesla (TSLA)\u2019s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
-   "date": "2026-09-19"
-  },
-  {
    "tk": "LEU",
    "h": "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-signs-two-161308308.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/options/articles/coinbase-files-cftc-list-us-151111791.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
    "date": "2026-09-19"
   },
   {
@@ -18155,28 +18176,7 @@
    "pub": "Investing.com",
    "link": "https://www.yahoo.com/news/politics/articles/u-approves-potential-2-7-040351365.html",
    "date": "2026-09-19"
-  },
-  {
-   "tk": "LMT",
-   "h": "Lockheed Martin (LMT) Marks First Saudi F 35 Push And Germany F 35A Rollout",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-marks-first-021008914.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "BA",
-   "h": "NASA weighs more Boeing Starliner missions despite troubled test flight - WSJ",
-   "pub": "Investing.com",
-   "link": "https://tech.yahoo.com/science/articles/nasa-weighs-more-boeing-starliner-235247164.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "GEV",
-   "h": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-ge-vernova-232155534.html",
-   "date": "2026-09-18"
   }
  ],
- "prices_asof": "2026-09-19 20:19 UTC"
+ "prices_asof": "2026-09-19 23:58 UTC"
 }
