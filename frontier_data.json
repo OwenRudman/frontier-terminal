@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "S&P 500 wavers after best one-day rally in six weeks: AlphaCheck",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/sp-500-wavers-after-best-one-day-rally-in-six-weeks-alphacheck-141322068.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Is Walt Disney Stock a Buy, Sell, or Hold 47% Below Its All-Time High?",
+       "h": "From Hustle to Hypervigilance: Is Fear of Running Out of Money Stealing Your Retirement Joy?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-stock-buy-sell-120500008.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/hustle-hypervigilance-fear-running-money-165000479.html",
        "date": "2026-09-19"
       },
       {
-       "h": "If You Invest $2,500 in the Vanguard Morningstar Growth ETF (VUG) Right Now and Hold for 20 Years, Here's How Much Wealth History Suggests You Could Generate",
+       "h": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/invest-2-500-vanguard-morningstar-115000521.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/only-handful-nasdaq-100-stocks-163500606.html",
+       "date": "2026-09-19"
+      },
+      {
+       "h": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
        "date": "2026-09-19"
       }
      ]
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
@@ -1787,12 +1793,6 @@
        "h": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Palantir CEO offers surprising solution to AI threats that involves Washington, D.C.",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-offers-surprising-solution-200700084.html",
        "date": "2026-09-18"
       }
      ],
@@ -5892,15 +5892,15 @@
        "date": "2026-09-18"
       },
       {
-       "h": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+       "h": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/options/articles/coinbase-files-cftc-list-us-151111791.html",
        "date": "2026-09-19"
       },
       {
-       "h": "Intel Corporation (INTC)\u2019s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
+       "h": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
        "date": "2026-09-19"
       }
      ],
@@ -5974,6 +5974,12 @@
      },
      "news": [
       {
+       "h": "Uber CEO Dara Khosrowshahi fled Iran at 9 \u2014 and watched the government seize his family's business that made them rich",
+       "pub": "Moneywise",
+       "link": "https://finance.yahoo.com/small-business/articles/uber-ceo-dara-khosrowshahi-fled-123000963.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Sector Update: Consumer Stocks Softer Late Afternoon",
        "pub": "MT Newswires",
        "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-afternoon-195143538.html",
@@ -5983,12 +5989,6 @@
        "h": "Costco expands ultra-fast delivery through DoorDash, Uber",
        "pub": "FreightWaves",
        "link": "https://finance.yahoo.com/small-business/articles/costco-expands-ultra-fast-delivery-185042149.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Uber Ordered to Pay $40 Million in Wrongful Death Lawsuit",
-       "pub": "The Wall Street Journal",
-       "link": "https://www.wsj.com/business/uber-ordered-to-pay-40-million-in-wrongful-death-lawsuit-29590cc4?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-18"
       }
      ],
@@ -8607,6 +8607,12 @@
      ],
      "news": [
       {
+       "h": "Firefly Aerospace (FLY) Stock May Be Overvalued Following Its Sweden Launch Deal",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-stock-may-121225889.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Firefly Landed a $100 Million NASA Contract This Month \u2014 Here's What Else Happened",
        "pub": "Benzinga",
        "link": "https://finance.yahoo.com/technology/articles/firefly-landed-100-million-nasa-193006492.html",
@@ -8617,12 +8623,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-joby-aviation-180401509.html",
        "date": "2026-09-12"
-      },
-      {
-       "h": "Trump Administration Reveals SPACE Task Force To Boost Commercial Launches",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/news/space-task-force-us-dot-commercial-space-launches-white-house-trump/?src=A00220&yptr=yahoo",
-       "date": "2026-09-10"
       }
      ],
      "awards": [
@@ -11270,6 +11270,12 @@
      },
      "news": [
       {
+       "h": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Jim Cramer Says His Palantir Technologies Inc. (NASDAQ:PLTR) Price Target Is $250",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-palantir-technologies-230154955.html",
@@ -11279,12 +11285,6 @@
        "h": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Palantir CEO offers surprising solution to AI threats that involves Washington, D.C.",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-offers-surprising-solution-200700084.html",
        "date": "2026-09-18"
       }
      ],
@@ -12522,6 +12522,12 @@
      "social": null,
      "news": [
       {
+       "h": "Every New Reactor Needs Fuel: 3 Uranium Stocks Positioned for the Nuclear Buildout",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/every-reactor-needs-fuel-3-130017285.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Powering the AI Boom: Uranium\u2019s $95 Spark",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/energy/articles/powering-ai-boom-uranium-95-120500472.html",
@@ -12532,12 +12538,6 @@
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/energy/articles/nexgen-energy-targets-2030-first-000245392.html",
        "date": "2026-09-02"
-      },
-      {
-       "h": "Is BHP Group (BHP) the Missing Piece in NexGen Energy (NXE)\u2019s $1 Billion Financing Plan?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bhp-group-bhp-missing-piece-202645157.html",
-       "date": "2026-08-28"
       }
      ],
      "awards": [
@@ -13072,6 +13072,12 @@
      "social": null,
      "news": [
       {
+       "h": "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-signs-two-161308308.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/nuscale-power-drops-7-nuclear-154947830.html",
@@ -13081,12 +13087,6 @@
        "h": "1 High-Flying Stock Worth Your Attention and 2 We Ignore",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-flying-stock-worth-121640156.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Why Did Nuclear Stocks OKLO, SMR, NNE, LEU, XE Jump On Thursday?",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/energy/articles/why-did-nuclear-stocks-oklo-012102981.html",
        "date": "2026-09-18"
       }
      ],
@@ -15023,6 +15023,12 @@
      },
      "news": [
       {
+       "h": "High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-stocks-throw-132809422.html",
+       "date": "2026-09-19"
+      },
+      {
        "h": "Academy Sports (ASO) Is Up 12.8% After Earnings Beat, Higher EPS Outlook And Hoka Rollout",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/academy-sports-aso-12-8-141013637.html",
@@ -15033,12 +15039,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-cheap-just-021833043.html",
        "date": "2026-09-16"
-      },
-      {
-       "h": "Southern Co. (SO) Falls More Steeply Than Broader Market: What Investors Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/southern-co-falls-more-steeply-220005660.html",
-       "date": "2026-09-15"
       }
      ],
      "awards": [
@@ -17899,23 +17899,86 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Is Walt Disney Stock a Buy, Sell, or Hold 47% Below Its All-Time High?",
+   "h": "From Hustle to Hypervigilance: Is Fear of Running Out of Money Stealing Your Retirement Joy?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-stock-buy-sell-120500008.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hustle-hypervigilance-fear-running-money-165000479.html",
    "date": "2026-09-19"
   },
   {
    "tk": "NVDA",
-   "h": "If You Invest $2,500 in the Vanguard Morningstar Growth ETF (VUG) Right Now and Hold for 20 Years, Here's How Much Wealth History Suggests You Could Generate",
+   "h": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy in September.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-2-500-vanguard-morningstar-115000521.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/only-handful-nasdaq-100-stocks-163500606.html",
    "date": "2026-09-19"
   },
   {
    "tk": "NVDA",
-   "h": "Breakfast News: The Art of Losing Less",
+   "h": "Celsius Executives Have Been Buying the Stock. Should Investors Join Them?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-art-losing-less-115000364.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/celsius-executives-buying-stock-investors-162000571.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "LEU",
+   "h": "Centrus Energy (LEU) Signs Two HALEU Supply Agreements Backing Reactor And Security Demand",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-signs-two-161308308.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Is Berkshire Hathaway Stock a Better Buy Than an S&P 500 Index Fund?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-better-buy-160500962.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/options/articles/coinbase-files-cftc-list-us-151111791.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "SO",
+   "h": "High-Yield Dividend Stocks Throw Off Serious Income. Where You Hold Them Matters",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/high-yield-dividend-stocks-throw-132809422.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "PLTR",
+   "h": "What Will $5,000 Invested in Palantir Stock Be Worth in 5 Years?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-000-invested-palantir-stock-130027090.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "NXE",
+   "h": "Every New Reactor Needs Fuel: 3 Uranium Stocks Positioned for the Nuclear Buildout",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/every-reactor-needs-fuel-3-130017285.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "UBER",
+   "h": "Uber CEO Dara Khosrowshahi fled Iran at 9 \u2014 and watched the government seize his family's business that made them rich",
+   "pub": "Moneywise",
+   "link": "https://finance.yahoo.com/small-business/articles/uber-ceo-dara-khosrowshahi-fled-123000963.html",
+   "date": "2026-09-19"
+  },
+  {
+   "tk": "FLY",
+   "h": "Firefly Aerospace (FLY) Stock May Be Overvalued Following Its Sweden Launch Deal",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-stock-may-121225889.html",
    "date": "2026-09-19"
   },
   {
@@ -17982,13 +18045,6 @@
    "date": "2026-09-19"
   },
   {
-   "tk": "TSLA",
-   "h": "Intel Corporation (INTC)\u2019s Terafab Partnership Could Give Its AI Foundry Ambitions a Major Boost",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/intel-corporation-intc-terafab-partnership-081341477.html",
-   "date": "2026-09-19"
-  },
-  {
    "tk": "D",
    "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
    "pub": "Insider Monkey",
@@ -18007,13 +18063,6 @@
    "h": "Is Boeing\u2019s (BA) Freighter And Defense Strength Quietly Rebalancing Its 737 And 787 Risk Profile?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-freighter-defense-strength-071821107.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Why Tesla's Robotaxi/Cybercab Bet Just Got Complicated. What It Means to Investors.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-teslas-robotaxi-cybercab-bet-065000566.html",
    "date": "2026-09-19"
   },
   {
@@ -18127,56 +18176,7 @@
    "pub": "Trefis",
    "link": "https://finance.yahoo.com/markets/stocks/articles/faster-factory-lift-boeing-stock-215815018.html",
    "date": "2026-09-18"
-  },
-  {
-   "tk": "RTX",
-   "h": "Can A Faster Factory Lift Boeing Stock?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/faster-factory-lift-boeing-stock-215815018.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "GEV",
-   "h": "GE Vernova (GEV) Surpasses Market Returns: Some Facts Worth Knowing",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-surpasses-market-215005032.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "ALB",
-   "h": "Albemarle (ALB) Stock Sinks As Market Gains: Here's Why",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-stock-sinks-market-215004916.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Leidos (LDOS) Stock Falls Amid Market Uptick: What Investors Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-stock-falls-amid-214505410.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "PLTR",
-   "h": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html",
-   "date": "2026-09-18"
-  },
-  {
-   "tk": "DRS",
-   "h": "3 Small-Cap Stocks We Think Twice About",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-think-213640363.html",
-   "date": "2026-09-18"
   }
  ],
- "prices_asof": "2026-09-19 12:22 UTC"
+ "prices_asof": "2026-09-19 17:05 UTC"
 }
