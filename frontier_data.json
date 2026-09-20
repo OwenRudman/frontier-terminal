@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Costco Stock at $892: Here's What History Says Comes Next",
+       "h": "Strategy Is Up 53% in the Past Month. Here's the Bull and Bear Case for One of Wall Street's Most Polarizing Stocks.",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-892-heres-history-100400539.html",
+       "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-53-past-month-heres-105000462.html",
        "date": "2026-09-20"
       },
       {
-       "h": "If You Had Invested $500 a Month in VOO Since Its 2010 Launch, You Would Have About $330,000 Today",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/had-invested-500-month-voo-095902010.html",
+       "h": "History Says This Is the Amount of Yearly Dividend Income a $25,000 Investment in Coca-Cola Stock Could Generate By 2036.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-amount-yearly-dividend-103500833.html",
        "date": "2026-09-20"
       },
       {
-       "h": "Should You Buy Micron Stock Before Its Next Earnings Report?",
+       "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-next-earnings-095000511.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
        "date": "2026-09-20"
       }
      ]
@@ -12381,6 +12381,12 @@
      },
      "news": [
       {
+       "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
+       "date": "2026-09-20"
+      },
+      {
        "h": "Got $1,000? 2 No-Brainer Nuclear Stocks to Buy Right Now.",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-no-055000793.html",
@@ -12390,12 +12396,6 @@
        "h": "Cameco (CCJ) Stock Declines While Market Improves: Some Information for Investors",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-ccj-stock-declines-while-214502517.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "Sector Update: Energy Stocks Fall Late Afternoon",
-       "pub": "MT Newswires",
-       "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html",
        "date": "2026-09-18"
       }
      ]
@@ -12439,6 +12439,12 @@
      "social": null,
      "news": [
       {
+       "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
+       "date": "2026-09-20"
+      },
+      {
        "h": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
@@ -12449,12 +12455,6 @@
        "pub": "Investing.com",
        "link": "https://www.yahoo.com/news/world/articles/russia-accuses-ukraine-zaporizhzhia-fuel-090755823.html",
        "date": "2026-09-13"
-      },
-      {
-       "h": "Is Uranium Energy (UEC) a Buy as Wall Street Analysts Look Optimistic?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-uec-buy-wall-133004333.html",
-       "date": "2026-09-10"
       }
      ]
     },
@@ -17859,30 +17859,44 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Costco Stock at $892: Here's What History Says Comes Next",
+   "h": "Strategy Is Up 53% in the Past Month. Here's the Bull and Bear Case for One of Wall Street's Most Polarizing Stocks.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-892-heres-history-100400539.html",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-53-past-month-heres-105000462.html",
    "date": "2026-09-20"
   },
   {
    "tk": "NVDA",
-   "h": "If You Had Invested $500 a Month in VOO Since Its 2010 Launch, You Would Have About $330,000 Today",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/had-invested-500-month-voo-095902010.html",
+   "h": "History Says This Is the Amount of Yearly Dividend Income a $25,000 Investment in Coca-Cola Stock Could Generate By 2036.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-amount-yearly-dividend-103500833.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
    "date": "2026-09-20"
   },
   {
    "tk": "NVDA",
-   "h": "Should You Buy Micron Stock Before Its Next Earnings Report?",
+   "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-next-earnings-095000511.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "UEC",
+   "h": "Uranium Energy vs. Cameco: If I Could Only Own 1 Uranium Stock for the Next Decade, I'd Buy This 1",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-energy-vs-cameco-could-102300254.html",
    "date": "2026-09-20"
   },
   {
    "tk": "NVDA",
-   "h": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
+   "h": "Will President Trump Crash the Stock Market? History Says This Could Come Next.",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/president-trump-crash-stock-market-102000110.html",
    "date": "2026-09-20"
   },
   {
@@ -18122,21 +18136,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-down-67-082500984.html",
    "date": "2026-09-19"
-  },
-  {
-   "tk": "D",
-   "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "NEE",
-   "h": "Can NextEra (NEE) Preserve Its Earnings and Dividend Growth While Adding Dominion?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
-   "date": "2026-09-19"
   }
  ],
- "prices_asof": "2026-09-20 10:16 UTC"
+ "prices_asof": "2026-09-20 10:58 UTC"
 }
