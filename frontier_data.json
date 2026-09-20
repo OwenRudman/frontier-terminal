@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 650,
-      "up": -1
+      "rk": 509,
+      "up": 1
      },
      "news": [
       {
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 59,
-      "rk": 8,
-      "up": 239
+      "m": 19,
+      "m0": 53,
+      "rk": 3,
+      "up": 96
      },
      "thesis": {
       "bull": [
@@ -1132,21 +1132,21 @@
      },
      "news": [
       {
-       "h": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
+       "h": "Costco Stock at $892: Here's What History Says Comes Next",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-1-000-investment-034050688.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-892-heres-history-100400539.html",
        "date": "2026-09-20"
       },
       {
-       "h": "Jim Cramer sends a blunt message to AMD stock investors",
-       "pub": "TheStreet",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-blunt-message-033300311.html",
+       "h": "If You Had Invested $500 a Month in VOO Since Its 2010 Launch, You Would Have About $330,000 Today",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/had-invested-500-month-voo-095902010.html",
        "date": "2026-09-20"
       },
       {
-       "h": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-2-us-ai-021149518.html",
+       "h": "Should You Buy Micron Stock Before Its Next Earnings Report?",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-next-earnings-095000511.html",
        "date": "2026-09-20"
       }
      ]
@@ -1307,12 +1307,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 724,
-      "up": 0
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 42,
-      "up": 22
+      "m": 4,
+      "m0": 9,
+      "rk": 30,
+      "up": 80
      },
      "thesis": {
       "bull": [
@@ -2325,7 +2320,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 231,
+      "rk": 142,
       "up": 2
      },
      "streetNotes": [
@@ -2481,8 +2476,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 326,
+      "m0": 1,
+      "rk": 238,
       "up": 1
      },
      "thesis": {
@@ -2832,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 690,
+      "rk": 550,
       "up": 1
      },
      "thesis": {
@@ -3149,7 +3144,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 757,
+      "rk": 609,
       "up": 3
      },
      "thesis": {
@@ -3737,8 +3732,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 610,
+      "m0": 1,
+      "rk": 473,
       "up": 3
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 743,
-      "up": 2
+      "m": 5,
+      "m0": 1,
+      "rk": 27,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -4394,8 +4389,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 392,
+      "m0": 1,
+      "rk": 298,
       "up": 0
      },
      "news": [
@@ -4728,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 643,
-      "up": 3
+      "rk": 501,
+      "up": 2
      },
      "news": [
       {
@@ -5754,12 +5749,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 781,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Waymo to launch robotaxis in Singapore, its first Southeast Asia market, by 2028",
@@ -5818,9 +5808,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 780,
-      "up": 2
+      "m0": 1,
+      "rk": 625,
+      "up": 1
      },
      "news": [
       {
@@ -5879,28 +5869,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 36,
-      "rk": 20,
-      "up": 40
+      "m": 5,
+      "m0": 22,
+      "rk": 21,
+      "up": 12
      },
      "news": [
+      {
+       "h": "A Florida Car Dealer Family Spent $60 Million on a Paris Wedding. Here\u2019s How Dealerships Make That Kind of Money",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/small-business/articles/florida-car-dealer-family-spent-091043721.html",
+       "date": "2026-09-20"
+      },
+      {
+       "h": "Elon Musk totaled a $1 million McLaren with Peter Thiel riding shotgun \u2014 and hadn't bought insurance",
+       "pub": "Moneywise",
+       "link": "https://finance.yahoo.com/small-business/articles/elon-musk-totaled-1-million-090000791.html",
+       "date": "2026-09-20"
+      },
       {
        "h": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-1-000-investment-034050688.html",
-       "date": "2026-09-20"
-      },
-      {
-       "h": "Nine Years, Eight Delays, and Now Rocket Thrusters: Tesla Finally Sets a Roadster Date",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nine-years-eight-delays-now-021106695.html",
-       "date": "2026-09-20"
-      },
-      {
-       "h": "Elizabeth Warren Wants Lawmakers to Decide Future of AI, Gets Told by Anthony Pompliano: Time to 'Press Pause' on Politicians Interfering in the Free Market",
-       "pub": "Benzinga",
-       "link": "https://www.yahoo.com/news/politics/articles/elizabeth-warren-wants-lawmakers-decide-013012991.html",
        "date": "2026-09-20"
       }
      ],
@@ -5967,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 136,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 284,
+      "up": 2
      },
      "news": [
       {
@@ -6282,9 +6272,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 113,
+      "m": 2,
+      "m0": 3,
+      "rk": 75,
       "up": 7
      },
      "thesis": {
@@ -6559,7 +6549,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 661,
+      "up": 2
+     },
      "news": [
       {
        "h": "Are You Buying Aurora Innovation's Trucks Or Its Story?",
@@ -7003,7 +6998,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 586,
+      "rk": 457,
       "up": 0
      },
      "news": [
@@ -7120,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 45,
-      "up": 57
+      "m": 1,
+      "m0": 9,
+      "rk": 145,
+      "up": 2
      },
      "news": [
       {
@@ -7389,12 +7384,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 385,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can Serve Robotics' Beacon Overcome Restaurant Integration Barriers?",
@@ -7779,8 +7769,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 572,
-      "up": 1
+      "rk": 444,
+      "up": 4
      },
      "news": [
       {
@@ -8286,10 +8276,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 21,
-      "rk": 27,
-      "up": 63
+      "m": 2,
+      "m0": 20,
+      "rk": 71,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -8589,8 +8579,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 410,
-      "up": 2
+      "rk": 319,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8773,7 +8763,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 656,
+      "rk": 517,
       "up": 1
      },
      "thesis": {
@@ -9187,9 +9177,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 686,
-      "up": 3
+      "m0": 1,
+      "rk": 546,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9369,10 +9359,10 @@
      "hold": null,
      "geo": "Argentina",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 91,
-      "up": 6
+      "m": 1,
+      "m0": 4,
+      "rk": 559,
+      "up": 1
      },
      "news": [
       {
@@ -9473,6 +9463,12 @@
      ],
      "awards": [
       {
+       "amt": 16556400.0,
+       "ag": "Department of Commerce",
+       "desc": "SPACE-BASED ENVIRONMENTAL MONITORING (SBEM) PROTECH 2.0 TASK ORDER 1 (TO1):IN THIS TASK ORDER, NOAA INTENDS TO ACQUIRE NEAR-REAL-TIME GLOBAL NAVIGATION SATELLITE SYSTEM (GNSS) RADIO OCCULTATION (RO) SATELLITE DATA SATISFYING THE REQUIREMENTS SET FORT",
+       "date": "2026-12-01"
+      },
+      {
        "amt": 14000000.0,
        "ag": "Department of Defense",
        "desc": "SPIRE SEQUENTIAL SBIR PHASE II",
@@ -9489,12 +9485,6 @@
        "ag": "National Aeronautics and Space Administration",
        "desc": "COMMERCIAL SMALLSAT DATA ACQUISITION (CSDA) PROGRAM",
        "date": "2024-08-12"
-      },
-      {
-       "amt": 7750000.0,
-       "ag": "Department of Commerce",
-       "desc": "IN-ORBIT DEMONSTRATION OF A FLIGHT TESTED HYPERSPECTRAL MICROWAVE SOUNDER",
-       "date": "2022-10-01"
       }
      ]
     },
@@ -9535,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 20,
-      "rk": 17,
-      "up": 64
+      "m": 3,
+      "m0": 24,
+      "rk": 45,
+      "up": 37
      },
      "thesis": {
       "bull": [
@@ -10431,9 +10421,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 749,
-      "up": 0
+      "m0": 1,
+      "rk": 602,
+      "up": 1
      },
      "news": [
       {
@@ -10463,7 +10453,7 @@
        "date": "2019-05-30"
       },
       {
-       "amt": 88031400.0,
+       "amt": 89934050.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS)",
        "date": "2024-08-29"
@@ -10583,12 +10573,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 181,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10696,7 +10681,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 231,
+      "rk": 142,
       "up": 2
      },
      "streetNotes": [
@@ -10804,27 +10789,27 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 169,
+      "m0": 1,
+      "rk": 95,
       "up": 1
      },
      "news": [
       {
+       "h": "What to expect from upcoming summit between Presidents Trump and Xi",
+       "pub": "Investing.com",
+       "link": "https://www.yahoo.com/news/politics/articles/expect-upcoming-summit-between-presidents-092720673.html",
+       "date": "2026-09-20"
+      },
+      {
+       "h": "Boeing's New MQ-25A Stingray Drone Costs $184 Million ... or Less",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-mq-25a-stingray-drone-092500231.html",
+       "date": "2026-09-20"
+      },
+      {
        "h": "Boeing Isn't Perfect -- but It's Still a Compelling Value Buy Right Now",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-isnt-perfect-still-compelling-182500408.html",
-       "date": "2026-09-19"
-      },
-      {
-       "h": "Laser Weapons Are Real Now -- and You Can Invest in Them With AeroVironment Stock",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/laser-weapons-real-now-invest-102000884.html",
-       "date": "2026-09-19"
-      },
-      {
-       "h": "Is Boeing\u2019s (BA) Freighter And Defense Strength Quietly Rebalancing Its 737 And 787 Risk Profile?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-freighter-defense-strength-071821107.html",
        "date": "2026-09-19"
       }
      ],
@@ -10836,7 +10821,7 @@
        "date": "2011-02-24"
       },
       {
-       "amt": 22652874442.12,
+       "amt": 22653518818.25,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTERNATIONAL SPACE STATION",
        "date": "1993-11-15"
@@ -10892,8 +10877,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 392,
+      "m0": 1,
+      "rk": 298,
       "up": 0
      },
      "news": [
@@ -11177,7 +11162,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 389,
+      "rk": 296,
       "up": 1
      },
      "news": [
@@ -11263,10 +11248,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 42,
-      "up": 22
+      "m": 4,
+      "m0": 9,
+      "rk": 30,
+      "up": 80
      },
      "news": [
       {
@@ -11351,12 +11336,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 475,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Give Me Space: ETFs Seek to Fill a Void",
@@ -12395,9 +12375,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 422,
-      "up": 2
+      "m0": 1,
+      "rk": 333,
+      "up": 0
      },
      "news": [
       {
@@ -12456,12 +12436,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 641,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
@@ -12591,12 +12566,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 369,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "sell-side launches nuclear coverage on $55tn capex outlook to 2100",
@@ -12713,12 +12683,18 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 102,
-      "up": 11
+      "m": 1,
+      "m0": 3,
+      "rk": 278,
+      "up": 1
      },
      "news": [
+      {
+       "h": "Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-could-051430939.html",
+       "date": "2026-09-20"
+      },
       {
        "h": "Will USAR's AI-Driven Approach Enhance Rare-Earth Processing?",
        "pub": "Zacks",
@@ -12730,12 +12706,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mps-operating-losses-continue-q2-151900509.html",
        "date": "2026-09-17"
-      },
-      {
-       "h": "UEC Gears Up to Report Q4 Earnings: What's in Store for the Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/uec-gears-report-q4-earnings-163200407.html",
-       "date": "2026-09-16"
       }
      ],
      "awards": [
@@ -12796,10 +12766,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 38,
-      "rk": 12,
-      "up": 922
+      "m": 7,
+      "m0": 41,
+      "rk": 15,
+      "up": 114
      },
      "news": [
       {
@@ -13391,9 +13361,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 764,
-      "up": 3
+      "m0": 1,
+      "rk": 616,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -13633,8 +13603,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 702,
-      "up": 2
+      "rk": 569,
+      "up": 0
      },
      "news": [
       {
@@ -14043,12 +14013,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 334,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14128,10 +14093,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 775,
-      "up": 0
+      "rk": 623,
+      "up": 1
      },
      "news": [
+      {
+       "h": "How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Investors",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vineyard-wind-truce-engine-080920257.html",
+       "date": "2026-09-20"
+      },
       {
        "h": "Jim Cramer Revealed GE Vernova Inc. (NYSE:GEV)\u2019s Saying There\u2019s An Order Acceleration",
        "pub": "Insider Monkey",
@@ -14142,12 +14113,6 @@
        "h": "GE Vernova (GEV) Surpasses Market Returns: Some Facts Worth Knowing",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-gev-surpasses-market-215005032.html",
-       "date": "2026-09-18"
-      },
-      {
-       "h": "GE Vernova vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-nextera-energy-140501925.html",
        "date": "2026-09-18"
       }
      ],
@@ -14699,7 +14664,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 328,
+      "rk": 241,
       "up": 1
      },
      "news": [
@@ -14932,7 +14897,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 173,
+      "up": 1
+     },
      "news": [
       {
        "h": "How Investors May Respond To Duke Energy (DUK) Winning an Emergency Recovery Award for Storm Resilience",
@@ -15016,10 +14986,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 124,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 151,
+      "up": 1
      },
      "news": [
       {
@@ -15103,12 +15073,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 255,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Brookfield Asset Management Targets Doubling Fee-Bearing Capital by 2031",
@@ -15131,7 +15096,7 @@
      ],
      "awards": [
       {
-       "amt": 15885176.81,
+       "amt": 16404184.27,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
        "date": "2024-01-01"
@@ -15194,8 +15159,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 266,
-      "up": 0
+      "rk": 181,
+      "up": 2
      },
      "news": [
       {
@@ -15420,12 +15385,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 524,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Drops 7% as Nuclear Stocks Hand Back the Vote Rally; Oklo Falls 5%, Centrus Energy Slides 3%",
@@ -15544,7 +15504,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 454,
+      "rk": 360,
       "up": 1
      },
      "news": [
@@ -17618,7 +17578,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-19",
+ "social_asof": "2026-09-20",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17899,9 +17859,72 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Prediction: Here's What a $1,000 Investment in Tesla (TSLA) Stock Could Be Worth By 2036",
+   "h": "Costco Stock at $892: Here's What History Says Comes Next",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-1-000-investment-034050688.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-892-heres-history-100400539.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "If You Had Invested $500 a Month in VOO Since Its 2010 Launch, You Would Have About $330,000 Today",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/had-invested-500-month-voo-095902010.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Should You Buy Micron Stock Before Its Next Earnings Report?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-stock-next-earnings-095000511.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "BA",
+   "h": "What to expect from upcoming summit between Presidents Trump and Xi",
+   "pub": "Investing.com",
+   "link": "https://www.yahoo.com/news/politics/articles/expect-upcoming-summit-between-presidents-092720673.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "BA",
+   "h": "Boeing's New MQ-25A Stingray Drone Costs $184 Million ... or Less",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boeings-mq-25a-stingray-drone-092500231.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "TSLA",
+   "h": "A Florida Car Dealer Family Spent $60 Million on a Paris Wedding. Here\u2019s How Dealerships Make That Kind of Money",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/small-business/articles/florida-car-dealer-family-spent-091043721.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Elon Musk totaled a $1 million McLaren with Peter Thiel riding shotgun \u2014 and hadn't bought insurance",
+   "pub": "Moneywise",
+   "link": "https://finance.yahoo.com/small-business/articles/elon-musk-totaled-1-million-090000791.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "GEV",
+   "h": "How GE\u2019s Vineyard Wind Truce and Engine Supply Deal Will Impact General Electric (GE) Investors",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-vineyard-wind-truce-engine-080920257.html",
+   "date": "2026-09-20"
+  },
+  {
+   "tk": "UUUU",
+   "h": "Energy Fuels (TSX:EFR) Could Be 60% Undervalued After Its September Investor Call",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/energy-fuels-tsx-efr-could-051430939.html",
    "date": "2026-09-20"
   },
   {
@@ -17912,24 +17935,10 @@
    "date": "2026-09-20"
   },
   {
-   "tk": "NVDA",
-   "h": "Jim Cramer sends a blunt message to AMD stock investors",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-blunt-message-033300311.html",
-   "date": "2026-09-20"
-  },
-  {
    "tk": "EXC",
    "h": "Exelon (EXC), Why Is The Utility Getting Fresh Attention?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/exelon-exc-why-utility-getting-032010487.html",
-   "date": "2026-09-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia Stock And 2 US AI Infrastructure Plays Tied To Federal Defense Spending",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-2-us-ai-021149518.html",
    "date": "2026-09-20"
   },
   {
@@ -17944,20 +17953,6 @@
    "h": "AEVEX (AVEX) Lands $92.2 Million SkyRange Role In Hypersonic Test Support",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-lands-92-2-020938227.html",
-   "date": "2026-09-20"
-  },
-  {
-   "tk": "NVDA",
-   "h": "History Says Buying the Nasdaq-100 at the Dot-Com Peak Still (Eventually) Turned $10,000 Into About $72,000",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-buying-nasdaq-100-015401081.html",
-   "date": "2026-09-20"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elizabeth Warren Wants Lawmakers to Decide Future of AI, Gets Told by Anthony Pompliano: Time to 'Press Pause' on Politicians Interfering in the Free Market",
-   "pub": "Benzinga",
-   "link": "https://www.yahoo.com/news/politics/articles/elizabeth-warren-wants-lawmakers-decide-013012991.html",
    "date": "2026-09-20"
   },
   {
@@ -17979,13 +17974,6 @@
    "h": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/rtx-beats-lockheed-martin-risk-225000401.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "TSLA",
-   "h": "SpaceX-Tesla Merger: Ron Baron Told Elon Musk 'Whatever You Decide... Is What I'm Going to Support'",
-   "pub": "Benzinga",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-ron-baron-213024671.html",
    "date": "2026-09-19"
   },
   {
@@ -18148,35 +18136,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/energy/articles/nextera-nee-preserve-earnings-dividend-080154663.html",
    "date": "2026-09-19"
-  },
-  {
-   "tk": "BA",
-   "h": "Is Boeing\u2019s (BA) Freighter And Defense Strength Quietly Rebalancing Its 737 And 787 Risk Profile?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-freighter-defense-strength-071821107.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "TDY",
-   "h": "Teledyne Technologies (TDY) Lands Europe Space And Defence Roles In Fresh Win",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/articles/teledyne-technologies-tdy-lands-europe-060950282.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Got $1,000? 2 No-Brainer Nuclear Stocks to Buy Right Now.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-no-055000793.html",
-   "date": "2026-09-19"
-  },
-  {
-   "tk": "OKLO",
-   "h": "Got $1,000? 2 No-Brainer Nuclear Stocks to Buy Right Now.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/got-1-000-2-no-055000793.html",
-   "date": "2026-09-19"
   }
  ],
- "prices_asof": "2026-09-20 04:44 UTC"
+ "prices_asof": "2026-09-20 10:16 UTC"
 }
