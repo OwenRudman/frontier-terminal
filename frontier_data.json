@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 443,
-      "up": 2
+      "rk": 573,
+      "up": 3
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 626,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 19,
-      "rk": 3,
-      "up": 70
+      "m": 121,
+      "m0": 27,
+      "rk": 6,
+      "up": 863
      },
      "thesis": {
       "bull": [
@@ -1132,22 +1137,22 @@
      },
      "news": [
       {
-       "h": "Could Nvidia's prospects in China shift following the Trump and Xi's meeting?",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/could-nvidias-prospects-china-shift-183517435.html",
-       "date": "2026-09-21"
-      },
-      {
-       "h": "Bitcoin prices, Logan & Jake Paul, Jensen Huang talks human survival: 3 crazy market movers",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/bitcoin-prices-logan-jake-paul-144153828.html",
-       "date": "2026-09-21"
-      },
-      {
-       "h": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-forecast-assumes-no-data-031301750.html",
+       "h": "Why AMD's new $1 trillion valuation makes perfect sense",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
        "date": "2026-09-22"
+      },
+      {
+       "h": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
+       "date": "2026-09-21"
+      },
+      {
+       "h": "Jensen Huang pushes back on AI extinction fears",
+       "pub": "Yahoo Finance Video",
+       "link": "https://finance.yahoo.com/video/jensen-huang-pushes-back-ai-140400200.html",
+       "date": "2026-09-21"
       }
      ]
     },
@@ -1334,6 +1339,12 @@
      ],
      "news": [
       {
+       "h": "1 Cash-Heavy Stock to Target This Week and 2 We Turn Down",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-target-102146599.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "3 Small-Cap Stocks We Think Twice About",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-small-cap-stocks-think-213640363.html",
@@ -1344,12 +1355,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-own-decades-081017616.html",
        "date": "2026-09-17"
-      },
-      {
-       "h": "Q2 Earnings Highs And Lows: Leonardo DRS (NASDAQ:DRS) Vs The Rest Of The Defense Contractors Stocks",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-leonardo-235918110.html",
-       "date": "2026-09-03"
       }
      ],
      "awards": [
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 324,
-      "up": 3
+      "m": 12,
+      "m0": 2,
+      "rk": 41,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -1805,7 +1810,7 @@
        "date": "2024-06-18"
       },
       {
-       "amt": 150703824.61,
+       "amt": 170765322.37,
        "ag": "Department of Homeland Security",
        "desc": "INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENHANCEMENTS",
        "date": "2022-09-26"
@@ -2031,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 214,
-      "up": 2
+      "m0": 1,
+      "rk": 305,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2322,12 +2327,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 149,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2383,7 +2383,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8487358060.67,
+       "amt": 8488820560.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2482,8 +2482,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 225,
-      "up": 2
+      "rk": 317,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 476,
+      "rk": 611,
       "up": 1
      },
      "thesis": {
@@ -3577,8 +3577,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 496,
+      "m0": 1,
+      "rk": 633,
       "up": 1
      },
      "streetNotes": [
@@ -4039,9 +4039,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 509,
-      "up": 5
+      "m0": 1,
+      "rk": 642,
+      "up": -4
      },
      "thesis": {
       "bull": [
@@ -4387,7 +4387,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 168,
+      "up": 12
+     },
      "news": [
       {
        "h": "EMBJ or RTX: Which Is the Better Value Stock Right Now?",
@@ -4715,7 +4720,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 563,
+      "up": 2
+     },
      "news": [
       {
        "h": "Ouster's CEO Sells 30,385 Shares Worth $1 Million Amid a 16% Return Over the Past 12 Months",
@@ -5135,7 +5145,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6955101161.74,
+       "amt": 6955117714.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5854,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 5,
-      "rk": 31,
-      "up": 20
+      "m": 24,
+      "m0": 7,
+      "rk": 19,
+      "up": 118
      },
      "news": [
       {
@@ -5867,15 +5877,15 @@
        "date": "2026-09-21"
       },
       {
-       "h": "What Could A Space Exploration Technologies (SPCX) Merger Mean For Investors?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/could-space-exploration-technologies-spcx-011536511.html",
+       "h": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-spcx-aapl-could-next-060201110.html",
        "date": "2026-09-22"
       },
       {
-       "h": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays",
+       "h": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla \u2018Physical AI\u2019 Flywheel, Musk \u2018Effectively\u2019 Ships Grok 4.7 On Time",
        "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-hits-nearly-3-011224775.html",
+       "link": "https://finance.yahoo.com/technology/ai/articles/spcx-stock-climbs-overnight-analysts-052138405.html",
        "date": "2026-09-22"
       }
      ],
@@ -5942,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 262,
-      "up": 2
+      "rk": 167,
+      "up": 4
      },
      "news": [
       {
@@ -6258,9 +6268,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 473,
-      "up": 7
+      "m0": 1,
+      "rk": 609,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -6454,6 +6464,12 @@
      },
      "news": [
       {
+       "h": "Aurora\u2019s New Production Goals and Driver-as-a-Service Pivot Could Be A Game Changer For Aurora Innovation (AUR)",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-production-goals-driver-pivot-081954584.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape",
        "pub": "MarketBeat",
        "link": "https://finance.yahoo.com/technology/ai/articles/aurora-innovation-targets-20-driverless-230158758.html",
@@ -6464,12 +6480,6 @@
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/buying-aurora-innovations-trucks-story-134433823.html",
        "date": "2026-09-14"
-      },
-      {
-       "h": "PlusAI Picked a SPAC to Fund Its 2027 Autonomous-Truck Launch. Is Aurora Already Too Far Ahead?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/plusai-picked-spac-fund-2027-223814791.html",
-       "date": "2026-09-04"
       }
      ],
      "awards": [
@@ -6492,7 +6502,7 @@
        "date": "2018-08-01"
       },
       {
-       "amt": 1873489.96,
+       "amt": 1939489.96,
        "ag": "Department of Transportation",
        "desc": "EFAST PA 25-070-NW; RISK, ISSUE, OPPORTUNITIES (RIO) PMO SUPPORT",
        "date": "2025-06-18"
@@ -6534,12 +6544,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 555,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "PrePass, Kodiak tie driverless trucks to weigh stations",
@@ -7095,29 +7100,29 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 8,
       "m0": 1,
-      "rk": 152,
-      "up": 9
+      "rk": 69,
+      "up": 11
      },
      "news": [
+      {
+       "h": "Enjoy Meta\u2019s Bump While It Lasts\u2014But Know That Chip Stocks Are a Safer AI Bet",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/meta-stock-price-ai-chip-524db98b?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-22"
+      },
+      {
+       "h": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+       "pub": "TIKR",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumped-9-monday-082117363.html",
+       "date": "2026-09-22"
+      },
       {
        "h": "Why Corning (GLW) Stock Is Trading Up Today",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html",
-       "date": "2026-09-22"
-      },
-      {
-       "h": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-       "pub": "BeInCrypto",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
-       "date": "2026-09-21"
       }
      ],
      "awards": [
@@ -7185,6 +7190,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Ambarella (AMBA) Quietly Turning Its AI SoC Footprint Into A Strategic Cloud Platform?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/ambarella-amba-quietly-turning-ai-082000255.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "Ambarella CEO Disposes of Over 6,000 Shares Worth Nearly $400,000",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ambarella-ceo-disposes-over-6-173200276.html",
@@ -7195,12 +7206,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/lsccs-fpga-portfolio-expansion-mach-151400983.html",
        "date": "2026-09-17"
-      },
-      {
-       "h": "Ambarella CEO Sees Edge AI Growth Across Security, Autos and Wearables",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/ambarella-ceo-sees-edge-ai-230158829.html",
-       "date": "2026-09-13"
       }
      ]
     },
@@ -7661,7 +7666,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 543,
+      "rk": 680,
       "up": 3
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
@@ -7752,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 70,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 513,
+      "up": 3
      },
      "news": [
       {
@@ -8261,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 2,
-      "rk": 8,
-      "up": 587
+      "m": 63,
+      "m0": 20,
+      "rk": 10,
+      "up": 301
      },
      "thesis": {
       "bull": [
@@ -8472,22 +8477,22 @@
      ],
      "news": [
       {
+       "h": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
+       "date": "2026-09-22"
+      },
+      {
+       "h": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-extends-rally-overnight-035810804.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-011025314.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/rocket-lab-stock-price-rating-spacex-a520b568?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-21"
-      },
-      {
-       "h": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-rocket-lab-192323994.html",
-       "date": "2026-09-21"
       }
      ],
      "awards": [
@@ -8564,8 +8569,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 294,
-      "up": 3
+      "rk": 387,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8745,7 +8750,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 579,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -9158,8 +9168,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 471,
-      "up": 6
+      "rk": 607,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9339,10 +9349,10 @@
      "hold": null,
      "geo": "Argentina",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 483,
-      "up": 1
+      "rk": 146,
+      "up": 5
      },
      "news": [
       {
@@ -9505,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 34,
-      "up": 31
+      "m": 17,
+      "m0": 7,
+      "rk": 29,
+      "up": 205
      },
      "thesis": {
       "bull": [
@@ -9748,6 +9758,12 @@
      "social": null,
      "news": [
       {
+       "h": "Globalstar (GSAT) Stock Looks Fully Priced On Its 346% Run",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-gsat-stock-looks-fully-091627933.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-building-something-world-170016499.html",
@@ -9757,12 +9773,6 @@
        "h": "ViaSat Stock Soared on Hopes of a Big Deal. The Company Has Other Ideas.",
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/viasat-stock-price-satellites-space42-1a3cf8d4?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-14"
-      },
-      {
-       "h": "Can AST SpaceMobile's Expanding MNO Base Boost Its Revenue Prospects?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobiles-expanding-mno-boost-135200055.html",
        "date": "2026-09-14"
       }
      ],
@@ -9831,6 +9841,12 @@
      "social": null,
      "news": [
       {
+       "h": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-extends-rally-overnight-035810804.html",
@@ -9841,12 +9857,6 @@
        "pub": "Barrons.com",
        "link": "https://www.barrons.com/articles/rocket-lab-stock-price-rating-spacex-a520b568?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-21"
-      },
-      {
-       "h": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-climbs-7-cantor-154002618.html",
-       "date": "2026-09-21"
       }
      ],
      "awards": [
@@ -9855,6 +9865,12 @@
        "ag": "Department of Defense",
        "desc": "ENGINEERING AND MAINTENANCE SERVICES",
        "date": "2025-08-25"
+      },
+      {
+       "amt": 7652225.0,
+       "ag": "Department of Defense",
+       "desc": "ALTERNATIVE POSITION, NAVIGATION AND TIMING SERVICES",
+       "date": "2026-06-23"
       },
       {
        "amt": 482060.0,
@@ -10400,10 +10416,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 97,
-      "up": 4
+      "m": 8,
+      "m0": 2,
+      "rk": 72,
+      "up": 12
      },
      "news": [
       {
@@ -10569,22 +10585,22 @@
      ],
      "news": [
       {
+       "h": "2 Large-Cap Stocks to Keep an Eye On and 1 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-keep-074946878.html",
+       "date": "2026-09-22"
+      },
+      {
+       "h": "Lockheed Martin (LMT) Following Its PrSM Win Looks Undervalued On The Leading Narrative",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-following-prsm-061436212.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "Lockheed Martin Fast-Tracks Secret Missile as Global Weapons Demand Rises",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/economy/policy/articles/lockheed-martin-fast-tracks-secret-013905663.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "Lockheed wins US Army missile contract worth up to $1.2 billion",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/technology/articles/lockheed-wins-us-army-missile-222045057.html",
-       "date": "2026-09-21"
-      },
-      {
-       "h": "Firefly Aerospace vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-rocket-lab-184914355.html",
-       "date": "2026-09-21"
       }
      ],
      "awards": [
@@ -10658,12 +10674,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 149,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10719,7 +10730,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8487358060.67,
+       "amt": 8488820560.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10767,7 +10778,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 199,
+      "up": 2
+     },
      "news": [
       {
        "h": "Boeing (BA) Strengthens its Backlog with Korean Air\u2019s 103-Aircraft Commitment",
@@ -10850,7 +10866,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 168,
+      "up": 12
+     },
      "news": [
       {
        "h": "EMBJ or RTX: Which Is the Better Value Stock Right Now?",
@@ -11213,10 +11234,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 324,
-      "up": 3
+      "m": 12,
+      "m0": 2,
+      "rk": 41,
+      "up": 41
      },
      "news": [
       {
@@ -11252,7 +11273,7 @@
        "date": "2024-06-18"
       },
       {
-       "amt": 150703824.61,
+       "amt": 170765322.37,
        "ag": "Department of Homeland Security",
        "desc": "INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENHANCEMENTS",
        "date": "2022-09-26"
@@ -11303,9 +11324,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 345,
-      "up": 6
+      "m0": 1,
+      "rk": 444,
+      "up": 4
      },
      "news": [
       {
@@ -12343,12 +12364,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 306,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
@@ -12408,8 +12424,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 435,
+      "m0": 1,
+      "rk": 561,
       "up": 0
      },
      "news": [
@@ -12659,9 +12675,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 255,
-      "up": 3
+      "m0": 1,
+      "rk": 357,
+      "up": 2
      },
      "news": [
       {
@@ -12741,10 +12757,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 7,
-      "rk": 10,
-      "up": 76
+      "m": 13,
+      "m0": 16,
+      "rk": 38,
+      "up": 41
      },
      "news": [
       {
@@ -13014,7 +13030,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 565,
+      "up": 1
+     },
      "news": [
       {
        "h": "1 Small-Cap Stock with Exciting Potential and 2 We Find Risky",
@@ -13337,8 +13358,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 519,
-      "up": 3
+      "rk": 653,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13575,12 +13596,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 490,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
@@ -14068,7 +14084,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 527,
+      "rk": 662,
       "up": 1
      },
      "news": [
@@ -14156,6 +14172,12 @@
      "social": null,
      "news": [
       {
+       "h": "1 Volatile Stock on Our Watchlist and 2 Facing Headwinds",
+       "pub": "StockStory",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/1-volatile-stock-watchlist-2-080546322.html",
+       "date": "2026-09-22"
+      },
+      {
        "h": "2 Russell 2000 Stocks with Competitive Advantages and 1 That Underwhelm",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-russell-2000-stocks-competitive-120040944.html",
@@ -14166,12 +14188,6 @@
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/3-services-stocks-competitive-advantages-190705344.html",
        "date": "2026-09-11"
-      },
-      {
-       "h": "Mirion CFO Brian Schopfer Buys 20,000",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mirion-cfo-brian-schopfer-buys-205001368.html",
-       "date": "2026-09-08"
       }
      ],
      "awards": [
@@ -14425,6 +14441,12 @@
      ],
      "awards": [
       {
+       "amt": 1271854.78,
+       "ag": "Department of Transportation",
+       "desc": "CA FLAP NWK 10(1) THORNTON AVENUE BIKE IMPROVEMENTS  15% DESIGN TASK ORDER INCLUDING ENVIRONMENTAL FIELD STUDIES AND MAPPING",
+       "date": "2023-04-20"
+      },
+      {
        "amt": 940274.72,
        "ag": "Department of Transportation",
        "desc": "CA FLAP MAR 223(1) PIERCE POINT ROAD  ENVIRONMENTAL SUPPORT (FIELD WORK, PLANT SURVEYS, MEMOS)",
@@ -14441,12 +14463,6 @@
        "ag": "Department of Transportation",
        "desc": "CO FW RKM 10(1) WILDLIFE DR. & VC PARKING DESIGN TO 0% - 100%",
        "date": "2022-06-16"
-      },
-      {
-       "amt": 115640.4,
-       "ag": "Department of Transportation",
-       "desc": "NM FLAP SR475(1) HYDE PARK ROAD IMPROVEMENTS SCOPING AND PDP EFFORT",
-       "date": "2026-09-02"
       }
      ]
     },
@@ -14638,11 +14654,17 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 228,
-      "up": 5
+      "m0": 1,
+      "rk": 320,
+      "up": 3
      },
      "news": [
+      {
+       "h": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
+       "date": "2026-09-22"
+      },
       {
        "h": "NUAI Stock Soars as New Era Energy Strikes Power Deal With Vistra",
        "pub": "Barchart",
@@ -14653,12 +14675,6 @@
        "h": "Vistra Is Down 36% From Its All-Time High. Is the AI Power Trade Still Worth Owning?",
        "pub": "TIKR",
        "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-down-36-time-high-154136921.html",
-       "date": "2026-09-21"
-      },
-      {
-       "h": "New Era jumps 30% after signing 207 MW Vistra PPA",
-       "pub": "Blockspace",
-       "link": "https://finance.yahoo.com/energy/articles/era-jumps-30-signing-207-142704464.html",
        "date": "2026-09-21"
       }
      ],
@@ -14875,7 +14891,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 174,
+      "rk": 269,
       "up": 1
      },
      "news": [
@@ -14962,9 +14978,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 1,
-      "rk": 65,
-      "up": 19
+      "m0": 3,
+      "rk": 123,
+      "up": 7
      },
      "news": [
       {
@@ -15131,12 +15147,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 178,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Public Service Enterprise Group CEO Sells 2,083 Shares",
@@ -17548,7 +17559,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-21",
+ "social_asof": "2026-09-22",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17828,6 +17839,118 @@
  ],
  "news": [
   {
+   "tk": "DRS",
+   "h": "1 Cash-Heavy Stock to Target This Week and 2 We Turn Down",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-target-102146599.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: $10,000 Invested in VFVA Today Could Be Worth This Much by 2031",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-10-000-invested-vfva-102000834.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Enjoy Meta\u2019s Bump While It Lasts\u2014But Know That Chip Stocks Are a Safer AI Bet",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/meta-stock-price-ai-chip-524db98b?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Why AMD's new $1 trillion valuation makes perfect sense",
+   "pub": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/why-amds-new-1-trillion-valuation-makes-perfect-sense-093453726.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "GSAT",
+   "h": "Globalstar (GSAT) Stock Looks Fully Priced On Its 346% Run",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-gsat-stock-looks-fully-091627933.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+   "pub": "TIKR",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumped-9-monday-082117363.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "AMBA",
+   "h": "Is Ambarella (AMBA) Quietly Turning Its AI SoC Footprint Into A Strategic Cloud Platform?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ambarella-amba-quietly-turning-ai-082000255.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "AUR",
+   "h": "Aurora\u2019s New Production Goals and Driver-as-a-Service Pivot Could Be A Game Changer For Aurora Innovation (AUR)",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aurora-production-goals-driver-pivot-081954584.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "MIR",
+   "h": "1 Volatile Stock on Our Watchlist and 2 Facing Headwinds",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-volatile-stock-watchlist-2-080546322.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "LMT",
+   "h": "2 Large-Cap Stocks to Keep an Eye On and 1 Facing Headwinds",
+   "pub": "StockStory",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-large-cap-stocks-keep-074946878.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-sold-1-9-073401481.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "VST",
+   "h": "New Era Energy & Digital, Inc. (NUAI) Moves 30.6% Higher: Will This Strength Last?",
+   "pub": "Zacks",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-inc-nuai-063800243.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "LMT",
+   "h": "Lockheed Martin (LMT) Following Its PrSM Win Looks Undervalued On The Leading Narrative",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-following-prsm-061436212.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "TSLA",
+   "h": "TSLA, SPCX, AAPL Could Be Next To \u2018Rip\u2019 After Meta\u2019s Muse Rally, Analyst Says \u2014 Here Are The Catalysts",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-spcx-aapl-could-next-060201110.html",
+   "date": "2026-09-22"
+  },
+  {
+   "tk": "TSLA",
+   "h": "SPCX Stock Climbs Overnight: Analysts Tout SpaceX-Tesla \u2018Physical AI\u2019 Flywheel, Musk \u2018Effectively\u2019 Ships Grok 4.7 On Time",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spcx-stock-climbs-overnight-analysts-052138405.html",
+   "date": "2026-09-22"
+  },
+  {
    "tk": "IRDM",
    "h": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
    "pub": "Stocktwits",
@@ -17835,17 +17958,10 @@
    "date": "2026-09-22"
   },
   {
-   "tk": "NVDA",
-   "h": "Nvidia's Forecast Assumes No Data Center Chip Sales to China. The Sept. 24 U.S.-China Summit Could Change That.",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidias-forecast-assumes-no-data-031301750.html",
-   "date": "2026-09-22"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Apple Launches New Products in Time for New CEO",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-launches-products-time-ceo-030239214.html",
+   "tk": "RKLB",
+   "h": "RKLB Stock Extends Rally Overnight: CEO Says Iridium Deal Will Forge A Self-Launching \u2018Tier-1 Space Power\u2019",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-extends-rally-overnight-035810804.html",
    "date": "2026-09-22"
   },
   {
@@ -17891,24 +18007,10 @@
    "date": "2026-09-22"
   },
   {
-   "tk": "TSLA",
-   "h": "TSLA Stock Hits Nearly 3-Week High: Nvidia Win Adds Muscle To \u2018Physical AI\u2019 Pivot Despite Optimus Delays",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-hits-nearly-3-011224775.html",
-   "date": "2026-09-22"
-  },
-  {
    "tk": "RKLB",
    "h": "Why Are Rocket Lab (RKLB) Shares Soaring Today",
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-rklb-shares-011025314.html",
-   "date": "2026-09-22"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Elon Musk Agrees Viral Robot Moves Were \u2018Essentially Remote Controlled\u2019 \u2014 Tesla AI Chief Warns Robot Safety is a Bigger Challenge Than AI Safety",
-   "pub": "Benzinga",
-   "link": "https://tech.yahoo.com/ai/meta-ai/articles/elon-musk-agrees-viral-robot-003012374.html",
    "date": "2026-09-22"
   },
   {
@@ -17923,13 +18025,6 @@
    "h": "A Closer Look at the 'Big 3' Investing Styles",
    "pub": "Zacks",
    "link": "https://finance.yahoo.com/markets/stocks/articles/closer-look-big-3-investing-234400324.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-   "pub": "BeInCrypto",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html",
    "date": "2026-09-21"
   },
   {
@@ -17982,13 +18077,6 @@
    "date": "2026-09-21"
   },
   {
-   "tk": "QCOM",
-   "h": "Update: Nasdaq Composite Rallies to Record as AI Trade Lifts Chipmakers",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-rallies-record-ai-203838542.html",
-   "date": "2026-09-21"
-  },
-  {
    "tk": "ASTS",
    "h": "Rocket Lab Looks More and More Like a SpaceX Competitor. The Stock Is Up.",
    "pub": "Barrons.com",
@@ -18029,84 +18117,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-just-200655921.html",
    "date": "2026-09-21"
-  },
-  {
-   "tk": "CEG",
-   "h": "Sector Update: Energy Stocks Fall Late Afternoon",
-   "pub": "MT Newswires",
-   "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195539794.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Palantir Climbs as CEO Sends Blunt Message to AI Industry",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/palantir-climbs-ceo-sends-blunt-194844767.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Maye Musk: Elon really wants to live on Mars in the coming decades",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/maye-musk-elon-really-wants-to-live-on-mars-in-the-coming-decades-193421298.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Cathie Wood Makes a Big AI Bet and Cuts Bitcoin Exposure",
-   "pub": "GuruFocus.com",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-makes-big-ai-192343518.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Archer Aviation vs. Rocket Lab: Which Aerospace Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-vs-rocket-lab-192323994.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "RKLB",
-   "h": "Rocket Lab Poised to Become \u201cOnly Viable Alternative\u201d to SpaceX, Says Cantor Fitzgerald",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-poised-become-only-190102545.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-surges-8-still-down-185547085.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "RDW",
-   "h": "Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-surges-8-still-down-185547085.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "NNE",
-   "h": "Why Nano Nuclear Energy Stock Is Powering Higher Today",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/why-nano-nuclear-energy-stock-185059384.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "FLY",
-   "h": "Firefly Aerospace vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-rocket-lab-184914355.html",
-   "date": "2026-09-21"
-  },
-  {
-   "tk": "LMT",
-   "h": "Firefly Aerospace vs. Rocket Lab: Which Space Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-rocket-lab-184914355.html",
-   "date": "2026-09-21"
   }
  ],
- "prices_asof": "2026-09-22 04:09 UTC"
+ "prices_asof": "2026-09-22 10:33 UTC"
 }
