@@ -617,7 +617,13 @@
      },
      "news": [
       {
-       "h": "Critical Metals Jumps 9% While the Rare Earth Group Stalls; MP Materials Ticks Up, USA Rare Earth Eases",
+       "h": "Critical Metals And 2 Rare Earth Stocks To Watch",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/critical-metals-2-rare-earth-001937003.html",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "Critical Metals Jumps 9% as Rare Earth Stocks Stall; MP Materials Ticks Up, USA Rare Earth Eases",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/critical-metals-jumps-9-while-181016444.html",
        "date": "2026-09-24"
@@ -626,12 +632,6 @@
        "h": "Cameco vs. MP Materials: Does Uranium or Rare Earths Make a Better Stock Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cameco-vs-mp-materials-does-141901901.html",
-       "date": "2026-09-23"
-      },
-      {
-       "h": "America\u2019s Rare Earth Bet Nears a Real Test: MP Materials Closes In on GM Deliveries",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/america-rare-earth-bet-nears-115845687.html",
        "date": "2026-09-23"
       }
      ],
@@ -1143,16 +1143,16 @@
        "date": "2026-09-24"
       },
       {
-       "h": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
-       "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html",
-       "date": "2026-09-24"
+       "h": "Elastic Unveils AI-Era Metrics Platform, Claims Major Speed and Storage Gains",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/technology/ai/articles/elastic-unveils-ai-era-metrics-070206127.html",
+       "date": "2026-09-25"
       },
       {
-       "h": "Why Welltower Stock Topped the Market on Thursday",
+       "h": "Where Will Robinhood Stock Be in 5 Years?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-welltower-stock-topped-market-235247666.html",
-       "date": "2026-09-24"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/where-robinhood-stock-5-years-065000358.html",
+       "date": "2026-09-25"
       }
      ]
     },
@@ -5396,6 +5396,12 @@
      "social": null,
      "news": [
       {
+       "h": "Textron (TXT) Faces A 27% Fair Value Gap On Execution Concerns",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/textron-txt-faces-27-fair-011347923.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "GE Aerospace Faces Margin Pressure From Rising Costs: Can It Recover?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-faces-margin-pressure-141000210.html",
@@ -5406,12 +5412,6 @@
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/textron-underperforming-nasdaq-111609187.html",
        "date": "2026-09-23"
-      },
-      {
-       "h": "Howmet vs. Textron: Which Aerospace & Defense Stock Should You Bet On?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/howmet-vs-textron-aerospace-defense-161900483.html",
-       "date": "2026-09-22"
       }
      ],
      "awards": [
@@ -5860,22 +5860,22 @@
      },
      "news": [
       {
-       "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
-       "pub": "Investor's Business Daily",
-       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+       "h": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-climbs-overnight-roadster-054524806.html",
        "date": "2026-09-25"
       },
       {
-       "h": "Tesla (TSLA) vs Rivian (RIVN): Which is a Better EV Stock to Buy",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-vs-rivian-rivn-235302515.html",
-       "date": "2026-09-24"
+       "h": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
+       "date": "2026-09-25"
       },
       {
-       "h": "Tesla set to formally roll out Semi electric trucks at Nevada event",
-       "pub": "Reuters",
-       "link": "https://finance.yahoo.com/news/tesla-set-formally-roll-semi-230854250.html",
-       "date": "2026-09-24"
+       "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+       "pub": "Investor's Business Daily",
+       "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+       "date": "2026-09-25"
       }
      ],
      "awards": [
@@ -7102,15 +7102,15 @@
        "date": "2026-09-24"
       },
       {
+       "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+       "pub": "The Wall Street Journal",
+       "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Qualcomm (QCOM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-registers-bigger-fall-204505603.html",
        "date": "2026-09-24"
       }
      ],
@@ -8108,6 +8108,12 @@
      ],
      "news": [
       {
+       "h": "Karman Holdings (KRMN) Jumped, What Is Behind The Move?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-jumped-behind-051125318.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Analysts Warn the Entire Space Trade Is Sitting in Neutral Waiting on One Rocket",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-warn-entire-space-trade-162231845.html",
@@ -8118,12 +8124,6 @@
        "pub": "TipRanks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/2-beaten-down-stocks-testing-175835900.html",
        "date": "2026-09-09"
-      },
-      {
-       "h": "Why Karman Holdings Stock Was Wilting Again This Week",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/why-karman-holdings-stock-wilting-045009377.html",
-       "date": "2026-09-04"
       }
      ]
     },
@@ -8930,6 +8930,12 @@
      },
      "news": [
       {
+       "h": "A $980 Million Reason to Buy Redwire Stock",
+       "pub": "Barchart",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/980-million-reason-buy-redwire-204448452.html",
+       "date": "2026-09-24"
+      },
+      {
        "h": "Analysts Warn the Entire Space Trade Is Sitting in Neutral Waiting on One Rocket",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-warn-entire-space-trade-162231845.html",
@@ -8939,12 +8945,6 @@
        "h": "Redwire Selected For $980M US Space Force Program: A Look At The Key Highlights",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-selected-980m-us-space-141203685.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-vs-pl-satellite-stock-133400879.html",
        "date": "2026-09-24"
       }
      ],
@@ -12376,6 +12376,12 @@
      "social": null,
      "news": [
       {
+       "h": "Brookfield Has an Enviable Record of Boosting Profits. Its Stock Looks Cheap.",
+       "pub": "Barrons.com",
+       "link": "https://www.barrons.com/articles/brookfield-alternative-assets-energy-real-estate-85c714c1?siteid=yhoof2&yptr=yahoo",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Here's Why Cameco (CCJ) Fell More Than Broader Market",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cameco-ccj-fell-205003239.html",
@@ -12385,12 +12391,6 @@
        "h": "Uranium Royalty (UROY) Posts Strong Q1, But One-Off Gains Complicate the Earnings Picture",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/uranium-royalty-uroy-posts-strong-115755436.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Is the Options Market Predicting a Spike in Cameco Stock?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-cameco-105200638.html",
        "date": "2026-09-24"
       }
      ]
@@ -13542,6 +13542,12 @@
      },
      "news": [
       {
+       "h": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "NuScale Power Stock Is Just One Of 3 Top Nuclear Stocks",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-just-one-011715369.html",
@@ -13551,12 +13557,6 @@
        "h": "Is X-Energy Building a New Model for Industrial Nuclear Power?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/x-energy-building-model-industrial-152100893.html",
-       "date": "2026-09-23"
-      },
-      {
-       "h": "Oklo vs. NuScale vs. BWX Technologies: Ranking the 3 Popular Nuclear Stocks From Worst to First",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-vs-nuscale-vs-bwx-110500181.html",
        "date": "2026-09-23"
       }
      ],
@@ -14601,22 +14601,22 @@
      },
      "news": [
       {
+       "h": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "VST Keeps Writing Checks To Its Shareholders",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Could Constellation Energy (CEG)\u2019s $715 Million Shell (SHEL) Deal Accelerate its Power Growth?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/energy/articles/could-constellation-energy-ceg-715-221615563.html",
        "date": "2026-09-24"
-      },
-      {
-       "h": "NuScale Power Stock Is Just One Of 3 Top Nuclear Stocks",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/nuscale-power-stock-just-one-011715369.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Top 3 Nuclear Power Stocks To Watch In September 2026",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/top-3-nuclear-power-stocks-101737350.html",
-       "date": "2026-09-23"
       }
      ],
      "awards": [
@@ -14689,22 +14689,22 @@
      },
      "news": [
       {
+       "h": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "VST Keeps Writing Checks To Its Shareholders",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Energy Transition Update - Fashion Industry Joins Forces For Renewable Energy Revolution",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/energy/articles/energy-transition-fashion-industry-joins-113702372.html",
        "date": "2026-09-24"
-      },
-      {
-       "h": "Vistra Corp. (VST) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-vst-sees-more-214506629.html",
-       "date": "2026-09-23"
-      },
-      {
-       "h": "New Era Energy & Digital Is Up by More Than 60% This Month. Here's What's Fueling the Rally.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/era-energy-digital-more-60-084100539.html",
-       "date": "2026-09-23"
       }
      ],
      "awards": [
@@ -14925,6 +14925,12 @@
      },
      "news": [
       {
+       "h": "VST Keeps Writing Checks To Its Shareholders",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Bond Market Collapse Sends Yields to Decades-Old Highs. Dividend Stocks Are Most at Risk.",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/bond-market-collapse-sends-yields-160943871.html",
@@ -14934,12 +14940,6 @@
        "h": "GE Vernova vs. Duke Energy: Which Power Stock Is a Better Pick Today?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/ge-vernova-vs-duke-energy-154500116.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "4 Utility Stocks With Reliable Dividends and a Massive New Growth Engine",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/4-utility-stocks-reliable-dividends-145347928.html",
        "date": "2026-09-24"
       }
      ],
@@ -15013,6 +15013,12 @@
      },
      "news": [
       {
+       "h": "VST Keeps Writing Checks To Its Shareholders",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "4 Utility Stocks With Reliable Dividends and a Massive New Growth Engine",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/4-utility-stocks-reliable-dividends-145347928.html",
@@ -15022,12 +15028,6 @@
        "h": "Down 7% in 4 Weeks, Here's Why You Should You Buy the Dip in Southern Co. (SO)",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/down-7-4-weeks-heres-123502421.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Southern Company Just Inked a Power Agreement With a Leading Big Tech Stock",
-       "pub": "Barchart",
-       "link": "https://finance.yahoo.com/energy/articles/southern-company-just-inked-power-120731786.html",
        "date": "2026-09-24"
       }
      ],
@@ -15101,6 +15101,12 @@
      },
      "news": [
       {
+       "h": "VST Keeps Writing Checks To Its Shareholders",
+       "pub": "Trefis",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "NextEra Energy (NEE) Dips More Than Broader Market: What You Should Know",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-dips-more-204503238.html",
@@ -15110,12 +15116,6 @@
        "h": "NextEra Stock Has Fallen 22% From Its High. Is the Selloff a Buying Opportunity?",
        "pub": "TIKR",
        "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-stock-fallen-22-high-152802277.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "NextEra Energy vs. Duke Energy: Which Utility Stock Looks Stronger?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-vs-duke-energy-131500221.html",
        "date": "2026-09-24"
       }
      ],
@@ -17878,38 +17878,150 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "Elastic Unveils AI-Era Metrics Platform, Claims Major Speed and Storage Gains",
+   "pub": "MarketBeat",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elastic-unveils-ai-era-metrics-070206127.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Where Will Robinhood Stock Be in 5 Years?",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/where-robinhood-stock-5-years-065000358.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "NVDA",
+   "h": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "OKLO",
+   "h": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
+   "date": "2026-09-25"
+  },
+  {
    "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+   "h": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-climbs-overnight-roadster-054524806.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "KRMN",
+   "h": "Karman Holdings (KRMN) Jumped, What Is Behind The Move?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/karman-holdings-krmn-jumped-behind-051125318.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "CCJ",
+   "h": "Brookfield Has an Enviable Record of Boosting Profits. Its Stock Looks Cheap.",
+   "pub": "Barrons.com",
+   "link": "https://www.barrons.com/articles/brookfield-alternative-assets-energy-real-estate-85c714c1?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "CEG",
+   "h": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "VST",
+   "h": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
    "pub": "Investor's Business Daily",
    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
    "date": "2026-09-25"
   },
   {
-   "tk": "TSLA",
-   "h": "Tesla (TSLA) vs Rivian (RIVN): Which is a Better EV Stock to Buy",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-vs-rivian-rivn-235302515.html",
-   "date": "2026-09-24"
+   "tk": "TXT",
+   "h": "Textron (TXT) Faces A 27% Fair Value Gap On Execution Concerns",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/textron-txt-faces-27-fair-011347923.html",
+   "date": "2026-09-25"
   },
   {
-   "tk": "NVDA",
-   "h": "Why Welltower Stock Topped the Market on Thursday",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-welltower-stock-topped-market-235247666.html",
-   "date": "2026-09-24"
+   "tk": "CEG",
+   "h": "VST Keeps Writing Checks To Its Shareholders",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "DUK",
+   "h": "VST Keeps Writing Checks To Its Shareholders",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "NEE",
+   "h": "VST Keeps Writing Checks To Its Shareholders",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "SO",
+   "h": "VST Keeps Writing Checks To Its Shareholders",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "VST",
+   "h": "VST Keeps Writing Checks To Its Shareholders",
+   "pub": "Trefis",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
+   "pub": "The Wall Street Journal",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "MP",
+   "h": "Critical Metals And 2 Rare Earth Stocks To Watch",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/critical-metals-2-rare-earth-001937003.html",
+   "date": "2026-09-25"
   },
   {
    "tk": "UBER",
    "h": "Waymo is Taking Robotaxis to Tokyo. Can Alphabet Get Ahead of Uber in Japan?",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/technology/ai/articles/waymo-taking-robotaxis-tokyo-alphabet-235117685.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html",
    "date": "2026-09-24"
   },
   {
@@ -17945,20 +18057,6 @@
    "h": "What Does Uber Technologies (UBER) Winning Spain's First Robotaxi Permit Mean?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/technology/ai/articles/does-uber-technologies-uber-winning-231241066.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla set to formally roll out Semi electric trucks at Nevada event",
-   "pub": "Reuters",
-   "link": "https://finance.yahoo.com/news/tesla-set-formally-roll-semi-230854250.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Anthony Scaramucci's son bets $350 million on a 'programmable future'",
-   "pub": "TheStreet",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/anthony-scaramuccis-son-bets-350-225724521.html",
    "date": "2026-09-24"
   },
   {
@@ -18058,105 +18156,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q2-highlights-205658570.html",
    "date": "2026-09-24"
-  },
-  {
-   "tk": "LDOS",
-   "h": "Leidos (LDOS) Suffers a Larger Drop Than the General Market: Key Insights",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-ldos-suffers-larger-drop-205005425.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "CCJ",
-   "h": "Here's Why Cameco (CCJ) Fell More Than Broader Market",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cameco-ccj-fell-205003239.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "ALB",
-   "h": "Albemarle (ALB) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/albemarle-alb-falls-more-steeply-205002171.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "Could Lockheed Martin (LMT)\u2019s Missile Defense Boom Give it an Edge Over General Dynamics (GD)?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-lockheed-martin-lmt-missile-204700272.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Qualcomm (QCOM) Registers a Bigger Fall Than the Market: Important Facts to Note",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-registers-bigger-fall-204505603.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "BIDU",
-   "h": "Baidu Inc. (BIDU) Suffers a Larger Drop Than the General Market: Key Insights",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-inc-bidu-suffers-larger-204503961.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "NEE",
-   "h": "NextEra Energy (NEE) Dips More Than Broader Market: What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-dips-more-204503238.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing (BA) Dips More Than Broader Market: What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-dips-more-broader-204502433.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "QCOM",
-   "h": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/news/technology/chip-stocks-retreat-qualcomm-secures-apple-licensing-deal/?src=A00220&yptr=yahoo",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "Could Eaton Corporation (ETN)\u2019s $242 Million Expansion Power its Next Data Center Growth Phase?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/articles/could-eaton-corporation-etn-242-203059824.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "BA",
-   "h": "Soaring Defense Spending Means Great News for These 2 Stocks",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "LHX",
-   "h": "Soaring Defense Spending Means Great News for These 2 Stocks",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "NOC",
-   "h": "Soaring Defense Spending Means Great News for These 2 Stocks",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "RTX",
-   "h": "Soaring Defense Spending Means Great News for These 2 Stocks",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
-   "date": "2026-09-24"
   }
  ],
- "prices_asof": "2026-09-25 00:21 UTC"
+ "prices_asof": "2026-09-25 07:23 UTC"
 }
