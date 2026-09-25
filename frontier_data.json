@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 697,
-      "up": 1
+      "rk": 678,
+      "up": 5
      },
      "news": [
       {
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 785,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 62,
-      "m0": 73,
-      "rk": 9,
-      "up": 409
+      "m": 53,
+      "m0": 62,
+      "rk": 11,
+      "up": 232
      },
      "thesis": {
       "bull": [
@@ -1143,15 +1138,15 @@
        "date": "2026-09-24"
       },
       {
-       "h": "Elastic Unveils AI-Era Metrics Platform, Claims Major Speed and Storage Gains",
-       "pub": "MarketBeat",
-       "link": "https://finance.yahoo.com/technology/ai/articles/elastic-unveils-ai-era-metrics-070206127.html",
+       "h": "Does History Suggest Buying SpaceX Stock in a Market Crash? The Answer Might Surprise You",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/does-history-suggest-buying-spacex-103500211.html",
        "date": "2026-09-25"
       },
       {
-       "h": "Where Will Robinhood Stock Be in 5 Years?",
+       "h": "Berkshire Hathaway Just Bought $212 Million of This Beaten Down Stock in 3 Days, and Its Stake Has Increased 81% This Quarter",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/where-robinhood-stock-5-years-065000358.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-just-bought-212-103000192.html",
        "date": "2026-09-25"
       }
      ]
@@ -1312,7 +1307,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 782,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1377,10 +1377,10 @@
        "date": "2020-12-30"
       },
       {
-       "amt": 27791700.98,
+       "amt": 27921874.98,
        "ag": "Department of Defense",
-       "desc": "PROCUREMENT OF SPARE DETECTOR COOLER BENCH (DCB)",
-       "date": "2023-08-15"
+       "desc": "FMS CASE: IS-ZJY HEAVY DUTY TANK TRAILERS FOR THE COUNTRY OF ISRAEL",
+       "date": "2023-12-27"
       }
      ]
     },
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 50,
-      "m0": 9,
-      "rk": 12,
-      "up": 91
+      "m": 18,
+      "m0": 50,
+      "rk": 28,
+      "up": 24
      },
      "thesis": {
       "bull": [
@@ -1778,6 +1778,12 @@
      },
      "news": [
       {
+       "h": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-worry-michael-burrys-big-093500809.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Reddit Stock And 2 More Quality Stocks",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-2-more-quality-231436685.html",
@@ -1787,12 +1793,6 @@
        "h": "Anthropic proposes supervoting shares to give co-founders majority control -report",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-proposes-supervoting-shares-co-224138524.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/could-palantir-pltr-partnership-nebius-220317492.html",
        "date": "2026-09-24"
       }
      ],
@@ -2322,12 +2322,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 267,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2481,8 +2476,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 369,
+      "m0": 1,
+      "rk": 356,
       "up": 1
      },
      "thesis": {
@@ -2832,8 +2827,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 760,
-      "up": 3
+      "rk": 736,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4033,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 189,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 799,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4385,10 +4380,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 444,
-      "up": 3
+      "rk": 433,
+      "up": 4
      },
      "news": [
+      {
+       "h": "Is OSI Systems (OSIS) Built to Be a Long-Term Compounding Powerhouse in Defense and Security?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-osis-built-long-075211944.html",
+       "date": "2026-09-25"
+      },
       {
        "h": "Here's Why RTX (RTX) Fell More Than Broader Market",
        "pub": "Zacks",
@@ -4399,12 +4400,6 @@
        "h": "Soaring Defense Spending Means Great News for These 2 Stocks",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Is GE Aerospace's Lead Already In Its Stock Price?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospaces-lead-already-stock-192506936.html",
        "date": "2026-09-24"
       }
      ],
@@ -4717,9 +4712,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 684,
-      "up": 2
+      "m0": 0,
+      "rk": 669,
+      "up": 0
      },
      "news": [
       {
@@ -5099,7 +5094,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 231,
+      "up": 4
+     },
      "news": [
       {
        "h": "Defense Contractors Stocks Q2 Earnings: Huntington Ingalls (NYSE:HII) Best of the Bunch",
@@ -5128,7 +5128,7 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319625769.83,
+       "amt": 8319625828.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
@@ -5853,28 +5853,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 43,
-      "m0": 45,
-      "rk": 14,
-      "up": 96
+      "m": 27,
+      "m0": 44,
+      "rk": 17,
+      "up": 205
      },
      "news": [
       {
-       "h": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-climbs-overnight-roadster-054524806.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
-       "pub": "Investing.com",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+       "h": "Dow sell-side Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
        "pub": "Investor's Business Daily",
        "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "Tesla Begins High-Volume Semi Production at Nevada Factory, Musk Says",
+       "pub": "InvestorsHub",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begins-high-volume-semi-102007738.html",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+       "pub": "Reuters",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
        "date": "2026-09-25"
       }
      ],
@@ -5941,10 +5941,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 4,
       "m0": 3,
-      "rk": 130,
-      "up": 3
+      "rk": 87,
+      "up": 498
      },
      "news": [
       {
@@ -6258,7 +6258,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 758,
+      "rk": 733,
       "up": 1
      },
      "thesis": {
@@ -7090,9 +7090,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 272,
-      "up": 4
+      "m0": 1,
+      "rk": 251,
+      "up": 1
      },
      "news": [
       {
@@ -7102,16 +7102,16 @@
        "date": "2026-09-24"
       },
       {
+       "h": "Why Is Qualcomm (QCOM) Pushing AI From Phones To Cars And Edge Devices?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-pushing-ai-100849146.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
        "pub": "The Wall Street Journal",
        "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
        "date": "2026-09-25"
-      },
-      {
-       "h": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html",
-       "date": "2026-09-24"
       }
      ],
      "awards": [
@@ -7418,7 +7418,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 790,
+      "rk": 760,
       "up": 1
      },
      "news": [
@@ -7746,10 +7746,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 18,
-      "rk": 613,
-      "up": 2
+      "m": 9,
+      "m0": 1,
+      "rk": 47,
+      "up": 6
      },
      "news": [
       {
@@ -8255,10 +8255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 14,
-      "rk": 20,
-      "up": 31
+      "m": 32,
+      "m0": 24,
+      "rk": 15,
+      "up": 51
      },
      "thesis": {
       "bull": [
@@ -8466,6 +8466,12 @@
      ],
      "news": [
       {
+       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Cathie Wood buys $25 million in tumbling tech stock",
        "pub": "TheStreet",
        "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-buys-25-million-231700276.html",
@@ -8475,12 +8481,6 @@
        "h": "IRDM Shareholders Approve Acquisition By RKLB In $54-A-Share Deal \u2014 Iridium-Rocket Lab Merger Expected To Close By Mid-2027",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/irdm-shareholders-approve-acquisition-rklb-221211560.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
        "date": "2026-09-24"
       }
      ],
@@ -8555,12 +8555,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 463,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8576,6 +8571,12 @@
      ],
      "news": [
       {
+       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Firefly Aerospace vs. SpaceX: Which Space Stock Can Put Your Portfolio Into Orbit in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-spacex-space-223501068.html",
@@ -8586,12 +8587,6 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-rocket-lab-184914355.html",
        "date": "2026-09-21"
-      },
-      {
-       "h": "Firefly Aerospace (FLY) Stock May Be Overvalued Following Its Sweden Launch Deal",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-stock-may-121225889.html",
-       "date": "2026-09-19"
       }
      ],
      "awards": [
@@ -8658,9 +8653,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 766,
-      "up": 1
+      "m0": 1,
+      "rk": 742,
+      "up": 0
      },
      "news": [
       {
@@ -8747,7 +8742,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 709,
+      "rk": 689,
       "up": 5
      },
      "thesis": {
@@ -8930,6 +8925,12 @@
      },
      "news": [
       {
+       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "A $980 Million Reason to Buy Redwire Stock",
        "pub": "Barchart",
        "link": "https://finance.yahoo.com/markets/stocks/articles/980-million-reason-buy-redwire-204448452.html",
@@ -8939,12 +8940,6 @@
        "h": "Analysts Warn the Entire Space Trade Is Sitting in Neutral Waiting on One Rocket",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-warn-entire-space-trade-162231845.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Redwire Selected For $980M US Space Force Program: A Look At The Key Highlights",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-selected-980m-us-space-141203685.html",
        "date": "2026-09-24"
       }
      ],
@@ -9069,9 +9064,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 733,
-      "up": 1
+      "m0": 1,
+      "rk": 712,
+      "up": 0
      },
      "news": [
       {
@@ -9167,8 +9162,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 756,
-      "up": 2
+      "rk": 731,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9184,6 +9179,12 @@
      ],
      "news": [
       {
+       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+       "pub": "Stocktwits",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4%",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-rally-buying-spreads-175256864.html",
@@ -9193,12 +9194,6 @@
        "h": "RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rdw-vs-pl-satellite-stock-133400879.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Planet Labs Co-Founder Dumps ~106,000 Shares in $1.8 Million Transaction",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-co-founder-dumps-051137402.html",
        "date": "2026-09-24"
       }
      ],
@@ -9264,12 +9259,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 717,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Planet Labs Scales European Manufacturing With Berlin Facility",
@@ -9353,10 +9343,10 @@
      "hold": null,
      "geo": "Argentina",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 770,
-      "up": 1
+      "rk": 162,
+      "up": 4
      },
      "news": [
       {
@@ -9519,10 +9509,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 18,
-      "rk": 33,
-      "up": 19
+      "m": 10,
+      "m0": 14,
+      "rk": 43,
+      "up": 53
      },
      "thesis": {
       "bull": [
@@ -9966,7 +9956,7 @@
        "date": "2026-05-22"
       },
       {
-       "amt": 72968405.98,
+       "amt": 73025679.62,
        "ag": "General Services Administration",
        "desc": "VIASAT TO16",
        "date": "2025-05-28"
@@ -10009,7 +9999,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 404,
+      "up": 0
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10569,10 +10564,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 1,
       "m0": 4,
-      "rk": 104,
-      "up": 12
+      "rk": 187,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10589,6 +10584,12 @@
      ],
      "news": [
       {
+       "h": "Lockheed Martin (LMT) Puts $10 Million Into Canada As Global Defense Deals Build",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-puts-10-100931801.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "Could IBM (IBM) and Lockheed Martin (LMT)\u2019s Quantum Bet Face a Long Road to Returns?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/articles/could-ibm-ibm-lockheed-martin-222507546.html",
@@ -10598,12 +10599,6 @@
        "h": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-lockheed-martin-essential-214701706.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Defense Contractors Stocks Q2 Highlights: Lockheed Martin (NYSE:LMT)",
-       "pub": "StockStory",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q2-highlights-205658570.html",
        "date": "2026-09-24"
       }
      ],
@@ -10678,12 +10673,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 267,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10789,9 +10779,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 5,
-      "rk": 148,
-      "up": 6
+      "m0": 2,
+      "rk": 124,
+      "up": 3
      },
      "news": [
       {
@@ -10878,10 +10868,16 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 444,
-      "up": 3
+      "rk": 433,
+      "up": 4
      },
      "news": [
+      {
+       "h": "Is OSI Systems (OSIS) Built to Be a Long-Term Compounding Powerhouse in Defense and Security?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-osis-built-long-075211944.html",
+       "date": "2026-09-25"
+      },
       {
        "h": "Here's Why RTX (RTX) Fell More Than Broader Market",
        "pub": "Zacks",
@@ -10893,40 +10889,9 @@
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/soaring-defense-spending-means-great-202300169.html",
        "date": "2026-09-24"
-      },
-      {
-       "h": "Is GE Aerospace's Lead Already In Its Stock Price?",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospaces-lead-already-stock-192506936.html",
-       "date": "2026-09-24"
       }
      ],
-     "awards": [
-      {
-       "amt": 8688654906.89,
-       "ag": "Department of Defense",
-       "desc": "LOT 12 AAC LONG LEAD FOR PROPULSION SYSTEMS",
-       "date": "2018-03-23"
-      },
-      {
-       "amt": 7498605067.74,
-       "ag": "Department of Defense",
-       "desc": "LOT 15 FMS-1 F135 CTOL PROP SYSTEM",
-       "date": "2020-03-23"
-      },
-      {
-       "amt": 4865962075.84,
-       "ag": "Department of Defense",
-       "desc": "FY21 PBL2",
-       "date": "2020-12-01"
-      },
-      {
-       "amt": 3648685783.01,
-       "ag": "Department of Defense",
-       "desc": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
-       "date": "2008-01-01"
-      }
-     ]
+     "awards": []
     },
     "LHX": {
      "n": "L3Harris",
@@ -11111,7 +11076,7 @@
        "date": "2009-04-28"
       },
       {
-       "amt": 3129062649.79,
+       "amt": 3278904845.58,
        "ag": "National Science Foundation",
        "desc": "SCIENCE OPERATION AND MAINTENANCE SUPPORT FOR THE UNITED STATES ANTARCTIC PROGRAM",
        "date": "2011-12-23"
@@ -11161,9 +11126,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 442,
-      "up": 3
+      "m0": 1,
+      "rk": 430,
+      "up": 6
      },
      "news": [
       {
@@ -11248,12 +11213,18 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 50,
-      "m0": 9,
-      "rk": 12,
-      "up": 91
+      "m": 18,
+      "m0": 50,
+      "rk": 28,
+      "up": 24
      },
      "news": [
+      {
+       "h": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/investors-worry-michael-burrys-big-093500809.html",
+       "date": "2026-09-25"
+      },
       {
        "h": "Reddit Stock And 2 More Quality Stocks",
        "pub": "Simply Wall St.",
@@ -11264,12 +11235,6 @@
        "h": "Anthropic proposes supervoting shares to give co-founders majority control -report",
        "pub": "Investing.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-proposes-supervoting-shares-co-224138524.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "Could Palantir (PLTR)\u2019s Partnership with Nebius Group (NBIS) Accelerate its AI Growth?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/technology/ai/articles/could-palantir-pltr-partnership-nebius-220317492.html",
        "date": "2026-09-24"
       }
      ],
@@ -11336,7 +11301,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 513,
+      "up": 4
+     },
      "news": [
       {
        "h": "Give Me Space: ETFs Seek to Fill a Void",
@@ -12432,10 +12402,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 680,
-      "up": 2
+      "rk": 156,
+      "up": 3
      },
      "news": [
       {
@@ -12683,10 +12653,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 426,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 88,
+      "up": 13
      },
      "news": [
       {
@@ -12766,10 +12736,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 3,
-      "rk": 39,
-      "up": 18
+      "m": 16,
+      "m0": 12,
+      "rk": 32,
+      "up": 339
      },
      "news": [
       {
@@ -13042,7 +13012,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 686,
+      "rk": 670,
       "up": 0
      },
      "news": [
@@ -13364,12 +13334,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 142,
-      "up": 5
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -13606,10 +13571,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 0,
-      "rk": 75,
-      "up": 22
+      "m": 1,
+      "m0": 6,
+      "rk": 754,
+      "up": 2
      },
      "news": [
       {
@@ -14019,10 +13984,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 0,
-      "rk": 93,
-      "up": 10
+      "m": 1,
+      "m0": 5,
+      "rk": 367,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -14100,12 +14065,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 8,
-      "rk": 118,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Oracle\u2019s Data Center Issue Is a Problem for GE Vernova",
@@ -14190,8 +14150,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 746,
+      "m0": 1,
+      "rk": 722,
       "up": 1
      },
      "news": [
@@ -14596,7 +14556,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 755,
+      "rk": 730,
       "up": 1
      },
      "news": [
@@ -14684,8 +14644,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 375,
-      "up": 0
+      "rk": 360,
+      "up": -1
      },
      "news": [
       {
@@ -14917,12 +14877,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 296,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "VST Keeps Writing Checks To Its Shareholders",
@@ -15006,10 +14961,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 5,
-      "rk": 64,
-      "up": 53
+      "m": 6,
+      "m0": 8,
+      "rk": 67,
+      "up": 12
      },
      "news": [
       {
@@ -15095,8 +15050,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 290,
+      "m0": 1,
+      "rk": 273,
       "up": 2
      },
      "news": [
@@ -15183,8 +15138,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 307,
+      "m0": 1,
+      "rk": 289,
       "up": 40
      },
      "news": [
@@ -17598,7 +17553,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-24",
+ "social_asof": "2026-09-25",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17879,23 +17834,107 @@
  "news": [
   {
    "tk": "NVDA",
-   "h": "Elastic Unveils AI-Era Metrics Platform, Claims Major Speed and Storage Gains",
-   "pub": "MarketBeat",
-   "link": "https://finance.yahoo.com/technology/ai/articles/elastic-unveils-ai-era-metrics-070206127.html",
+   "h": "Does History Suggest Buying SpaceX Stock in a Market Crash? The Answer Might Surprise You",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-history-suggest-buying-spacex-103500211.html",
    "date": "2026-09-25"
   },
   {
    "tk": "NVDA",
-   "h": "Where Will Robinhood Stock Be in 5 Years?",
+   "h": "Berkshire Hathaway Just Bought $212 Million of This Beaten Down Stock in 3 Days, and Its Stake Has Increased 81% This Quarter",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-robinhood-stock-5-years-065000358.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-just-bought-212-103000192.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures Rise, Market Resilient Amid Higher Yields; Taiwan Semi Is In Buy Area",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
    "date": "2026-09-25"
   },
   {
    "tk": "NVDA",
-   "h": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
+   "h": "Viking Therapeutics Soared After Its Latest GLP-1 Data. Is It Too Late to Buy?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/viking-therapeutics-soared-latest-glp-102501476.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Tesla Begins High-Volume Semi Production at Nevada Factory, Musk Says",
+   "pub": "InvestorsHub",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begins-high-volume-semi-102007738.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "LMT",
+   "h": "Lockheed Martin (LMT) Puts $10 Million Into Canada As Global Defense Deals Build",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-puts-10-100931801.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Why Is Qualcomm (QCOM) Pushing AI From Phones To Cars And Edge Devices?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-pushing-ai-100849146.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Wall St futures gain as AI enthusiasm eases worries over higher oil prices, yields",
+   "pub": "Reuters",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-gain-ai-095035646.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "TSLA",
+   "h": "GM, Ford Q3 US New Vehicle Sales Seen Dropping YOY, Cox Says",
+   "pub": "MT Newswires",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-q3-us-vehicle-093634515.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "PLTR",
+   "h": "Should Investors Worry About Michael Burry's Big AI Stock Shorts",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-worry-michael-burrys-big-093500809.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "FLY",
+   "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "PL",
+   "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "RDW",
+   "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
+   "pub": "Stocktwits",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+   "date": "2026-09-25"
+  },
+  {
+   "tk": "RTX",
+   "h": "Is OSI Systems (OSIS) Built to Be a Long-Term Compounding Powerhouse in Defense and Security?",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/osi-systems-osis-built-long-075211944.html",
    "date": "2026-09-25"
   },
   {
@@ -17903,13 +17942,6 @@
    "h": "The Math Doesn't Lie: What Oklo's Stock Sales Actually Cost Investors",
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/math-doesnt-lie-oklos-stock-062500253.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "TSLA Stock Climbs Overnight: Roadster Teaser Stokes SpaceX Buzz \u2014 Musk Calls New Semi A \u2018Game-Changer\u2019",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tsla-stock-climbs-overnight-roadster-054524806.html",
    "date": "2026-09-25"
   },
   {
@@ -17938,20 +17970,6 @@
    "h": "Constellation vs. Vistra: Which AI Power Stock Is the Better Buy?",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-vs-vistra-ai-power-041142956.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Tesla has begun \u2018high volume\u2019 production of semi truck, Musk says",
-   "pub": "Investing.com",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-begun-high-volume-production-031247063.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Dow sell-side Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo",
    "date": "2026-09-25"
   },
   {
@@ -17998,13 +18016,6 @@
   },
   {
    "tk": "QCOM",
-   "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
-   "pub": "The Wall Street Journal",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TSLA",
    "h": "Titans of Tech Attend State Dinner Honoring China\u2019s Xi",
    "pub": "The Wall Street Journal",
    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/titans-of-tech-attend-state-dinner-honoring-china-s-xi-pgk4d9DY6Eju4Y3F7zXz?siteid=yhoof2&yptr=yahoo",
@@ -18100,63 +18111,7 @@
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/technology/ai/articles/could-palantir-pltr-partnership-nebius-220317492.html",
    "date": "2026-09-24"
-  },
-  {
-   "tk": "BA",
-   "h": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-lockheed-martin-essential-214701706.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-lockheed-martin-essential-214701706.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Does Palantir (PLTR) Have a Moat Strong Enough to Protect Its AI Dominance?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/does-palantir-pltr-moat-strong-211858600.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "UBER",
-   "h": "Can Uber\u2019s (UBER) Economic Moat Survive the Rise of Robotaxis?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-economic-moat-survive-211144999.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "D",
-   "h": "Dominion Energy (D) Dips More Than Broader Market: What You Should Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-dips-more-210006527.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "RTX",
-   "h": "Here's Why RTX (RTX) Fell More Than Broader Market",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-rtx-rtx-fell-210006816.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "ASTS",
-   "h": "AST SpaceMobile, Inc. (ASTS) Increases Despite Market Slip: Here's What You Need to Know",
-   "pub": "Zacks",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-increases-210005257.html",
-   "date": "2026-09-24"
-  },
-  {
-   "tk": "LMT",
-   "h": "Defense Contractors Stocks Q2 Highlights: Lockheed Martin (NYSE:LMT)",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/defense-contractors-stocks-q2-highlights-205658570.html",
-   "date": "2026-09-24"
   }
  ],
- "prices_asof": "2026-09-25 07:23 UTC"
+ "prices_asof": "2026-09-25 10:47 UTC"
 }
