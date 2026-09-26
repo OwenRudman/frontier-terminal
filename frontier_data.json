@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 678,
-      "up": 5
+      "rk": 642,
+      "up": 3
      },
      "news": [
       {
@@ -629,9 +629,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "MP Materials' Magnetics Segment: Can It Unlock the Next Growth Phase?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-magnetics-segment-unlock-150000398.html",
+       "h": "Critical Metals And 2 Rare Earth Stocks To Watch",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/critical-metals-2-rare-earth-001937003.html",
        "date": "2026-09-25"
       }
      ],
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 62,
-      "rk": 11,
-      "up": 232
+      "m": 43,
+      "m0": 54,
+      "rk": 9,
+      "up": 93
      },
      "thesis": {
       "bull": [
@@ -1138,15 +1138,15 @@
        "date": "2026-09-25"
       },
       {
-       "h": "What mortgage rate surges mean for home improvement stocks",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/mortgage-rate-surges-mean-home-143052293.html",
+       "h": "AMD CEO Lisa Su is having a September to remember",
+       "pub": "Yahoo Finance",
+       "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
        "date": "2026-09-25"
       },
       {
-       "h": "Fidelity\u2019s Fundamental Large Cap Growth ETF, Explained in Plain English",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-fundamental-large-cap-growth-034650447.html",
+       "h": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-could-help-101000936.html",
        "date": "2026-09-26"
       }
      ]
@@ -1307,12 +1307,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 782,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 50,
-      "rk": 28,
-      "up": 24
+      "m": 5,
+      "m0": 19,
+      "rk": 73,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -1790,9 +1785,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partnership",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-6-8-031727990.html",
+       "h": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-palantir-stock-nothing-081500425.html",
        "date": "2026-09-26"
       }
      ],
@@ -2034,7 +2029,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 320,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2378,7 +2378,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8488820560.67,
+       "amt": 8494620560.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -2477,7 +2477,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 356,
+      "rk": 333,
       "up": 1
      },
      "thesis": {
@@ -2767,7 +2767,7 @@
        "date": "2026-01-02"
       },
       {
-       "amt": 218119135.12,
+       "amt": 218024507.64,
        "ag": "Department of Defense",
        "desc": "LOITERED MUNITIONS, SWITCHBLADE 300 AND 600 ALL UP ROUNDS",
        "date": "2025-01-18"
@@ -2824,12 +2824,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 736,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3141,7 +3136,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 752,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -4029,9 +4029,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 799,
-      "up": 1
+      "m0": 1,
+      "rk": 740,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4380,7 +4380,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 433,
+      "rk": 398,
       "up": 4
      },
      "news": [
@@ -4712,17 +4712,11 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 669,
+      "m0": 1,
+      "rk": 630,
       "up": 0
      },
      "news": [
-      {
-       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
-       "date": "2026-09-25"
-      },
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
@@ -4734,6 +4728,12 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221503726.html",
        "date": "2026-09-23"
+      },
+      {
+       "h": "Ouster (OUST) Could Be 30% Below Fair Value After INTERGEO 2026 Launches",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-oust-could-30-below-232204882.html",
+       "date": "2026-09-22"
       }
      ],
      "awards": [
@@ -5096,9 +5096,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 231,
-      "up": 4
+      "m0": 1,
+      "rk": 224,
+      "up": 3
      },
      "news": [
       {
@@ -5122,7 +5122,7 @@
      ],
      "awards": [
       {
-       "amt": 12797608563.85,
+       "amt": 13423551689.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5134,7 +5134,7 @@
        "date": "2023-08-01"
       },
       {
-       "amt": 6955117714.74,
+       "amt": 6957381008.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5211,7 +5211,7 @@
        "date": "2025-12-12"
       },
       {
-       "amt": 292565263.94,
+       "amt": 291637686.75,
        "ag": "Department of Defense",
        "desc": "UCA LONG LEAD MATERIALS AND SERVICES",
        "date": "2024-11-04"
@@ -5853,10 +5853,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 44,
-      "rk": 17,
-      "up": 205
+      "m": 48,
+      "m0": 27,
+      "rk": 8,
+      "up": 86
      },
      "news": [
       {
@@ -5872,9 +5872,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Why Elon Musk could be the next tech leader to have a 'Mark Zuckerberg moment'",
+       "h": "Tesla's big semi truck bet is officially in motion",
        "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/why-elon-musk-could-next-150606664.html",
+       "link": "https://finance.yahoo.com/video/teslas-big-semi-truck-bet-143500697.html",
        "date": "2026-09-25"
       }
      ],
@@ -5941,10 +5941,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 87,
-      "up": 498
+      "m": 2,
+      "m0": 4,
+      "rk": 132,
+      "up": 4
      },
      "news": [
       {
@@ -6258,8 +6258,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 733,
-      "up": 1
+      "rk": 686,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -6749,12 +6749,6 @@
      "social": null,
      "news": [
       {
-       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
-       "date": "2026-09-25"
-      },
-      {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/whats-driving-demand-ousters-rev8-152400820.html",
@@ -6765,6 +6759,12 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-retain-hsai-stock-141100343.html",
        "date": "2026-09-18"
+      },
+      {
+       "h": "Wall Street Sees a Multibillion-Dollar Humanoid Robot Market. These 2 Suppliers Get Paid Either Way.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/technology/articles/wall-street-sees-multibillion-dollar-201200689.html",
+       "date": "2026-09-09"
       }
      ]
     },
@@ -6806,12 +6806,6 @@
      "social": null,
      "news": [
       {
-       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
-       "date": "2026-09-25"
-      },
-      {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/whats-driving-demand-ousters-rev8-152400820.html",
@@ -6822,6 +6816,12 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aeva-technologies-aeva-priced-perfection-211657416.html",
        "date": "2026-09-22"
+      },
+      {
+       "h": "Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-70-ytd-time-buy-140600057.html",
+       "date": "2026-09-09"
       }
      ]
     },
@@ -7089,28 +7089,28 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 8,
       "m0": 1,
-      "rk": 251,
-      "up": 1
+      "rk": 50,
+      "up": 16
      },
      "news": [
       {
-       "h": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/qualcomms-cmo-reveals-secret-behind-140705053.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "These are stocks getting lifted up by Meta's Muse",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/stocks-getting-lifted-metas-muse-135520851.html",
-       "date": "2026-09-25"
+       "h": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+       "pub": "Investing.com",
+       "link": "https://finance.yahoo.com/economy/policy/articles/china-u-agree-30-billion-100725747.html",
+       "date": "2026-09-26"
       },
       {
        "h": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
        "pub": "StockStory",
        "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html",
+       "date": "2026-09-26"
+      },
+      {
+       "h": "Dycom Eyes 10%-12% Growth as Data Center, Fiber Demand Accelerates",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/technology/articles/dycom-eyes-10-12-growth-020200222.html",
        "date": "2026-09-26"
       }
      ],
@@ -7415,12 +7415,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 760,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Symbotic (SYM) Could Be 30% Undervalued On Its Automation Growth Story",
@@ -7746,10 +7741,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 47,
-      "up": 6
+      "m": 1,
+      "m0": 9,
+      "rk": 574,
+      "up": 2
      },
      "news": [
       {
@@ -8255,10 +8250,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 24,
-      "rk": 15,
-      "up": 51
+      "m": 15,
+      "m0": 32,
+      "rk": 28,
+      "up": 27
      },
      "thesis": {
       "bull": [
@@ -8555,7 +8550,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 417,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8654,7 +8654,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 742,
+      "rk": 692,
       "up": 0
      },
      "news": [
@@ -8739,12 +8739,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 689,
-      "up": 5
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9065,8 +9060,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 712,
-      "up": 0
+      "rk": 667,
+      "up": 2
      },
      "news": [
       {
@@ -9162,7 +9157,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 731,
+      "rk": 683,
       "up": 1
      },
      "streetNotes": [
@@ -9185,15 +9180,15 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Musk\u2019s \u2018Zuckerberg moment,\u2019 mortgage rates, and Google\u2019s space bet",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/musk-zuckerberg-moment-mortgage-rates-153258991.html",
-       "date": "2026-09-25"
-      },
-      {
        "h": "How Much Higher Can Planet Labs Stock Go From Here?",
        "pub": "Trefis",
        "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
+       "date": "2026-09-25"
+      },
+      {
+       "h": "Google Plans To Launch Mini Data Center Into Space Next Week As Part Of Project Suncatcher\u2019s Bid For A Market Projected To Hit $28.16 Billion",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/technology/ai/articles/google-plans-launch-mini-data-163243317.html",
        "date": "2026-09-25"
       }
      ],
@@ -9343,10 +9338,10 @@
      "hold": null,
      "geo": "Argentina",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 162,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 693,
+      "up": 2
      },
      "news": [
       {
@@ -9509,10 +9504,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 14,
-      "rk": 43,
-      "up": 53
+      "m": 9,
+      "m0": 10,
+      "rk": 47,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -10001,8 +9996,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 404,
+      "m0": 1,
+      "rk": 371,
       "up": 0
      },
      "news": [
@@ -10414,7 +10409,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 744,
+      "up": 1
+     },
      "news": [
       {
        "h": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
@@ -10565,8 +10565,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 187,
+      "m0": 1,
+      "rk": 181,
       "up": 2
      },
      "streetNotes": [
@@ -10729,7 +10729,7 @@
        "date": "1998-07-01"
       },
       {
-       "amt": 8488820560.67,
+       "amt": 8494620560.67,
        "ag": "Department of Defense",
        "desc": "E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7)",
        "date": "2018-02-15"
@@ -10778,9 +10778,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 124,
+      "rk": 172,
       "up": 3
      },
      "news": [
@@ -10868,7 +10868,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 433,
+      "rk": 398,
       "up": 4
      },
      "news": [
@@ -10891,7 +10891,32 @@
        "date": "2026-09-25"
       }
      ],
-     "awards": []
+     "awards": [
+      {
+       "amt": 8688654906.89,
+       "ag": "Department of Defense",
+       "desc": "LOT 12 AAC LONG LEAD FOR PROPULSION SYSTEMS",
+       "date": "2018-03-23"
+      },
+      {
+       "amt": 7498605067.74,
+       "ag": "Department of Defense",
+       "desc": "LOT 15 FMS-1 F135 CTOL PROP SYSTEM",
+       "date": "2020-03-23"
+      },
+      {
+       "amt": 4865962075.84,
+       "ag": "Department of Defense",
+       "desc": "FY21 PBL2",
+       "date": "2020-12-01"
+      },
+      {
+       "amt": 3648685783.01,
+       "ag": "Department of Defense",
+       "desc": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
+       "date": "2008-01-01"
+      }
+     ]
     },
     "LHX": {
      "n": "L3Harris",
@@ -10928,7 +10953,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 269,
+      "up": 2
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11127,7 +11157,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 430,
+      "rk": 397,
       "up": 6
      },
      "news": [
@@ -11213,10 +11243,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 50,
-      "rk": 28,
-      "up": 24
+      "m": 5,
+      "m0": 19,
+      "rk": 73,
+      "up": 12
      },
      "news": [
       {
@@ -11232,9 +11262,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partnership",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-6-8-031727990.html",
+       "h": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-palantir-stock-nothing-081500425.html",
        "date": "2026-09-26"
       }
      ],
@@ -11303,9 +11333,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 513,
-      "up": 4
+      "m0": 1,
+      "rk": 478,
+      "up": 2
      },
      "news": [
       {
@@ -12402,10 +12432,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 156,
-      "up": 3
+      "m": 1,
+      "m0": 3,
+      "rk": 628,
+      "up": 1
      },
      "news": [
       {
@@ -12653,10 +12683,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 88,
-      "up": 13
+      "m": 1,
+      "m0": 4,
+      "rk": 376,
+      "up": 1
      },
      "news": [
       {
@@ -12736,10 +12766,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 12,
-      "rk": 32,
-      "up": 339
+      "m": 7,
+      "m0": 16,
+      "rk": 62,
+      "up": 40
      },
      "news": [
       {
@@ -13012,7 +13042,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 670,
+      "rk": 632,
       "up": 0
      },
      "news": [
@@ -13334,7 +13364,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 757,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -13572,9 +13607,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 754,
-      "up": 2
+      "m0": 1,
+      "rk": 703,
+      "up": 1
      },
      "news": [
       {
@@ -13985,8 +14020,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 367,
+      "m0": 1,
+      "rk": 345,
       "up": 0
      },
      "streetNotes": [
@@ -14065,7 +14100,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 769,
+      "up": 1
+     },
      "news": [
       {
        "h": "1 Profitable Stock Worth Your Attention and 2 We Turn Down",
@@ -14148,12 +14188,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 722,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Slow Backlog Conversion Dampens Profit Outlook for Mirion Technologies (MIR)",
@@ -14425,28 +14460,28 @@
      ],
      "awards": [
       {
+       "amt": 3926443.0,
+       "ag": "Department of State",
+       "desc": "TECHNICAL REVIEW SERVICES.",
+       "date": "2018-02-14"
+      },
+      {
+       "amt": 3782022.83,
+       "ag": "Department of the Interior",
+       "desc": "YOSE 215363 WWTP TM TITLE III SERVICES",
+       "date": "2026-09-24"
+      },
+      {
+       "amt": 3669652.0,
+       "ag": "Department of State",
+       "desc": "BUILDING AUTOMATION SYSTEM (BAS) REPLACEMENT ENGINEERING SERVICES FOR U.S. EMBASSY IN BAGHDAD, IRAQ",
+       "date": "2024-07-11"
+      },
+      {
        "amt": 1271854.78,
        "ag": "Department of Transportation",
        "desc": "CA FLAP NWK 10(1) THORNTON AVENUE BIKE IMPROVEMENTS  15% DESIGN TASK ORDER INCLUDING ENVIRONMENTAL FIELD STUDIES AND MAPPING",
        "date": "2023-04-20"
-      },
-      {
-       "amt": 940274.72,
-       "ag": "Department of Transportation",
-       "desc": "CA FLAP MAR 223(1) PIERCE POINT ROAD  ENVIRONMENTAL SUPPORT (FIELD WORK, PLANT SURVEYS, MEMOS)",
-       "date": "2023-01-25"
-      },
-      {
-       "amt": 560348.53,
-       "ag": "Department of Transportation",
-       "desc": "CA FW SDB 300(1) SAN DIEGO BAY NWR ENTRANCE ROAD: SCOPING THE PURPOSE OF THIS TASK ORDER IS TO PERFORM SCOPING SERVICES AND DEVELOP THE PROJECT DELIVERY PLAN (PDP).",
-       "date": "2025-11-21"
-      },
-      {
-       "amt": 154345.23,
-       "ag": "Department of Transportation",
-       "desc": "CO FW RKM 10(1) WILDLIFE DR. & VC PARKING DESIGN TO 0% - 100%",
-       "date": "2022-06-16"
       }
      ]
     },
@@ -14553,12 +14588,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 730,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "US tech giants could spark a European nuclear revival",
@@ -14644,8 +14674,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 360,
-      "up": -1
+      "rk": 337,
+      "up": 3
      },
      "news": [
       {
@@ -14961,10 +14991,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 8,
-      "rk": 67,
-      "up": 12
+      "m": 2,
+      "m0": 5,
+      "rk": 119,
+      "up": 7
      },
      "news": [
       {
@@ -15048,12 +15078,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 273,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off",
@@ -15138,9 +15163,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 289,
-      "up": 40
+      "m0": 0,
+      "rk": 272,
+      "up": 1
      },
      "news": [
       {
@@ -17553,7 +17578,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-25",
+ "social_asof": "2026-09-26",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17833,24 +17858,38 @@
  ],
  "news": [
   {
+   "tk": "NVDA",
+   "h": "2 Semiconductor Stocks That Could Help Set You Up for Life",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-semiconductor-stocks-could-help-101000936.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/china-u-agree-30-billion-100725747.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+   "pub": "Investing.com",
+   "link": "https://finance.yahoo.com/economy/policy/articles/china-u-agree-30-billion-100725747.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "PLTR",
+   "h": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-palantir-stock-nothing-081500425.html",
+   "date": "2026-09-26"
+  },
+  {
    "tk": "DUK",
    "h": "Duke Energy (DUK) Hits a 52-Week Low as the 30-Year Treasury Reaches a 2004 High",
    "pub": "Insider Monkey",
    "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-hits-52-034849950.html",
-   "date": "2026-09-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Fidelity\u2019s Fundamental Large Cap Growth ETF, Explained in Plain English",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fidelity-fundamental-large-cap-growth-034650447.html",
-   "date": "2026-09-26"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Nvidia (NVDA) Is Central To New Global AI Rules Debate",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-central-global-ai-031851274.html",
    "date": "2026-09-26"
   },
   {
@@ -17893,6 +17932,13 @@
    "h": "Dycom Eyes 10%-12% Growth as Data Center, Fiber Demand Accelerates",
    "pub": "MarketBeat",
    "link": "https://finance.yahoo.com/technology/articles/dycom-eyes-10-12-growth-020200222.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "QCOM",
+   "h": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
+   "pub": "Insider Monkey",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renews-global-patent-005320827.html",
    "date": "2026-09-26"
   },
   {
@@ -17942,13 +17988,6 @@
    "h": "Uber Expanded Costco Delivery to 47 States \u2014 Here's What Happened Next",
    "pub": "Benzinga",
    "link": "https://finance.yahoo.com/small-business/articles/uber-expanded-costco-delivery-47-233029345.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Commercial AI Momentum Meets Valuation Risk: What Comes Next for Palantir (PLTR)?",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/technology/ai/articles/commercial-ai-momentum-meets-valuation-225152271.html",
    "date": "2026-09-25"
   },
   {
@@ -18097,21 +18136,7 @@
    "pub": "StockStory",
    "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-exciting-174437870.html",
    "date": "2026-09-25"
-  },
-  {
-   "tk": "UBER",
-   "h": "Why this early Uber investor would short OpenAI",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/why-this-early-uber-investor-would-short-openai-173506483.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Can Palantir\u2019s AI moat survive the competition?",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/palantir-ai-moat-survive-competition-172500938.html",
-   "date": "2026-09-25"
   }
  ],
- "prices_asof": "2026-09-26 04:19 UTC"
+ "prices_asof": "2026-09-26 10:29 UTC"
 }
