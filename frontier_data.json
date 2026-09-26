@@ -617,6 +617,12 @@
      },
      "news": [
       {
+       "h": "MP Materials Ships Its First Magnets to GM in Q4. This is What The Milestone Is Worth.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-ships-first-magnets-143500819.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "MP Materials (MP) Faces a Disputed China Shareholder Report. Does the 3% Stake Matter?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-mp-faces-disputed-003420226.html",
@@ -626,12 +632,6 @@
        "h": "Can Energy Fuels Build a Strong Rare Earth Growth Platform?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/energy-fuels-build-strong-rare-150700130.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "Critical Metals And 2 Rare Earth Stocks To Watch",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/energy/articles/critical-metals-2-rare-earth-001937003.html",
        "date": "2026-09-25"
       }
      ],
@@ -1138,15 +1138,15 @@
        "date": "2026-09-25"
       },
       {
-       "h": "AMD CEO Lisa Su is having a September to remember",
+       "h": "Microsoft CEO: We 'have to earn that permission' to build data centers from communities",
        "pub": "Yahoo Finance",
-       "link": "https://finance.yahoo.com/markets/article/amd-ceo-lisa-su-is-having-a-september-to-remember-135902902.html",
+       "link": "https://finance.yahoo.com/markets/stocks/article/microsoft-ceo-we-have-to-earn-that-permission-to-build-data-centers-from-communities-172505836.html",
        "date": "2026-09-25"
       },
       {
-       "h": "History Shows: This Midterm Election Result Could Be a Warning Sign for the Stock Market",
+       "h": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/history-shows-midterm-election-result-105300021.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html",
        "date": "2026-09-26"
       }
      ]
@@ -1785,9 +1785,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+       "h": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-palantir-stock-nothing-081500425.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-palantir-technologies-technology-155302325.html",
        "date": "2026-09-26"
       }
      ],
@@ -4718,6 +4718,12 @@
      },
      "news": [
       {
+       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/whats-driving-demand-ousters-rev8-152400820.html",
@@ -4728,12 +4734,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-inc-oust-suffers-larger-221503726.html",
        "date": "2026-09-23"
-      },
-      {
-       "h": "Ouster (OUST) Could Be 30% Below Fair Value After INTERGEO 2026 Launches",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-oust-could-30-below-232204882.html",
-       "date": "2026-09-22"
       }
      ],
      "awards": [
@@ -5872,10 +5872,10 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Tesla's big semi truck bet is officially in motion",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/teslas-big-semi-truck-bet-143500697.html",
-       "date": "2026-09-25"
+       "h": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html",
+       "date": "2026-09-26"
       }
      ],
      "awards": [
@@ -6749,6 +6749,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/whats-driving-demand-ousters-rev8-152400820.html",
@@ -6759,12 +6765,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/heres-why-retain-hsai-stock-141100343.html",
        "date": "2026-09-18"
-      },
-      {
-       "h": "Wall Street Sees a Multibillion-Dollar Humanoid Robot Market. These 2 Suppliers Get Paid Either Way.",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/technology/articles/wall-street-sees-multibillion-dollar-201200689.html",
-       "date": "2026-09-09"
       }
      ]
     },
@@ -6806,6 +6806,12 @@
      "social": null,
      "news": [
       {
+       "h": "Is Ouster's Flyability Collaboration Expanding Lidar Applications?",
+       "pub": "Zacks",
+       "link": "https://finance.yahoo.com/technology/articles/ousters-flyability-collaboration-expanding-lidar-134000314.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/technology/articles/whats-driving-demand-ousters-rev8-152400820.html",
@@ -6816,12 +6822,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aeva-technologies-aeva-priced-perfection-211657416.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "Ouster Is Up 70% YTD: Time to Buy More, Hold or Book Profits?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ouster-70-ytd-time-buy-140600057.html",
-       "date": "2026-09-09"
       }
      ]
     },
@@ -7040,16 +7040,16 @@
        "date": "2026-09-25"
       },
       {
+       "h": "BlackBerry Shifts Gears With Coretura Deal",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-shifts-gears-coretura-deal-142500391.html",
+       "date": "2026-09-25"
+      },
+      {
        "h": "BlackBerry Falls 2% Despite Record QNX Quarter and Raised Full-Year Outlook; Mobileye Holds Steady",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/blackberry-falls-2-despite-record-161549550.html",
        "date": "2026-09-24"
-      },
-      {
-       "h": "Mobileye Global (MBLY) Dropped, So What Is Behind The Fresh Attention?",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/mobileye-global-mbly-dropped-behind-011518242.html",
-       "date": "2026-09-23"
       }
      ]
     },
@@ -7664,6 +7664,12 @@
      "hold": null,
      "news": [
       {
+       "h": "Pentagon AI Shake Up Puts HawkEye 360 Stock And Defense Cyber Names In Focus",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/pentagon-ai-shake-puts-hawkeye-131113950.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "AEVEX (AVEX) Lands $92.2 Million SkyRange Role In Hypersonic Test Support",
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-lands-92-2-020938227.html",
@@ -7674,12 +7680,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/aevex-avex-forms-hammer-chart-135502070.html",
        "date": "2026-09-04"
-      },
-      {
-       "h": "Drone Maker Stocks Are Tanking. Why a New Tariff Isn\u2019t Boosting the Sector.",
-       "pub": "Barrons.com",
-       "link": "https://www.barrons.com/articles/drone-stocks-tariffs-trump-redwire-5a315d7c?siteid=yhoof2&yptr=yahoo",
-       "date": "2026-09-03"
       }
      ],
      "awards": [
@@ -8461,22 +8461,22 @@
      ],
      "news": [
       {
-       "h": "SpaceX\u2019s Falcon 9 Wind Down: Rocket Lab Is Set To Gain, Here\u2019s How",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-falcon-9-wind-down-211841411.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
+       "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
        "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
-       "date": "2026-09-25"
+       "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+       "date": "2026-09-26"
       },
       {
-       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
-       "date": "2026-09-25"
+       "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+       "date": "2026-09-26"
+      },
+      {
+       "h": "Major Milestone Passed In Iridium/Rocket Lab Tie Up",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/major-milestone-passed-iridium-rocket-122001096.html",
+       "date": "2026-09-26"
       }
      ],
      "awards": [
@@ -8577,15 +8577,15 @@
        "date": "2026-09-25"
       },
       {
-       "h": "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-launch-investors-114956087.html",
+       "h": "3 Space Stocks to Watch as SpaceX Reshapes the Launch Market",
+       "pub": "MarketBeat",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/3-space-stocks-watch-spacex-120500769.html",
        "date": "2026-09-25"
       },
       {
-       "h": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/stocktwits-space-race-weekly-why-075837848.html",
+       "h": "Can Firefly Aerospace (FLY) Launch Investors to New Heights?",
+       "pub": "Insider Monkey",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-launch-investors-114956087.html",
        "date": "2026-09-25"
       }
      ],
@@ -9174,10 +9174,10 @@
      ],
      "news": [
       {
-       "h": "Why now might be a good time to invest in Alphabet",
-       "pub": "Yahoo Finance Video",
-       "link": "https://finance.yahoo.com/video/why-now-might-be-a-good-time-to-invest-in-alphabet-153500677.html",
-       "date": "2026-09-25"
+       "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+       "date": "2026-09-26"
       },
       {
        "h": "How Much Higher Can Planet Labs Stock Go From Here?",
@@ -9690,22 +9690,22 @@
      },
      "news": [
       {
+       "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+       "date": "2026-09-26"
+      },
+      {
+       "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Rocket Lab Crashed Back Toward Earth for 3 Months: This Analyst Says It\u2019s About to Double",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
        "date": "2026-09-25"
-      },
-      {
-       "h": "AST SpaceMobile, Inc. (ASTS) Increases Despite Market Slip: Here's What You Need to Know",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-inc-asts-increases-210005257.html",
-       "date": "2026-09-24"
-      },
-      {
-       "h": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-intuitive-machines-195401383.html",
-       "date": "2026-09-24"
       }
      ]
     },
@@ -9747,6 +9747,12 @@
      "social": null,
      "news": [
       {
+       "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "SPCX, RKLB, LUNR, ASTS In Focus \u2014 Space Economy Investment Surges To $23B In Year Ending June, A Near 140% Jump",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/spcx-rklb-lunr-asts-focus-172708538.html",
@@ -9757,12 +9763,6 @@
        "pub": "Simply Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/globalstar-gsat-stock-looks-fully-091627933.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "AST SpaceMobile Is Building Something the World Has Never Had. Here\u2019s My Price Prediction",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-building-something-world-170016499.html",
-       "date": "2026-09-21"
       }
      ],
      "awards": [
@@ -9830,22 +9830,22 @@
      "social": null,
      "news": [
       {
+       "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+       "date": "2026-09-26"
+      },
+      {
+       "h": "Major Milestone Passed In Iridium/Rocket Lab Tie Up",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/major-milestone-passed-iridium-rocket-122001096.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "IRDM Shareholders Approve Acquisition By RKLB In $54-A-Share Deal \u2014 Iridium-Rocket Lab Merger Expected To Close By Mid-2027",
        "pub": "Stocktwits",
        "link": "https://finance.yahoo.com/markets/stocks/articles/irdm-shareholders-approve-acquisition-rklb-221211560.html",
        "date": "2026-09-24"
-      },
-      {
-       "h": "Peter Beck\u2019s Iridium Deal Faces Its Next Big Test",
-       "pub": "Insider Monkey",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/peter-beck-iridium-deal-faces-182530570.html",
-       "date": "2026-09-23"
-      },
-      {
-       "h": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon\u2019s Spectrum Bets: \u2018You Can\u2019t Just Magic Up Spectrum\u2019",
-       "pub": "Stocktwits",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-ceo-puts-iridium-022822137.html",
-       "date": "2026-09-23"
       }
      ],
      "awards": [
@@ -9913,6 +9913,12 @@
      "social": null,
      "news": [
       {
+       "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Viasat (VSAT) Adds Satellite Capacity. Can it Generate More Cash?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/technology/articles/viasat-vsat-adds-satellite-capacity-001415846.html",
@@ -9923,12 +9929,6 @@
        "pub": "GuruFocus.com",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-rocket-lab-today-211119524.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "Viasat (VSAT) Stock Looks Stretched As Its 197% Three Year Run Continues",
-       "pub": "Simply Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/viasat-vsat-stock-looks-stretched-171305675.html",
-       "date": "2026-09-15"
       }
      ],
      "awards": [
@@ -10417,6 +10417,12 @@
      },
      "news": [
       {
+       "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-intuitive-machines-222002057.html",
@@ -10427,12 +10433,6 @@
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-crashed-back-toward-133739779.html",
        "date": "2026-09-25"
-      },
-      {
-       "h": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-       "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-intuitive-machines-195401383.html",
-       "date": "2026-09-24"
       }
      ],
      "awards": [
@@ -10584,6 +10584,12 @@
      ],
      "news": [
       {
+       "h": "GD vs. LMT: Which Defense Dividend Stock Will Crush Retirement Income Goals?",
+       "pub": "24/7 Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/gd-vs-lmt-defense-dividend-121007551.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Lockheed Martin (LMT) Gets First Patriot Parts From GM (GM). Can it Scale Missile Output?",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-gets-first-004207420.html",
@@ -10593,12 +10599,6 @@
        "h": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-intuitive-machines-222002057.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "PPA Is a One-Ticker Bet on Rising Defense Spending. Nearly 30% of Holdings Are in Just Four Stocks",
-       "pub": "24/7 Wall St.",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/ppa-one-ticker-bet-rising-144712871.html",
        "date": "2026-09-25"
       }
      ],
@@ -11262,9 +11262,9 @@
        "date": "2026-09-25"
       },
       {
-       "h": "The Biggest Risk to Palantir Stock Has Nothing to Do With Its Valuation",
+       "h": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
        "pub": "Motley Fool",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-palantir-stock-nothing-081500425.html",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-palantir-technologies-technology-155302325.html",
        "date": "2026-09-26"
       }
      ],
@@ -14357,6 +14357,12 @@
      "social": null,
      "news": [
       {
+       "h": "Fluor (FLR) Stock May Be 31% Undervalued On Future Cash Flow Recovery",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-stock-may-31-140929994.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Argan's Backlog Is 80% Natural Gas: Is Concentration a Risk?",
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/energy/articles/argans-backlog-80-natural-gas-150000646.html",
@@ -14367,12 +14373,6 @@
        "pub": "Zacks",
        "link": "https://finance.yahoo.com/markets/stocks/articles/construction-stocks-lagging-fluor-flr-134003317.html",
        "date": "2026-09-22"
-      },
-      {
-       "h": "Can BWX Technologies' Nuclear Manufacturing Expansion Support Growth?",
-       "pub": "Zacks",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/bwx-technologies-nuclear-manufacturing-expansion-132000993.html",
-       "date": "2026-09-17"
       }
      ],
      "awards": [
@@ -14910,6 +14910,12 @@
      "social": null,
      "news": [
       {
+       "h": "What Is Duke Energy (DUK) Changing With Joyce Mullen And Great Falls?",
+       "pub": "Simply Wall St.",
+       "link": "https://finance.yahoo.com/energy/articles/duke-energy-duk-changing-joyce-151350972.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "Duke Energy (DUK) Hits a 52-Week Low as the 30-Year Treasury Reaches a 2004 High",
        "pub": "Insider Monkey",
        "link": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-duk-hits-52-034849950.html",
@@ -14919,12 +14925,6 @@
        "h": "Why Dominion Energy Halted Dividend Growth Despite Strong Operating Performance",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-dominion-energy-halted-dividend-154806015.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "VST Keeps Writing Checks To Its Shareholders",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
        "date": "2026-09-25"
       }
      ],
@@ -15081,6 +15081,12 @@
      "social": null,
      "news": [
       {
+       "h": "Anthropic Needs Gigawatts of Power It Doesn't Have. This Dividend-Paying Industrial Sells It.",
+       "pub": "Motley Fool",
+       "link": "https://finance.yahoo.com/energy/articles/anthropic-needs-gigawatts-power-doesnt-135000870.html",
+       "date": "2026-09-26"
+      },
+      {
        "h": "2 Green Flags and 2 Red Flags for Nuclear Stocks After This Year's Sell-Off",
        "pub": "Motley Fool",
        "link": "https://finance.yahoo.com/energy/articles/2-green-flags-2-red-003500096.html",
@@ -15090,12 +15096,6 @@
        "h": "Why Dominion Energy Halted Dividend Growth Despite Strong Operating Performance",
        "pub": "24/7 Wall St.",
        "link": "https://finance.yahoo.com/markets/stocks/articles/why-dominion-energy-halted-dividend-154806015.html",
-       "date": "2026-09-25"
-      },
-      {
-       "h": "VST Keeps Writing Checks To Its Shareholders",
-       "pub": "Trefis",
-       "link": "https://finance.yahoo.com/markets/stocks/articles/vst-keeps-writing-checks-shareholders-003014479.html",
        "date": "2026-09-25"
       }
      ],
@@ -17858,17 +17858,157 @@
  ],
  "news": [
   {
-   "tk": "NVDA",
-   "h": "History Shows: This Midterm Election Result Could Be a Warning Sign for the Stock Market",
+   "tk": "PLTR",
+   "h": "Figma vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-shows-midterm-election-result-105300021.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-palantir-technologies-technology-155302325.html",
    "date": "2026-09-26"
   },
   {
    "tk": "NVDA",
-   "h": "If You Invest $100 Per Month in Procter & Gamble Stock, Here's the Passive Dividend Income It Could Generate Over 10 Years",
+   "h": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
    "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/invest-100-per-month-procter-104500903.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "NVDA",
+   "h": "Prediction: Robotics Will Be the Biggest Opportunity Within the AI Supercycle. 1 Dividend Growth Stock to Own.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/technology/ai/articles/prediction-robotics-biggest-opportunity-within-153500117.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "TSLA",
+   "h": "Dow sell-side Futures: Growth Shrugs Off Surging Yields, But Trump Rejects Iran Deal; Micron, SpaceX, Tesla Eye Buy Points",
+   "pub": "Investor's Business Daily",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-growth-stocks-shrug-off-surging-yields-micron-spacex-tesla-economic-data/?src=A00220&yptr=yahoo",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "DUK",
+   "h": "What Is Duke Energy (DUK) Changing With Joyce Mullen And Great Falls?",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/energy/articles/duke-energy-duk-changing-joyce-151350972.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "ASTS",
+   "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "GSAT",
+   "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "IRDM",
+   "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "VSAT",
+   "h": "The Opportunity Behind AST SpaceMobile Stock Is Hard to Ignore",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opportunity-behind-ast-spacemobile-stock-150013165.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "MP",
+   "h": "MP Materials Ships Its First Magnets to GM in Q4. This is What The Milestone Is Worth.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-ships-first-magnets-143500819.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "FLR",
+   "h": "Fluor (FLR) Stock May Be 31% Undervalued On Future Cash Flow Recovery",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fluor-flr-stock-may-31-140929994.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "NEE",
+   "h": "Anthropic Needs Gigawatts of Power It Doesn't Have. This Dividend-Paying Industrial Sells It.",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/energy/articles/anthropic-needs-gigawatts-power-doesnt-135000870.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "ASTS",
+   "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "LUNR",
+   "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "PL",
+   "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Prediction: The Next Chapter of the Space Race Could Be Very Good for Rocket Lab",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-chapter-space-race-133002208.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "AVEX",
+   "h": "Pentagon AI Shake Up Puts HawkEye 360 Stock And Defense Cyber Names In Focus",
+   "pub": "Simply Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pentagon-ai-shake-puts-hawkeye-131113950.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "IRDM",
+   "h": "Major Milestone Passed In Iridium/Rocket Lab Tie Up",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/major-milestone-passed-iridium-rocket-122001096.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "RKLB",
+   "h": "Major Milestone Passed In Iridium/Rocket Lab Tie Up",
+   "pub": "Motley Fool",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/major-milestone-passed-iridium-rocket-122001096.html",
+   "date": "2026-09-26"
+  },
+  {
+   "tk": "LMT",
+   "h": "GD vs. LMT: Which Defense Dividend Stock Will Crush Retirement Income Goals?",
+   "pub": "24/7 Wall St.",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gd-vs-lmt-defense-dividend-121007551.html",
    "date": "2026-09-26"
   },
   {
@@ -17897,13 +18037,6 @@
    "h": "Leidos Holdings (LDOS) Lands Army Contract, Is The Stock Trading Below Fair Value?",
    "pub": "Simply Wall St.",
    "link": "https://finance.yahoo.com/markets/stocks/articles/leidos-holdings-ldos-lands-army-031835046.html",
-   "date": "2026-09-26"
-  },
-  {
-   "tk": "PLTR",
-   "h": "Why Palantir (PLTR) Is Up 6.8% After Expanding AIP Deals And Announcing Nebius AI Partnership",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/technology/ai/articles/why-palantir-pltr-6-8-031727990.html",
    "date": "2026-09-26"
   },
   {
@@ -18003,140 +18136,7 @@
    "pub": "Motley Fool",
    "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-intuitive-machines-222002057.html",
    "date": "2026-09-25"
-  },
-  {
-   "tk": "LUNR",
-   "h": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-intuitive-machines-222002057.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "NOC",
-   "h": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-intuitive-machines-222002057.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "RKLB",
-   "h": "SpaceX\u2019s Falcon 9 Wind Down: Rocket Lab Is Set To Gain, Here\u2019s How",
-   "pub": "Insider Monkey",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-falcon-9-wind-down-211841411.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "BKSY",
-   "h": "How Much Higher Can Planet Labs Stock Go From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "LDOS",
-   "h": "How Much Higher Can Planet Labs Stock Go From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "LHX",
-   "h": "How Much Higher Can Planet Labs Stock Go From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "PL",
-   "h": "How Much Higher Can Planet Labs Stock Go From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "SATL",
-   "h": "How Much Higher Can Planet Labs Stock Go From Here?",
-   "pub": "Trefis",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/much-higher-planet-labs-stock-205420987.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "UBER",
-   "h": "Alibaba Group vs. Uber Technologies: Examining Quarterly Revenue Trends",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-vs-uber-technologies-204548738.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "SLS",
-   "h": "SLS Stock Slips 3% As Pancreatic Cancer Lab Data Leave REGAL Wait Unanswered",
-   "pub": "Stocktwits",
-   "link": "https://finance.yahoo.com/healthcare/articles/sls-stock-slips-3-pancreatic-203709991.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "UBER",
-   "h": "How Twilio Makeover Turned Messaging Base Into AI Growth Engine",
-   "pub": "Investor's Business Daily",
-   "link": "https://www.investors.com/research/the-new-america/twilio-stock-turnaround-messaging-base-ai-growth-strategy/?src=A00220&yptr=yahoo",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "SMR",
-   "h": "3 Nuclear Stocks Powering the Grid Long Before AI Made Them Trendy",
-   "pub": "Motley Fool",
-   "link": "https://finance.yahoo.com/energy/articles/3-nuclear-stocks-powering-grid-195000187.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "NVDA",
-   "h": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TSLA",
-   "h": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
-   "pub": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/trump-says-chinas-xi-seemed-to-like-renaming-ai-as-super-intelligence-193805901.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "TXT",
-   "h": "Why Is a Stock Down 97% This Year Paying to Appear Next to Palantir?",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-stock-down-97-paying-190842158.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "RDW",
-   "h": "Is Redwire (RDW) A Bargain Following Its NITE STAR Contract Win?",
-   "pub": "Simply Wall St.",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-bargain-following-nite-190838459.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "PLTR",
-   "h": "How to make sense of 7% mortgage rates and Oracle's AI data center disruption",
-   "pub": "Yahoo Finance Video",
-   "link": "https://finance.yahoo.com/video/sense-7-mortgage-rates-oracles-190311760.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "SO",
-   "h": "America Needs More Electricity. Here\u2019s What It Could Mean for DTE Energy",
-   "pub": "24/7 Wall St.",
-   "link": "https://finance.yahoo.com/energy/articles/america-needs-more-electricity-could-180054977.html",
-   "date": "2026-09-25"
-  },
-  {
-   "tk": "RDW",
-   "h": "1 Stock Under $50 with Exciting Potential and 2 We Brush Off",
-   "pub": "StockStory",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-exciting-174437870.html",
-   "date": "2026-09-25"
   }
  ],
- "prices_asof": "2026-09-26 11:05 UTC"
+ "prices_asof": "2026-09-26 16:05 UTC"
 }
