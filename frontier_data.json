@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 471,
+      "rk": 542,
       "up": 3
      },
      "news": [
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 73,
-      "up": 4
+      "m": 5,
+      "m0": 1,
+      "rk": 98,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 8,
+      "m": 160,
+      "m0": 30,
       "rk": 3,
-      "up": 262
+      "up": 4304
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 46,
-      "up": 4
+      "m": 11,
+      "m0": 4,
+      "rk": 49,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -1860,8 +1860,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 566,
+      "m0": 1,
+      "rk": 638,
       "up": 3
      },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
@@ -2824,7 +2824,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 572,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -3139,8 +3144,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 549,
-      "up": 3
+      "rk": 626,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4028,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 75,
-      "up": 7
+      "m": 1,
+      "m0": 3,
+      "rk": 618,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4379,9 +4384,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 275,
-      "up": 3
+      "m0": 1,
+      "rk": 343,
+      "up": 2
      },
      "news": [
       {
@@ -4562,7 +4567,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 559,
+      "rk": 632,
       "up": 1
      },
      "news": [
@@ -4715,7 +4720,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 538,
+      "up": 1
+     },
      "news": [
       {
        "h": "OUST vs. INVZ: Which LiDAR Manufacturer Is Worth Holding Onto Now?",
@@ -5194,7 +5204,7 @@
      ],
      "awards": [
       {
-       "amt": 656700340.0,
+       "amt": 662576551.0,
        "ag": "Department of Defense",
        "desc": "FY25 LAUNCHER MISSILE MODULE (LMM)- USMC",
        "date": "2024-11-12"
@@ -5848,10 +5858,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 10,
-      "rk": 23,
-      "up": 52
+      "m": 32,
+      "m0": 7,
+      "rk": 14,
+      "up": 117
      },
      "news": [
       {
@@ -5936,10 +5946,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 8,
       "m0": 1,
-      "rk": 266,
-      "up": -2
+      "rk": 63,
+      "up": 197
      },
      "news": [
       {
@@ -7079,10 +7089,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 160,
-      "up": 2
+      "rk": 86,
+      "up": 6
      },
      "news": [
       {
@@ -7348,12 +7358,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 271,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7736,10 +7741,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 69,
-      "up": 11
+      "m": 5,
+      "m0": 3,
+      "rk": 95,
+      "up": 13
      },
      "news": [
       {
@@ -8245,10 +8250,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 92,
-      "up": 4
+      "m": 15,
+      "m0": 2,
+      "rk": 37,
+      "up": 36
      },
      "thesis": {
       "bull": [
@@ -8545,7 +8550,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 358,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9134,12 +9144,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 496,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9320,8 +9325,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 506,
-      "up": 5
+      "rk": 579,
+      "up": 1
      },
      "news": [
       {
@@ -9484,10 +9489,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 70,
-      "up": 9
+      "m": 17,
+      "m0": 3,
+      "rk": 30,
+      "up": 28
      },
      "thesis": {
       "bull": [
@@ -10387,8 +10392,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 542,
-      "up": 1
+      "rk": 622,
+      "up": 2
      },
      "news": [
       {
@@ -10541,8 +10546,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 118,
-      "up": -6
+      "rk": 193,
+      "up": 9
      },
      "streetNotes": [
       {
@@ -10753,10 +10758,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 112,
-      "up": 9
+      "rk": 72,
+      "up": 5
      },
      "news": [
       {
@@ -10842,9 +10847,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 275,
-      "up": 3
+      "m0": 1,
+      "rk": 343,
+      "up": 2
      },
      "news": [
       {
@@ -11208,10 +11213,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 46,
-      "up": 4
+      "m": 11,
+      "m0": 4,
+      "rk": 49,
+      "up": 16
      },
      "news": [
       {
@@ -11299,7 +11304,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 340,
+      "rk": 413,
       "up": 1
      },
      "news": [
@@ -12397,10 +12402,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 464,
-      "up": 2
+      "rk": 112,
+      "up": 4
      },
      "news": [
       {
@@ -12533,8 +12538,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 259,
+      "m0": 1,
+      "rk": 325,
       "up": 2
      },
      "news": [
@@ -12652,7 +12657,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 160,
+      "up": 6
+     },
      "news": [
       {
        "h": "Investors Heavily Search Energy Fuels Inc (UUUU): Here is What You Need to Know",
@@ -12731,10 +12741,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 2,
-      "rk": 19,
-      "up": 40
+      "m": 17,
+      "m0": 7,
+      "rk": 32,
+      "up": 36
      },
      "news": [
       {
@@ -13324,7 +13334,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 627,
+      "up": 6
+     },
      "thesis": {
       "bull": [
        {
@@ -13560,7 +13575,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 584,
+      "up": 4
+     },
      "news": [
       {
        "h": "SMR vs. TLN: Betting on Nuclear Growth or Proven Earnings?",
@@ -13968,7 +13988,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 158,
+      "up": 20
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14045,7 +14070,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 636,
+      "up": 2
+     },
      "news": [
       {
        "h": "GE Vernova (GEV) Has a $176 Billion Backlog. Can It Turn Demand Into Durable Growth?",
@@ -14530,9 +14560,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 495,
-      "up": 7
+      "m0": 1,
+      "rk": 567,
+      "up": 1
      },
      "news": [
       {
@@ -14617,10 +14647,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 44,
-      "up": 6
+      "m": 2,
+      "m0": 4,
+      "rk": 155,
+      "up": 8
      },
      "news": [
       {
@@ -14771,8 +14801,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 138,
+      "m0": 1,
+      "rk": 212,
       "up": 0
      },
      "news": [
@@ -14859,8 +14889,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 176,
+      "m0": 1,
+      "rk": 245,
       "up": 0
      },
      "news": [
@@ -14947,9 +14977,9 @@
      "geo": "US",
      "social": {
       "m": 6,
-      "m0": 2,
-      "rk": 30,
-      "up": 19
+      "m0": 6,
+      "rk": 75,
+      "up": 12
      },
      "news": [
       {
@@ -15033,7 +15063,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 242,
+      "up": 1
+     },
      "news": [
       {
        "h": "Dominion Energy (D) Stock Still Looks Discounted Following Its 65% Three Year Run",
@@ -15119,7 +15154,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 182,
+      "rk": 251,
       "up": 2
      },
      "news": [
@@ -17533,7 +17568,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-09-28",
+ "social_asof": "2026-09-29",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17812,5 +17847,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-09-29 08:08 UTC"
+ "prices_asof": "2026-09-29 11:46 UTC"
 }
