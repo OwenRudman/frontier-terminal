@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
+      "m0": 1,
       "rk": 702,
-      "up": 2
+      "up": 1
      },
      "news": [
       {
@@ -816,7 +816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 777,
+      "rk": 772,
       "up": 1
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 86,
-      "m0": 79,
-      "rk": 4,
-      "up": 336
+      "m": 83,
+      "m0": 86,
+      "rk": 7,
+      "up": 1769
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 20,
-      "rk": 34,
-      "up": 19
+      "m": 15,
+      "m0": 15,
+      "rk": 39,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 275,
+      "rk": 249,
       "up": 1
      },
      "streetNotes": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 178,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 345,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2831,9 +2831,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 754,
-      "up": 4
+      "m0": 1,
+      "rk": 753,
+      "up": -1
      },
      "thesis": {
       "bull": [
@@ -3577,8 +3577,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 788,
+      "m0": 1,
+      "rk": 786,
       "up": 1
      },
      "streetNotes": [
@@ -3737,8 +3737,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 647,
+      "m0": 1,
+      "rk": 653,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4042,7 +4042,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 799,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -4390,7 +4395,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 430,
+      "rk": 417,
       "up": 1
      },
      "news": [
@@ -4723,7 +4728,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 687,
+      "rk": 691,
       "up": 1
      },
      "news": [
@@ -5858,10 +5863,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 67,
-      "m0": 68,
-      "rk": 6,
-      "up": 79
+      "m": 24,
+      "m0": 71,
+      "rk": 22,
+      "up": 39
      },
      "news": [
       {
@@ -5946,9 +5951,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 185,
+      "m": 1,
+      "m0": 2,
+      "rk": 398,
       "up": 3
      },
      "news": [
@@ -6036,7 +6041,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 406,
+      "rk": 391,
       "up": 2
      },
      "news": [
@@ -6268,8 +6273,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 751,
-      "up": 2
+      "rk": 750,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -6543,12 +6548,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 212,
-      "up": 10
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -7106,8 +7106,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 280,
-      "up": 1
+      "rk": 256,
+      "up": 2
      },
      "news": [
       {
@@ -7191,7 +7191,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 174,
+      "up": 5
+     },
      "news": [
       {
        "h": "Ambarella (AMBA) Could Be 23% Undervalued After Its Edge AI Partnerships",
@@ -7430,12 +7435,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 779,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
@@ -7761,10 +7761,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 3,
-      "rk": 49,
-      "up": 21
+      "m": 3,
+      "m0": 9,
+      "rk": 146,
+      "up": 7
      },
      "news": [
       {
@@ -8270,10 +8270,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 44,
-      "rk": 21,
-      "up": 48
+      "m": 31,
+      "m0": 25,
+      "rk": 17,
+      "up": 45
      },
      "thesis": {
       "bull": [
@@ -8572,8 +8572,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 448,
+      "m0": 1,
+      "rk": 434,
       "up": 1
      },
      "streetNotes": [
@@ -8754,12 +8754,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 711,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9170,10 +9165,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 749,
-      "up": 2
+      "rk": 101,
+      "up": 153
      },
      "streetNotes": [
       {
@@ -9352,7 +9347,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 0,
+      "rk": 102,
+      "up": 7
+     },
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -9514,10 +9514,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 73,
-      "rk": 27,
-      "up": 29
+      "m": 20,
+      "m0": 19,
+      "rk": 32,
+      "up": 39
      },
      "thesis": {
       "bull": [
@@ -9756,8 +9756,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 632,
+      "m0": 1,
+      "rk": 634,
       "up": 2
      },
      "news": [
@@ -10009,12 +10009,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 400,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10316,7 +10311,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 751,
+      "up": 1
+     },
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10424,12 +10424,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 210,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10581,7 +10576,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 226,
+      "rk": 207,
       "up": 1
      },
      "streetNotes": [
@@ -10691,7 +10686,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 275,
+      "rk": 249,
       "up": 1
      },
      "streetNotes": [
@@ -10798,10 +10793,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 4,
       "m0": 3,
-      "rk": 134,
-      "up": 5
+      "rk": 107,
+      "up": 7
      },
      "news": [
       {
@@ -10888,7 +10883,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 430,
+      "rk": 417,
       "up": 1
      },
      "news": [
@@ -10973,7 +10968,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 279,
+      "up": 1
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11253,10 +11253,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 20,
-      "rk": 34,
-      "up": 19
+      "m": 15,
+      "m0": 15,
+      "rk": 39,
+      "up": 18
      },
      "news": [
       {
@@ -11344,8 +11344,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 514,
-      "up": 1
+      "rk": 508,
+      "up": 4
      },
      "news": [
       {
@@ -12443,8 +12443,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 684,
+      "m0": 1,
+      "rk": 688,
       "up": 1
      },
      "news": [
@@ -12695,8 +12695,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 408,
-      "up": 1
+      "rk": 393,
+      "up": 4
      },
      "news": [
       {
@@ -12776,10 +12776,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 6,
-      "rk": 38,
-      "up": 23
+      "m": 20,
+      "m0": 14,
+      "rk": 31,
+      "up": 133
      },
      "news": [
       {
@@ -13049,7 +13049,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 692,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13369,7 +13374,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 1,
+      "rk": 104,
+      "up": 32
+     },
      "thesis": {
       "bull": [
        {
@@ -13606,10 +13616,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 771,
-      "up": 3
+      "rk": 152,
+      "up": 7
      },
      "news": [
       {
@@ -14021,7 +14031,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 373,
+      "rk": 354,
       "up": 1
      },
      "streetNotes": [
@@ -14269,7 +14279,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 456,
+      "rk": 444,
       "up": 7
      },
      "awards": [
@@ -14590,9 +14600,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 1,
+      "m0": 4,
       "rk": 124,
-      "up": 8
+      "up": 5
      },
      "news": [
       {
@@ -14677,10 +14687,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 142,
-      "up": 6
+      "m": 5,
+      "m0": 3,
+      "rk": 99,
+      "up": 8
      },
      "news": [
       {
@@ -14914,8 +14924,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 301,
+      "m0": 1,
+      "rk": 275,
       "up": 1
      },
      "news": [
@@ -15001,10 +15011,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 7,
-      "rk": 111,
-      "up": 16
+      "m": 2,
+      "m0": 4,
+      "rk": 165,
+      "up": 1
      },
      "news": [
       {
@@ -15088,7 +15098,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 268,
+      "up": 0
+     },
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15172,10 +15187,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 313,
-      "up": 2
+      "m": 4,
+      "m0": 1,
+      "rk": 111,
+      "up": 7
      },
      "news": [
       {
@@ -15400,12 +15415,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 566,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -15463,7 +15473,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 523,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15521,7 +15536,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 492,
+      "up": 2
+     },
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17593,7 +17613,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-01",
+ "social_asof": "2026-10-02",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17872,5 +17892,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-02 04:54 UTC"
+ "prices_asof": "2026-10-02 11:33 UTC"
 }
