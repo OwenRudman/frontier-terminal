@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 702,
+      "rk": 655,
       "up": 1
      },
      "news": [
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 772,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 83,
-      "m0": 86,
-      "rk": 7,
-      "up": 1769
+      "m": 95,
+      "m0": 84,
+      "rk": 6,
+      "up": 364
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
+      "m": 8,
       "m0": 15,
-      "rk": 39,
-      "up": 18
+      "rk": 58,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -1858,7 +1853,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 796,
+      "up": -1
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2325,7 +2325,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 249,
+      "rk": 228,
       "up": 1
      },
      "streetNotes": [
@@ -2481,9 +2481,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 345,
-      "up": 2
+      "m0": 1,
+      "rk": 326,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 753,
+      "rk": 706,
       "up": -1
      },
      "thesis": {
@@ -3146,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 773,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -3575,12 +3580,7 @@
      },
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 786,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -3735,12 +3735,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 653,
-      "up": 1
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 799,
-      "up": 1
+      "rk": 143,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4395,7 +4390,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 417,
+      "rk": 398,
       "up": 1
      },
      "news": [
@@ -4432,16 +4427,16 @@
        "date": "2020-03-23"
       },
       {
+       "amt": 6644057263.33,
+       "ag": "Department of Defense",
+       "desc": "LOT 18 PNR/TOOLING",
+       "date": "2023-09-28"
+      },
+      {
        "amt": 4865962075.84,
        "ag": "Department of Defense",
        "desc": "FY21 PBL2",
        "date": "2020-12-01"
-      },
-      {
-       "amt": 3648685783.01,
-       "ag": "Department of Defense",
-       "desc": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
-       "date": "2008-01-01"
       }
      ]
     },
@@ -4728,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 691,
-      "up": 1
+      "rk": 645,
+      "up": 4
      },
      "news": [
       {
@@ -5209,7 +5204,7 @@
      ],
      "awards": [
       {
-       "amt": 662576551.0,
+       "amt": 712909273.0,
        "ag": "Department of Defense",
        "desc": "FY25 LAUNCHER MISSILE MODULE (LMM)- USMC",
        "date": "2024-11-12"
@@ -5805,7 +5800,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 800,
+      "up": 2
+     },
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5863,10 +5863,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 71,
-      "rk": 22,
-      "up": 39
+      "m": 62,
+      "m0": 24,
+      "rk": 8,
+      "up": 97
      },
      "news": [
       {
@@ -5951,10 +5951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 398,
-      "up": 3
+      "m": 2,
+      "m0": 1,
+      "rk": 129,
+      "up": 2
      },
      "news": [
       {
@@ -6038,12 +6038,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 391,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "China state media says U.S. shares responsibility for managing AI",
@@ -6273,8 +6268,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 750,
-      "up": 3
+      "rk": 702,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -7106,8 +7101,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 256,
-      "up": 2
+      "rk": 234,
+      "up": 3
      },
      "news": [
       {
@@ -7192,10 +7187,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 174,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 324,
+      "up": 1
      },
      "news": [
       {
@@ -7253,7 +7248,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 712,
+      "up": 1
+     },
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7761,10 +7761,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 9,
-      "rk": 146,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 580,
+      "up": 1
      },
      "news": [
       {
@@ -8270,10 +8270,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 25,
-      "rk": 17,
-      "up": 45
+      "m": 17,
+      "m0": 34,
+      "rk": 32,
+      "up": 34
      },
      "thesis": {
       "bull": [
@@ -8573,7 +8573,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 434,
+      "rk": 416,
       "up": 1
      },
      "streetNotes": [
@@ -9165,10 +9165,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 101,
-      "up": 153
+      "m": 4,
+      "m0": 5,
+      "rk": 91,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9287,6 +9287,12 @@
      ],
      "awards": [
       {
+       "amt": 4008770.0,
+       "ag": "Department of Defense",
+       "desc": "BLACKSKY GLOBAL MOVING TARGET ENGAGEMENT",
+       "date": "2024-03-15"
+      },
+      {
        "amt": 3646498.89,
        "ag": "Department of Defense",
        "desc": "BLACKSKY DIRECT TO PHASE 2",
@@ -9297,12 +9303,6 @@
        "ag": "Department of Defense",
        "desc": "SEGMENTED LARGE OPTICAL IMAGER DESIGN AND RISK ASSESSMENT",
        "date": "2026-03-06"
-      },
-      {
-       "amt": 3538098.0,
-       "ag": "Department of Defense",
-       "desc": "BLACKSKY GLOBAL MOVING TARGET ENGAGEMENT",
-       "date": "2024-03-15"
       },
       {
        "amt": 1836661.0,
@@ -9348,10 +9348,10 @@
      "hold": null,
      "geo": "Argentina",
      "social": {
-      "m": 5,
-      "m0": 0,
-      "rk": 102,
-      "up": 7
+      "m": 1,
+      "m0": 5,
+      "rk": 714,
+      "up": 1
      },
      "news": [
       {
@@ -9385,6 +9385,12 @@
        "ag": "National Aeronautics and Space Administration",
        "desc": "COMMERCIAL SATELLITE DATA ACQUISITION (CSDA) PROGRAM. TASK ORDER FOR DISASTER RESPONSE SATELLITE DATA",
        "date": "2025-11-25"
+      },
+      {
+       "amt": 142560.0,
+       "ag": "National Aeronautics and Space Administration",
+       "desc": "CSDA PROGRAM: EVALUATION TASK ORDER",
+       "date": "2026-09-15"
       },
       {
        "amt": 500.0,
@@ -9515,9 +9521,9 @@
      "geo": "US",
      "social": {
       "m": 20,
-      "m0": 19,
-      "rk": 32,
-      "up": 39
+      "m0": 18,
+      "rk": 21,
+      "up": 58
      },
      "thesis": {
       "bull": [
@@ -9757,7 +9763,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 634,
+      "rk": 597,
       "up": 2
      },
      "news": [
@@ -10092,7 +10098,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 312,
+      "up": 1
+     },
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -10313,8 +10324,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 751,
+      "m0": 1,
+      "rk": 703,
       "up": 1
      },
      "news": [
@@ -10424,7 +10435,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 5,
+      "m0": 1,
+      "rk": 81,
+      "up": 5
+     },
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10573,12 +10589,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 207,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10686,7 +10697,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 249,
+      "rk": 228,
       "up": 1
      },
      "streetNotes": [
@@ -10793,10 +10804,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 107,
-      "up": 7
+      "m": 2,
+      "m0": 4,
+      "rk": 117,
+      "up": 4
      },
      "news": [
       {
@@ -10883,7 +10894,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 417,
+      "rk": 398,
       "up": 1
      },
      "news": [
@@ -10920,16 +10931,16 @@
        "date": "2020-03-23"
       },
       {
+       "amt": 6644057263.33,
+       "ag": "Department of Defense",
+       "desc": "LOT 18 PNR/TOOLING",
+       "date": "2023-09-28"
+      },
+      {
        "amt": 4865962075.84,
        "ag": "Department of Defense",
        "desc": "FY21 PBL2",
        "date": "2020-12-01"
-      },
-      {
-       "amt": 3648685783.01,
-       "ag": "Department of Defense",
-       "desc": "F119 ENGINE LONG TERM SUSTAINMENT PROGRAM FOR THE RAPTOR ENGINE (SPARE)",
-       "date": "2008-01-01"
       }
      ]
     },
@@ -10970,8 +10981,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 279,
+      "m0": 1,
+      "rk": 263,
       "up": 1
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11169,7 +11180,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 395,
+      "up": 1
+     },
      "news": [
       {
        "h": "T-Bills Guarantee the Rate. These 6 Dividend Stocks Can Actually Grow the Paycheck",
@@ -11253,10 +11269,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
+      "m": 8,
       "m0": 15,
-      "rk": 39,
-      "up": 18
+      "rk": 58,
+      "up": 14
      },
      "news": [
       {
@@ -11344,8 +11360,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 508,
-      "up": 4
+      "rk": 489,
+      "up": 2
      },
      "news": [
       {
@@ -12383,7 +12399,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 437,
+      "up": 1
+     },
      "news": [
       {
        "h": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -12441,12 +12462,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 688,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12695,8 +12711,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 393,
-      "up": 4
+      "rk": 373,
+      "up": 3
      },
      "news": [
       {
@@ -12776,10 +12792,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 14,
-      "rk": 31,
-      "up": 133
+      "m": 17,
+      "m0": 18,
+      "rk": 34,
+      "up": 97
      },
      "news": [
       {
@@ -13051,8 +13067,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 692,
+      "m0": 1,
+      "rk": 646,
       "up": 1
      },
      "news": [
@@ -13190,7 +13206,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 762,
+      "up": 1
+     },
      "news": [
       {
        "h": "Lightbridge (LTBR) Q2 2026 Earnings Call Transcript",
@@ -13375,10 +13396,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 104,
-      "up": 32
+      "m": 9,
+      "m0": 5,
+      "rk": 55,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -13616,10 +13637,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 152,
-      "up": 7
+      "m": 1,
+      "m0": 3,
+      "rk": 728,
+      "up": 3
      },
      "news": [
       {
@@ -13678,7 +13699,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 783,
+      "up": 1
+     },
      "news": [
       {
        "h": "2 \u2018Strong Buy\u2019 Nuclear Power Stocks Offering Compelling Value",
@@ -14028,12 +14054,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 354,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14110,7 +14131,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 1,
+      "rk": 116,
+      "up": 4
+     },
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14276,12 +14302,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 444,
-      "up": 7
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14470,6 +14491,12 @@
      ],
      "awards": [
       {
+       "amt": 7768845.0,
+       "ag": "Department of State",
+       "desc": "RESEARCH, EVALUATION, AND STUDY SERVICES FOR FLOOD INVESTIGATIONS REPORTS",
+       "date": "2022-09-13"
+      },
+      {
        "amt": 4076033.0,
        "ag": "Department of Health and Human Services",
        "desc": "EO 14398",
@@ -14486,12 +14513,6 @@
        "ag": "Department of the Interior",
        "desc": "YOSE 215363 WWTP TM TITLE III SERVICES",
        "date": "2026-09-24"
-      },
-      {
-       "amt": 3669652.0,
-       "ag": "Department of State",
-       "desc": "BUILDING AUTOMATION SYSTEM (BAS) REPLACEMENT ENGINEERING SERVICES FOR U.S. EMBASSY IN BAGHDAD, IRAQ",
-       "date": "2024-07-11"
       }
      ]
     },
@@ -14599,10 +14620,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 4,
-      "rk": 124,
-      "up": 5
+      "m": 1,
+      "m0": 5,
+      "rk": 700,
+      "up": 1
      },
      "news": [
       {
@@ -14687,10 +14708,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 99,
-      "up": 8
+      "m": 21,
+      "m0": 5,
+      "rk": 20,
+      "up": 33
      },
      "news": [
       {
@@ -14925,7 +14946,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 275,
+      "rk": 257,
       "up": 1
      },
      "news": [
@@ -15011,10 +15032,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 165,
-      "up": 1
+      "m": 12,
+      "m0": 2,
+      "rk": 42,
+      "up": 33
      },
      "news": [
       {
@@ -15100,8 +15121,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 268,
+      "m0": 1,
+      "rk": 254,
       "up": 0
      },
      "news": [
@@ -15187,10 +15208,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 111,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 268,
+      "up": 0
      },
      "news": [
       {
@@ -15283,16 +15304,16 @@
        "date": "2026-06-12"
       },
       {
+       "amt": 5200000.0,
+       "ag": "Department of Veterans Affairs",
+       "desc": "HINES VAMC ELECTRICITY FUNDING ACTION",
+       "date": "2026-10-01"
+      },
+      {
        "amt": 4925000.0,
        "ag": "Department of Veterans Affairs",
        "desc": "UTILITIES FOR HINES VA ELECTRICITY",
        "date": "2025-10-01"
-      },
-      {
-       "amt": 4656800.31,
-       "ag": "Department of Veterans Affairs",
-       "desc": "UTILITIES",
-       "date": "2023-10-01"
       }
      ]
     },
@@ -15475,8 +15496,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 523,
+      "m0": 1,
+      "rk": 500,
       "up": 1
      },
      "news": [
@@ -15538,9 +15559,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 492,
-      "up": 2
+      "m0": 1,
+      "rk": 471,
+      "up": 1
      },
      "news": [
       {
@@ -17613,7 +17634,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-02",
+ "social_asof": "2026-10-03",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17892,5 +17913,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-03 04:38 UTC"
+ "prices_asof": "2026-10-03 10:47 UTC"
 }
