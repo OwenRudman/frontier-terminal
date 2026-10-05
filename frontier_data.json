@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 38,
-      "up": 70
+      "m": 1,
+      "m0": 5,
+      "rk": 485,
+      "up": 1
      },
      "news": [
       {
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 95,
-      "rk": 8,
-      "up": 44
+      "m": 28,
+      "m0": 9,
+      "rk": 5,
+      "up": 10471
      },
      "thesis": {
       "bull": [
@@ -1586,8 +1586,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 354,
+      "m0": 1,
+      "rk": 331,
       "up": 2
      },
      "thesis": {
@@ -2320,8 +2320,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 146,
-      "up": 1
+      "rk": 172,
+      "up": -1
      },
      "streetNotes": [
       {
@@ -2474,12 +2474,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 235,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3136,7 +3131,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 556,
+      "up": 7
+     },
      "thesis": {
       "bull": [
        {
@@ -3720,7 +3720,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 443,
+      "up": 1
+     },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4024,8 +4029,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 625,
+      "m0": 1,
+      "rk": 549,
       "up": 4
      },
      "thesis": {
@@ -4373,10 +4378,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 62,
-      "up": 6
+      "m": 3,
+      "m0": 2,
+      "rk": 70,
+      "up": 4
      },
      "news": [
       {
@@ -4708,8 +4713,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 536,
-      "up": 3
+      "rk": 471,
+      "up": 0
      },
      "news": [
       {
@@ -5785,12 +5790,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 653,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5849,9 +5849,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 62,
-      "rk": 28,
-      "up": 7
+      "m0": 3,
+      "rk": 53,
+      "up": 11
      },
      "news": [
       {
@@ -5937,9 +5937,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 289,
-      "up": 1
+      "m0": 1,
+      "rk": 282,
+      "up": 8
      },
      "news": [
       {
@@ -6253,7 +6253,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 586,
+      "rk": 521,
       "up": 1
      },
      "thesis": {
@@ -6531,8 +6531,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 693,
-      "up": 2
+      "rk": 600,
+      "up": 1
      },
      "news": [
       {
@@ -7091,8 +7091,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 151,
-      "up": 3
+      "rk": 177,
+      "up": 4
      },
      "news": [
       {
@@ -7176,12 +7176,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 234,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ambarella (AMBA) Could Be 23% Undervalued After Its Edge AI Partnerships",
@@ -7238,12 +7233,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 595,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7427,9 +7417,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 609,
-      "up": 3
+      "m0": 1,
+      "rk": 536,
+      "up": 2
      },
      "news": [
       {
@@ -7756,10 +7746,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 464,
-      "up": 8
+      "rk": 77,
+      "up": 80
      },
      "news": [
       {
@@ -8265,10 +8255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 17,
-      "rk": 72,
-      "up": 10
+      "m": 5,
+      "m0": 2,
+      "rk": 51,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -8565,12 +8555,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 318,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9160,10 +9145,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 50,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 519,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9510,10 +9495,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 19,
-      "rk": 516,
-      "up": 3
+      "m": 6,
+      "m0": 1,
+      "rk": 42,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -10083,12 +10068,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 224,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -10307,12 +10287,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 587,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10420,12 +10395,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 632,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10574,7 +10544,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 133,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10682,8 +10657,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 146,
-      "up": 1
+      "rk": 172,
+      "up": -1
      },
      "streetNotes": [
       {
@@ -10790,9 +10765,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 92,
-      "up": 2
+      "m0": 1,
+      "rk": 126,
+      "up": 1
      },
      "news": [
       {
@@ -10877,10 +10852,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 62,
-      "up": 6
+      "m": 3,
+      "m0": 2,
+      "rk": 70,
+      "up": 4
      },
      "news": [
       {
@@ -11163,7 +11138,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 303,
+      "rk": 293,
       "up": 1
      },
      "news": [
@@ -11250,8 +11225,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 8,
-      "rk": 354,
+      "m0": 1,
+      "rk": 331,
       "up": 2
      },
      "news": [
@@ -11340,7 +11315,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 391,
+      "rk": 365,
       "up": 1
      },
      "news": [
@@ -12381,9 +12356,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 331,
-      "up": 1
+      "m0": 0,
+      "rk": 315,
+      "up": 2
      },
      "news": [
       {
@@ -12442,7 +12417,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 470,
+      "up": 2
+     },
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12689,10 +12669,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 32,
-      "up": 66
+      "m": 3,
+      "m0": 4,
+      "rk": 68,
+      "up": 4
      },
      "news": [
       {
@@ -12772,10 +12752,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 17,
-      "rk": 11,
-      "up": 66
+      "m": 8,
+      "m0": 11,
+      "rk": 29,
+      "up": 15
      },
      "news": [
       {
@@ -13045,12 +13025,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 538,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13128,7 +13103,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 539,
+      "up": 3
+     },
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13186,12 +13166,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 629,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Lightbridge (LTBR) Q2 2026 Earnings Call Transcript",
@@ -13377,9 +13352,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 9,
-      "rk": 643,
-      "up": 1
+      "m0": 1,
+      "rk": 560,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13619,7 +13594,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 606,
+      "rk": 532,
       "up": 1
      },
      "news": [
@@ -13679,12 +13654,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 642,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "2 \u2018Strong Buy\u2019 Nuclear Power Stocks Offering Compelling Value",
@@ -14111,12 +14081,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 650,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14602,8 +14567,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 585,
-      "up": 1
+      "rk": 518,
+      "up": 0
      },
      "news": [
       {
@@ -14688,10 +14653,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 21,
-      "rk": 242,
-      "up": 1
+      "m": 41,
+      "m0": 1,
+      "rk": 3,
+      "up": 75
      },
      "news": [
       {
@@ -14775,7 +14740,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 566,
+      "up": 1
+     },
      "news": [
       {
        "h": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
@@ -15007,10 +14977,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 12,
-      "rk": 57,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 180,
+      "up": 3
      },
      "news": [
       {
@@ -15180,8 +15150,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 183,
-      "up": 2
+      "rk": 205,
+      "up": 1
      },
      "news": [
       {
@@ -15406,7 +15376,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 398,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -15466,8 +15441,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 401,
+      "m0": 0,
+      "rk": 373,
       "up": 1
      },
      "news": [
@@ -15527,12 +15502,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 369,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17604,7 +17574,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-04",
+ "social_asof": "2026-10-05",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17883,5 +17853,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-05 04:54 UTC"
+ "prices_asof": "2026-10-05 12:59 UTC"
 }
