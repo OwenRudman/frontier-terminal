@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 485,
+      "m0": 1,
+      "rk": 606,
       "up": 1
      },
      "news": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 28,
-      "m0": 9,
+      "m": 131,
+      "m0": 25,
       "rk": 5,
-      "up": 10471
+      "up": 273
      },
      "thesis": {
       "bull": [
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 331,
-      "up": 2
+      "rk": 101,
+      "up": 12
      },
      "thesis": {
       "bull": [
@@ -2320,7 +2320,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 172,
+      "rk": 241,
       "up": -1
      },
      "streetNotes": [
@@ -2474,7 +2474,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 321,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -3133,9 +3138,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 556,
-      "up": 7
+      "m0": 1,
+      "rk": 702,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3722,8 +3727,8 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 443,
+      "m0": 1,
+      "rk": 564,
       "up": 1
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4028,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 549,
-      "up": 4
+      "rk": 174,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4378,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 70,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 392,
+      "up": 3
      },
      "news": [
       {
@@ -4559,7 +4564,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 710,
+      "up": 1
+     },
      "news": [
       {
        "h": "\u201cNational Security Matters\u201d Encapsulates Mobix Labs\u2019 New Direction and Identity",
@@ -4713,8 +4723,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 471,
-      "up": 0
+      "rk": 594,
+      "up": 3
      },
      "news": [
       {
@@ -5254,7 +5264,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 547,
+      "up": 3
+     },
      "news": [
       {
        "h": "Ocean Power sales pipeline surpasses $150 million as NATO and U.S. Military evaluations advance",
@@ -5848,10 +5863,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 53,
-      "up": 11
+      "m": 61,
+      "m0": 4,
+      "rk": 7,
+      "up": 1010
      },
      "news": [
       {
@@ -5937,9 +5952,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 282,
-      "up": 8
+      "m0": 2,
+      "rk": 376,
+      "up": 2
      },
      "news": [
       {
@@ -6253,7 +6268,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 521,
+      "rk": 646,
       "up": 1
      },
      "thesis": {
@@ -6531,7 +6546,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 600,
+      "rk": 751,
       "up": 1
      },
      "news": [
@@ -6746,7 +6761,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 679,
+      "up": 2
+     },
      "news": [
       {
        "h": "Zacks Investment Ideas feature highlights: Alibaba, Baidu, Kingsoft Cloud, Tencent, Hesai, Pony AI and WeRide",
@@ -7031,7 +7051,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 670,
+      "up": 2
+     },
      "news": [
       {
        "h": "3 EV Stocks With Up To 39% Revenue Growth",
@@ -7089,10 +7114,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 9,
       "m0": 1,
-      "rk": 177,
-      "up": 4
+      "rk": 52,
+      "up": 18
      },
      "news": [
       {
@@ -7176,7 +7201,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 320,
+      "up": 2
+     },
      "news": [
       {
        "h": "Ambarella (AMBA) Could Be 23% Undervalued After Its Edge AI Partnerships",
@@ -7358,7 +7388,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 387,
+      "up": 2
+     },
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7418,7 +7453,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 536,
+      "rk": 669,
       "up": 2
      },
      "news": [
@@ -7746,10 +7781,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 77,
-      "up": 80
+      "m": 5,
+      "m0": 3,
+      "rk": 92,
+      "up": 7
      },
      "news": [
       {
@@ -8255,10 +8290,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 51,
-      "up": 16
+      "m": 16,
+      "m0": 5,
+      "rk": 33,
+      "up": 27
      },
      "thesis": {
       "bull": [
@@ -8555,7 +8590,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 408,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8995,7 +9035,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 735,
+      "up": 0
+     },
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9145,10 +9190,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 519,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 171,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9495,10 +9540,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 42,
-      "up": 14
+      "m": 10,
+      "m0": 6,
+      "rk": 50,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -9985,7 +10030,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 361,
+      "up": 2
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10546,8 +10596,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 133,
+      "m0": 1,
+      "rk": 200,
       "up": 1
      },
      "streetNotes": [
@@ -10657,7 +10707,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 172,
+      "rk": 241,
       "up": -1
      },
      "streetNotes": [
@@ -10766,7 +10816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 126,
+      "rk": 192,
       "up": 1
      },
      "news": [
@@ -10852,10 +10902,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 70,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 392,
+      "up": 3
      },
      "news": [
       {
@@ -11135,12 +11185,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 293,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "T-Bills Guarantee the Rate. These 6 Dividend Stocks Can Actually Grow the Paycheck",
@@ -11224,10 +11269,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 331,
-      "up": 2
+      "rk": 101,
+      "up": 12
      },
      "news": [
       {
@@ -11315,7 +11360,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
+      "rk": 469,
       "up": 1
      },
      "news": [
@@ -12356,9 +12401,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 315,
-      "up": 2
+      "m0": 1,
+      "rk": 419,
+      "up": 1
      },
      "news": [
       {
@@ -12419,9 +12464,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 470,
-      "up": 2
+      "m0": 1,
+      "rk": 592,
+      "up": 1
      },
      "news": [
       {
@@ -12669,10 +12714,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 68,
-      "up": 4
+      "m": 4,
+      "m0": 3,
+      "rk": 99,
+      "up": 5
      },
      "news": [
       {
@@ -12752,10 +12797,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 11,
-      "rk": 29,
-      "up": 15
+      "m": 12,
+      "m0": 7,
+      "rk": 40,
+      "up": 114
      },
      "news": [
       {
@@ -13105,8 +13150,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 539,
+      "m0": 1,
+      "rk": 672,
       "up": 3
      },
      "news": [
@@ -13351,10 +13396,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 560,
-      "up": 3
+      "rk": 113,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -13594,7 +13639,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 532,
+      "rk": 661,
       "up": 1
      },
      "news": [
@@ -14081,7 +14126,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 714,
+      "up": 1
+     },
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14565,10 +14615,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 518,
-      "up": 0
+      "rk": 93,
+      "up": 12
      },
      "news": [
       {
@@ -14653,10 +14703,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 1,
-      "rk": 3,
-      "up": 75
+      "m": 20,
+      "m0": 37,
+      "rk": 23,
+      "up": 36
      },
      "news": [
       {
@@ -14742,8 +14792,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 566,
+      "m0": 1,
+      "rk": 715,
       "up": 1
      },
      "news": [
@@ -14977,10 +15027,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 180,
-      "up": 3
+      "m": 8,
+      "m0": 1,
+      "rk": 58,
+      "up": 56
      },
      "news": [
       {
@@ -15010,7 +15060,7 @@
        "date": "2006-09-22"
       },
       {
-       "amt": 76397036.98,
+       "amt": 76837435.44,
        "ag": "Department of Defense",
        "desc": "200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                   !20030523!20030523!006900120!006900120!006925341!N!ALABAMA POWER COMPANY         !600 NORTH 18TH STREET     !BIRMINGHAM          !AL!35291!27640!031!01!FORT RUCKER         !COFFEE                !ALABAMA   !+000001875912!N!Y!000087983040!S112!ELECTRIC SERVICES                                 !S1 !SERVICES                      !4000!NOT DISCERNABLE OR CLASSIFIED !221122!E! !3!C!S! ! ! !99990909!B! ! !B! !A!N!K!2!002!B!  !C!N!Z!  !  !N!C!N! ! ! !C!C!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "2003-05-23"
@@ -15150,7 +15200,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 205,
+      "rk": 268,
       "up": 1
      },
      "news": [
@@ -15379,8 +15429,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 398,
-      "up": 1
+      "rk": 509,
+      "up": 2
      },
      "news": [
       {
@@ -15442,7 +15492,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 373,
+      "rk": 482,
       "up": 1
      },
      "news": [
@@ -17574,7 +17624,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-05",
+ "social_asof": "2026-10-06",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17853,5 +17903,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-06 05:41 UTC"
+ "prices_asof": "2026-10-06 12:24 UTC"
 }
