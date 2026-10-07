@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 606,
+      "rk": 682,
       "up": 1
      },
      "news": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 131,
-      "m0": 25,
-      "rk": 5,
-      "up": 273
+      "m": 155,
+      "m0": 122,
+      "rk": 4,
+      "up": 2907
      },
      "thesis": {
       "bull": [
@@ -1585,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 101,
-      "up": 12
+      "m": 5,
+      "m0": 4,
+      "rk": 89,
+      "up": 33
      },
      "thesis": {
       "bull": [
@@ -2029,7 +2029,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 338,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -2319,9 +2324,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 241,
-      "up": -1
+      "m0": 0,
+      "rk": 260,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -2476,8 +2481,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 321,
+      "m0": 1,
+      "rk": 355,
       "up": 3
      },
      "thesis": {
@@ -2824,7 +2829,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 736,
+      "up": 0
+     },
      "thesis": {
       "bull": [
        {
@@ -3136,12 +3146,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 702,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -3728,8 +3733,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 564,
-      "up": 1
+      "rk": 630,
+      "up": 2
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
@@ -4033,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 4,
       "m0": 1,
-      "rk": 174,
-      "up": 3
+      "rk": 113,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -4384,9 +4389,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 392,
-      "up": 3
+      "m0": 1,
+      "rk": 426,
+      "up": 1
      },
      "news": [
       {
@@ -4565,10 +4570,10 @@
      "hold": null,
      "geo": "Israel",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 710,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 187,
+      "up": 3
      },
      "news": [
       {
@@ -4723,8 +4728,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 594,
-      "up": 3
+      "rk": 666,
+      "up": 2
      },
      "news": [
       {
@@ -5266,9 +5271,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 547,
-      "up": 3
+      "m0": 1,
+      "rk": 604,
+      "up": -10
      },
      "news": [
       {
@@ -5863,10 +5868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 61,
-      "m0": 4,
-      "rk": 7,
-      "up": 1010
+      "m": 31,
+      "m0": 60,
+      "rk": 18,
+      "up": 50
      },
      "news": [
       {
@@ -5951,10 +5956,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 376,
-      "up": 2
+      "m": 4,
+      "m0": 1,
+      "rk": 105,
+      "up": 109
      },
      "news": [
       {
@@ -6268,7 +6273,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 646,
+      "rk": 731,
       "up": 1
      },
      "thesis": {
@@ -6543,12 +6548,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 751,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6763,9 +6763,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 679,
-      "up": 2
+      "m0": 1,
+      "rk": 774,
+      "up": 1
      },
      "news": [
       {
@@ -7053,8 +7053,8 @@
      "geo": "Israel",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 670,
+      "m0": 1,
+      "rk": 766,
       "up": 2
      },
      "news": [
@@ -7114,10 +7114,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 52,
-      "up": 18
+      "m": 2,
+      "m0": 9,
+      "rk": 152,
+      "up": 3
      },
      "news": [
       {
@@ -7203,8 +7203,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 320,
+      "m0": 1,
+      "rk": 354,
       "up": 2
      },
      "news": [
@@ -7390,8 +7390,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 387,
+      "m0": 1,
+      "rk": 418,
       "up": 2
      },
      "news": [
@@ -7453,7 +7453,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 669,
+      "rk": 765,
       "up": 2
      },
      "news": [
@@ -7781,10 +7781,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 92,
-      "up": 7
+      "m": 2,
+      "m0": 5,
+      "rk": 171,
+      "up": 3
      },
      "news": [
       {
@@ -8290,10 +8290,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 5,
-      "rk": 33,
-      "up": 27
+      "m": 30,
+      "m0": 16,
+      "rk": 19,
+      "up": 41
      },
      "thesis": {
       "bull": [
@@ -8592,9 +8592,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 408,
-      "up": 4
+      "m0": 1,
+      "rk": 445,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9035,12 +9035,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 735,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9190,10 +9185,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 171,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 730,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9540,10 +9535,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 6,
-      "rk": 50,
-      "up": 17
+      "m": 22,
+      "m0": 10,
+      "rk": 32,
+      "up": 36
      },
      "thesis": {
       "bull": [
@@ -10032,8 +10027,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 361,
+      "m0": 1,
+      "rk": 397,
       "up": 2
      },
      "news": [
@@ -10337,7 +10332,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 732,
+      "up": 1
+     },
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10445,7 +10445,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 800,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10597,7 +10602,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 200,
+      "rk": 207,
       "up": 1
      },
      "streetNotes": [
@@ -10706,9 +10711,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 241,
-      "up": -1
+      "m0": 0,
+      "rk": 260,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10814,10 +10819,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 192,
-      "up": 1
+      "rk": 144,
+      "up": 3
      },
      "news": [
       {
@@ -10903,9 +10908,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 392,
-      "up": 3
+      "m0": 1,
+      "rk": 426,
+      "up": 1
      },
      "news": [
       {
@@ -11269,10 +11274,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 101,
-      "up": 12
+      "m": 5,
+      "m0": 4,
+      "rk": 89,
+      "up": 33
      },
      "news": [
       {
@@ -11359,8 +11364,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 469,
+      "m0": 0,
+      "rk": 514,
       "up": 1
      },
      "news": [
@@ -12402,7 +12407,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 419,
+      "rk": 465,
       "up": 1
      },
      "news": [
@@ -12465,7 +12470,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 592,
+      "rk": 664,
       "up": 1
      },
      "news": [
@@ -12714,9 +12719,9 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 99,
+      "m": 3,
+      "m0": 4,
+      "rk": 130,
       "up": 5
      },
      "news": [
@@ -12797,10 +12802,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 7,
-      "rk": 40,
-      "up": 114
+      "m": 5,
+      "m0": 12,
+      "rk": 95,
+      "up": 10
      },
      "news": [
       {
@@ -13148,12 +13153,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 672,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13396,10 +13396,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 113,
-      "up": 4
+      "m": 13,
+      "m0": 3,
+      "rk": 42,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -13639,7 +13639,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 661,
+      "rk": 756,
       "up": 1
      },
      "news": [
@@ -14049,7 +14049,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 361,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14126,12 +14131,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 714,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14214,7 +14214,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 722,
+      "up": 4
+     },
      "news": [
       {
        "h": "1 Profitable Stock Worth Investigating and 2 We Ignore",
@@ -14615,10 +14620,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 18,
       "m0": 1,
-      "rk": 93,
-      "up": 12
+      "rk": 34,
+      "up": 27
      },
      "news": [
       {
@@ -14703,10 +14708,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 37,
-      "rk": 23,
-      "up": 36
+      "m": 37,
+      "m0": 13,
+      "rk": 12,
+      "up": 232
      },
      "news": [
       {
@@ -14791,10 +14796,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 715,
-      "up": 1
+      "rk": 188,
+      "up": 7
      },
      "news": [
       {
@@ -15027,10 +15032,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 58,
-      "up": 56
+      "m": 3,
+      "m0": 8,
+      "rk": 121,
+      "up": 6
      },
      "news": [
       {
@@ -15198,10 +15203,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 268,
-      "up": 1
+      "rk": 158,
+      "up": 4
      },
      "news": [
       {
@@ -15342,7 +15347,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 289,
+      "up": 1
+     },
      "news": [
       {
        "h": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
@@ -15428,8 +15438,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 509,
+      "m0": 1,
+      "rk": 557,
       "up": 2
      },
      "news": [
@@ -15491,8 +15501,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 482,
+      "m0": 1,
+      "rk": 525,
       "up": 1
      },
      "news": [
@@ -15552,7 +15562,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 504,
+      "up": 1
+     },
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17624,7 +17639,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-06",
+ "social_asof": "2026-10-07",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17903,5 +17918,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-07 05:13 UTC"
+ "prices_asof": "2026-10-07 12:17 UTC"
 }
