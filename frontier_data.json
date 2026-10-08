@@ -609,12 +609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 682,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -935,10 +930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 155,
-      "m0": 122,
-      "rk": 4,
-      "up": 2907
+      "m": 89,
+      "m0": 155,
+      "rk": 6,
+      "up": 588
      },
      "thesis": {
       "bull": [
@@ -1585,10 +1580,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 89,
-      "up": 33
+      "m": 15,
+      "m0": 5,
+      "rk": 35,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -2031,8 +2026,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 338,
+      "m0": 1,
+      "rk": 363,
       "up": 1
      },
      "thesis": {
@@ -2324,8 +2319,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 260,
+      "m0": 1,
+      "rk": 265,
       "up": 1
      },
      "streetNotes": [
@@ -2480,10 +2475,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 355,
-      "up": 3
+      "rk": 128,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2831,9 +2826,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 736,
-      "up": 0
+      "m0": 1,
+      "rk": 769,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3733,7 +3728,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 630,
+      "rk": 665,
       "up": 2
      },
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
@@ -4038,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 113,
-      "up": 9
+      "m": 2,
+      "m0": 4,
+      "rk": 188,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -4390,8 +4385,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 426,
-      "up": 1
+      "rk": 445,
+      "up": 2
      },
      "news": [
       {
@@ -4569,12 +4564,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 187,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "\u201cNational Security Matters\u201d Encapsulates Mobix Labs\u2019 New Direction and Identity",
@@ -4728,8 +4718,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 666,
-      "up": 2
+      "rk": 702,
+      "up": 1
      },
      "news": [
       {
@@ -5132,7 +5122,7 @@
      ],
      "awards": [
       {
-       "amt": 13424336689.85,
+       "amt": 13426736689.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5272,8 +5262,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 604,
-      "up": -10
+      "rk": 633,
+      "up": -6
      },
      "news": [
       {
@@ -5868,10 +5858,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 60,
-      "rk": 18,
-      "up": 50
+      "m": 12,
+      "m0": 31,
+      "rk": 43,
+      "up": 25
      },
      "news": [
       {
@@ -5956,10 +5946,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 105,
-      "up": 109
+      "m": 3,
+      "m0": 4,
+      "rk": 131,
+      "up": 3
      },
      "news": [
       {
@@ -6271,10 +6261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 731,
-      "up": 1
+      "rk": 184,
+      "up": -1
      },
      "thesis": {
       "bull": [
@@ -6761,12 +6751,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 774,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Zacks Investment Ideas feature highlights: Alibaba, Baidu, Kingsoft Cloud, Tencent, Hesai, Pony AI and WeRide",
@@ -7051,12 +7036,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 766,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "3 EV Stocks With Up To 39% Revenue Growth",
@@ -7114,10 +7094,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 152,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 273,
+      "up": 2
      },
      "news": [
       {
@@ -7201,12 +7181,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 354,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Ambarella (AMBA) Could Be 23% Undervalued After Its Edge AI Partnerships",
@@ -7388,12 +7363,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 418,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7450,12 +7420,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 765,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
@@ -7781,10 +7746,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 5,
-      "rk": 171,
-      "up": 3
+      "m": 3,
+      "m0": 2,
+      "rk": 139,
+      "up": 9
      },
      "news": [
       {
@@ -8290,10 +8255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 16,
-      "rk": 19,
-      "up": 41
+      "m": 8,
+      "m0": 30,
+      "rk": 66,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -8593,7 +8558,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 445,
+      "rk": 463,
       "up": 2
      },
      "streetNotes": [
@@ -9186,8 +9151,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 730,
+      "m0": 1,
+      "rk": 762,
       "up": 1
      },
      "streetNotes": [
@@ -9535,10 +9500,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 10,
-      "rk": 32,
-      "up": 36
+      "m": 20,
+      "m0": 22,
+      "rk": 25,
+      "up": 121
      },
      "thesis": {
       "bull": [
@@ -10028,7 +9993,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 397,
+      "rk": 419,
       "up": 2
      },
      "news": [
@@ -10334,8 +10299,8 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 732,
+      "m0": 1,
+      "rk": 765,
       "up": 1
      },
      "news": [
@@ -10446,10 +10411,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 800,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 147,
+      "up": 5
      },
      "news": [
       {
@@ -10601,8 +10566,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 207,
+      "m0": 0,
+      "rk": 214,
       "up": 1
      },
      "streetNotes": [
@@ -10711,8 +10676,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 260,
+      "m0": 1,
+      "rk": 265,
       "up": 1
      },
      "streetNotes": [
@@ -10819,10 +10784,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 144,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 207,
+      "up": 2
      },
      "news": [
       {
@@ -10909,8 +10874,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 426,
-      "up": 1
+      "rk": 445,
+      "up": 2
      },
      "news": [
       {
@@ -11274,10 +11239,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 89,
-      "up": 33
+      "m": 15,
+      "m0": 5,
+      "rk": 35,
+      "up": 17
      },
      "news": [
       {
@@ -11364,8 +11329,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 514,
+      "m0": 1,
+      "rk": 535,
       "up": 1
      },
      "news": [
@@ -12407,8 +12372,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 465,
-      "up": 1
+      "rk": 483,
+      "up": 0
      },
      "news": [
       {
@@ -12467,12 +12432,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 664,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12719,10 +12679,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 130,
-      "up": 5
+      "m": 9,
+      "m0": 3,
+      "rk": 61,
+      "up": 21
      },
      "news": [
       {
@@ -12802,10 +12762,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 12,
-      "rk": 95,
-      "up": 10
+      "m": 13,
+      "m0": 5,
+      "rk": 42,
+      "up": 18
      },
      "news": [
       {
@@ -13396,10 +13356,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 3,
-      "rk": 42,
-      "up": 15
+      "m": 5,
+      "m0": 13,
+      "rk": 95,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -13639,8 +13599,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 756,
-      "up": 1
+      "rk": 796,
+      "up": 2
      },
      "news": [
       {
@@ -14051,8 +14011,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 361,
+      "m0": 1,
+      "rk": 383,
       "up": 4
      },
      "streetNotes": [
@@ -14131,7 +14091,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 1,
+      "rk": 148,
+      "up": 4
+     },
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14216,8 +14181,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 722,
+      "m0": 1,
+      "rk": 755,
       "up": 4
      },
      "news": [
@@ -14248,7 +14213,7 @@
        "date": "2019-08-01"
       },
       {
-       "amt": 4181613.28,
+       "amt": 6754547.46,
        "ag": "Department of Defense",
        "desc": "ELECTRONIC PERSONAL DOSIMETER (EPD)",
        "date": "2024-09-30"
@@ -14620,10 +14585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 1,
-      "rk": 34,
-      "up": 27
+      "m": 4,
+      "m0": 20,
+      "rk": 115,
+      "up": 5
      },
      "news": [
       {
@@ -14708,10 +14673,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 13,
-      "rk": 12,
-      "up": 232
+      "m": 10,
+      "m0": 43,
+      "rk": 57,
+      "up": 12
      },
      "news": [
       {
@@ -14795,12 +14760,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 188,
-      "up": 7
-     },
+     "social": null,
      "news": [
       {
        "h": "Vistra\u2019s Price Dropped 30% in 1 Year: Why One Wall Street Analyst Predicts 115% Returns From Here",
@@ -15032,10 +14992,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 8,
-      "rk": 121,
-      "up": 6
+      "m": 2,
+      "m0": 3,
+      "rk": 159,
+      "up": 24
      },
      "news": [
       {
@@ -15203,10 +15163,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 158,
-      "up": 4
+      "m": 4,
+      "m0": 2,
+      "rk": 101,
+      "up": 75
      },
      "news": [
       {
@@ -15349,8 +15309,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 289,
+      "m0": 1,
+      "rk": 301,
       "up": 1
      },
      "news": [
@@ -15375,7 +15335,7 @@
      ],
      "awards": [
       {
-       "amt": 58070872.89,
+       "amt": 58040806.23,
        "ag": "Department of Defense",
        "desc": "PRIVATIZATION OF THE ELECTRICAL DISTRIBUTION SYSTEM AT FORT POLK, LOUISIANA",
        "date": "2010-09-30"
@@ -15439,8 +15399,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 557,
-      "up": 2
+      "rk": 580,
+      "up": 1
      },
      "news": [
       {
@@ -15499,12 +15459,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 525,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15564,8 +15519,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 504,
+      "m0": 1,
+      "rk": 524,
       "up": 1
      },
      "news": [
@@ -17639,7 +17594,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-07",
+ "social_asof": "2026-10-08",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17918,5 +17873,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-08 08:37 UTC"
+ "prices_asof": "2026-10-08 12:26 UTC"
 }
