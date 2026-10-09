@@ -609,7 +609,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 209,
+      "up": 141
+     },
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -808,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 790,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -930,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 89,
-      "m0": 155,
+      "m": 82,
+      "m0": 89,
       "rk": 6,
-      "up": 588
+      "up": 222
      },
      "thesis": {
       "bull": [
@@ -1580,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 5,
-      "rk": 35,
-      "up": 17
+      "m": 41,
+      "m0": 16,
+      "rk": 12,
+      "up": 72
      },
      "thesis": {
       "bull": [
@@ -2027,8 +2037,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 363,
-      "up": 1
+      "rk": 362,
+      "up": -1
      },
      "thesis": {
       "bull": [
@@ -2320,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 265,
+      "rk": 286,
       "up": 1
      },
      "streetNotes": [
@@ -2475,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 128,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 380,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2827,7 +2837,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 769,
+      "rk": 760,
       "up": 1
      },
      "thesis": {
@@ -3725,12 +3735,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 665,
-      "up": 2
-     },
+     "social": null,
      "plain": "The leading passenger-drone / eVTOL pure-play \u2014 autonomous electric aircraft that carry people (think pilotless air taxis), for urban transport, tourism, and emergency use. Its EH216-S was the world's first pilotless passenger eVTOL to win full type, production, and airworthiness certificates (from China's aviation regulator), and it's flying commercial operations there. This is \"drones\" in the air-mobility sense, not military.",
      "futuretext": "The biggest TAM on the entire list \u2014 moving people through the air autonomously \u2014 and EHang is the only name with the certifications to actually sell it today. If air taxis become normal in Chinese cities and then beyond, this is a different-magnitude opportunity. But \"if\" is enormous and far off: adoption, safety culture, infrastructure, and China-specific risks all gate it. This is a long-dated option on a future that may take a decade.",
      "fchips": [
@@ -4033,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 188,
-      "up": 6
+      "m": 5,
+      "m0": 2,
+      "rk": 113,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 445,
-      "up": 2
+      "rk": 198,
+      "up": 5
      },
      "news": [
       {
@@ -4564,7 +4569,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 1,
+      "rk": 221,
+      "up": 3
+     },
      "news": [
       {
        "h": "\u201cNational Security Matters\u201d Encapsulates Mobix Labs\u2019 New Direction and Identity",
@@ -4718,7 +4728,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 702,
+      "rk": 700,
       "up": 1
      },
      "news": [
@@ -5259,12 +5269,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 633,
-      "up": -6
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power sales pipeline surpasses $150 million as NATO and U.S. Military evaluations advance",
@@ -5800,7 +5805,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 1,
+      "rk": 173,
+      "up": 5
+     },
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5858,10 +5868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 31,
-      "rk": 43,
-      "up": 25
+      "m": 27,
+      "m0": 10,
+      "rk": 23,
+      "up": 276
      },
      "news": [
       {
@@ -5946,10 +5956,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 131,
-      "up": 3
+      "m": 4,
+      "m0": 3,
+      "rk": 125,
+      "up": 9
      },
      "news": [
       {
@@ -6261,10 +6271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 184,
-      "up": -1
+      "m": 1,
+      "m0": 2,
+      "rk": 755,
+      "up": -3
      },
      "thesis": {
       "bull": [
@@ -7094,10 +7104,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 273,
-      "up": 2
+      "m": 2,
+      "m0": 1,
+      "rk": 186,
+      "up": 3
      },
      "news": [
       {
@@ -7747,9 +7757,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 2,
-      "rk": 139,
-      "up": 9
+      "m0": 3,
+      "rk": 159,
+      "up": 5
      },
      "news": [
       {
@@ -8255,10 +8265,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 30,
+      "m": 10,
+      "m0": 8,
       "rk": 66,
-      "up": 11
+      "up": 28
      },
      "thesis": {
       "bull": [
@@ -8555,12 +8565,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 463,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8739,7 +8744,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 720,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -9152,7 +9162,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 762,
+      "rk": 753,
       "up": 1
      },
      "streetNotes": [
@@ -9500,10 +9510,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 22,
-      "rk": 25,
-      "up": 121
+      "m": 147,
+      "m0": 20,
+      "rk": 3,
+      "up": 711
      },
      "thesis": {
       "bull": [
@@ -9992,9 +10002,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 419,
-      "up": 2
+      "m0": 0,
+      "rk": 421,
+      "up": -2
      },
      "news": [
       {
@@ -10300,8 +10310,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 765,
-      "up": 1
+      "rk": 757,
+      "up": 4
      },
      "news": [
       {
@@ -10410,12 +10420,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 147,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10566,8 +10571,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 214,
+      "m0": 1,
+      "rk": 239,
       "up": 1
      },
      "streetNotes": [
@@ -10677,7 +10682,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 265,
+      "rk": 286,
       "up": 1
      },
      "streetNotes": [
@@ -10784,10 +10789,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 207,
-      "up": 2
+      "m": 6,
+      "m0": 1,
+      "rk": 100,
+      "up": 17
      },
      "news": [
       {
@@ -10872,10 +10877,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 445,
-      "up": 2
+      "rk": 198,
+      "up": 5
      },
      "news": [
       {
@@ -10959,7 +10964,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 318,
+      "up": 2
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11239,10 +11249,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 5,
-      "rk": 35,
-      "up": 17
+      "m": 41,
+      "m0": 16,
+      "rk": 12,
+      "up": 72
      },
      "news": [
       {
@@ -11327,12 +11337,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 535,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Space ETFs on Track to Rally or Is It Just a Temporary Blip?",
@@ -12372,8 +12377,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 483,
-      "up": 0
+      "rk": 482,
+      "up": 1
      },
      "news": [
       {
@@ -12490,7 +12495,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 691,
+      "up": -1
+     },
      "news": [
       {
        "h": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
@@ -12679,10 +12689,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 3,
+      "m": 11,
+      "m0": 9,
       "rk": 61,
-      "up": 21
+      "up": 177
      },
      "news": [
       {
@@ -12762,10 +12772,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 5,
-      "rk": 42,
-      "up": 18
+      "m": 10,
+      "m0": 12,
+      "rk": 63,
+      "up": 11
      },
      "news": [
       {
@@ -13035,7 +13045,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 702,
+      "up": 4
+     },
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13356,10 +13371,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 13,
-      "rk": 95,
-      "up": 9
+      "m": 15,
+      "m0": 5,
+      "rk": 47,
+      "up": 24
      },
      "thesis": {
       "bull": [
@@ -13599,8 +13614,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 796,
-      "up": 2
+      "rk": 786,
+      "up": 1
      },
      "news": [
       {
@@ -14009,12 +14024,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 383,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14093,8 +14103,8 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 1,
-      "rk": 148,
+      "m0": 4,
+      "rk": 172,
       "up": 4
      },
      "news": [
@@ -14179,12 +14189,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 755,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "1 Profitable Stock Worth Investigating and 2 We Ignore",
@@ -14585,10 +14590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 20,
-      "rk": 115,
-      "up": 5
+      "m": 1,
+      "m0": 4,
+      "rk": 752,
+      "up": 1
      },
      "news": [
       {
@@ -14673,10 +14678,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 43,
-      "rk": 57,
-      "up": 12
+      "m": 3,
+      "m0": 11,
+      "rk": 146,
+      "up": 4
      },
      "news": [
       {
@@ -14992,10 +14997,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 159,
-      "up": 24
+      "m": 8,
+      "m0": 2,
+      "rk": 84,
+      "up": 16
      },
      "news": [
       {
@@ -15163,10 +15168,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 101,
-      "up": 75
+      "m": 1,
+      "m0": 4,
+      "rk": 322,
+      "up": 0
      },
      "news": [
       {
@@ -15307,12 +15312,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 301,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
@@ -15399,7 +15399,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 580,
+      "rk": 573,
       "up": 1
      },
      "news": [
@@ -15459,7 +15459,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 543,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15520,7 +15525,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 524,
+      "rk": 520,
       "up": 1
      },
      "news": [
@@ -17594,7 +17599,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-08",
+ "social_asof": "2026-10-09",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17873,5 +17878,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-09 05:26 UTC"
+ "prices_asof": "2026-10-09 12:16 UTC"
 }
