@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 209,
-      "up": 141
+      "m": 1,
+      "m0": 2,
+      "rk": 662,
+      "up": 2
      },
      "news": [
       {
@@ -684,7 +684,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 183,
+      "up": 1
+     },
      "news": [
       {
        "h": "Albemarle (ALB) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -816,7 +821,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 790,
+      "rk": 737,
       "up": 2
      },
      "streetNotes": [
@@ -940,10 +945,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 82,
-      "m0": 89,
+      "m": 74,
+      "m0": 85,
       "rk": 6,
-      "up": 222
+      "up": 148
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 16,
-      "rk": 12,
-      "up": 72
+      "m": 68,
+      "m0": 42,
+      "rk": 8,
+      "up": 109
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2042,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 362,
+      "rk": 304,
       "up": -1
      },
      "thesis": {
@@ -2327,12 +2332,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 286,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2486,8 +2486,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 380,
+      "m0": 1,
+      "rk": 320,
       "up": 1
      },
      "thesis": {
@@ -2837,7 +2837,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 760,
+      "rk": 711,
       "up": 1
      },
      "thesis": {
@@ -3151,7 +3151,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 783,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -4038,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 113,
-      "up": 14
+      "m": 1,
+      "m0": 5,
+      "rk": 767,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 198,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 391,
+      "up": 1
      },
      "news": [
       {
@@ -4570,10 +4575,10 @@
      "hold": null,
      "geo": "Israel",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 221,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 793,
+      "up": 2
      },
      "news": [
       {
@@ -4725,12 +4730,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 700,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "3 AI Stocks With Earnings Growth Over 11%",
@@ -5269,7 +5269,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 580,
+      "up": 3
+     },
      "news": [
       {
        "h": "Ocean Power sales pipeline surpasses $150 million as NATO and U.S. Military evaluations advance",
@@ -5805,12 +5810,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 173,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5868,10 +5868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 10,
-      "rk": 23,
-      "up": 276
+      "m": 36,
+      "m0": 28,
+      "rk": 9,
+      "up": 63
      },
      "news": [
       {
@@ -5956,10 +5956,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 125,
-      "up": 9
+      "m": 5,
+      "m0": 4,
+      "rk": 68,
+      "up": 10
      },
      "news": [
       {
@@ -6272,9 +6272,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 755,
-      "up": -3
+      "m0": 1,
+      "rk": 706,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -7104,10 +7104,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 186,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 230,
+      "up": 1
      },
      "news": [
       {
@@ -7756,10 +7756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 5,
       "m0": 3,
-      "rk": 159,
-      "up": 5
+      "rk": 71,
+      "up": 28
      },
      "news": [
       {
@@ -8265,10 +8265,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 8,
-      "rk": 66,
-      "up": 28
+      "m": 13,
+      "m0": 10,
+      "rk": 31,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -8565,7 +8565,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 408,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8746,9 +8751,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 720,
-      "up": 2
+      "m0": 1,
+      "rk": 671,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -9162,7 +9167,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 753,
+      "rk": 704,
       "up": 1
      },
      "streetNotes": [
@@ -9510,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 147,
-      "m0": 20,
-      "rk": 3,
-      "up": 711
+      "m": 244,
+      "m0": 143,
+      "rk": 1,
+      "up": 512
      },
      "thesis": {
       "bull": [
@@ -10002,9 +10007,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 421,
-      "up": -2
+      "m0": 1,
+      "rk": 364,
+      "up": -4
      },
      "news": [
       {
@@ -10310,8 +10315,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 757,
-      "up": 4
+      "rk": 708,
+      "up": 7
      },
      "news": [
       {
@@ -10420,7 +10425,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 772,
+      "up": 2
+     },
      "news": [
       {
        "h": "3 Niche Growth Stocks With an Edge Their Rivals Can\u2019t Ignore",
@@ -10572,7 +10582,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 239,
+      "rk": 178,
       "up": 1
      },
      "streetNotes": [
@@ -10679,12 +10689,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 286,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10789,10 +10794,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 100,
-      "up": 17
+      "m": 1,
+      "m0": 6,
+      "rk": 171,
+      "up": 3
      },
      "news": [
       {
@@ -10877,10 +10882,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 198,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 391,
+      "up": 1
      },
      "news": [
       {
@@ -10966,9 +10971,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 318,
-      "up": 2
+      "m0": 1,
+      "rk": 259,
+      "up": 1
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -11249,10 +11254,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 41,
-      "m0": 16,
-      "rk": 12,
-      "up": 72
+      "m": 68,
+      "m0": 42,
+      "rk": 8,
+      "up": 109
      },
      "news": [
       {
@@ -11337,7 +11342,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 481,
+      "up": 1
+     },
      "news": [
       {
        "h": "Are Space ETFs on Track to Rally or Is It Just a Temporary Blip?",
@@ -12377,7 +12387,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 482,
+      "rk": 425,
       "up": 1
      },
      "news": [
@@ -12437,7 +12447,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 649,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12497,9 +12512,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 691,
-      "up": -1
+      "m0": 1,
+      "rk": 642,
+      "up": 1
      },
      "news": [
       {
@@ -12572,7 +12587,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 372,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 Canadian Uranium Stocks With Revenue Growth Up To 58%",
@@ -12689,10 +12709,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 9,
-      "rk": 61,
-      "up": 177
+      "m": 1,
+      "m0": 11,
+      "rk": 371,
+      "up": 3
      },
      "news": [
       {
@@ -12772,10 +12792,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 12,
-      "rk": 63,
-      "up": 11
+      "m": 11,
+      "m0": 11,
+      "rk": 39,
+      "up": 58
      },
      "news": [
       {
@@ -13047,9 +13067,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 702,
-      "up": 4
+      "m0": 1,
+      "rk": 652,
+      "up": 1
      },
      "news": [
       {
@@ -13371,10 +13391,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 5,
-      "rk": 47,
-      "up": 24
+      "m": 4,
+      "m0": 16,
+      "rk": 93,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -13614,8 +13634,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 786,
-      "up": 1
+      "rk": 733,
+      "up": 3
      },
      "news": [
       {
@@ -14101,12 +14121,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 172,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14591,8 +14606,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 752,
+      "m0": 1,
+      "rk": 703,
       "up": 1
      },
      "news": [
@@ -14679,9 +14694,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 11,
-      "rk": 146,
-      "up": 4
+      "m0": 4,
+      "rk": 100,
+      "up": 6
      },
      "news": [
       {
@@ -14997,10 +15012,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 2,
-      "rk": 84,
-      "up": 16
+      "m": 7,
+      "m0": 8,
+      "rk": 51,
+      "up": 47
      },
      "news": [
       {
@@ -15169,9 +15184,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 322,
-      "up": 0
+      "m0": 1,
+      "rk": 264,
+      "up": 6
      },
      "news": [
       {
@@ -15396,12 +15411,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 573,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -15461,8 +15471,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 543,
+      "m0": 1,
+      "rk": 494,
       "up": 1
      },
      "news": [
@@ -15525,7 +15535,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 520,
+      "rk": 467,
       "up": 1
      },
      "news": [
@@ -17599,7 +17609,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-09",
+ "social_asof": "2026-10-10",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17878,5 +17888,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-10 05:10 UTC"
+ "prices_asof": "2026-10-10 11:33 UTC"
 }
