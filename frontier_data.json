@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 662,
+      "m0": 1,
+      "rk": 515,
       "up": 2
      },
      "news": [
@@ -686,8 +686,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 183,
+      "m0": 1,
+      "rk": 120,
       "up": 1
      },
      "news": [
@@ -818,12 +818,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 737,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -945,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 74,
-      "m0": 85,
-      "rk": 6,
-      "up": 148
+      "m": 25,
+      "m0": 74,
+      "rk": 4,
+      "up": 336
      },
      "thesis": {
       "bull": [
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 68,
-      "m0": 42,
-      "rk": 8,
-      "up": 109
+      "m": 3,
+      "m0": 68,
+      "rk": 58,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -2039,12 +2034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 304,
-      "up": -1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2487,7 +2477,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 320,
+      "rk": 238,
       "up": 1
      },
      "thesis": {
@@ -2837,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 711,
+      "rk": 569,
       "up": 1
      },
      "thesis": {
@@ -3154,7 +3144,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 783,
+      "rk": 618,
       "up": 1
      },
      "thesis": {
@@ -4044,9 +4034,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 767,
-      "up": 1
+      "m0": 1,
+      "rk": 608,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 391,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 76,
+      "up": 251
      },
      "news": [
       {
@@ -4574,12 +4564,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 793,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "\u201cNational Security Matters\u201d Encapsulates Mobix Labs\u2019 New Direction and Identity",
@@ -5271,8 +5256,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 580,
+      "m0": 1,
+      "rk": 444,
       "up": 3
      },
      "news": [
@@ -5810,7 +5795,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 642,
+      "up": 1
+     },
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5868,10 +5858,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 36,
-      "m0": 28,
-      "rk": 9,
-      "up": 63
+      "m": 12,
+      "m0": 36,
+      "rk": 13,
+      "up": 77
      },
      "news": [
       {
@@ -5956,10 +5946,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 4,
-      "rk": 68,
-      "up": 10
+      "m": 1,
+      "m0": 5,
+      "rk": 288,
+      "up": 2
      },
      "news": [
       {
@@ -6273,8 +6263,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 706,
-      "up": 5
+      "rk": 566,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -7105,8 +7095,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 230,
+      "m0": 1,
+      "rk": 159,
       "up": 1
      },
      "news": [
@@ -7756,10 +7746,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 3,
-      "rk": 71,
-      "up": 28
+      "m": 1,
+      "m0": 5,
+      "rk": 443,
+      "up": -6
      },
      "news": [
       {
@@ -8265,10 +8255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 10,
-      "rk": 31,
-      "up": 16
+      "m": 2,
+      "m0": 13,
+      "rk": 87,
+      "up": 127
      },
      "thesis": {
       "bull": [
@@ -8567,8 +8557,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 408,
+      "m0": 1,
+      "rk": 316,
       "up": 0
      },
      "streetNotes": [
@@ -8752,7 +8742,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 671,
+      "rk": 524,
       "up": 1
      },
      "thesis": {
@@ -9015,7 +9005,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 663,
+      "up": 4
+     },
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9164,12 +9159,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 704,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9515,10 +9505,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 244,
-      "m0": 143,
+      "m": 61,
+      "m0": 245,
       "rk": 1,
-      "up": 512
+      "up": 450
      },
      "thesis": {
       "bull": [
@@ -10008,7 +9998,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 364,
+      "rk": 278,
       "up": -4
      },
      "news": [
@@ -10315,7 +10305,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 708,
+      "rk": 567,
       "up": 7
      },
      "news": [
@@ -10428,8 +10418,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 772,
-      "up": 2
+      "rk": 612,
+      "up": 1
      },
      "news": [
       {
@@ -10579,12 +10569,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 178,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10795,8 +10780,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 171,
+      "m0": 1,
+      "rk": 105,
       "up": 3
      },
      "news": [
@@ -10882,10 +10867,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 391,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 76,
+      "up": 251
      },
      "news": [
       {
@@ -10972,7 +10957,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 259,
+      "rk": 181,
       "up": 1
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11254,10 +11239,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 68,
-      "m0": 42,
-      "rk": 8,
-      "up": 109
+      "m": 3,
+      "m0": 68,
+      "rk": 58,
+      "up": 8
      },
      "news": [
       {
@@ -11344,8 +11329,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 481,
+      "m0": 1,
+      "rk": 374,
       "up": 1
      },
      "news": [
@@ -12384,12 +12369,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 425,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -12449,8 +12429,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 649,
+      "m0": 1,
+      "rk": 502,
       "up": 1
      },
      "news": [
@@ -12510,12 +12490,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 642,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
@@ -12589,8 +12564,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 372,
+      "m0": 1,
+      "rk": 284,
       "up": 1
      },
      "news": [
@@ -12710,9 +12685,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 11,
-      "rk": 371,
-      "up": 3
+      "m0": 1,
+      "rk": 283,
+      "up": 1
      },
      "news": [
       {
@@ -12792,10 +12767,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
+      "m": 10,
       "m0": 11,
-      "rk": 39,
-      "up": 58
+      "rk": 19,
+      "up": 59
      },
      "news": [
       {
@@ -13068,7 +13043,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 652,
+      "rk": 505,
       "up": 1
      },
      "news": [
@@ -13391,10 +13366,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 16,
-      "rk": 93,
-      "up": 6
+      "m": 1,
+      "m0": 4,
+      "rk": 625,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13634,7 +13609,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 733,
+      "rk": 584,
       "up": 3
      },
      "news": [
@@ -14121,7 +14096,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 636,
+      "up": 4
+     },
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14607,7 +14587,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 703,
+      "rk": 563,
       "up": 1
      },
      "news": [
@@ -14693,10 +14673,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 100,
-      "up": 6
+      "m": 1,
+      "m0": 3,
+      "rk": 243,
+      "up": 1
      },
      "news": [
       {
@@ -15012,10 +14992,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 8,
-      "rk": 51,
-      "up": 47
+      "m": 2,
+      "m0": 7,
+      "rk": 73,
+      "up": 14
      },
      "news": [
       {
@@ -15185,8 +15165,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 264,
-      "up": 6
+      "rk": 186,
+      "up": 5
      },
      "news": [
       {
@@ -15469,12 +15449,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 494,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15532,12 +15507,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 467,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17609,7 +17579,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-10",
+ "social_asof": "2026-10-11",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17888,5 +17858,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-11 05:00 UTC"
+ "prices_asof": "2026-10-11 11:47 UTC"
 }
