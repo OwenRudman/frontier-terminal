@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 598,
-      "up": 1
+      "rk": 554,
+      "up": 2
      },
      "news": [
       {
@@ -816,7 +816,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 655,
+      "rk": 623,
       "up": 0
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 42,
-      "m0": 37,
-      "rk": 9,
-      "up": 152
+      "m": 19,
+      "m0": 40,
+      "rk": 13,
+      "up": 30
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 14,
-      "rk": 21,
-      "up": 52
+      "m": 11,
+      "m0": 27,
+      "rk": 22,
+      "up": 19
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 298,
+      "rk": 230,
       "up": 1
      },
      "thesis": {
@@ -2330,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 238,
+      "rk": 158,
       "up": 1
      },
      "streetNotes": [
@@ -2486,9 +2486,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 314,
-      "up": 2
+      "m0": 1,
+      "rk": 247,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -2836,9 +2836,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 634,
-      "up": 3
+      "m0": 1,
+      "rk": 599,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3153,9 +3153,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 691,
-      "up": 4
+      "m0": 1,
+      "rk": 657,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 4,
-      "rk": 65,
-      "up": 15
+      "m": 5,
+      "m0": 7,
+      "rk": 49,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -4394,9 +4394,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 383,
-      "up": 30
+      "m0": 2,
+      "rk": 311,
+      "up": 1
      },
      "news": [
       {
@@ -4726,10 +4726,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 167,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 542,
+      "up": 0
      },
      "news": [
       {
@@ -5863,10 +5863,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 19,
-      "rk": 19,
-      "up": 133
+      "m": 12,
+      "m0": 25,
+      "rk": 18,
+      "up": 22
      },
      "news": [
       {
@@ -5951,10 +5951,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 3,
-      "rk": 109,
-      "up": 9
+      "m": 1,
+      "m0": 2,
+      "rk": 295,
+      "up": 4
      },
      "news": [
       {
@@ -7096,8 +7096,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 240,
-      "up": 1
+      "rk": 161,
+      "up": 3
      },
      "news": [
       {
@@ -7240,8 +7240,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 640,
+      "m0": 1,
+      "rk": 605,
       "up": 1
      },
      "news": [
@@ -7368,12 +7368,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 376,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7668,10 +7663,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 179,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 697,
+      "up": 1
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7761,10 +7756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 4,
-      "rk": 160,
-      "up": 323
+      "m": 1,
+      "m0": 2,
+      "rk": 473,
+      "up": 4
      },
      "news": [
       {
@@ -8270,10 +8265,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 4,
-      "rk": 43,
-      "up": 26
+      "m": 4,
+      "m0": 15,
+      "rk": 57,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -8572,8 +8567,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 406,
+      "m0": 1,
+      "rk": 335,
       "up": 1
      },
      "streetNotes": [
@@ -8756,8 +8751,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 605,
+      "m0": 1,
+      "rk": 563,
       "up": 1
      },
      "thesis": {
@@ -9023,7 +9018,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 725,
+      "rk": 694,
       "up": 1
      },
      "news": [
@@ -9177,8 +9172,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 631,
-      "up": 5
+      "rk": 597,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9359,8 +9354,8 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 643,
+      "m0": 1,
+      "rk": 607,
       "up": 3
      },
      "news": [
@@ -9530,10 +9525,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 40,
-      "m0": 42,
-      "rk": 11,
-      "up": 88
+      "m": 53,
+      "m0": 34,
+      "rk": 3,
+      "up": 95
      },
      "thesis": {
       "bull": [
@@ -10433,7 +10428,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 683,
+      "rk": 649,
       "up": 2
      },
      "news": [
@@ -10587,7 +10582,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 192,
+      "rk": 113,
       "up": -2
      },
      "streetNotes": [
@@ -10697,7 +10692,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 238,
+      "rk": 158,
       "up": 1
      },
      "streetNotes": [
@@ -10804,10 +10799,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 187,
-      "up": 1
+      "rk": 69,
+      "up": 3
      },
      "news": [
       {
@@ -10893,9 +10888,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 383,
-      "up": 30
+      "m0": 2,
+      "rk": 311,
+      "up": 1
      },
      "news": [
       {
@@ -11259,10 +11254,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 14,
-      "rk": 21,
-      "up": 52
+      "m": 11,
+      "m0": 27,
+      "rk": 22,
+      "up": 19
      },
      "news": [
       {
@@ -11350,7 +11345,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 454,
+      "rk": 395,
       "up": 2
      },
      "news": [
@@ -12447,7 +12442,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 538,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12695,9 +12695,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 362,
-      "up": 2
+      "m0": 1,
+      "rk": 292,
+      "up": 4
      },
      "news": [
       {
@@ -12777,10 +12777,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 5,
-      "rk": 52,
-      "up": 19
+      "m": 4,
+      "m0": 9,
+      "rk": 59,
+      "up": 3
      },
      "news": [
       {
@@ -13371,10 +13371,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 1,
-      "rk": 31,
-      "up": 47
+      "m": 2,
+      "m0": 19,
+      "rk": 94,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13613,8 +13613,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 653,
+      "m0": 0,
+      "rk": 618,
       "up": 2
      },
      "news": [
@@ -14026,9 +14026,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 325,
-      "up": 4
+      "m0": 1,
+      "rk": 258,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -14109,7 +14109,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 702,
+      "rk": 672,
       "up": 1
      },
      "news": [
@@ -14277,7 +14277,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 342,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14596,8 +14601,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 630,
+      "m0": 1,
+      "rk": 596,
       "up": 3
      },
      "news": [
@@ -14684,8 +14689,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 318,
+      "m0": 1,
+      "rk": 251,
       "up": 1
      },
      "news": [
@@ -15002,10 +15007,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 107,
-      "up": 13
+      "m": 1,
+      "m0": 4,
+      "rk": 162,
+      "up": 1
      },
      "news": [
       {
@@ -15173,10 +15178,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 121,
-      "up": 687
+      "m": 1,
+      "m0": 3,
+      "rk": 190,
+      "up": 1
      },
      "news": [
       {
@@ -17589,7 +17594,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-13",
+ "social_asof": "2026-10-14",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17868,5 +17873,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-14 07:18 UTC"
+ "prices_asof": "2026-10-14 10:49 UTC"
 }
