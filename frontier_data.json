@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 554,
-      "up": 2
+      "rk": 720,
+      "up": 1
      },
      "news": [
       {
@@ -814,10 +814,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 623,
-      "up": 0
+      "m": 4,
+      "m0": 0,
+      "rk": 152,
+      "up": 58
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 40,
-      "rk": 13,
-      "up": 30
+      "m": 145,
+      "m0": 19,
+      "rk": 7,
+      "up": 676
      },
      "thesis": {
       "bull": [
@@ -1312,7 +1312,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 800,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 27,
-      "rk": 22,
-      "up": 19
+      "m": 26,
+      "m0": 11,
+      "rk": 33,
+      "up": 49
      },
      "thesis": {
       "bull": [
@@ -2036,9 +2041,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 230,
-      "up": 1
+      "m0": 0,
+      "rk": 388,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2329,9 +2334,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 158,
-      "up": 1
+      "m0": 0,
+      "rk": 312,
+      "up": 11
      },
      "streetNotes": [
       {
@@ -2485,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 247,
-      "up": 7
+      "rk": 167,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -2835,10 +2840,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 599,
-      "up": 1
+      "rk": 115,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -3151,12 +3156,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 657,
-      "up": 1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4043,10 +4043,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 7,
-      "rk": 49,
-      "up": 6
+      "m": 8,
+      "m0": 5,
+      "rk": 97,
+      "up": 14
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 311,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 211,
+      "up": 14
      },
      "news": [
       {
@@ -4727,9 +4727,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 542,
-      "up": 0
+      "m0": 1,
+      "rk": 712,
+      "up": 1
      },
      "news": [
       {
@@ -5109,7 +5109,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 297,
+      "up": 3
+     },
      "news": [
       {
        "h": "Amazon, Top Warship Builder Added To sell-side's Conviction List",
@@ -5132,7 +5137,7 @@
      ],
      "awards": [
       {
-       "amt": 13426736689.85,
+       "amt": 13426828974.85,
        "ag": "Department of Defense",
        "desc": "CVN 80 ENGINEERING EFFORTS AND STEEL",
        "date": "2016-05-23"
@@ -5215,7 +5220,7 @@
        "date": "2024-11-12"
       },
       {
-       "amt": 521619148.0,
+       "amt": 620031547.5,
        "ag": "Department of Defense",
        "desc": "JOINT STRIKE MISSILE LOT 2 AND OPTION LOT 3",
        "date": "2025-12-12"
@@ -5863,10 +5868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 25,
-      "rk": 18,
-      "up": 22
+      "m": 21,
+      "m0": 12,
+      "rk": 38,
+      "up": 41
      },
      "news": [
       {
@@ -5952,9 +5957,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 295,
-      "up": 4
+      "m0": 1,
+      "rk": 458,
+      "up": 1
      },
      "news": [
       {
@@ -6265,7 +6270,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 757,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -6808,7 +6818,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 748,
+      "up": 1
+     },
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7096,8 +7111,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 161,
-      "up": 3
+      "rk": 319,
+      "up": 2
      },
      "news": [
       {
@@ -7241,7 +7256,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 605,
+      "rk": 763,
       "up": 1
      },
      "news": [
@@ -7368,7 +7383,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 474,
+      "up": 1
+     },
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7662,12 +7682,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 697,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7757,9 +7772,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 473,
-      "up": 4
+      "m0": 1,
+      "rk": 644,
+      "up": 25
      },
      "news": [
       {
@@ -8265,10 +8280,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 15,
-      "rk": 57,
-      "up": 11
+      "m": 110,
+      "m0": 4,
+      "rk": 8,
+      "up": 794
      },
      "thesis": {
       "bull": [
@@ -8566,10 +8581,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 335,
-      "up": 1
+      "rk": 144,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -8750,10 +8765,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 563,
-      "up": 1
+      "rk": 228,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -9015,12 +9030,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 694,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9170,10 +9180,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 6,
       "m0": 1,
-      "rk": 597,
-      "up": 2
+      "rk": 114,
+      "up": 79
      },
      "streetNotes": [
       {
@@ -9352,12 +9362,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 607,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -9525,10 +9530,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 34,
-      "rk": 3,
-      "up": 95
+      "m": 158,
+      "m0": 53,
+      "rk": 6,
+      "up": 662
      },
      "thesis": {
       "bull": [
@@ -10015,7 +10020,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 444,
+      "up": 1
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10317,7 +10327,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 758,
+      "up": 1
+     },
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10426,10 +10441,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 649,
-      "up": 2
+      "rk": 130,
+      "up": 10
      },
      "news": [
       {
@@ -10582,8 +10597,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 113,
-      "up": -2
+      "rk": 257,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -10691,9 +10706,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 158,
-      "up": 1
+      "m0": 0,
+      "rk": 312,
+      "up": 11
      },
      "streetNotes": [
       {
@@ -10800,9 +10815,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 69,
-      "up": 3
+      "m0": 2,
+      "rk": 188,
+      "up": 8
      },
      "news": [
       {
@@ -10887,10 +10902,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 311,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 211,
+      "up": 14
      },
      "news": [
       {
@@ -10974,7 +10989,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 345,
+      "up": 2
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11254,10 +11274,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 27,
-      "rk": 22,
-      "up": 19
+      "m": 26,
+      "m0": 11,
+      "rk": 33,
+      "up": 49
      },
      "news": [
       {
@@ -11345,7 +11365,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 395,
+      "rk": 560,
       "up": 2
      },
      "news": [
@@ -12384,7 +12404,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 509,
+      "up": 6
+     },
      "news": [
       {
        "h": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -12444,8 +12469,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 538,
+      "m0": 1,
+      "rk": 710,
       "up": 1
      },
      "news": [
@@ -12694,10 +12719,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 13,
       "m0": 1,
-      "rk": 292,
-      "up": 4
+      "rk": 61,
+      "up": 39
      },
      "news": [
       {
@@ -12777,10 +12802,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 9,
-      "rk": 59,
-      "up": 3
+      "m": 12,
+      "m0": 5,
+      "rk": 68,
+      "up": 25
      },
      "news": [
       {
@@ -13050,7 +13075,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 147,
+      "up": 3
+     },
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13371,10 +13401,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 19,
-      "rk": 94,
-      "up": 5
+      "m": 12,
+      "m0": 2,
+      "rk": 69,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -13612,10 +13642,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 0,
-      "rk": 618,
-      "up": 2
+      "rk": 151,
+      "up": 13
      },
      "news": [
       {
@@ -14026,9 +14056,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 258,
-      "up": 3
+      "m0": 0,
+      "rk": 410,
+      "up": -6
      },
      "streetNotes": [
       {
@@ -14068,6 +14098,12 @@
        "ag": "Department of Energy",
        "desc": "5-YEAR CONTINUED STORAGE OF RADIOACTIVE WASTE AND SPENT NUCLEAR FUEL (SNF) LOCATED AT BWXT NOG TECHNOLOGIES, INC (BWXT)",
        "date": "2025-09-01"
+      },
+      {
+       "amt": 500.0,
+       "ag": "Department of Defense",
+       "desc": "SCALABLE HOMELAND INNOVATIVE ENTERPRISE LAYERED DEFENSE (SHIELD) INITIAL ORDER.",
+       "date": "2026-01-21"
       }
      ]
     },
@@ -14107,10 +14143,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 672,
-      "up": 1
+      "rk": 185,
+      "up": 8
      },
      "news": [
       {
@@ -14279,9 +14315,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 342,
-      "up": 2
+      "m0": 1,
+      "rk": 503,
+      "up": 9
      },
      "awards": [
       {
@@ -14601,9 +14637,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 596,
-      "up": 3
+      "m0": 0,
+      "rk": 755,
+      "up": 1
      },
      "news": [
       {
@@ -14690,8 +14726,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 251,
-      "up": 1
+      "rk": 404,
+      "up": 3
      },
      "news": [
       {
@@ -14923,7 +14959,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 341,
+      "up": 2
+     },
      "news": [
       {
        "h": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -15007,10 +15048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 162,
-      "up": 1
+      "m": 7,
+      "m0": 1,
+      "rk": 99,
+      "up": 37
      },
      "news": [
       {
@@ -15046,7 +15087,7 @@
        "date": "2003-05-23"
       },
       {
-       "amt": 30595265.87,
+       "amt": 32309235.87,
        "ag": "Department of Defense",
        "desc": "IGF::OT::IGF  ANALYSIS (COMPRESSED AIR)",
        "date": "2013-09-19"
@@ -15094,7 +15135,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 336,
+      "up": 1
+     },
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15178,10 +15224,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 190,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 164,
+      "up": 9
      },
      "news": [
       {
@@ -15406,7 +15452,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 593,
+      "up": 1
+     },
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -17594,7 +17645,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-14",
+ "social_asof": "2026-10-15",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17873,5 +17924,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-15 09:04 UTC"
+ "prices_asof": "2026-10-15 10:32 UTC"
 }
