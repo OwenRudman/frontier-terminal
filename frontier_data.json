@@ -612,7 +612,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 720,
+      "rk": 779,
       "up": 1
      },
      "news": [
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 152,
-      "up": 58
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 145,
-      "m0": 19,
+      "m": 112,
+      "m0": 139,
       "rk": 7,
-      "up": 676
+      "up": 384
      },
      "thesis": {
       "bull": [
@@ -1312,12 +1307,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 800,
-      "up": 0
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1595,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 11,
-      "rk": 33,
-      "up": 49
+      "m": 12,
+      "m0": 25,
+      "rk": 59,
+      "up": 78
      },
      "thesis": {
       "bull": [
@@ -1863,7 +1853,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 171,
+      "up": 4
+     },
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2041,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 388,
-      "up": 2
+      "m0": 1,
+      "rk": 414,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2334,8 +2329,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 312,
+      "m0": 1,
+      "rk": 315,
       "up": 11
      },
      "streetNotes": [
@@ -2490,10 +2485,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 167,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 427,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -2840,10 +2835,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 115,
-      "up": 13
+      "m": 2,
+      "m0": 6,
+      "rk": 215,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -4043,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 5,
-      "rk": 97,
-      "up": 14
+      "m": 3,
+      "m0": 8,
+      "rk": 170,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -4393,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 211,
-      "up": 14
+      "m": 1,
+      "m0": 2,
+      "rk": 512,
+      "up": 7
      },
      "news": [
       {
@@ -4728,7 +4723,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 712,
+      "rk": 768,
       "up": 1
      },
      "news": [
@@ -5111,8 +5106,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 297,
+      "m0": 1,
+      "rk": 295,
       "up": 3
      },
      "news": [
@@ -5214,7 +5209,7 @@
      ],
      "awards": [
       {
-       "amt": 712909273.0,
+       "amt": 738818449.95,
        "ag": "Department of Defense",
        "desc": "FY25 LAUNCHER MISSILE MODULE (LMM)- USMC",
        "date": "2024-11-12"
@@ -5753,7 +5748,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 225,
+      "up": -1
+     },
      "news": [
       {
        "h": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
@@ -5868,10 +5868,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 12,
-      "rk": 38,
-      "up": 41
+      "m": 172,
+      "m0": 21,
+      "rk": 3,
+      "up": 6726
      },
      "news": [
       {
@@ -5958,8 +5958,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 458,
-      "up": 1
+      "rk": 493,
+      "up": 3
      },
      "news": [
       {
@@ -6043,7 +6043,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 3,
+      "m0": 0,
+      "rk": 159,
+      "up": 2
+     },
      "news": [
       {
        "h": "China state media says U.S. shares responsibility for managing AI",
@@ -6270,12 +6275,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 757,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -6818,12 +6818,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 748,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7109,10 +7104,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 319,
-      "up": 2
+      "rk": 111,
+      "up": 7
      },
      "news": [
       {
@@ -7253,12 +7248,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 763,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7385,8 +7375,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 474,
+      "m0": 1,
+      "rk": 507,
       "up": 1
      },
      "news": [
@@ -7773,8 +7763,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 644,
-      "up": 25
+      "rk": 698,
+      "up": 1
      },
      "news": [
       {
@@ -8280,10 +8270,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 110,
-      "m0": 4,
-      "rk": 8,
-      "up": 794
+      "m": 79,
+      "m0": 106,
+      "rk": 9,
+      "up": 159
      },
      "thesis": {
       "bull": [
@@ -8581,10 +8571,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 144,
-      "up": 7
+      "m": 2,
+      "m0": 4,
+      "rk": 193,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8765,10 +8755,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 228,
-      "up": 2
+      "m": 1,
+      "m0": 2,
+      "rk": 785,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -9179,12 +9169,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 114,
-      "up": 79
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9530,10 +9515,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 158,
-      "m0": 53,
-      "rk": 6,
-      "up": 662
+      "m": 54,
+      "m0": 162,
+      "rk": 16,
+      "up": 922
      },
      "thesis": {
       "bull": [
@@ -10020,12 +10005,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 444,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10327,12 +10307,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 758,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10441,10 +10416,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 130,
-      "up": 10
+      "m": 6,
+      "m0": 5,
+      "rk": 106,
+      "up": 11
      },
      "news": [
       {
@@ -10597,8 +10572,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 257,
-      "up": 0
+      "rk": 250,
+      "up": -2
      },
      "streetNotes": [
       {
@@ -10706,8 +10681,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 312,
+      "m0": 1,
+      "rk": 315,
       "up": 11
      },
      "streetNotes": [
@@ -10814,10 +10789,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 188,
-      "up": 8
+      "rk": 242,
+      "up": 1
      },
      "news": [
       {
@@ -10902,10 +10877,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 211,
-      "up": 14
+      "m": 1,
+      "m0": 2,
+      "rk": 512,
+      "up": 7
      },
      "news": [
       {
@@ -10991,8 +10966,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 345,
+      "m0": 1,
+      "rk": 353,
       "up": 2
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
@@ -11274,10 +11249,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 11,
-      "rk": 33,
-      "up": 49
+      "m": 12,
+      "m0": 25,
+      "rk": 59,
+      "up": 78
      },
      "news": [
       {
@@ -11362,12 +11337,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 560,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Space ETFs on Track to Rally or Is It Just a Temporary Blip?",
@@ -12406,9 +12376,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 509,
-      "up": 6
+      "m0": 1,
+      "rk": 550,
+      "up": 1
      },
      "news": [
       {
@@ -12470,7 +12440,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 710,
+      "rk": 766,
       "up": 1
      },
      "news": [
@@ -12719,10 +12689,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 1,
-      "rk": 61,
-      "up": 39
+      "m": 3,
+      "m0": 13,
+      "rk": 161,
+      "up": 5
      },
      "news": [
       {
@@ -12802,10 +12772,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 5,
-      "rk": 68,
-      "up": 25
+      "m": 22,
+      "m0": 12,
+      "rk": 33,
+      "up": 41
      },
      "news": [
       {
@@ -13076,10 +13046,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 147,
-      "up": 3
+      "m": 1,
+      "m0": 4,
+      "rk": 770,
+      "up": 1
      },
      "news": [
       {
@@ -13401,10 +13371,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 2,
-      "rk": 69,
-      "up": 16
+      "m": 2,
+      "m0": 12,
+      "rk": 222,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -13641,12 +13611,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 151,
-      "up": 13
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -14056,8 +14021,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 410,
+      "m0": 1,
+      "rk": 439,
       "up": -6
      },
      "streetNotes": [
@@ -14142,12 +14107,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 185,
-      "up": 8
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14316,8 +14276,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 503,
-      "up": 9
+      "rk": 541,
+      "up": 1
      },
      "awards": [
       {
@@ -14635,12 +14595,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 755,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
@@ -14726,8 +14681,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 404,
-      "up": 3
+      "rk": 433,
+      "up": 1
      },
      "news": [
       {
@@ -14959,12 +14914,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 341,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -15048,10 +14998,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 1,
-      "rk": 99,
-      "up": 37
+      "m": 11,
+      "m0": 7,
+      "rk": 63,
+      "up": 31
      },
      "news": [
       {
@@ -15081,7 +15031,7 @@
        "date": "2006-09-22"
       },
       {
-       "amt": 76837435.44,
+       "amt": 77791918.05,
        "ag": "Department of Defense",
        "desc": "200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                   !20030523!20030523!006900120!006900120!006925341!N!ALABAMA POWER COMPANY         !600 NORTH 18TH STREET     !BIRMINGHAM          !AL!35291!27640!031!01!FORT RUCKER         !COFFEE                !ALABAMA   !+000001875912!N!Y!000087983040!S112!ELECTRIC SERVICES                                 !S1 !SERVICES                      !4000!NOT DISCERNABLE OR CLASSIFIED !221122!E! !3!C!S! ! ! !99990909!B! ! !B! !A!N!K!2!002!B!  !C!N!Z!  !  !N!C!N! ! ! !C!C!A!A!000!A!C!N! ! ! ! !    !      !0001! !",
        "date": "2003-05-23"
@@ -15137,8 +15087,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 336,
+      "m0": 1,
+      "rk": 343,
       "up": 1
      },
      "news": [
@@ -15224,10 +15174,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 164,
-      "up": 9
+      "m": 4,
+      "m0": 3,
+      "rk": 125,
+      "up": 10
      },
      "news": [
       {
@@ -15454,8 +15404,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 593,
+      "m0": 1,
+      "rk": 643,
       "up": 1
      },
      "news": [
@@ -15573,7 +15523,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 595,
+      "up": 1
+     },
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17645,7 +17600,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-15",
+ "social_asof": "2026-10-16",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17924,5 +17879,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-16 08:53 UTC"
+ "prices_asof": "2026-10-16 10:19 UTC"
 }
