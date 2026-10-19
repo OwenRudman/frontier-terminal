@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 124,
-      "up": 3
+      "m": 3,
+      "m0": 2,
+      "rk": 100,
+      "up": 5
      },
      "news": [
       {
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 728,
-      "up": 1
+      "rk": 614,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 44,
-      "m0": 98,
-      "rk": 4,
-      "up": 252
+      "m": 42,
+      "m0": 45,
+      "rk": 6,
+      "up": 424
      },
      "thesis": {
       "bull": [
@@ -1314,8 +1314,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 745,
+      "m0": 0,
+      "rk": 632,
       "up": 3
      },
      "streetNotes": [
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 35,
-      "rk": 70,
-      "up": 7
+      "m": 7,
+      "m0": 4,
+      "rk": 45,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -1863,12 +1863,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 779,
-      "up": 1
-     },
+     "social": null,
      "plain": "The odd one out \u2014 it sells software, not hardware . Its AI lets drones and robots observe, learn, reason, and act on their own , including controlling swarms (SwarmOS / Palladyne Pilot). It aims to be the autonomy \"brain\" that plugs into other people's drones. Partnering with Israel's IAI to bring autonomy to American-made loitering munitions; demonstrated swarm autonomy in a live Army exercise.",
      "futuretext": "If you believe the future of warfare is autonomous swarms , the most leveraged bet is owning the software layer that makes any drone autonomous \u2014 and that's exactly PDYN's pitch. Software margins could be spectacular and the TAM spans every drone and robot. This is the highest theoretical upside on the list. The reason it's Tier 4 anyway: revenue is minimal, cash is burning, and the customers (primes) are also the competitors. Pure optionality.",
      "fchips": [
@@ -2046,8 +2041,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 287,
+      "m0": 1,
+      "rk": 260,
       "up": 2
      },
      "thesis": {
@@ -2269,7 +2264,7 @@
      ],
      "awards": [
       {
-       "amt": 371264442.6,
+       "amt": 371699225.6,
        "ag": "General Services Administration",
        "desc": "COSMIC AES SBIR III CONTRACT 47QFCA20C0019. THIS CONTRACT IS FOR OTHER FUNCTIONS.",
        "date": "2020-06-11"
@@ -2340,7 +2335,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 208,
+      "rk": 191,
       "up": 1
      },
      "streetNotes": [
@@ -2495,10 +2490,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 79,
-      "up": 8
+      "m": 1,
+      "m0": 3,
+      "rk": 272,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2846,8 +2841,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 701,
+      "m0": 1,
+      "rk": 595,
       "up": 1
      },
      "thesis": {
@@ -3163,9 +3158,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 11,
-      "rk": 766,
-      "up": 2
+      "m0": 1,
+      "rk": 648,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4053,10 +4048,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
+      "m": 1,
       "m0": 15,
-      "rk": 21,
-      "up": 144
+      "rk": 640,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4403,10 +4398,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 380,
-      "up": 4
+      "m": 4,
+      "m0": 1,
+      "rk": 75,
+      "up": 9
      },
      "news": [
       {
@@ -4738,7 +4733,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 620,
+      "rk": 546,
       "up": 0
      },
      "news": [
@@ -4767,6 +4762,12 @@
        "ag": "National Aeronautics and Space Administration",
        "desc": "OUSTER OS2-REV7-128 LIDAR",
        "date": "2024-05-03"
+      },
+      {
+       "amt": 18590.0,
+       "ag": "National Aeronautics and Space Administration",
+       "desc": "SHELF LIGHT DETECTION AND RANGING SENSOR",
+       "date": "2026-10-15"
       }
      ]
     },
@@ -5758,12 +5759,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 784,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading",
@@ -5878,10 +5874,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 206,
-      "rk": 20,
-      "up": 108
+      "m": 29,
+      "m0": 15,
+      "rk": 13,
+      "up": 39
      },
      "news": [
       {
@@ -5968,8 +5964,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 360,
-      "up": 2
+      "rk": 314,
+      "up": 1
      },
      "news": [
       {
@@ -6053,12 +6049,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 350,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "China state media says U.S. shares responsibility for managing AI",
@@ -6558,7 +6549,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 695,
+      "up": 2
+     },
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6828,7 +6824,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 579,
+      "up": 1
+     },
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7116,8 +7117,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 212,
-      "up": 2
+      "rk": 193,
+      "up": 3
      },
      "news": [
       {
@@ -7261,7 +7262,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 708,
+      "rk": 598,
       "up": 2
      },
      "news": [
@@ -7391,7 +7392,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 372,
+      "rk": 325,
       "up": 1
      },
      "news": [
@@ -7687,7 +7688,12 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 682,
+      "up": 2
+     },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7777,9 +7783,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 10,
-      "rk": 119,
-      "up": 2
+      "m0": 2,
+      "rk": 121,
+      "up": 0
      },
      "news": [
       {
@@ -8285,10 +8291,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 26,
-      "rk": 17,
-      "up": 155
+      "m": 20,
+      "m0": 15,
+      "rk": 22,
+      "up": 48
      },
      "thesis": {
       "bull": [
@@ -8587,9 +8593,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 401,
-      "up": 1
+      "m0": 1,
+      "rk": 347,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -9030,7 +9036,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 679,
+      "up": -1
+     },
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9087,12 +9098,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 668,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Sidus Space Moves LizzieSat-5 To SpaceX Bandwagon-6, Aims Launch By April 2027",
@@ -9186,9 +9192,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 696,
-      "up": 3
+      "m0": 1,
+      "rk": 590,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9535,10 +9541,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 34,
-      "rk": 14,
-      "up": 169
+      "m": 31,
+      "m0": 19,
+      "rk": 12,
+      "up": 68
      },
      "thesis": {
       "bull": [
@@ -9941,7 +9947,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 238,
+      "up": -1
+     },
      "news": [
       {
        "h": "The Delta-SpaceX Feud Just Escalated. Investors Beware.",
@@ -10437,8 +10448,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 760,
+      "m0": 1,
+      "rk": 642,
       "up": 1
      },
      "news": [
@@ -10591,8 +10602,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 155,
+      "m0": 1,
+      "rk": 152,
       "up": 1
      },
      "streetNotes": [
@@ -10702,7 +10713,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 208,
+      "rk": 191,
       "up": 1
      },
      "streetNotes": [
@@ -10810,8 +10821,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 145,
+      "m0": 1,
+      "rk": 141,
       "up": 1
      },
      "news": [
@@ -10897,10 +10908,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 380,
-      "up": 4
+      "m": 4,
+      "m0": 1,
+      "rk": 75,
+      "up": 9
      },
      "news": [
       {
@@ -11264,10 +11275,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 35,
-      "rk": 70,
-      "up": 7
+      "m": 7,
+      "m0": 4,
+      "rk": 45,
+      "up": 9
      },
      "news": [
       {
@@ -11354,8 +11365,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 471,
+      "m0": 1,
+      "rk": 408,
       "up": 1
      },
      "news": [
@@ -12452,7 +12463,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 544,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12510,7 +12526,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 540,
+      "up": 1
+     },
      "news": [
       {
        "h": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
@@ -12698,12 +12719,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 354,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Struggling Energy Stock to Avoid in October",
@@ -12782,10 +12798,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 22,
-      "m0": 8,
-      "rk": 13,
-      "up": 134
+      "m": 19,
+      "m0": 22,
+      "rk": 23,
+      "up": 49
      },
      "news": [
       {
@@ -13057,9 +13073,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 622,
-      "up": 0
+      "m0": 1,
+      "rk": 548,
+      "up": 1
      },
      "news": [
       {
@@ -13140,8 +13156,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 736,
+      "m0": 1,
+      "rk": 621,
       "up": 6
      },
      "news": [
@@ -13386,10 +13402,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 131,
-      "up": 10
+      "m": 1,
+      "m0": 2,
+      "rk": 652,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13628,9 +13644,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 726,
-      "up": 0
+      "m0": 1,
+      "rk": 610,
+      "up": 2
      },
      "news": [
       {
@@ -14124,9 +14140,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 778,
-      "up": 3
+      "m0": 1,
+      "rk": 663,
+      "up": 0
      },
      "news": [
       {
@@ -14296,8 +14312,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 412,
-      "up": 8
+      "rk": 355,
+      "up": 7
      },
      "awards": [
       {
@@ -14404,7 +14420,7 @@
      ],
      "awards": [
       {
-       "amt": 14977753062.48,
+       "amt": 14981924100.48,
        "ag": "Department of Defense",
        "desc": "NAVAL NUCLEAR LABORATORY",
        "date": "2018-07-12"
@@ -14615,12 +14631,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 695,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
@@ -14704,10 +14715,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 107,
-      "up": 7
+      "m": 3,
+      "m0": 2,
+      "rk": 87,
+      "up": 1
      },
      "news": [
       {
@@ -14939,12 +14950,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 244,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -15028,10 +15034,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 13,
-      "rk": 216,
-      "up": 3
+      "m": 6,
+      "m0": 1,
+      "rk": 52,
+      "up": 6
      },
      "news": [
       {
@@ -15201,8 +15207,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 249,
-      "up": 6
+      "rk": 219,
+      "up": 4
      },
      "news": [
       {
@@ -15427,12 +15433,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 500,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -15492,8 +15493,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 481,
+      "m0": 1,
+      "rk": 418,
       "up": 1
      },
      "news": [
@@ -15556,8 +15557,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 459,
-      "up": 4
+      "rk": 399,
+      "up": 1
      },
      "news": [
       {
@@ -17630,7 +17631,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-18",
+ "social_asof": "2026-10-19",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17909,5 +17910,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-19 04:30 UTC"
+ "prices_asof": "2026-10-19 11:31 UTC"
 }
