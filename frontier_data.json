@@ -610,10 +610,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
+      "m": 1,
       "m0": 2,
-      "rk": 100,
-      "up": 5
+      "rk": 611,
+      "up": 2
      },
      "news": [
       {
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 614,
-      "up": 4
+      "rk": 688,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 42,
-      "m0": 45,
-      "rk": 6,
-      "up": 424
+      "m": 56,
+      "m0": 43,
+      "rk": 9,
+      "up": 166
      },
      "thesis": {
       "bull": [
@@ -1315,8 +1315,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 632,
-      "up": 3
+      "rk": 708,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -1595,10 +1595,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 45,
-      "up": 9
+      "m": 15,
+      "m0": 7,
+      "rk": 31,
+      "up": 21
      },
      "thesis": {
       "bull": [
@@ -2042,7 +2042,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 260,
+      "rk": 304,
       "up": 2
      },
      "thesis": {
@@ -2335,7 +2335,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 191,
+      "rk": 223,
       "up": 1
      },
      "streetNotes": [
@@ -2491,8 +2491,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 272,
+      "m0": 1,
+      "rk": 315,
       "up": 1
      },
      "thesis": {
@@ -2842,7 +2842,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 595,
+      "rk": 666,
       "up": 1
      },
      "thesis": {
@@ -3158,9 +3158,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 648,
-      "up": 3
+      "m0": 3,
+      "rk": 728,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4049,9 +4049,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 15,
-      "rk": 640,
-      "up": 2
+      "m0": 1,
+      "rk": 717,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4398,10 +4398,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 75,
-      "up": 9
+      "m": 9,
+      "m0": 4,
+      "rk": 48,
+      "up": 10
      },
      "news": [
       {
@@ -4730,12 +4730,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 546,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "3 AI Stocks With Earnings Growth Over 11%",
@@ -5874,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 29,
-      "m0": 15,
-      "rk": 13,
-      "up": 39
+      "m": 88,
+      "m0": 27,
+      "rk": 6,
+      "up": 206
      },
      "news": [
       {
@@ -5964,7 +5959,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 314,
+      "rk": 360,
       "up": 1
      },
      "news": [
@@ -6550,10 +6545,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 695,
-      "up": 2
+      "rk": 127,
+      "up": 6
      },
      "news": [
       {
@@ -6826,8 +6821,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 579,
+      "m0": 1,
+      "rk": 646,
       "up": 1
      },
      "news": [
@@ -7114,12 +7109,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 193,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did AMD Stock Jump?",
@@ -7262,7 +7252,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 598,
+      "rk": 670,
       "up": 2
      },
      "news": [
@@ -7392,7 +7382,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 325,
+      "rk": 369,
       "up": 1
      },
      "news": [
@@ -7691,8 +7681,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 682,
-      "up": 2
+      "rk": 758,
+      "up": 1
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7782,10 +7772,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 3,
       "m0": 2,
-      "rk": 121,
-      "up": 0
+      "rk": 115,
+      "up": 6
      },
      "news": [
       {
@@ -8291,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 15,
-      "rk": 22,
-      "up": 48
+      "m": 18,
+      "m0": 20,
+      "rk": 26,
+      "up": 34
      },
      "thesis": {
       "bull": [
@@ -8594,8 +8584,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 347,
-      "up": 4
+      "rk": 391,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -9038,8 +9028,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 679,
+      "m0": 1,
+      "rk": 755,
       "up": -1
      },
      "news": [
@@ -9193,7 +9183,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 590,
+      "rk": 661,
       "up": 2
      },
      "streetNotes": [
@@ -9541,10 +9531,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 31,
-      "m0": 19,
-      "rk": 12,
-      "up": 68
+      "m": 21,
+      "m0": 31,
+      "rk": 22,
+      "up": 108
      },
      "thesis": {
       "bull": [
@@ -9949,8 +9939,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 238,
+      "m0": 1,
+      "rk": 279,
       "up": -1
      },
      "news": [
@@ -10448,9 +10438,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 642,
-      "up": 1
+      "m0": 0,
+      "rk": 722,
+      "up": 4
      },
      "news": [
       {
@@ -10601,10 +10591,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 152,
-      "up": 1
+      "rk": 99,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10713,7 +10703,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 191,
+      "rk": 223,
       "up": 1
      },
      "streetNotes": [
@@ -10822,7 +10812,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 141,
+      "rk": 171,
       "up": 1
      },
      "news": [
@@ -10908,10 +10898,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 75,
-      "up": 9
+      "m": 9,
+      "m0": 4,
+      "rk": 48,
+      "up": 10
      },
      "news": [
       {
@@ -11275,10 +11265,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 45,
-      "up": 9
+      "m": 15,
+      "m0": 7,
+      "rk": 31,
+      "up": 21
      },
      "news": [
       {
@@ -11366,7 +11356,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 408,
+      "rk": 449,
       "up": 1
      },
      "news": [
@@ -12466,8 +12456,8 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 544,
-      "up": 1
+      "rk": 599,
+      "up": 2
      },
      "news": [
       {
@@ -12528,8 +12518,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 540,
+      "m0": 1,
+      "rk": 592,
       "up": 1
      },
      "news": [
@@ -12719,7 +12709,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 356,
+      "up": 2
+     },
      "news": [
       {
        "h": "Struggling Energy Stock to Avoid in October",
@@ -12798,10 +12793,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 22,
-      "rk": 23,
-      "up": 49
+      "m": 17,
+      "m0": 19,
+      "rk": 28,
+      "up": 67
      },
      "news": [
       {
@@ -13074,8 +13069,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 548,
-      "up": 1
+      "rk": 602,
+      "up": 3
      },
      "news": [
       {
@@ -13154,12 +13149,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 621,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13402,10 +13392,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 652,
-      "up": 5
+      "m": 11,
+      "m0": 1,
+      "rk": 44,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -13645,8 +13635,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 610,
-      "up": 2
+      "rk": 681,
+      "up": 1
      },
      "news": [
       {
@@ -14141,7 +14131,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 663,
+      "rk": 738,
       "up": 0
      },
      "news": [
@@ -14309,12 +14299,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 355,
-      "up": 7
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14715,9 +14700,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 87,
+      "m": 1,
+      "m0": 3,
+      "rk": 319,
       "up": 1
      },
      "news": [
@@ -15034,10 +15019,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 1,
-      "rk": 52,
-      "up": 6
+      "m": 5,
+      "m0": 6,
+      "rk": 72,
+      "up": 7
      },
      "news": [
       {
@@ -15207,8 +15192,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 219,
-      "up": 4
+      "rk": 258,
+      "up": 15
      },
      "news": [
       {
@@ -15494,7 +15479,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 418,
+      "rk": 462,
       "up": 1
      },
      "news": [
@@ -15554,12 +15539,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 399,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17631,7 +17611,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-19",
+ "social_asof": "2026-10-20",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17910,5 +17890,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-20 04:13 UTC"
+ "prices_asof": "2026-10-20 10:37 UTC"
 }
