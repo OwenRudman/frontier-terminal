@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 611,
-      "up": 2
+      "m0": 1,
+      "rk": 645,
+      "up": 3
      },
      "news": [
       {
@@ -813,12 +813,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 688,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 56,
-      "m0": 43,
-      "rk": 9,
-      "up": 166
+      "m": 65,
+      "m0": 56,
+      "rk": 10,
+      "up": 510
      },
      "thesis": {
       "bull": [
@@ -1314,9 +1309,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 708,
-      "up": 2
+      "m0": 1,
+      "rk": 744,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -1595,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 7,
-      "rk": 31,
-      "up": 21
+      "m": 11,
+      "m0": 15,
+      "rk": 49,
+      "up": 71
      },
      "thesis": {
       "bull": [
@@ -2041,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 304,
-      "up": 2
+      "m0": 0,
+      "rk": 316,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2335,7 +2330,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 223,
+      "rk": 254,
       "up": 1
      },
      "streetNotes": [
@@ -2381,7 +2376,7 @@
      ],
      "awards": [
       {
-       "amt": 13720293923.19,
+       "amt": 14352893923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -2491,9 +2486,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 315,
-      "up": 1
+      "m0": 0,
+      "rk": 330,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2842,7 +2837,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 666,
+      "rk": 696,
       "up": 1
      },
      "thesis": {
@@ -3157,10 +3152,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 728,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 187,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -4050,7 +4045,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 717,
+      "rk": 759,
       "up": 1
      },
      "thesis": {
@@ -4398,10 +4393,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 4,
-      "rk": 48,
-      "up": 10
+      "m": 10,
+      "m0": 9,
+      "rk": 54,
+      "up": 11
      },
      "news": [
       {
@@ -5144,13 +5139,13 @@
        "date": "2016-05-23"
       },
       {
-       "amt": 8319625828.83,
+       "amt": 8322740496.83,
        "ag": "Department of Defense",
        "desc": "CONSTRUCTION OF DDG 51 SHIPS FY23-27",
        "date": "2023-08-01"
       },
       {
-       "amt": 6958257026.74,
+       "amt": 6958780646.74,
        "ag": "Department of Defense",
        "desc": "FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION",
        "date": "2018-09-27"
@@ -5869,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 88,
-      "m0": 27,
-      "rk": 6,
-      "up": 206
+      "m": 127,
+      "m0": 88,
+      "rk": 5,
+      "up": 392
      },
      "news": [
       {
@@ -5959,7 +5954,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 360,
+      "rk": 386,
       "up": 1
      },
      "news": [
@@ -6271,7 +6266,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 693,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -6544,12 +6544,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 127,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6819,12 +6814,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 646,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7109,7 +7099,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 257,
+      "up": 10
+     },
      "news": [
       {
        "h": "Why Did AMD Stock Jump?",
@@ -7249,12 +7244,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 670,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "indie Semiconductor (INDI) Q2 2026 Earnings Call Transcript",
@@ -7379,12 +7369,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 369,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7441,7 +7426,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 720,
+      "up": 3
+     },
      "news": [
       {
        "h": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
@@ -7678,12 +7668,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 758,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7772,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 2,
-      "rk": 115,
-      "up": 6
+      "m": 10,
+      "m0": 3,
+      "rk": 57,
+      "up": 9
      },
      "news": [
       {
@@ -8281,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 20,
-      "rk": 26,
-      "up": 34
+      "m": 24,
+      "m0": 18,
+      "rk": 29,
+      "up": 48
      },
      "thesis": {
       "bull": [
@@ -8512,6 +8497,12 @@
      ],
      "awards": [
       {
+       "amt": 112000000.0,
+       "ag": "Department of Defense",
+       "desc": "WILD IRIS",
+       "date": "2026-07-31"
+      },
+      {
        "amt": 51598522.0,
        "ag": "National Aeronautics and Space Administration",
        "desc": "VENTURE-CLASS ACQUISITION OF DEDICATED AND RIDESHARE (VADR) UMBRELLA TASK ORDER",
@@ -8528,12 +8519,6 @@
        "ag": "Department of Defense",
        "desc": "NATIONAL SECURITY SPACE LAUNCH (NSSL) PHASE 3 LANE 1 LAUNCH SERVICES PROCUREMENT",
        "date": "2025-03-28"
-      },
-      {
-       "amt": 960000.0,
-       "ag": "Department of Defense",
-       "desc": "DIGITAL ENGINEERING APPROACH FOR ARCHIMEDES ENGINE DEVELOPMENT",
-       "date": "2024-09-09"
       }
      ]
     },
@@ -8582,10 +8567,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 391,
-      "up": 2
+      "rk": 117,
+      "up": 6
      },
      "streetNotes": [
       {
@@ -9026,12 +9011,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 755,
-      "up": -1
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9181,10 +9161,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 661,
-      "up": 2
+      "rk": 149,
+      "up": 11
      },
      "streetNotes": [
       {
@@ -9280,7 +9260,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 659,
+      "up": 0
+     },
      "news": [
       {
        "h": "Has BlackSky Technology (BKSY) Outpaced Other Business Services Stocks This Year?",
@@ -9363,7 +9348,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 702,
+      "up": 2
+     },
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -9531,10 +9521,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 31,
-      "rk": 22,
-      "up": 108
+      "m": 56,
+      "m0": 21,
+      "rk": 12,
+      "up": 281
      },
      "thesis": {
       "bull": [
@@ -9940,8 +9930,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 279,
-      "up": -1
+      "rk": 295,
+      "up": 1
      },
      "news": [
       {
@@ -10026,7 +10016,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 375,
+      "up": 7
+     },
      "news": [
       {
        "h": "EchoStar Unit Files Chapter 11 With Backing From Over 88% of Noteholders",
@@ -10438,9 +10433,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 722,
-      "up": 4
+      "m0": 1,
+      "rk": 764,
+      "up": 0
      },
      "news": [
       {
@@ -10591,10 +10586,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 99,
-      "up": 4
+      "m": 1,
+      "m0": 3,
+      "rk": 206,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10703,7 +10698,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 223,
+      "rk": 254,
       "up": 1
      },
      "streetNotes": [
@@ -10749,7 +10744,7 @@
      ],
      "awards": [
       {
-       "amt": 13720293923.19,
+       "amt": 14352893923.19,
        "ag": "Department of Defense",
        "desc": "GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PRODUCTION AND DEPLOYMENT (P&D)",
        "date": "2020-09-08"
@@ -10812,8 +10807,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 171,
-      "up": 1
+      "rk": 200,
+      "up": 13
      },
      "news": [
       {
@@ -10898,10 +10893,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 4,
-      "rk": 48,
-      "up": 10
+      "m": 10,
+      "m0": 9,
+      "rk": 54,
+      "up": 11
      },
      "news": [
       {
@@ -10985,7 +10980,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 282,
+      "up": 12
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11085,7 +11085,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 245,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11181,7 +11186,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 401,
+      "up": 1
+     },
      "news": [
       {
        "h": "T-Bills Guarantee the Rate. These 6 Dividend Stocks Can Actually Grow the Paycheck",
@@ -11265,10 +11275,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 7,
-      "rk": 31,
-      "up": 21
+      "m": 11,
+      "m0": 15,
+      "rk": 49,
+      "up": 71
      },
      "news": [
       {
@@ -11353,12 +11363,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 449,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Space ETFs on Track to Rally or Is It Just a Temporary Blip?",
@@ -12455,9 +12460,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 599,
-      "up": 2
+      "m0": 1,
+      "rk": 631,
+      "up": 1
      },
      "news": [
       {
@@ -12519,7 +12524,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 592,
+      "rk": 623,
       "up": 1
      },
      "news": [
@@ -12711,8 +12716,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 356,
+      "m0": 1,
+      "rk": 383,
       "up": 2
      },
      "news": [
@@ -12793,10 +12798,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 19,
-      "rk": 28,
-      "up": 67
+      "m": 15,
+      "m0": 17,
+      "rk": 36,
+      "up": 13
      },
      "news": [
       {
@@ -13069,8 +13074,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 602,
-      "up": 3
+      "rk": 634,
+      "up": 5
      },
      "news": [
       {
@@ -13392,10 +13397,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 1,
-      "rk": 44,
-      "up": 18
+      "m": 32,
+      "m0": 11,
+      "rk": 21,
+      "up": 263
      },
      "thesis": {
       "bull": [
@@ -13633,10 +13638,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 11,
       "m0": 1,
-      "rk": 681,
-      "up": 1
+      "rk": 51,
+      "up": 16
      },
      "news": [
       {
@@ -13695,7 +13700,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 777,
+      "up": 0
+     },
      "news": [
       {
        "h": "2 \u2018Strong Buy\u2019 Nuclear Power Stocks Offering Compelling Value",
@@ -13722,6 +13732,12 @@
        "ag": "Department of Defense",
        "desc": "SECURE POWER FOR AIR FORCE INSTALLATION ENERGY RESILIENCE",
        "date": "2025-08-29"
+      },
+      {
+       "amt": 74967.0,
+       "ag": "Department of Defense",
+       "desc": "KRONOS: REFUEL-FREE NUCLEAR POWER FOR PERMANENT AIR FORCE BASING",
+       "date": "2026-06-23"
       }
      ]
     },
@@ -14045,7 +14061,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 113,
+      "up": 7
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14129,10 +14150,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 738,
-      "up": 0
+      "rk": 189,
+      "up": 2
      },
      "news": [
       {
@@ -14216,7 +14237,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 683,
+      "up": 1
+     },
      "news": [
       {
        "h": "1 Profitable Stock Worth Investigating and 2 We Ignore",
@@ -14701,9 +14727,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 319,
-      "up": 1
+      "m0": 1,
+      "rk": 336,
+      "up": 2
      },
      "news": [
       {
@@ -15019,10 +15045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 6,
-      "rk": 72,
-      "up": 7
+      "m": 8,
+      "m0": 5,
+      "rk": 66,
+      "up": 47
      },
      "news": [
       {
@@ -15106,7 +15132,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 111,
+      "up": 7
+     },
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15192,8 +15223,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 258,
-      "up": 15
+      "rk": 285,
+      "up": 10
      },
      "news": [
       {
@@ -15476,12 +15507,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 462,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -15539,7 +15565,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 464,
+      "up": 5
+     },
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17611,7 +17642,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-20",
+ "social_asof": "2026-10-21",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17890,5 +17921,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-21 07:19 UTC"
+ "prices_asof": "2026-10-21 10:48 UTC"
 }
