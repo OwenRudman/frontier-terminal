@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 782,
-      "up": 2
+      "rk": 727,
+      "up": 1
      },
      "news": [
       {
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 795,
+      "up": 5
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 116,
-      "m0": 57,
-      "rk": 9,
-      "up": 2181
+      "m": 69,
+      "m0": 116,
+      "rk": 5,
+      "up": 133
      },
      "thesis": {
       "bull": [
@@ -1229,12 +1234,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 492,
-      "up": 6
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 21,
-      "rk": 63,
-      "up": 15
+      "m": 12,
+      "m0": 13,
+      "rk": 33,
+      "up": 18
      },
      "thesis": {
       "bull": [
@@ -2035,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 413,
-      "up": 1
+      "rk": 135,
+      "up": -5
      },
      "thesis": {
       "bull": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 433,
-      "up": 1
+      "rk": 136,
+      "up": -5
      },
      "thesis": {
       "bull": [
@@ -2830,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 235,
-      "up": 3
+      "m": 6,
+      "m0": 2,
+      "rk": 65,
+      "up": -2
      },
      "thesis": {
       "bull": [
@@ -4033,10 +4033,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 3,
-      "rk": 105,
-      "up": 21
+      "m": 11,
+      "m0": 2,
+      "rk": 35,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 212,
-      "up": 148
+      "m": 1,
+      "m0": 2,
+      "rk": 443,
+      "up": 3
      },
      "news": [
       {
@@ -5262,8 +5262,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 700,
+      "m0": 1,
+      "rk": 640,
       "up": 1
      },
      "news": [
@@ -5859,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 108,
-      "m0": 236,
-      "rk": 11,
-      "up": 322
+      "m": 54,
+      "m0": 114,
+      "rk": 7,
+      "up": 4547
      },
      "news": [
       {
@@ -5948,9 +5948,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 486,
-      "up": 1
+      "m0": 1,
+      "rk": 426,
+      "up": 2
      },
      "news": [
       {
@@ -6804,7 +6804,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 158,
+      "up": 4
+     },
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7090,10 +7095,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 202,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 251,
+      "up": 2
      },
      "news": [
       {
@@ -7654,10 +7659,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 13,
-      "m0": 6,
-      "rk": 67,
-      "up": 19
+      "m": 4,
+      "m0": 15,
+      "rk": 93,
+      "up": -4
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7747,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 132,
-      "up": 8
+      "m": 1,
+      "m0": 5,
+      "rk": 638,
+      "up": 1
      },
      "news": [
       {
@@ -8256,10 +8261,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 20,
-      "m0": 27,
-      "rk": 47,
-      "up": 66
+      "m": 7,
+      "m0": 23,
+      "rk": 54,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -8557,10 +8562,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 525,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 144,
+      "up": -5
      },
      "streetNotes": [
       {
@@ -8743,7 +8748,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 788,
+      "rk": 734,
       "up": 2
      },
      "thesis": {
@@ -9063,7 +9068,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 752,
+      "up": 1
+     },
      "news": [
       {
        "h": "Sidus Space Moves LizzieSat-5 To SpaceX Bandwagon-6, Aims Launch By April 2027",
@@ -9155,7 +9165,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 774,
+      "up": -2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9250,12 +9265,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 797,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Has BlackSky Technology (BKSY) Outpaced Other Business Services Stocks This Year?",
@@ -9338,7 +9348,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 783,
+      "up": 1
+     },
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -9506,10 +9521,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 46,
-      "m0": 55,
-      "rk": 22,
-      "up": 112
+      "m": 53,
+      "m0": 45,
+      "rk": 8,
+      "up": 93
      },
      "thesis": {
       "bull": [
@@ -9912,12 +9927,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 384,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "The Delta-SpaceX Feud Just Escalated. Investors Beware.",
@@ -10412,10 +10422,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 7,
       "m0": 4,
-      "rk": 159,
-      "up": 12
+      "rk": 59,
+      "up": 10
      },
      "news": [
       {
@@ -10566,10 +10576,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 1,
-      "rk": 48,
-      "up": 74
+      "m": 2,
+      "m0": 20,
+      "rk": 124,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10780,10 +10790,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 164,
-      "up": 9
+      "m": 2,
+      "m0": 3,
+      "rk": 123,
+      "up": 8
      },
      "news": [
       {
@@ -10868,10 +10878,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 212,
-      "up": 148
+      "m": 1,
+      "m0": 2,
+      "rk": 443,
+      "up": 3
      },
      "news": [
       {
@@ -10955,12 +10965,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 352,
-      "up": 1
-     },
+     "social": null,
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11060,12 +11065,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 301,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -11161,12 +11161,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 504,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "T-Bills Guarantee the Rate. These 6 Dividend Stocks Can Actually Grow the Paycheck",
@@ -11250,10 +11245,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 13,
-      "m0": 21,
-      "rk": 63,
-      "up": 15
+      "m": 12,
+      "m0": 13,
+      "rk": 33,
+      "up": 18
      },
      "news": [
       {
@@ -11340,9 +11335,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 600,
-      "up": 2
+      "m0": 1,
+      "rk": 532,
+      "up": 1
      },
      "news": [
       {
@@ -12441,7 +12436,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 769,
+      "rk": 713,
       "up": 1
      },
      "news": [
@@ -12690,10 +12685,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 210,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 420,
+      "up": 1
      },
      "news": [
       {
@@ -12773,10 +12768,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 17,
-      "m0": 8,
-      "rk": 56,
-      "up": 12
+      "m": 3,
+      "m0": 15,
+      "rk": 119,
+      "up": 5
      },
      "news": [
       {
@@ -13048,8 +13043,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 773,
+      "m0": 1,
+      "rk": 718,
       "up": 2
      },
      "news": [
@@ -13372,10 +13367,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 7,
-      "rk": 83,
-      "up": 25
+      "m": 3,
+      "m0": 10,
+      "rk": 121,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -13613,10 +13608,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 2,
-      "rk": 104,
-      "up": 22
+      "m": 2,
+      "m0": 7,
+      "rk": 162,
+      "up": 11
      },
      "news": [
       {
@@ -14031,12 +14026,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 441,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14120,10 +14110,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 1,
-      "rk": 37,
-      "up": 29
+      "m": 5,
+      "m0": 25,
+      "rk": 75,
+      "up": 7
      },
      "news": [
       {
@@ -14293,7 +14283,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 536,
+      "rk": 467,
       "up": 1
      },
      "awards": [
@@ -14613,10 +14603,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 1,
-      "rk": 134,
-      "up": 9
+      "m": 1,
+      "m0": 5,
+      "rk": 773,
+      "up": 1
      },
      "news": [
       {
@@ -14701,10 +14691,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 1,
-      "rk": 86,
-      "up": 13
+      "m": 1,
+      "m0": 9,
+      "rk": 364,
+      "up": 1
      },
      "news": [
       {
@@ -15020,10 +15010,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 5,
-      "rk": 70,
-      "up": 18
+      "m": 6,
+      "m0": 11,
+      "rk": 61,
+      "up": 79
      },
      "news": [
       {
@@ -15107,12 +15097,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 337,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15197,9 +15182,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 357,
-      "up": 3
+      "m0": 1,
+      "rk": 288,
+      "up": 2
      },
      "news": [
       {
@@ -15425,10 +15410,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 0,
-      "rk": 187,
-      "up": 12
+      "m": 1,
+      "m0": 3,
+      "rk": 584,
+      "up": 2
      },
      "news": [
       {
@@ -15489,9 +15474,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 608,
-      "up": 9
+      "m0": 1,
+      "rk": 545,
+      "up": 6
      },
      "news": [
       {
@@ -17622,7 +17607,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-23",
+ "social_asof": "2026-10-24",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17901,5 +17886,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-24 08:48 UTC"
+ "prices_asof": "2026-10-24 09:58 UTC"
 }
