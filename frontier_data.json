@@ -612,8 +612,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 727,
-      "up": 1
+      "rk": 561,
+      "up": -1
      },
      "news": [
       {
@@ -816,8 +816,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 795,
-      "up": 5
+      "rk": 625,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 69,
-      "m0": 116,
+      "m": 21,
+      "m0": 69,
       "rk": 5,
-      "up": 133
+      "up": 63
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 13,
-      "rk": 33,
-      "up": 18
+      "m": 6,
+      "m0": 12,
+      "rk": 28,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -2035,10 +2035,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 135,
-      "up": -5
+      "m": 1,
+      "m0": 2,
+      "rk": 253,
+      "up": -1
      },
      "thesis": {
       "bull": [
@@ -2480,10 +2480,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 136,
-      "up": -5
+      "m": 1,
+      "m0": 2,
+      "rk": 262,
+      "up": -1
      },
      "thesis": {
       "bull": [
@@ -2830,10 +2830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 2,
-      "rk": 65,
-      "up": -2
+      "m": 1,
+      "m0": 6,
+      "rk": 604,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -3146,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 666,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -4033,10 +4038,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 2,
-      "rk": 35,
-      "up": 16
+      "m": 1,
+      "m0": 11,
+      "rk": 655,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4383,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 443,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 41,
+      "up": 50
      },
      "news": [
       {
@@ -4715,7 +4720,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 554,
+      "up": 2
+     },
      "news": [
       {
        "h": "3 AI Stocks With Earnings Growth Over 11%",
@@ -5263,7 +5273,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 640,
+      "rk": 487,
       "up": 1
      },
      "news": [
@@ -5859,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 54,
-      "m0": 114,
-      "rk": 7,
-      "up": 4547
+      "m": 9,
+      "m0": 54,
+      "rk": 17,
+      "up": 14
      },
      "news": [
       {
@@ -5949,8 +5959,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 426,
-      "up": 2
+      "rk": 316,
+      "up": 1
      },
      "news": [
       {
@@ -6534,7 +6544,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 719,
+      "up": 1
+     },
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6805,10 +6820,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 158,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 593,
+      "up": 2
      },
      "news": [
       {
@@ -7094,12 +7109,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 251,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did AMD Stock Jump?",
@@ -7659,10 +7669,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 4,
-      "m0": 15,
-      "rk": 93,
-      "up": -4
+      "m": 1,
+      "m0": 4,
+      "rk": 700,
+      "up": 0
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7752,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 638,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 81,
+      "up": 12
      },
      "news": [
       {
@@ -8261,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 23,
-      "rk": 54,
-      "up": 11
+      "m": 2,
+      "m0": 7,
+      "rk": 85,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -8562,10 +8572,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 144,
-      "up": -5
+      "m": 1,
+      "m0": 2,
+      "rk": 348,
+      "up": -1
      },
      "streetNotes": [
       {
@@ -8746,10 +8756,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 734,
-      "up": 2
+      "m": 2,
+      "m0": 0,
+      "rk": 84,
+      "up": 10
      },
      "thesis": {
       "bull": [
@@ -9011,7 +9021,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 1,
+      "rk": 697,
+      "up": 9
+     },
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9068,12 +9083,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 752,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Sidus Space Moves LizzieSat-5 To SpaceX Bandwagon-6, Aims Launch By April 2027",
@@ -9166,10 +9176,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 774,
-      "up": -2
+      "m": 3,
+      "m0": 1,
+      "rk": 65,
+      "up": 13
      },
      "streetNotes": [
       {
@@ -9350,8 +9360,8 @@
      "geo": "Argentina",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 783,
+      "m0": 1,
+      "rk": 610,
       "up": 1
      },
      "news": [
@@ -9521,10 +9531,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 53,
-      "m0": 45,
-      "rk": 8,
-      "up": 93
+      "m": 6,
+      "m0": 53,
+      "rk": 29,
+      "up": 112
      },
      "thesis": {
       "bull": [
@@ -10422,10 +10432,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 4,
-      "rk": 59,
-      "up": 10
+      "m": 1,
+      "m0": 7,
+      "rk": 657,
+      "up": 1
      },
      "news": [
       {
@@ -10576,10 +10586,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 20,
-      "rk": 124,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 111,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10790,10 +10800,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 123,
-      "up": 8
+      "m": 1,
+      "m0": 2,
+      "rk": 98,
+      "up": 1
      },
      "news": [
       {
@@ -10823,7 +10833,7 @@
        "date": "2011-02-24"
       },
       {
-       "amt": 22653589199.84,
+       "amt": 22657326734.37,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTERNATIONAL SPACE STATION",
        "date": "1993-11-15"
@@ -10878,10 +10888,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 443,
-      "up": 3
+      "m": 4,
+      "m0": 1,
+      "rk": 41,
+      "up": 50
      },
      "news": [
       {
@@ -11245,10 +11255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 12,
-      "m0": 13,
-      "rk": 33,
-      "up": 18
+      "m": 6,
+      "m0": 12,
+      "rk": 28,
+      "up": 7
      },
      "news": [
       {
@@ -11336,7 +11346,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 532,
+      "rk": 401,
       "up": 1
      },
      "news": [
@@ -12436,7 +12446,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 713,
+      "rk": 551,
       "up": 1
      },
      "news": [
@@ -12686,8 +12696,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 420,
+      "m0": 1,
+      "rk": 310,
       "up": 1
      },
      "news": [
@@ -12768,10 +12778,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 15,
-      "rk": 119,
-      "up": 5
+      "m": 1,
+      "m0": 3,
+      "rk": 640,
+      "up": 78
      },
      "news": [
       {
@@ -13044,8 +13054,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 718,
-      "up": 2
+      "rk": 555,
+      "up": 3
      },
      "news": [
       {
@@ -13367,10 +13377,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 10,
-      "rk": 121,
-      "up": 17
+      "m": 1,
+      "m0": 3,
+      "rk": 670,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13608,10 +13618,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 7,
-      "rk": 162,
-      "up": 11
+      "m": 1,
+      "m0": 2,
+      "rk": 621,
+      "up": 16
      },
      "news": [
       {
@@ -14026,7 +14036,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 272,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14110,10 +14125,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 25,
-      "rk": 75,
-      "up": 7
+      "m": 1,
+      "m0": 5,
+      "rk": 680,
+      "up": 3
      },
      "news": [
       {
@@ -14280,12 +14295,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 467,
-      "up": 1
-     },
+     "social": null,
      "awards": [
       {
        "amt": 57611495.0,
@@ -14480,6 +14490,12 @@
        "date": "2022-09-13"
       },
       {
+       "amt": 4402031.36,
+       "ag": "Department of Transportation",
+       "desc": "A/E DESIGN FOR WY NP YELL 12(4), NORTHEAST ENTRANCE ROAD, PHASE 1",
+       "date": "2026-10-23"
+      },
+      {
        "amt": 4076033.0,
        "ag": "Department of Health and Human Services",
        "desc": "EO 14398",
@@ -14490,12 +14506,6 @@
        "ag": "Department of State",
        "desc": "TECHNICAL REVIEW SERVICES.",
        "date": "2018-02-14"
-      },
-      {
-       "amt": 3782022.83,
-       "ag": "Department of the Interior",
-       "desc": "YOSE 215363 WWTP TM TITLE III SERVICES",
-       "date": "2026-09-24"
       }
      ]
     },
@@ -14604,8 +14614,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 773,
+      "m0": 1,
+      "rk": 600,
       "up": 1
      },
      "news": [
@@ -14692,9 +14702,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 9,
-      "rk": 364,
-      "up": 1
+      "m0": 1,
+      "rk": 265,
+      "up": 2
      },
      "news": [
       {
@@ -15010,10 +15020,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 11,
-      "rk": 61,
-      "up": 79
+      "m": 1,
+      "m0": 6,
+      "rk": 179,
+      "up": 1
      },
      "news": [
       {
@@ -15120,12 +15130,6 @@
      ],
      "awards": [
       {
-       "amt": 16404184.27,
-       "ag": "National Aeronautics and Space Administration",
-       "desc": "ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF)",
-       "date": "2024-01-01"
-      },
-      {
        "amt": 13738697.3,
        "ag": "National Aeronautics and Space Administration",
        "desc": "ELECTRICITY",
@@ -15142,6 +15146,12 @@
        "ag": "Department of Defense",
        "desc": "SHEPPARD AFB RETAIL ELECTRIC",
        "date": "2023-10-01"
+      },
+      {
+       "amt": 6174733.44,
+       "ag": "Department of Defense",
+       "desc": "FY26 - RETAIL ELECTRIC CONTRACT (1 OCT 2025 - 30 SEP 2026) - GEXA ENERGY, LP",
+       "date": "2025-10-01"
       }
      ]
     },
@@ -15183,8 +15193,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 288,
-      "up": 2
+      "rk": 208,
+      "up": 1
      },
      "news": [
       {
@@ -15411,9 +15421,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 584,
-      "up": 2
+      "m0": 1,
+      "rk": 443,
+      "up": 1
      },
      "news": [
       {
@@ -15472,12 +15482,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 545,
-      "up": 6
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
@@ -17607,7 +17612,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-24",
+ "social_asof": "2026-10-25",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17886,5 +17891,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-25 07:26 UTC"
+ "prices_asof": "2026-10-25 10:22 UTC"
 }
