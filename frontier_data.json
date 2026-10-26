@@ -609,12 +609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 561,
-      "up": -1
-     },
+     "social": null,
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -813,12 +808,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 625,
-      "up": 4
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -940,10 +930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 21,
-      "m0": 69,
-      "rk": 5,
-      "up": 63
+      "m": 30,
+      "m0": 21,
+      "rk": 8,
+      "up": 56
      },
      "thesis": {
       "bull": [
@@ -1591,8 +1581,8 @@
      "geo": "US",
      "social": {
       "m": 6,
-      "m0": 12,
-      "rk": 28,
+      "m0": 6,
+      "rk": 41,
       "up": 7
      },
      "thesis": {
@@ -2034,12 +2024,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 253,
-      "up": -1
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2481,9 +2466,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 262,
-      "up": -1
+      "m0": 1,
+      "rk": 229,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2831,9 +2816,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 604,
-      "up": 1
+      "m0": 1,
+      "rk": 485,
+      "up": 0
      },
      "thesis": {
       "bull": [
@@ -3146,12 +3131,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 666,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -4039,8 +4019,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 11,
-      "rk": 655,
+      "m0": 1,
+      "rk": 525,
       "up": 1
      },
      "thesis": {
@@ -4388,10 +4368,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 41,
-      "up": 50
+      "m": 1,
+      "m0": 4,
+      "rk": 275,
+      "up": 2
      },
      "news": [
       {
@@ -4722,8 +4702,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 554,
+      "m0": 1,
+      "rk": 457,
       "up": 2
      },
      "news": [
@@ -5270,12 +5250,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 487,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Ocean Power sales pipeline surpasses $150 million as NATO and U.S. Military evaluations advance",
@@ -5869,10 +5844,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 54,
-      "rk": 17,
-      "up": 14
+      "m": 25,
+      "m0": 8,
+      "rk": 10,
+      "up": 156
      },
      "news": [
       {
@@ -5956,12 +5931,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 316,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Can Higher Fleet Utilization Boost Avis Budget's Profitability?",
@@ -6544,12 +6514,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 719,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6819,12 +6784,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 593,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "What's Driving Demand for Ouster's Rev8 OS1 Max Digital Lidar?",
@@ -7669,10 +7629,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 700,
-      "up": 0
+      "m": 3,
+      "m0": 1,
+      "rk": 68,
+      "up": 4
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7762,10 +7722,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 81,
-      "up": 12
+      "m": 1,
+      "m0": 3,
+      "rk": 415,
+      "up": 5
      },
      "news": [
       {
@@ -8272,8 +8232,8 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 7,
-      "rk": 85,
+      "m0": 1,
+      "rk": 90,
       "up": 5
      },
      "thesis": {
@@ -8571,12 +8531,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 348,
-      "up": -1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8756,10 +8711,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 84,
-      "up": 10
+      "m": 1,
+      "m0": 2,
+      "rk": 468,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -9024,8 +8979,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 697,
-      "up": 9
+      "rk": 558,
+      "up": 1
      },
      "news": [
       {
@@ -9176,10 +9131,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 65,
-      "up": 13
+      "m": 1,
+      "m0": 3,
+      "rk": 481,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -9361,7 +9316,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 610,
+      "rk": 493,
       "up": 1
      },
      "news": [
@@ -9531,10 +9486,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 53,
-      "rk": 29,
-      "up": 112
+      "m": 9,
+      "m0": 7,
+      "rk": 30,
+      "up": 25
      },
      "thesis": {
       "bull": [
@@ -10433,8 +10388,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 7,
-      "rk": 657,
+      "m0": 1,
+      "rk": 529,
       "up": 1
      },
      "news": [
@@ -10587,9 +10542,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 111,
-      "up": 1
+      "m0": 1,
+      "rk": 118,
+      "up": 34
      },
      "streetNotes": [
       {
@@ -10801,8 +10756,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 98,
+      "m0": 1,
+      "rk": 105,
       "up": 1
      },
      "news": [
@@ -10888,10 +10843,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 41,
-      "up": 50
+      "m": 1,
+      "m0": 4,
+      "rk": 275,
+      "up": 2
      },
      "news": [
       {
@@ -11256,8 +11211,8 @@
      "geo": "US",
      "social": {
       "m": 6,
-      "m0": 12,
-      "rk": 28,
+      "m0": 6,
+      "rk": 41,
       "up": 7
      },
      "news": [
@@ -11343,12 +11298,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 401,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Are Space ETFs on Track to Rally or Is It Just a Temporary Blip?",
@@ -12385,7 +12335,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 298,
+      "up": 2
+     },
      "news": [
       {
        "h": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -12445,8 +12400,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 551,
+      "m0": 0,
+      "rk": 456,
       "up": 1
      },
      "news": [
@@ -12695,10 +12650,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 310,
-      "up": 1
+      "rk": 76,
+      "up": 4
      },
      "news": [
       {
@@ -12779,9 +12734,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 640,
-      "up": 78
+      "m0": 1,
+      "rk": 515,
+      "up": -1
      },
      "news": [
       {
@@ -13054,8 +13009,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 555,
-      "up": 3
+      "rk": 458,
+      "up": 2
      },
      "news": [
       {
@@ -13378,9 +13333,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 670,
-      "up": 3
+      "m0": 1,
+      "rk": 538,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -13618,10 +13573,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 621,
-      "up": 16
+      "m": 2,
+      "m0": 1,
+      "rk": 94,
+      "up": 3
      },
      "news": [
       {
@@ -14038,8 +13993,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 272,
+      "m0": 1,
+      "rk": 236,
       "up": 1
      },
      "streetNotes": [
@@ -14126,9 +14081,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 5,
-      "rk": 680,
-      "up": 3
+      "m0": 1,
+      "rk": 548,
+      "up": 1
      },
      "news": [
       {
@@ -14612,12 +14567,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 600,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
@@ -14703,8 +14653,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 265,
-      "up": 2
+      "rk": 233,
+      "up": 1
      },
      "news": [
       {
@@ -15021,9 +14971,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 6,
-      "rk": 179,
-      "up": 1
+      "m0": 1,
+      "rk": 165,
+      "up": 2
      },
      "news": [
       {
@@ -15107,7 +15057,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 180,
+      "up": 1
+     },
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15193,7 +15148,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 208,
+      "rk": 191,
       "up": 1
      },
      "news": [
@@ -15422,7 +15377,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 443,
+      "rk": 369,
       "up": 1
      },
      "news": [
@@ -17612,7 +17567,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-25",
+ "social_asof": "2026-10-26",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17891,5 +17846,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-26 04:31 UTC"
+ "prices_asof": "2026-10-26 11:50 UTC"
 }
