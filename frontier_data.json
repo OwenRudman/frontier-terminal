@@ -609,7 +609,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 542,
+      "up": 5
+     },
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -808,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 592,
+      "up": 2
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -930,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 30,
-      "m0": 21,
-      "rk": 8,
-      "up": 56
+      "m": 24,
+      "m0": 28,
+      "rk": 18,
+      "up": 97
      },
      "thesis": {
       "bull": [
@@ -1580,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 7,
       "m0": 6,
-      "rk": 41,
-      "up": 7
+      "rk": 52,
+      "up": 17
      },
      "thesis": {
       "bull": [
@@ -2024,7 +2034,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 259,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -2467,8 +2482,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 229,
-      "up": 1
+      "rk": 271,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -2817,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 485,
-      "up": 0
+      "rk": 572,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -3131,7 +3146,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 625,
+      "up": 1
+     },
      "thesis": {
       "bull": [
        {
@@ -4020,8 +4040,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 525,
-      "up": 1
+      "rk": 617,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -4369,8 +4389,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 275,
+      "m0": 1,
+      "rk": 330,
       "up": 2
      },
      "news": [
@@ -4703,7 +4723,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 457,
+      "rk": 534,
       "up": 2
      },
      "news": [
@@ -5844,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 8,
-      "rk": 10,
-      "up": 156
+      "m": 80,
+      "m0": 24,
+      "rk": 3,
+      "up": 237
      },
      "news": [
       {
@@ -5931,7 +5951,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 4,
+      "m0": 0,
+      "rk": 80,
+      "up": 8
+     },
      "news": [
       {
        "h": "Can Higher Fleet Utilization Boost Avis Budget's Profitability?",
@@ -6241,7 +6266,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 569,
+      "up": 2
+     },
      "thesis": {
       "bull": [
        {
@@ -6514,7 +6544,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 141,
+      "up": 6
+     },
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -7629,9 +7664,9 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 68,
+      "m": 1,
+      "m0": 3,
+      "rk": 657,
       "up": 4
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
@@ -7723,9 +7758,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 415,
-      "up": 5
+      "m0": 2,
+      "rk": 482,
+      "up": 1
      },
      "news": [
       {
@@ -8231,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 90,
-      "up": 5
+      "m": 5,
+      "m0": 2,
+      "rk": 71,
+      "up": 13
      },
      "thesis": {
       "bull": [
@@ -8531,7 +8566,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 347,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8712,9 +8752,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 468,
-      "up": 1
+      "m0": 1,
+      "rk": 548,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -8976,12 +9016,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 558,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9130,12 +9165,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 481,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9313,12 +9343,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Argentina",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 493,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Zacks Industry Outlook Highlights Planet Labs, Satellogic and Gilat Satellite",
@@ -9486,10 +9511,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 7,
-      "rk": 30,
-      "up": 25
+      "m": 15,
+      "m0": 10,
+      "rk": 35,
+      "up": 49
      },
      "thesis": {
       "bull": [
@@ -10387,10 +10412,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 529,
-      "up": 1
+      "m": 2,
+      "m0": 0,
+      "rk": 140,
+      "up": 6
      },
      "news": [
       {
@@ -10541,10 +10566,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 118,
-      "up": 34
+      "rk": 114,
+      "up": 4
      },
      "streetNotes": [
       {
@@ -10757,8 +10782,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 105,
-      "up": 1
+      "rk": 150,
+      "up": 2
      },
      "news": [
       {
@@ -10844,8 +10869,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 275,
+      "m0": 1,
+      "rk": 330,
       "up": 2
      },
      "news": [
@@ -11210,10 +11235,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
+      "m": 7,
       "m0": 6,
-      "rk": 41,
-      "up": 7
+      "rk": 52,
+      "up": 17
      },
      "news": [
       {
@@ -12338,7 +12363,7 @@
      "social": {
       "m": 1,
       "m0": 0,
-      "rk": 298,
+      "rk": 359,
       "up": 2
      },
      "news": [
@@ -12400,8 +12425,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 456,
+      "m0": 1,
+      "rk": 533,
       "up": 1
      },
      "news": [
@@ -12650,10 +12675,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 1,
-      "rk": 76,
-      "up": 4
+      "rk": 312,
+      "up": 3
      },
      "news": [
       {
@@ -12733,10 +12758,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 7,
       "m0": 1,
-      "rk": 515,
-      "up": -1
+      "rk": 56,
+      "up": 18
      },
      "news": [
       {
@@ -13006,12 +13031,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 458,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13089,7 +13109,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 598,
+      "up": 0
+     },
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13334,8 +13359,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 538,
-      "up": 2
+      "rk": 629,
+      "up": 8
      },
      "thesis": {
       "bull": [
@@ -13573,10 +13598,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 94,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 590,
+      "up": 1
      },
      "news": [
       {
@@ -13991,12 +14016,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 236,
-      "up": 1
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14080,10 +14100,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 548,
-      "up": 1
+      "rk": 107,
+      "up": 5
      },
      "news": [
       {
@@ -14653,7 +14673,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 233,
+      "rk": 275,
       "up": 1
      },
      "news": [
@@ -14970,10 +14990,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 165,
-      "up": 2
+      "rk": 75,
+      "up": 5
      },
      "news": [
       {
@@ -15059,8 +15079,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 180,
+      "m0": 1,
+      "rk": 217,
       "up": 1
      },
      "news": [
@@ -15148,8 +15168,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 191,
-      "up": 1
+      "rk": 227,
+      "up": 26
      },
      "news": [
       {
@@ -15374,12 +15394,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 369,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NuScale Power Rises 4% Despite Dilution Concerns; Uranium Energy Advances 4%, Oklo Gains 2%",
@@ -17567,7 +17582,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-26",
+ "social_asof": "2026-10-27",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17846,5 +17861,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-27 04:24 UTC"
+ "prices_asof": "2026-10-27 11:14 UTC"
 }
