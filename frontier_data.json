@@ -611,9 +611,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 542,
-      "up": 5
+      "m0": 1,
+      "rk": 586,
+      "up": 3
      },
      "news": [
       {
@@ -815,8 +815,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 592,
+      "m0": 1,
+      "rk": 650,
       "up": 2
      },
      "streetNotes": [
@@ -940,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 24,
-      "m0": 28,
-      "rk": 18,
-      "up": 97
+      "m": 46,
+      "m0": 24,
+      "rk": 10,
+      "up": 563
      },
      "thesis": {
       "bull": [
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 6,
-      "rk": 52,
-      "up": 17
+      "m": 5,
+      "m0": 7,
+      "rk": 68,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -2036,9 +2036,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 259,
-      "up": 3
+      "m0": 1,
+      "rk": 292,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2482,8 +2482,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 271,
-      "up": 7
+      "rk": 307,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -2832,8 +2832,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 572,
-      "up": 3
+      "rk": 626,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -3147,10 +3147,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 625,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 80,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4040,7 +4040,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 617,
+      "rk": 674,
       "up": 3
      },
      "thesis": {
@@ -4390,8 +4390,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 330,
-      "up": 2
+      "rk": 378,
+      "up": 1
      },
      "news": [
       {
@@ -4720,12 +4720,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 534,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "3 AI Stocks With Earnings Growth Over 11%",
@@ -5864,10 +5859,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 80,
-      "m0": 24,
-      "rk": 3,
-      "up": 237
+      "m": 66,
+      "m0": 79,
+      "rk": 6,
+      "up": 639
      },
      "news": [
       {
@@ -5952,10 +5947,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 0,
-      "rk": 80,
-      "up": 8
+      "m": 1,
+      "m0": 4,
+      "rk": 359,
+      "up": 1
      },
      "news": [
       {
@@ -6268,9 +6263,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 569,
-      "up": 2
+      "m0": 1,
+      "rk": 623,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6545,10 +6540,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 141,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 738,
+      "up": 4
      },
      "news": [
       {
@@ -7104,7 +7099,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 214,
+      "up": 1
+     },
      "news": [
       {
        "h": "Why Did AMD Stock Jump?",
@@ -7664,9 +7664,9 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 1,
-      "m0": 3,
-      "rk": 657,
+      "m": 2,
+      "m0": 1,
+      "rk": 148,
       "up": 4
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
@@ -7757,10 +7757,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 482,
-      "up": 1
+      "m": 4,
+      "m0": 1,
+      "rk": 79,
+      "up": 7
      },
      "news": [
       {
@@ -8266,10 +8266,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 2,
-      "rk": 71,
-      "up": 13
+      "m": 9,
+      "m0": 5,
+      "rk": 47,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -8567,10 +8567,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 347,
-      "up": 4
+      "m": 2,
+      "m0": 1,
+      "rk": 124,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -8753,7 +8753,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 548,
+      "rk": 591,
       "up": 2
      },
      "thesis": {
@@ -9016,7 +9016,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 718,
+      "up": 7
+     },
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9511,10 +9516,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 15,
-      "m0": 10,
-      "rk": 35,
-      "up": 49
+      "m": 19,
+      "m0": 15,
+      "rk": 26,
+      "up": 48
      },
      "thesis": {
       "bull": [
@@ -9917,7 +9922,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 264,
+      "up": 1
+     },
      "news": [
       {
        "h": "The Delta-SpaceX Feud Just Escalated. Investors Beware.",
@@ -10412,10 +10422,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 140,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 677,
+      "up": 1
      },
      "news": [
       {
@@ -10567,9 +10577,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 1,
-      "rk": 114,
-      "up": 4
+      "m0": 2,
+      "rk": 110,
+      "up": 385
      },
      "streetNotes": [
       {
@@ -10780,10 +10790,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 27,
       "m0": 1,
-      "rk": 150,
-      "up": 2
+      "rk": 20,
+      "up": 86
      },
      "news": [
       {
@@ -10870,8 +10880,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 330,
-      "up": 2
+      "rk": 378,
+      "up": 1
      },
      "news": [
       {
@@ -11235,10 +11245,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 6,
-      "rk": 52,
-      "up": 17
+      "m": 5,
+      "m0": 7,
+      "rk": 68,
+      "up": 6
      },
      "news": [
       {
@@ -12362,8 +12372,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 359,
+      "m0": 1,
+      "rk": 413,
       "up": 2
      },
      "news": [
@@ -12426,7 +12436,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 533,
+      "rk": 577,
       "up": 1
      },
      "news": [
@@ -12486,7 +12496,12 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 570,
+      "up": 1
+     },
      "news": [
       {
        "h": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
@@ -12677,7 +12692,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 312,
+      "rk": 355,
       "up": 3
      },
      "news": [
@@ -12758,10 +12773,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 7,
-      "m0": 1,
-      "rk": 56,
-      "up": 18
+      "m": 1,
+      "m0": 7,
+      "rk": 661,
+      "up": 2
      },
      "news": [
       {
@@ -13031,7 +13046,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 580,
+      "up": 3
+     },
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13111,8 +13131,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 598,
+      "m0": 1,
+      "rk": 655,
       "up": 0
      },
      "news": [
@@ -13359,8 +13379,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 629,
-      "up": 8
+      "rk": 684,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13599,9 +13619,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 590,
-      "up": 1
+      "m0": 0,
+      "rk": 648,
+      "up": 31
      },
      "news": [
       {
@@ -14016,7 +14036,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 315,
+      "up": 3
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14101,9 +14126,9 @@
      "geo": "US",
      "social": {
       "m": 3,
-      "m0": 1,
-      "rk": 107,
-      "up": 5
+      "m0": 3,
+      "rk": 99,
+      "up": 6
      },
      "news": [
       {
@@ -14187,7 +14212,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 618,
+      "up": 6
+     },
      "news": [
       {
        "h": "1 Profitable Stock Worth Investigating and 2 We Ignore",
@@ -14672,9 +14702,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 275,
-      "up": 1
+      "m0": 0,
+      "rk": 309,
+      "up": 3
      },
      "news": [
       {
@@ -14990,10 +15020,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 75,
-      "up": 5
+      "m": 3,
+      "m0": 4,
+      "rk": 86,
+      "up": 12
      },
      "news": [
       {
@@ -15080,7 +15110,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 217,
+      "rk": 236,
       "up": 1
      },
      "news": [
@@ -15168,8 +15198,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 227,
-      "up": 26
+      "rk": 247,
+      "up": 5
      },
      "news": [
       {
@@ -17582,7 +17612,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-27",
+ "social_asof": "2026-10-28",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17861,5 +17891,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-28 08:05 UTC"
+ "prices_asof": "2026-10-28 11:49 UTC"
 }
