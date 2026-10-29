@@ -609,12 +609,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 586,
-      "up": 3
-     },
+     "social": null,
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -816,7 +811,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 650,
+      "rk": 657,
       "up": 2
      },
      "streetNotes": [
@@ -940,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 46,
-      "m0": 24,
-      "rk": 10,
-      "up": 563
+      "m": 48,
+      "m0": 47,
+      "rk": 11,
+      "up": 595
      },
      "thesis": {
       "bull": [
@@ -1312,7 +1307,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 671,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 7,
-      "rk": 68,
-      "up": 6
+      "m": 6,
+      "m0": 5,
+      "rk": 63,
+      "up": 11
      },
      "thesis": {
       "bull": [
@@ -2037,7 +2037,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 292,
+      "rk": 300,
       "up": 2
      },
      "thesis": {
@@ -2482,8 +2482,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 307,
-      "up": 2
+      "rk": 320,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 626,
+      "rk": 642,
       "up": 2
      },
      "thesis": {
@@ -3147,10 +3147,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 80,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 694,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -4040,8 +4040,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 674,
-      "up": 3
+      "rk": 682,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 378,
-      "up": 1
+      "rk": 138,
+      "up": 5
      },
      "news": [
       {
@@ -5801,7 +5801,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 708,
+      "up": 6
+     },
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5859,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 66,
-      "m0": 79,
-      "rk": 6,
-      "up": 639
+      "m": 38,
+      "m0": 65,
+      "rk": 14,
+      "up": 77
      },
      "news": [
       {
@@ -5947,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 4,
-      "rk": 359,
-      "up": 1
+      "m": 3,
+      "m0": 1,
+      "rk": 104,
+      "up": 5
      },
      "news": [
       {
@@ -6264,8 +6269,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 623,
-      "up": 1
+      "rk": 638,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -6541,9 +6546,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 738,
-      "up": 4
+      "m0": 1,
+      "rk": 746,
+      "up": 15
      },
      "news": [
       {
@@ -7101,8 +7106,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 214,
+      "m0": 1,
+      "rk": 223,
       "up": 1
      },
      "news": [
@@ -7664,10 +7669,10 @@
       "basis": "post-IPO sell-side consensus"
      },
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 148,
-      "up": 4
+      "m": 1,
+      "m0": 2,
+      "rk": 724,
+      "up": 1
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
@@ -7757,10 +7762,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 79,
-      "up": 7
+      "m": 32,
+      "m0": 4,
+      "rk": 19,
+      "up": 84
      },
      "news": [
       {
@@ -8266,10 +8271,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 9,
-      "m0": 5,
-      "rk": 47,
-      "up": 31
+      "m": 5,
+      "m0": 8,
+      "rk": 77,
+      "up": 6
      },
      "thesis": {
       "bull": [
@@ -8567,10 +8572,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 124,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 405,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -8750,12 +8755,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 591,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9018,9 +9018,9 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 718,
-      "up": 7
+      "m0": 1,
+      "rk": 722,
+      "up": 9
      },
      "news": [
       {
@@ -9170,7 +9170,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 636,
+      "up": 4
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -9516,10 +9521,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 15,
-      "rk": 26,
-      "up": 48
+      "m": 11,
+      "m0": 19,
+      "rk": 39,
+      "up": 53
      },
      "thesis": {
       "bull": [
@@ -9924,8 +9929,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 264,
+      "m0": 1,
+      "rk": 267,
       "up": 1
      },
      "news": [
@@ -10313,7 +10318,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 639,
+      "up": 3
+     },
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10423,9 +10433,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 677,
-      "up": 1
+      "m0": 1,
+      "rk": 685,
+      "up": 2
      },
      "news": [
       {
@@ -10576,10 +10586,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
+      "m": 1,
       "m0": 2,
-      "rk": 110,
-      "up": 385
+      "rk": 184,
+      "up": 7
      },
      "streetNotes": [
       {
@@ -10790,10 +10800,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 27,
-      "m0": 1,
-      "rk": 20,
-      "up": 86
+      "m": 5,
+      "m0": 27,
+      "rk": 69,
+      "up": 14
      },
      "news": [
       {
@@ -10878,10 +10888,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 378,
-      "up": 1
+      "rk": 138,
+      "up": 5
      },
      "news": [
       {
@@ -11245,10 +11255,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 7,
-      "rk": 68,
-      "up": 6
+      "m": 6,
+      "m0": 5,
+      "rk": 63,
+      "up": 11
      },
      "news": [
       {
@@ -12373,8 +12383,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 413,
-      "up": 2
+      "rk": 422,
+      "up": 1
      },
      "news": [
       {
@@ -12433,12 +12443,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 577,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12498,8 +12503,8 @@
      "geo": "Canada",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 570,
+      "m0": 1,
+      "rk": 585,
       "up": 1
      },
      "news": [
@@ -12690,10 +12695,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 4,
       "m0": 1,
-      "rk": 355,
-      "up": 3
+      "rk": 81,
+      "up": 7
      },
      "news": [
       {
@@ -12773,10 +12778,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 7,
-      "rk": 661,
-      "up": 2
+      "m": 8,
+      "m0": 1,
+      "rk": 47,
+      "up": 59
      },
      "news": [
       {
@@ -13048,9 +13053,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 580,
-      "up": 3
+      "m0": 1,
+      "rk": 594,
+      "up": 2
      },
      "news": [
       {
@@ -13129,12 +13134,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 655,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "ASP Isotopes Nears Helium Production, Advances Stable Isotope Growth",
@@ -13379,8 +13379,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 684,
-      "up": 5
+      "rk": 699,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -13619,9 +13619,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 648,
-      "up": 31
+      "m0": 1,
+      "rk": 655,
+      "up": 2
      },
      "news": [
       {
@@ -14038,8 +14038,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 315,
+      "m0": 1,
+      "rk": 327,
       "up": 3
      },
      "streetNotes": [
@@ -14125,10 +14125,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 3,
-      "rk": 99,
-      "up": 6
+      "m": 4,
+      "m0": 2,
+      "rk": 93,
+      "up": 5
      },
      "news": [
       {
@@ -14214,9 +14214,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 618,
-      "up": 6
+      "m0": 1,
+      "rk": 629,
+      "up": 2
      },
      "news": [
       {
@@ -14300,7 +14300,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 414,
+      "up": 2
+     },
      "awards": [
       {
        "amt": 57611495.0,
@@ -14617,7 +14622,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 634,
+      "up": 1
+     },
      "news": [
       {
        "h": "Amazon Nuke Deal Fuels Constellation Energy After Axed Data Center",
@@ -14701,9 +14711,9 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 309,
+      "m": 2,
+      "m0": 1,
+      "rk": 131,
       "up": 3
      },
      "news": [
@@ -14888,7 +14898,7 @@
        "date": "2022-10-01"
       },
       {
-       "amt": 6806276.3,
+       "amt": 6778841.92,
        "ag": "Department of Defense",
        "desc": "IGF::OT::IGF THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION, AND MAINTENANCE OF THE NATURAL GAS DISTRIBUTION SYSTEM AT FORT JACKSON, SOUTH CAROLINA",
        "date": "2019-11-19"
@@ -15020,10 +15030,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 4,
-      "rk": 86,
-      "up": 12
+      "m": 8,
+      "m0": 3,
+      "rk": 44,
+      "up": 37
      },
      "news": [
       {
@@ -15109,8 +15119,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 236,
+      "m0": 0,
+      "rk": 241,
       "up": 1
      },
      "news": [
@@ -15198,8 +15208,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 247,
-      "up": 5
+      "rk": 253,
+      "up": 1
      },
      "news": [
       {
@@ -17612,7 +17622,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-28",
+ "social_asof": "2026-10-29",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17891,5 +17901,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-29 05:05 UTC"
+ "prices_asof": "2026-10-29 11:57 UTC"
 }
