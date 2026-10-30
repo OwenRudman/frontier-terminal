@@ -811,7 +811,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 657,
+      "rk": 720,
       "up": 2
      },
      "streetNotes": [
@@ -935,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 48,
-      "m0": 47,
-      "rk": 11,
-      "up": 595
+      "m": 61,
+      "m0": 49,
+      "rk": 13,
+      "up": 712
      },
      "thesis": {
       "bull": [
@@ -1309,9 +1309,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 671,
-      "up": 1
+      "m0": 1,
+      "rk": 732,
+      "up": 3
      },
      "streetNotes": [
       {
@@ -1590,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 63,
-      "up": 11
+      "m": 16,
+      "m0": 6,
+      "rk": 35,
+      "up": 31
      },
      "thesis": {
       "bull": [
@@ -2034,12 +2034,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 300,
-      "up": 2
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -2327,7 +2322,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 252,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -2482,8 +2482,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 320,
-      "up": 1
+      "rk": 355,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -2832,7 +2832,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 642,
+      "rk": 701,
       "up": 2
      },
      "thesis": {
@@ -3148,8 +3148,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 694,
+      "m0": 1,
+      "rk": 756,
       "up": 5
      },
      "thesis": {
@@ -4040,8 +4040,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 682,
-      "up": 4
+      "rk": 745,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4388,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 138,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 418,
+      "up": 3
      },
      "news": [
       {
@@ -5399,7 +5399,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 264,
+      "up": 1
+     },
      "news": [
       {
        "h": "Red Cat's USV Mix: Could Blue Ops Accelerate Margin Gains in H2?",
@@ -5803,9 +5808,9 @@
      "geo": "China",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 708,
-      "up": 6
+      "m0": 1,
+      "rk": 773,
+      "up": 1
      },
      "news": [
       {
@@ -5864,10 +5869,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 38,
-      "m0": 65,
-      "rk": 14,
-      "up": 77
+      "m": 57,
+      "m0": 38,
+      "rk": 15,
+      "up": 676
      },
      "news": [
       {
@@ -5952,10 +5957,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 104,
-      "up": 5
+      "m": 2,
+      "m0": 3,
+      "rk": 165,
+      "up": 20
      },
      "news": [
       {
@@ -6269,8 +6274,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 638,
-      "up": 5
+      "rk": 696,
+      "up": 3
      },
      "thesis": {
       "bull": [
@@ -6545,10 +6550,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 746,
-      "up": 15
+      "rk": 190,
+      "up": 5
      },
      "news": [
       {
@@ -6990,7 +6995,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 584,
+      "up": 5
+     },
      "news": [
       {
        "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
@@ -7107,8 +7117,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 223,
-      "up": 1
+      "rk": 256,
+      "up": 7
      },
      "news": [
       {
@@ -7431,7 +7441,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 723,
+      "up": 1
+     },
      "news": [
       {
        "h": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
@@ -7670,8 +7685,8 @@
      },
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 724,
+      "m0": 1,
+      "rk": 791,
       "up": 1
      },
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
@@ -7762,10 +7777,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 32,
-      "m0": 4,
-      "rk": 19,
-      "up": 84
+      "m": 2,
+      "m0": 32,
+      "rk": 171,
+      "up": 22
      },
      "news": [
       {
@@ -8272,9 +8287,9 @@
      "geo": "US",
      "social": {
       "m": 5,
-      "m0": 8,
-      "rk": 77,
-      "up": 6
+      "m0": 5,
+      "rk": 94,
+      "up": 15
      },
      "thesis": {
       "bull": [
@@ -8573,8 +8588,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 405,
+      "m0": 1,
+      "rk": 439,
       "up": 1
      },
      "streetNotes": [
@@ -9019,8 +9034,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 722,
-      "up": 9
+      "rk": 787,
+      "up": 2
      },
      "news": [
       {
@@ -9172,9 +9187,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 636,
-      "up": 4
+      "m0": 1,
+      "rk": 694,
+      "up": -2
      },
      "streetNotes": [
       {
@@ -9521,10 +9536,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 11,
-      "m0": 19,
-      "rk": 39,
-      "up": 53
+      "m": 18,
+      "m0": 11,
+      "rk": 33,
+      "up": 65
      },
      "thesis": {
       "bull": [
@@ -9930,8 +9945,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 267,
-      "up": 1
+      "rk": 310,
+      "up": 43
      },
      "news": [
       {
@@ -10320,9 +10335,9 @@
      "geo": "Luxembourg",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 639,
-      "up": 3
+      "m0": 1,
+      "rk": 697,
+      "up": 1
      },
      "news": [
       {
@@ -10434,8 +10449,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 685,
-      "up": 2
+      "rk": 749,
+      "up": 0
      },
      "news": [
       {
@@ -10586,10 +10601,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 184,
-      "up": 7
+      "m": 4,
+      "m0": 1,
+      "rk": 103,
+      "up": 5
      },
      "streetNotes": [
       {
@@ -10695,7 +10710,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 252,
+      "up": 1
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -10800,10 +10820,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 27,
-      "rk": 69,
-      "up": 14
+      "m": 3,
+      "m0": 5,
+      "rk": 120,
+      "up": 74
      },
      "news": [
       {
@@ -10888,10 +10908,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 138,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 418,
+      "up": 3
      },
      "news": [
       {
@@ -10975,7 +10995,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 2,
+      "m0": 0,
+      "rk": 160,
+      "up": 7
+     },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
      "fchips": [
@@ -11255,10 +11280,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 5,
-      "rk": 63,
-      "up": 11
+      "m": 16,
+      "m0": 6,
+      "rk": 35,
+      "up": 31
      },
      "news": [
       {
@@ -12383,7 +12408,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 422,
+      "rk": 451,
       "up": 1
      },
      "news": [
@@ -12504,7 +12529,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 585,
+      "rk": 630,
       "up": 1
      },
      "news": [
@@ -12695,10 +12720,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 81,
-      "up": 7
+      "m": 1,
+      "m0": 4,
+      "rk": 400,
+      "up": 1
      },
      "news": [
       {
@@ -12778,10 +12803,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 1,
-      "rk": 47,
-      "up": 59
+      "m": 5,
+      "m0": 8,
+      "rk": 99,
+      "up": 20
      },
      "news": [
       {
@@ -13051,12 +13076,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 594,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "3 Things Smart Investors Know About the Nuclear Power Comeback",
@@ -13379,8 +13399,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 699,
-      "up": 3
+      "rk": 760,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -13620,8 +13640,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 655,
-      "up": 2
+      "rk": 718,
+      "up": 1
      },
      "news": [
       {
@@ -14036,12 +14056,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 327,
-      "up": 3
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14125,10 +14140,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 2,
-      "rk": 93,
-      "up": 5
+      "m": 1,
+      "m0": 5,
+      "rk": 769,
+      "up": 15
      },
      "news": [
       {
@@ -14215,7 +14230,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 629,
+      "rk": 683,
       "up": 2
      },
      "news": [
@@ -14302,9 +14317,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 414,
-      "up": 2
+      "m0": 1,
+      "rk": 444,
+      "up": 1
      },
      "awards": [
       {
@@ -14624,8 +14639,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 634,
+      "m0": 1,
+      "rk": 692,
       "up": 1
      },
      "news": [
@@ -14711,10 +14726,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 131,
-      "up": 3
+      "m": 1,
+      "m0": 2,
+      "rk": 360,
+      "up": 1
      },
      "news": [
       {
@@ -15030,10 +15045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 8,
-      "m0": 3,
-      "rk": 44,
-      "up": 37
+      "m": 10,
+      "m0": 7,
+      "rk": 47,
+      "up": 200
      },
      "news": [
       {
@@ -15119,8 +15134,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 241,
+      "m0": 1,
+      "rk": 274,
       "up": 1
      },
      "news": [
@@ -15206,10 +15221,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 253,
-      "up": 1
+      "rk": 161,
+      "up": 17
      },
      "news": [
       {
@@ -17622,7 +17637,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-29",
+ "social_asof": "2026-10-30",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17901,5 +17916,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-30 05:04 UTC"
+ "prices_asof": "2026-10-30 11:51 UTC"
 }
