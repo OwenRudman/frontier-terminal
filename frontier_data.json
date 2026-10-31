@@ -808,12 +808,7 @@
      },
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 720,
-      "up": 2
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +930,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 61,
-      "m0": 49,
-      "rk": 13,
-      "up": 712
+      "m": 122,
+      "m0": 57,
+      "rk": 6,
+      "up": 13607
      },
      "thesis": {
       "bull": [
@@ -1310,7 +1305,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 732,
+      "rk": 771,
       "up": 3
      },
      "streetNotes": [
@@ -1590,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 6,
-      "rk": 35,
-      "up": 31
+      "m": 18,
+      "m0": 15,
+      "rk": 28,
+      "up": 46
      },
      "thesis": {
       "bull": [
@@ -2324,8 +2319,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 252,
+      "m0": 1,
+      "rk": 251,
       "up": 1
      },
      "streetNotes": [
@@ -2482,7 +2477,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 355,
+      "rk": 350,
       "up": 3
      },
      "thesis": {
@@ -2832,7 +2827,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 701,
+      "rk": 736,
       "up": 2
      },
      "thesis": {
@@ -3149,8 +3144,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 756,
-      "up": 5
+      "rk": 797,
+      "up": 29
      },
      "thesis": {
       "bull": [
@@ -4040,8 +4035,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 745,
-      "up": 2
+      "rk": 784,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -4388,10 +4383,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 418,
-      "up": 3
+      "m": 3,
+      "m0": 1,
+      "rk": 108,
+      "up": 10
      },
      "news": [
       {
@@ -4626,7 +4621,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 779,
+      "up": 5
+     },
      "news": [
       {
        "h": "ParaZero Secures First DefendAir Order From U.S. Federal Agency",
@@ -5401,8 +5401,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 264,
+      "m0": 1,
+      "rk": 262,
       "up": 1
      },
      "news": [
@@ -5806,12 +5806,7 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 773,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "WeRide (WRD) Could Be 62% Undervalued Following Its Slovakia Partnership",
@@ -5869,10 +5864,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 57,
-      "m0": 38,
-      "rk": 15,
-      "up": 676
+      "m": 58,
+      "m0": 57,
+      "rk": 9,
+      "up": 102
      },
      "news": [
       {
@@ -5957,10 +5952,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 3,
-      "rk": 165,
-      "up": 20
+      "m": 1,
+      "m0": 2,
+      "rk": 409,
+      "up": 1
      },
      "news": [
       {
@@ -6044,7 +6039,12 @@
      "estimates": null,
      "hold": null,
      "geo": "China",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 401,
+      "up": 1
+     },
      "news": [
       {
        "h": "China state media says U.S. shares responsibility for managing AI",
@@ -6272,10 +6272,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 696,
-      "up": 3
+      "rk": 170,
+      "up": 2
      },
      "thesis": {
       "bull": [
@@ -6549,12 +6549,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 190,
-      "up": 5
-     },
+     "social": null,
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6881,7 +6876,12 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 657,
+      "up": 5
+     },
      "news": [
       {
        "h": "OUST vs. INVZ: Which LiDAR Manufacturer Is Worth Holding Onto Now?",
@@ -6997,9 +6997,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 584,
-      "up": 5
+      "m0": 1,
+      "rk": 615,
+      "up": 1
      },
      "news": [
       {
@@ -7115,10 +7115,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 256,
-      "up": 7
+      "rk": 102,
+      "up": 14
      },
      "news": [
       {
@@ -7443,9 +7443,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 723,
-      "up": 1
+      "m0": 1,
+      "rk": 761,
+      "up": 0
      },
      "news": [
       {
@@ -7683,12 +7683,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 791,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7778,9 +7773,9 @@
      "geo": "US",
      "social": {
       "m": 2,
-      "m0": 32,
-      "rk": 171,
-      "up": 22
+      "m0": 2,
+      "rk": 159,
+      "up": 2
      },
      "news": [
       {
@@ -8286,10 +8281,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 5,
+      "m": 11,
       "m0": 5,
-      "rk": 94,
-      "up": 15
+      "rk": 41,
+      "up": 74
      },
      "thesis": {
       "bull": [
@@ -8529,16 +8524,16 @@
        "date": "2023-03-29"
       },
       {
+       "amt": 28901223.0,
+       "ag": "National Aeronautics and Space Administration",
+       "desc": "INTEGRATION AND FLIGHT OF THE T0433 GEOSPACE DYNAMICS CONSTELLATION TRAILBLAZER (GDC-T) PAYLOAD.",
+       "date": "2026-10-28"
+      },
+      {
        "amt": 14496100.0,
        "ag": "Department of Defense",
        "desc": "THE OBJECTIVE OF THE STP-S30 MISSION IS TO DELIVER SCIENTIFIC RESEARCH AND DEVELOPMENT EXPERIMENTS TO SPACE THAT MATURE EXISTING CAPABILITIES AND DEMONSTRATE NEXT-GENERATION TECHNOLOGY IN THE SPACE DOMAIN TO ENSURE A FUTURE OF SPACE DOMINANCE.",
        "date": "2024-04-08"
-      },
-      {
-       "amt": 5000000.0,
-       "ag": "Department of Defense",
-       "desc": "NATIONAL SECURITY SPACE LAUNCH (NSSL) PHASE 3 LANE 1 LAUNCH SERVICES PROCUREMENT",
-       "date": "2025-03-28"
       }
      ]
     },
@@ -8588,9 +8583,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 439,
-      "up": 1
+      "m0": 0,
+      "rk": 446,
+      "up": 0
      },
      "streetNotes": [
       {
@@ -8687,7 +8682,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 740,
+      "up": 0
+     },
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -8770,7 +8770,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 695,
+      "up": 0
+     },
      "thesis": {
       "bull": [
        {
@@ -9031,12 +9036,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 787,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9186,10 +9186,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 694,
-      "up": -2
+      "rk": 168,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -9285,7 +9285,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 703,
+      "up": 0
+     },
      "news": [
       {
        "h": "Has BlackSky Technology (BKSY) Outpaced Other Business Services Stocks This Year?",
@@ -9536,10 +9541,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 18,
-      "m0": 11,
-      "rk": 33,
-      "up": 65
+      "m": 9,
+      "m0": 18,
+      "rk": 45,
+      "up": 16
      },
      "thesis": {
       "bull": [
@@ -9776,7 +9781,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 620,
+      "up": 1
+     },
      "news": [
       {
        "h": "Starlink Launch Puts Globalstar Stock And Satellite Internet Shares In Focus",
@@ -9859,7 +9869,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 390,
+      "up": 1
+     },
      "news": [
       {
        "h": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
@@ -9945,8 +9960,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 310,
-      "up": 43
+      "rk": 311,
+      "up": 42
      },
      "news": [
       {
@@ -10333,12 +10348,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Luxembourg",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 697,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy",
@@ -10449,7 +10459,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 749,
+      "rk": 788,
       "up": 0
      },
      "news": [
@@ -10601,10 +10611,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 1,
-      "rk": 103,
-      "up": 5
+      "m": 1,
+      "m0": 4,
+      "rk": 195,
+      "up": 1
      },
      "streetNotes": [
       {
@@ -10712,8 +10722,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 252,
+      "m0": 1,
+      "rk": 251,
       "up": 1
      },
      "streetNotes": [
@@ -10820,10 +10830,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 5,
-      "rk": 120,
-      "up": 74
+      "m": 1,
+      "m0": 3,
+      "rk": 183,
+      "up": 1
      },
      "news": [
       {
@@ -10853,7 +10863,7 @@
        "date": "2011-02-24"
       },
       {
-       "amt": 22657326734.37,
+       "amt": 22668226734.37,
        "ag": "National Aeronautics and Space Administration",
        "desc": "INTERNATIONAL SPACE STATION",
        "date": "1993-11-15"
@@ -10908,10 +10918,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 418,
-      "up": 3
+      "m": 3,
+      "m0": 1,
+      "rk": 108,
+      "up": 10
      },
      "news": [
       {
@@ -10996,10 +11006,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 0,
-      "rk": 160,
-      "up": 7
+      "m": 1,
+      "m0": 2,
+      "rk": 283,
+      "up": 3
      },
      "plain": "A large defense-tech prime focused on communications, sensors, and electronic warfare. Its drone angle is the defensive one: counter-drone systems . It won a U.S. Army order (up to ~$106M) for VAMPIRE counter-UAS launchers, turned its widely-fielded Falcon tactical radios into drone-detecting sensors (Wraith Shield \u2014 a software upgrade to 100,000+ radios already in the field), and partnered with Skydagger on drone interceptors. So as everyone buys attack drones, LHX sells the shield.",
      "futuretext": "Counter-drone may be the most under-appreciated growth wedge in defense: drone attacks have outpaced the defenses against them, and militaries are now scrambling to catch up. LHX's edge is that it can field the shield through hardware already in soldiers' hands. The size of the prize is large; the question is what share LHX captures and at what margin.",
@@ -11280,10 +11290,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 6,
-      "rk": 35,
-      "up": 31
+      "m": 18,
+      "m0": 15,
+      "rk": 28,
+      "up": 46
      },
      "news": [
       {
@@ -12406,10 +12416,10 @@
      "hold": null,
      "geo": "Canada",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 451,
-      "up": 1
+      "rk": 146,
+      "up": 10
      },
      "news": [
       {
@@ -12526,12 +12536,7 @@
      "hold": null,
      "conf": "est",
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 630,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NexGen Energy Sees Uranium Supply Crunch Lasting for Decades",
@@ -12721,8 +12726,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 4,
-      "rk": 400,
+      "m0": 0,
+      "rk": 403,
       "up": 1
      },
      "news": [
@@ -12803,10 +12808,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 8,
-      "rk": 99,
-      "up": 20
+      "m": 7,
+      "m0": 6,
+      "rk": 64,
+      "up": 8631
      },
      "news": [
       {
@@ -13399,7 +13404,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 760,
+      "rk": 800,
       "up": 1
      },
      "thesis": {
@@ -13640,7 +13645,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 718,
+      "rk": 755,
       "up": 1
      },
      "news": [
@@ -14139,12 +14144,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 5,
-      "rk": 769,
-      "up": 15
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14227,12 +14227,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 683,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "1 Profitable Stock Worth Investigating and 2 We Ignore",
@@ -14317,9 +14312,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 444,
-      "up": 1
+      "m0": 0,
+      "rk": 453,
+      "up": 2
      },
      "awards": [
       {
@@ -14640,7 +14635,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 692,
+      "rk": 732,
       "up": 1
      },
      "news": [
@@ -14727,8 +14722,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 360,
+      "m0": 0,
+      "rk": 355,
       "up": 1
      },
      "news": [
@@ -14961,7 +14956,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 280,
+      "up": 2
+     },
      "news": [
       {
        "h": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -15045,10 +15045,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 10,
-      "m0": 7,
-      "rk": 47,
-      "up": 200
+      "m": 8,
+      "m0": 11,
+      "rk": 51,
+      "up": 171
      },
      "news": [
       {
@@ -15132,12 +15132,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 274,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "NextEra Energy Eyes 18 GW Gas Opportunity, Targets Dominion Deal Growth",
@@ -15221,10 +15216,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 161,
-      "up": 17
+      "m": 1,
+      "m0": 2,
+      "rk": 289,
+      "up": 6
      },
      "news": [
       {
@@ -15565,7 +15560,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 495,
+      "up": 1
+     },
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17637,7 +17637,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-10-30",
+ "social_asof": "2026-10-31",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17916,5 +17916,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-10-31 04:51 UTC"
+ "prices_asof": "2026-10-31 11:24 UTC"
 }
