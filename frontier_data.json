@@ -609,7 +609,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 451,
+      "up": 1
+     },
      "news": [
       {
        "h": "Critical Metals And 2 Top Rare Earth Stocks To Watch",
@@ -930,10 +935,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 37,
-      "m0": 121,
-      "rk": 3,
-      "up": 299
+      "m": 25,
+      "m0": 35,
+      "rk": 8,
+      "up": 58
      },
      "thesis": {
       "bull": [
@@ -1580,10 +1585,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 17,
-      "rk": 37,
-      "up": 16
+      "m": 19,
+      "m0": 7,
+      "rk": 11,
+      "up": 45
      },
      "thesis": {
       "bull": [
@@ -3124,7 +3129,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 698,
+      "rk": 519,
       "up": 1
      },
      "thesis": {
@@ -4015,7 +4020,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 690,
+      "rk": 509,
       "up": 1
      },
      "thesis": {
@@ -4364,9 +4369,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 336,
-      "up": 516
+      "m0": 0,
+      "rk": 272,
+      "up": 24
      },
      "news": [
       {
@@ -4601,12 +4606,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 686,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "ParaZero Secures First DefendAir Order From U.S. Federal Agency",
@@ -5839,10 +5839,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 16,
-      "m0": 59,
-      "rk": 15,
-      "up": 25
+      "m": 26,
+      "m0": 15,
+      "rk": 7,
+      "up": 37
      },
      "news": [
       {
@@ -5929,8 +5929,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 319,
-      "up": 2
+      "rk": 258,
+      "up": 5
      },
      "news": [
       {
@@ -6017,8 +6017,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 313,
-      "up": 1
+      "rk": 254,
+      "up": 2
      },
      "news": [
       {
@@ -6248,9 +6248,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 643,
-      "up": 2
+      "m0": 1,
+      "rk": 481,
+      "up": 1
      },
      "thesis": {
       "bull": [
@@ -6524,7 +6524,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 554,
+      "up": 1
+     },
      "news": [
       {
        "h": "Should You Trim Or Add To Your Aurora Innovation Position Now?",
@@ -6851,12 +6856,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Israel",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 566,
-      "up": 4
-     },
+     "social": null,
      "news": [
       {
        "h": "OUST vs. INVZ: Which LiDAR Manufacturer Is Worth Holding Onto Now?",
@@ -6970,12 +6970,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 527,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Why Did APP, CMS, MVIS Stocks Plunge To 52-Week Lows Last Week?",
@@ -7091,9 +7086,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 176,
-      "up": 2
+      "m0": 1,
+      "rk": 157,
+      "up": 3
      },
      "news": [
       {
@@ -7359,7 +7354,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 266,
+      "up": 3
+     },
      "news": [
       {
        "h": "Serve Robotics vs. Symbotic: Which Robotics Stock Has the Edge Now?",
@@ -7416,12 +7416,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 670,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "3 US Onshoring Stocks To Watch As Tariff Rules Reshape Supply Chains",
@@ -7658,12 +7653,7 @@
       "date": "2026-06",
       "basis": "post-IPO sell-side consensus"
      },
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 732,
-      "up": 1
-     },
+     "social": null,
      "plain": "A full-stack defense-drone company : builds the aircraft, sensors, software, and the intelligence/mission services around them. Best known for the Phoenix Ghost one-way attack drones used in Ukraine. \"Full stack\" means it sells the whole ISR workflow, not just airframes \u2014 stickier and higher-margin. Public only since April 2026.",
      "futuretext": "The bet: convert that $8.1B pipeline into booked revenue while the full-stack/ISR mix lifts margins above a typical hardware maker. If even a fraction of the pipeline lands, ~$610M of revenue could be an early waypoint, not a ceiling \u2014 and at ~3\u00d7 sales the stock isn't pricing that in. The risk is government concentration: one budget cycle can stall the whole curve.",
      "fchips": [
@@ -7753,8 +7743,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 510,
+      "m0": 1,
+      "rk": 391,
       "up": 1
      },
      "news": [
@@ -8261,10 +8251,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 4,
-      "m0": 11,
-      "rk": 53,
-      "up": 19
+      "m": 10,
+      "m0": 4,
+      "rk": 30,
+      "up": 9
      },
      "thesis": {
       "bull": [
@@ -8561,12 +8551,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 357,
-      "up": 0
-     },
+     "social": null,
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -8662,12 +8647,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 651,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "SpaceX\u2019s IPO Shine Fades, Taking ASTS And RKLB With It \u2014 But There Are 2 Surprise Winners This Month",
@@ -8750,12 +8730,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 605,
-      "up": 0
-     },
+     "social": null,
      "thesis": {
       "bull": [
        {
@@ -9016,12 +8991,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 729,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Top 3 Canadian Aerospace Stocks To Watch In October 2026",
@@ -9172,8 +9142,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 2,
-      "rk": 641,
+      "m0": 1,
+      "rk": 479,
       "up": 1
      },
      "streetNotes": [
@@ -9270,12 +9240,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 613,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "Has BlackSky Technology (BKSY) Outpaced Other Business Services Stocks This Year?",
@@ -9443,8 +9408,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 579,
+      "m0": 1,
+      "rk": 436,
       "up": 1
      },
      "news": [
@@ -9531,10 +9496,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 9,
-      "rk": 84,
-      "up": 8
+      "m": 14,
+      "m0": 2,
+      "rk": 18,
+      "up": 32
      },
      "thesis": {
       "bull": [
@@ -9771,12 +9736,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 532,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Starlink Launch Puts Globalstar Stock And Satellite Internet Shares In Focus",
@@ -9859,12 +9819,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 299,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water",
@@ -10442,10 +10397,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 693,
-      "up": 1
+      "rk": 101,
+      "up": 6
      },
      "news": [
       {
@@ -10529,12 +10484,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 719,
-      "up": 0
-     },
+     "social": null,
      "news": [
       {
        "h": "VOYG Stock Alert: What to Know as Voyager Teams Up With Anduril on Defense Production",
@@ -10603,8 +10553,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 117,
-      "up": 5
+      "rk": 118,
+      "up": 2
      },
      "streetNotes": [
       {
@@ -10816,8 +10766,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 103,
+      "m0": 0,
+      "rk": 111,
       "up": 1
      },
      "news": [
@@ -10904,9 +10854,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 3,
-      "rk": 336,
-      "up": 516
+      "m0": 0,
+      "rk": 272,
+      "up": 24
      },
      "news": [
       {
@@ -11270,10 +11220,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 6,
-      "m0": 17,
-      "rk": 37,
-      "up": 16
+      "m": 19,
+      "m0": 7,
+      "rk": 11,
+      "up": 45
      },
      "news": [
       {
@@ -12395,12 +12345,7 @@
      "estimates": null,
      "hold": null,
      "geo": "Canada",
-     "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 373,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "South Korea Set to Invest $200 Billion in the U.S. These 4 Companies Should Benefit.",
@@ -12458,7 +12403,12 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 439,
+      "up": 1
+     },
      "news": [
       {
        "h": "Uranium Energy (UEC) Is Down 5.0% After Wider 2026 Loss But Stronger Operations - What's Changed",
@@ -12704,12 +12654,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 315,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Struggling Energy Stock to Avoid in October",
@@ -12788,10 +12733,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 5,
-      "m0": 7,
-      "rk": 44,
-      "up": -6
+      "m": 4,
+      "m0": 5,
+      "rk": 61,
+      "up": 25
      },
      "news": [
       {
@@ -13382,10 +13327,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 3,
       "m0": 1,
-      "rk": 702,
-      "up": 7
+      "rk": 74,
+      "up": 5
      },
      "thesis": {
       "bull": [
@@ -13625,8 +13570,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 663,
-      "up": 1
+      "rk": 492,
+      "up": 5
      },
      "news": [
       {
@@ -14127,8 +14072,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 711,
-      "up": 9
+      "rk": 530,
+      "up": 4
      },
      "news": [
       {
@@ -14298,7 +14243,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 365,
+      "rk": 295,
       "up": 3
      },
      "awards": [
@@ -14620,7 +14565,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 640,
+      "rk": 478,
       "up": 1
      },
      "news": [
@@ -14708,7 +14653,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 264,
+      "rk": 219,
       "up": 1
      },
      "news": [
@@ -14941,12 +14886,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 205,
-      "up": 2
-     },
+     "social": null,
      "news": [
       {
        "h": "Southern or Duke: Which Utility Dividend Holds Up Against the Data Center Buildout",
@@ -15030,10 +14970,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 8,
-      "rk": 182,
-      "up": 4
+      "m": 4,
+      "m0": 1,
+      "rk": 52,
+      "up": 17
      },
      "news": [
       {
@@ -15201,10 +15141,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 72,
-      "up": 5
+      "m": 1,
+      "m0": 2,
+      "rk": 180,
+      "up": 1
      },
      "news": [
       {
@@ -15548,7 +15488,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 408,
+      "rk": 323,
       "up": 1
      },
      "news": [
@@ -17622,7 +17562,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-11-01",
+ "social_asof": "2026-11-02",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17901,5 +17841,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-11-02 09:06 UTC"
+ "prices_asof": "2026-11-02 14:09 UTC"
 }
