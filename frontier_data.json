@@ -611,8 +611,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 451,
+      "m0": 1,
+      "rk": 491,
       "up": 1
      },
      "news": [
@@ -813,7 +813,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 540,
+      "up": 0
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -935,10 +940,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 25,
-      "m0": 35,
-      "rk": 8,
-      "up": 58
+      "m": 53,
+      "m0": 21,
+      "rk": 11,
+      "up": 197
      },
      "thesis": {
       "bull": [
@@ -1585,10 +1590,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 7,
-      "rk": 11,
-      "up": 45
+      "m": 138,
+      "m0": 17,
+      "rk": 4,
+      "up": 873
      },
      "thesis": {
       "bull": [
@@ -2814,7 +2819,12 @@
      },
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 527,
+      "up": 3
+     },
      "thesis": {
       "bull": [
        {
@@ -3129,8 +3139,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 519,
-      "up": 1
+      "rk": 570,
+      "up": 4
      },
      "thesis": {
       "bull": [
@@ -4018,10 +4028,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 2,
       "m0": 1,
-      "rk": 509,
-      "up": 1
+      "rk": 148,
+      "up": 7
      },
      "thesis": {
       "bull": [
@@ -4368,10 +4378,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 272,
-      "up": 24
+      "m": 2,
+      "m0": 1,
+      "rk": 132,
+      "up": 2
      },
      "news": [
       {
@@ -5839,10 +5849,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 26,
-      "m0": 15,
-      "rk": 7,
-      "up": 37
+      "m": 66,
+      "m0": 22,
+      "rk": 8,
+      "up": 119
      },
      "news": [
       {
@@ -5929,8 +5939,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 258,
-      "up": 5
+      "rk": 293,
+      "up": 0
      },
      "news": [
       {
@@ -6017,7 +6027,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 254,
+      "rk": 290,
       "up": 2
      },
      "news": [
@@ -6249,7 +6259,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 481,
+      "rk": 524,
       "up": 1
      },
      "thesis": {
@@ -6526,8 +6536,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 554,
+      "m0": 1,
+      "rk": 607,
       "up": 1
      },
      "news": [
@@ -7087,8 +7097,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 157,
-      "up": 3
+      "rk": 196,
+      "up": 1
      },
      "news": [
       {
@@ -7356,9 +7366,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 266,
-      "up": 3
+      "m0": 1,
+      "rk": 302,
+      "up": 1
      },
      "news": [
       {
@@ -7742,10 +7752,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
+      "m": 5,
       "m0": 1,
-      "rk": 391,
-      "up": 1
+      "rk": 63,
+      "up": 12
      },
      "news": [
       {
@@ -8252,9 +8262,9 @@
      "geo": "US",
      "social": {
       "m": 10,
-      "m0": 4,
-      "rk": 30,
-      "up": 9
+      "m0": 9,
+      "rk": 38,
+      "up": 30
      },
      "thesis": {
       "bull": [
@@ -9143,7 +9153,7 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 479,
+      "rk": 522,
       "up": 1
      },
      "streetNotes": [
@@ -9406,12 +9416,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 436,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "What Are The Top Defense Stocks This Year? These 5 Leaders Will Surprise You.",
@@ -9496,10 +9501,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 14,
-      "m0": 2,
+      "m": 30,
+      "m0": 9,
       "rk": 18,
-      "up": 32
+      "up": 61
      },
      "thesis": {
       "bull": [
@@ -10397,10 +10402,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 2,
-      "m0": 1,
-      "rk": 101,
-      "up": 6
+      "m": 1,
+      "m0": 2,
+      "rk": 562,
+      "up": 1
      },
      "news": [
       {
@@ -10552,8 +10557,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 118,
+      "m0": 0,
+      "rk": 160,
       "up": 2
      },
      "streetNotes": [
@@ -10765,10 +10770,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 111,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 117,
+      "up": 6
      },
      "news": [
       {
@@ -10853,10 +10858,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 0,
-      "rk": 272,
-      "up": 24
+      "m": 2,
+      "m0": 1,
+      "rk": 132,
+      "up": 2
      },
      "news": [
       {
@@ -11220,10 +11225,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 19,
-      "m0": 7,
-      "rk": 11,
-      "up": 45
+      "m": 138,
+      "m0": 17,
+      "rk": 4,
+      "up": 873
      },
      "news": [
       {
@@ -12405,8 +12410,8 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 0,
-      "rk": 439,
+      "m0": 1,
+      "rk": 481,
       "up": 1
      },
      "news": [
@@ -12733,10 +12738,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 4,
+      "m": 5,
       "m0": 5,
-      "rk": 61,
-      "up": 25
+      "rk": 66,
+      "up": 5
      },
      "news": [
       {
@@ -13327,10 +13332,10 @@
      "conf": "est",
      "geo": "US",
      "social": {
-      "m": 3,
-      "m0": 1,
-      "rk": 74,
-      "up": 5
+      "m": 7,
+      "m0": 3,
+      "rk": 49,
+      "up": 86
      },
      "thesis": {
       "bull": [
@@ -13570,8 +13575,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 492,
-      "up": 5
+      "rk": 539,
+      "up": 8
      },
      "news": [
       {
@@ -13986,7 +13991,12 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": null,
+     "social": {
+      "m": 1,
+      "m0": 0,
+      "rk": 265,
+      "up": 5
+     },
      "streetNotes": [
       {
        "firm": "Firm A",
@@ -14072,8 +14082,8 @@
      "social": {
       "m": 1,
       "m0": 1,
-      "rk": 530,
-      "up": 4
+      "rk": 580,
+      "up": 3
      },
      "news": [
       {
@@ -14242,9 +14252,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 295,
-      "up": 3
+      "m0": 0,
+      "rk": 329,
+      "up": 1
      },
      "awards": [
       {
@@ -14564,9 +14574,9 @@
      "geo": "US",
      "social": {
       "m": 1,
-      "m0": 1,
-      "rk": 478,
-      "up": 1
+      "m0": 0,
+      "rk": 521,
+      "up": 3
      },
      "news": [
       {
@@ -14650,12 +14660,7 @@
      "estimates": null,
      "hold": null,
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 219,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Latest News In Energy Transition - Wind Power's Surge: Driving Global Renewable Energy Growth",
@@ -14971,9 +14976,9 @@
      "geo": "US",
      "social": {
       "m": 4,
-      "m0": 1,
-      "rk": 52,
-      "up": 17
+      "m0": 4,
+      "rk": 72,
+      "up": 7
      },
      "news": [
       {
@@ -15141,10 +15146,10 @@
      "hold": null,
      "geo": "US",
      "social": {
-      "m": 1,
-      "m0": 2,
-      "rk": 180,
-      "up": 1
+      "m": 2,
+      "m0": 1,
+      "rk": 125,
+      "up": 4
      },
      "news": [
       {
@@ -15485,12 +15490,7 @@
      "hold": null,
      "conf": "est",
      "geo": "US",
-     "social": {
-      "m": 1,
-      "m0": 1,
-      "rk": 323,
-      "up": 1
-     },
+     "social": null,
      "news": [
       {
        "h": "Bet on These Nuclear ETFs to Ride the AI Data Center Boom Now",
@@ -17562,7 +17562,7 @@
    "customer"
   ]
  ],
- "social_asof": "2026-11-02",
+ "social_asof": "2026-11-03",
  "social_src": "ApeWisdom (Reddit/WSB)",
  "research_sector": {
   "market_size": "Global UAV program spending ~$20.3B by 2025 (Teal Group), expected to more than triple over the decade; military UAS ~$216.5B cumulative spend over next decade; civil UAS $10.1B in 2024 -> $20.6B by 2033",
@@ -17841,5 +17841,5 @@
   }
  ],
  "news": [],
- "prices_asof": "2026-11-03 11:45 UTC"
+ "prices_asof": "2026-11-03 13:13 UTC"
 }
